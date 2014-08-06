@@ -8,4 +8,4 @@
 * HTML
 * CSS
 * Swift
-* Killing history using git revert
+* Killing history using git rebase
