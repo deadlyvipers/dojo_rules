@@ -1,3 +1,11 @@
 ## It's a-me, Aiiimmmmeo
 
-My favorite Code School path is the Ruby path, obvsly.
+### Favorite Code School Path
+
+The Ruby path, obvsly.
+
+### Deadly Skills
+
+* Git
+* Ruby
+* Javascript
