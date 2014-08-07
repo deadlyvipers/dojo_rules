@@ -1,1 +1,1 @@
-hey hey
+I love Ruby and JavaScript!
