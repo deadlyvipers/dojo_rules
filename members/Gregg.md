@@ -1,2 +1,4 @@
-My favorite path is Ruby
 Hello
+* Ruby
+* JavaScript
+* Git
