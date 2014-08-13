@@ -1,1 +1,9 @@
-Dojo Rules\n==========\n* Always be on time\n* Always take off your shoes\n* Keep the dojo tidy\n* Never bring live blades on the tatami\n* Respect your opponents\n* Most Sensei's should be respected\n* no coffee in the dojo
+Dojo Rules
+==========
+* Always be on time
+* Always take off your shoes
+* Keep the dojo tidy
+* Never bring live blades on the tatami
+* Respect your opponents
+* Most Sensei's should be respected
+* no coffee in the dojo
