@@ -1,1 +1,5 @@
-I like html
+html 
+
+* Ruby
+* Git
+* Killing history using git rebase
