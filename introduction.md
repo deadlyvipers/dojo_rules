@@ -1,1 +1,1 @@
-Hi, I'm Russ
+Hi, I'm Russ, I like JavaScript
