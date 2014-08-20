@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Unexplained hard coded values
+* GitHub repos without a readme
