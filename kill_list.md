@@ -1,0 +1,9 @@
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
+* Unexplained hard coded values
+* GitHub repos without a readme
