@@ -16,3 +16,4 @@ My name is Renato Moya. My favorite CodeSchool path is Ruby.
 * Berkshelf
 * Vagrant
 * Linux
+* Killing history using git rebase
