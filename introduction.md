@@ -6,3 +6,4 @@ My favorite Code School Path is JavaScript!
 * CSS
 * JavaScript
 * Pedaling a mountain bike for ridiculously long distances
+* Killing history using git rebase
