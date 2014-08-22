@@ -1,3 +1,3 @@
 introduction
 Electives
-github
+* github
