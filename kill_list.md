@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Profanity in comments
-* YUI2
+* YUI 2
