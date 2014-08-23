@@ -5,3 +5,4 @@ My favorite path is Ruby
 * Haml
 * ES6 JavaScript
 * Coffee
+* Killing history using git rebase
