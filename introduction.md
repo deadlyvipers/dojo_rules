@@ -1,1 +1,1 @@
-Introducing new deadly viper students to the dojo.
+Introducing new deadly viper student, DJ, to the Dojo. Electives is his favorite codeschool path. 
