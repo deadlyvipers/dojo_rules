@@ -1,1 +1,1 @@
-I'm batista and my favorite path in codeschool is... hmmm.. potato?!
+I'm batista and my favorite path in codeschool is JavaScript.
