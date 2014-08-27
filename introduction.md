@@ -1,0 +1,1 @@
+Hello, this is an introduction to pass the code school objective.
