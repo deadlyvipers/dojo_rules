@@ -1,3 +1,1 @@
-Introduction
-==========
-* I am Sandeep Patil
+'Hello! I'm here to teach people about GitHub.'
