@@ -6,3 +6,5 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
+* Never spill your dinner
+* No silly screams, that's for the movies
