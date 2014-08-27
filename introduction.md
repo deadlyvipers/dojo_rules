@@ -6,3 +6,4 @@ My name is Daniel Berkompas. Favorite path: Ruby.
 * Ruby
 * Git
 * Javascript
+* Killing history using git rebase
