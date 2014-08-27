@@ -3,3 +3,4 @@ I like Javascript!
 *No
 *Don't
 *Care
+*Killing history using git rebase
