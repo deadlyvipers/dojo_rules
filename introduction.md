@@ -1,1 +1,1 @@
-hello i'm jchon258
+on my way to becoming a GitHub Master
