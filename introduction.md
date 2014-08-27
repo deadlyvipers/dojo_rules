@@ -1,4 +1,1 @@
-I'm Wirachai.
-29 years old.
-.Net Developer
-...
+On my way to becoming a GitHub Master
