@@ -3,3 +3,4 @@ Electives
 *Git
 *JavaScript
 *PHP
+*rebase
