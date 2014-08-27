@@ -8,3 +8,4 @@ I love the Ruby path on Code School.
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
