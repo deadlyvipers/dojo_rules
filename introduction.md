@@ -8,3 +8,4 @@ My deadly skills include:
 * Javascript
 * Ruby
 * Picross
+* Killing history using git rebase
