@@ -1,2 +1,6 @@
-Hello World!
-My favorite path is HTML & CSS.
+* JS
+* HTML
+* CSS
+* NG
+* PHP
+* Killing history using git rebase
