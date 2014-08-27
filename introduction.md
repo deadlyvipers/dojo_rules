@@ -11,3 +11,4 @@ My favorite CodeSchool path (so far) is Electives.
 * Git
 * Umbraco
 * CoffeeScript
+* Killing history using git rebase
