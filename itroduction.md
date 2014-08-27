@@ -1,0 +1,1 @@
+Hi, I'm new to dojo rules
