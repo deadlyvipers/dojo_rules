@@ -1,2 +1,2 @@
 Hello World
-I love Code School path for Ruby
+* I love Code School path for Ruby
