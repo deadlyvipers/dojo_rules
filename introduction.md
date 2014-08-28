@@ -1,3 +1,3 @@
 # introduction
 
-Hello, dojo!
+Hello, dojo! My favorite codeschool path is the one about Ruby.
