@@ -5,3 +5,7 @@ https://www.codeschool.com/paths/ruby
 * Git
 * JavaScript
 * Ruby
+
+
+
+Locally modified
