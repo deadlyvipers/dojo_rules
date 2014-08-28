@@ -1,1 +1,3 @@
 takovovo:
+Ruby
+IOS
