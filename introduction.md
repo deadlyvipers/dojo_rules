@@ -6,4 +6,5 @@ Deadly skills:
 *Git
 *JavaScript
 *Ruby
+*Php 
 *HTML&CSS
