@@ -1,3 +1,3 @@
 fu:q!
 
-Python
+Ruby
