@@ -1,1 +1,5 @@
-Simone here - my favourite Code School path is Ruby.
+Simone here - here's my favourite Code School paths:
+
+* Ruby
+* Electives
+* Javascript
