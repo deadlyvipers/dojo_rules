@@ -5,7 +5,7 @@ https://www.codeschool.com/paths/ruby
 * Git
 * JavaScript
 * Ruby
-
+* Rebase
 
 
 Locally modified
