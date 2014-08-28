@@ -8,3 +8,4 @@ Deadly skills:
 *Ruby
 *Php 
 *HTML&CSS
+*Killing history using git rebase
