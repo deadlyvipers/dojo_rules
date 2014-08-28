@@ -5,3 +5,4 @@ deadley skills include:
 * blah
 * foo
 * etc.
+* Killing history using git rebase
