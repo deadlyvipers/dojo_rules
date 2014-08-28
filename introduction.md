@@ -4,3 +4,4 @@ Deadly Skills:
 *Python Charmer
 *JavaScript Guru
 *AppEngine Mechanic
+*Killing history using git rebase
