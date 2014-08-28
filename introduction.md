@@ -1,3 +1,5 @@
-this course is awesome lol
-
-JavaScript
+* ruby
+* git
+* sass
+* coffeeScript
+* Killing history using git rebase
