@@ -1,1 +1,1 @@
-I'm Tom.
+I'm Tom. My favorite CodeSchool path is JavaScript.
