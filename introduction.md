@@ -1,1 +1,1 @@
-Hi, I am new
+I like the Ruby courses
