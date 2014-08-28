@@ -5,3 +5,4 @@ My favorite codeschoo path is Javascript
 * Git 1
 * Git 2
 * Javascript
+* Killing history using git rebase
