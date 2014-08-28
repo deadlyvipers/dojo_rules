@@ -5,3 +5,4 @@ It is Electives, guys
 *Diving
 *Singing
 *Cooking
+*Killing history using git rebase
