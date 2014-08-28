@@ -13,3 +13,4 @@ My deadly skills are in follows.
 * Data Visualizations
 * Python
 * Github
+* Informatica
