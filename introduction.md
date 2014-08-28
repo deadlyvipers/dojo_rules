@@ -1,3 +1,4 @@
-this course is awesome lol
-
-JavaScript
+* ruby
+* git
+* sass
+* coffeeScript
