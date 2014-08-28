@@ -5,3 +5,4 @@ Javier Soto presenting for duty!! Following the path of Ruby enlightenment.
 - Rails
 - bits of JavaScript, JQuery, CSS, HTML
 - intro to Python, Java, Octave
+- Killing history using git rebase
