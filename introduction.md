@@ -1,2 +1,3 @@
-Hello, my name is Alexander
-I am a student who trying to master GitHub :)
+Hello, my name is Alexander!
+I am a student who is trying to master GitHub :)
+My favourite path on CodeSchool is HTML & CSS.
