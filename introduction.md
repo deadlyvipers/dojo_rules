@@ -1,1 +1,1 @@
-Hi, I'm Nolan.
+Hi, I'm Nolan.  Ruby rocks!
