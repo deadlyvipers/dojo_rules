@@ -1,4 +1,5 @@
-Dojo Rules
+Dojo rules
+
 ==========
 * Always be on time
 * Always take off your shoes
