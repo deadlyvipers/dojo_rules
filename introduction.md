@@ -1,3 +1,4 @@
 # Introduction
-Hi Dojo
 Path Ruby
+* Ruby
+* Javascript
