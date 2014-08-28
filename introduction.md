@@ -1,1 +1,2 @@
-I like the Ruby courses
+* I like the Ruby courses.
+* I also know HTML.
