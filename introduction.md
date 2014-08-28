@@ -1,3 +1,5 @@
 Hi,
 
-My name is M
+My name is Moritz.
+
+My favorite Code School path is JavaScript.
