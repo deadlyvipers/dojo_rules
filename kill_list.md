@@ -5,3 +5,5 @@ Kill List
 * Unformatted code
 * Repeated Code Blocks
 * Bad variable names
+* Programmer grievance
+* Low Pay
