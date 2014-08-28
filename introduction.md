@@ -1,3 +1,1 @@
-# Hello
-
-Simone here, fluffing about.
+Simone here - my favourite Code School path is Ruby.
