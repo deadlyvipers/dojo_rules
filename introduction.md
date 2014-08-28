@@ -6,3 +6,4 @@ My name is Charles, and I am a developer currently working towards mastering Rub
 * Ruby
 * Scala
 * Linux
+* Killing history using git rebase
