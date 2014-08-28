@@ -1,3 +1,5 @@
 Carl Pigeot
 ==========
-* My Intro
+* HTML & CSS
+* Javascript
+
