@@ -6,3 +6,4 @@ Deadly Skills
 * git
 * scala
 * vim
+* Killing history using git rebase
