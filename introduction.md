@@ -5,3 +5,4 @@ Deadly Skills:
 * Python
 * Scanning
 * Underwater Basket Weaving
+* Killing history using git rebase
