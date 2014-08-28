@@ -7,3 +7,4 @@ Deadly skills:
 * VMware
 * Razor-sharp wit
 * Puppet
+* Killing history using git rebase
