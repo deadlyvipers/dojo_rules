@@ -1,1 +1,9 @@
-I'm pretty fucking awesome.  I can use git and I like to learn JavaScript.
+I'm pretty fucking awesome.  I can use git.
+
+I also know a bit about:
+
+*JavaScript
+*PHP
+*Python
+*Ruby
+*Frameworks
