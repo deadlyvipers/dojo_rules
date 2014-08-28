@@ -8,3 +8,4 @@ Deadly Skills:
 * Knitting
 * Cooking
 * Singing
+* Killing history using git rebase
