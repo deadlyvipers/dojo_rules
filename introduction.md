@@ -4,4 +4,5 @@ Hello, I'm Chris. My favorite CodeSchool path is iOS.
 * JavaScript
 * Objective-C
 * Ruby
+* Rebase
 
