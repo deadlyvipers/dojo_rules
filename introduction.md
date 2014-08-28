@@ -8,3 +8,4 @@ Deadly skills:
 * Smashing you with my shell (also to death)
 * Vaguely pale-oh-god-where-did-he-get-a-hand-grenade
 * Alcoholism
+* Killing history using git rebase
