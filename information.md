@@ -1,2 +1,0 @@
-# Information
-Hi Dojo
