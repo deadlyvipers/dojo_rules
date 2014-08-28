@@ -25,3 +25,4 @@ Deadly Skills
 * C++
 * Objective-C
 * Java
+* Killing history using git rebase
