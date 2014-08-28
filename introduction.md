@@ -6,7 +6,7 @@ abbaaaaaaaaaaaaaaaaaaaaa
 baaaaaaaaaaaaa
 
 HTML & CSS
-Git
-JavaScript
-Ruby
+*Git
+*JavaScript
+*Ruby
 
