@@ -3,4 +3,4 @@ Dojo Rules
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
-[url=https://github.com/deadlyvipers]DeadlyVipers[/url]
+<a href=https://github.com/deadlyvipers>DeadlyVipers</a>
