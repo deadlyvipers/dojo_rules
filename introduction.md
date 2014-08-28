@@ -6,3 +6,4 @@ Favorite Code School path: Ruby
 * sql server
 * mvc
 * ui
+* Killing history using git rebase
