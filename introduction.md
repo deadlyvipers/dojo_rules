@@ -6,3 +6,4 @@ My deadly skills are:
 * Ruby
 * PHP
 * MySQL
+* Killing history using rebase
