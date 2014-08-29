@@ -1,3 +1,6 @@
 Hello.
 
 Ruby.
+
+* ruby
+* git
