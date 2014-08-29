@@ -6,3 +6,4 @@ My skills:
 * Android
 * Java
 * Google App Engine
+* Killing history using git rebase
