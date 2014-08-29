@@ -1,4 +1,6 @@
 Introduction
 ==========
 My name is Nicolas.
-Javascript
+* Git
+* JavaScript
+* Ruby
