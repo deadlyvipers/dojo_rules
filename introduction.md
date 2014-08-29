@@ -7,5 +7,6 @@ Björn here, doing http://campus.codeschool.com/courses/mastering-github/level/1/
 * Git
 * IntelliJ
 * Node.js
+* Killing history using git rebase
 
 PS: The JavaScript and Electives paths are my absolute favorites! 
