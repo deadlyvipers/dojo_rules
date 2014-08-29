@@ -5,3 +5,4 @@ My Deadly Skills :
 * Git
 * Lean Startup
 * Android
+* JavaEE
