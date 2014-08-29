@@ -12,4 +12,5 @@ My Deadly Skills include (but are not limited to):
 *ASP.NET
 *HTML
 *Css
+*Killing history using git rebase
 *much much more
