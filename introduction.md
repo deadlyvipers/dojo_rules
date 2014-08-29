@@ -5,3 +5,5 @@ My Deadly Skills :
 * Git
 * Lean Startup
 * Android
+* JavaEE
+* Killing history using git rebase
