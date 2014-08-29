@@ -6,5 +6,5 @@ My deadly skills are:
 * Adventurous cook!
 * Great husband!
 * Handy man!
-* Savvy!
+* Savvy person!
 * Killing history using git rebase!
