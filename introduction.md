@@ -5,3 +5,4 @@
 * AngularJS
 * NodeJS
 * Express
+* Killing history using git rebase
