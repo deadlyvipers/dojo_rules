@@ -1,1 +1,1 @@
-Hello World!
+Hello World! Ruby is the true path of the ninja!
