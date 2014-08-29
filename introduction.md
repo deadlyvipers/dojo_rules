@@ -1,2 +1,4 @@
-JavaScript
+*JavaScript
+*gis
+*R
 
