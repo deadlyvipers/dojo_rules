@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * God classes
+* HA! SNEAKY FIXING
