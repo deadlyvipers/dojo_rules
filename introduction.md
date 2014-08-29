@@ -4,3 +4,4 @@
 * Ruby
 * Git
 * Geek stuff :D
+* Killing history using git rebase
