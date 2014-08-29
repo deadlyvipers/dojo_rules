@@ -6,3 +6,4 @@ My skills:
 * Ruby on Rails
 * Databases
 * Unix systems
+* Killing history using git rebase
