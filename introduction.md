@@ -1,3 +1,4 @@
 fu:q!
 
-Ruby
+*Ruby
+*js
