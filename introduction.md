@@ -8,3 +8,4 @@ deadly skillz
 * git
 * mathematica
 * LaTeX
+* Killing history using git rebase
