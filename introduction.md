@@ -9,3 +9,4 @@ My Favorite Code School path is HTML & CSS.
 * SASS
 * HTML
 * CSS
+* Killing history using git rebase
