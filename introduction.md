@@ -18,3 +18,4 @@ Deadly Skills
 * Bash
 * SQL
 * Git/Svn
+* Killing history using git rebase
