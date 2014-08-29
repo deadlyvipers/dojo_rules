@@ -7,3 +7,4 @@ My deadly skills are:
 * Great husband!
 * Handy man!
 * Savvy!
+* Killing history using git rebase!
