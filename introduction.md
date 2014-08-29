@@ -7,3 +7,4 @@ My favorite path so far is Javascript
 *Perl
 *Python
 *xQuery
+*Killing history with git rebase
