@@ -5,3 +5,4 @@ Hi my name is Marlon and i would like to participate on this dojo, my  favorite 
 * Ruby
 * Ruby
 * rebase
+* Killing history using git rebase
