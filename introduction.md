@@ -1,2 +1,9 @@
 Hello World! It's me!
-JavaScript
+
++ JavaScript
++ CoffeeScript
++ Ruby
++ Clojure
++ Git
++ Elixir
+
