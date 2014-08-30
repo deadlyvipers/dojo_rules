@@ -5,3 +5,4 @@ My deadly skills are:
 * Ruby
 * Perl
 * Haskell
+* Killing history using git rebase
