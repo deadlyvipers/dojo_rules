@@ -4,3 +4,4 @@ Hey, I'm Craig.
 * Javascript
 * Docker
 * Linux
+* Killing history using git rebase
