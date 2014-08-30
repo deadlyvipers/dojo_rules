@@ -5,4 +5,5 @@ My deadly skills:
 * SVN
 * Java
 * C/C++
+* Killing history using git rebase
 * ...
