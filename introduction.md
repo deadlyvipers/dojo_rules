@@ -3,4 +3,4 @@ Dojo Rules
 
 Hello, my name is alyou
 
-my favs are JS road trips, angular
+echo "On my way to becoming a GitHub Master. I love JavaScript."
