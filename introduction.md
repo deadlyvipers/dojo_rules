@@ -1,9 +1,9 @@
 Hello World! It's me!
 
-+ JavaScript
-+ CoffeeScript
-+ Ruby
-+ Clojure
-+ Git
-+ Elixir
+* JavaScript
+* CoffeeScript
+* Ruby
+* Clojure
+* Git
+* Elixir
 
