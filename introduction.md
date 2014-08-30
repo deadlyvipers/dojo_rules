@@ -3,3 +3,4 @@ hi.  just adding a few more words to this file.  this should be sufficient.  loo
 *Ruby
 *Javascript
 *Git
+*Killing history using git rebase
