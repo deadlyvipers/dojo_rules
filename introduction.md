@@ -4,3 +4,4 @@ My favorite Code School Path is Electives
 * SCSS
 * Ruby
 * Git
+* Killing history using git rebase
