@@ -1,6 +1,6 @@
 # Introduction to Dojo
 
-- Ruby
-- JavaScript
-- Git
-- Markdown
+* Ruby
+* JavaScript
+* Git
+* Markdown
