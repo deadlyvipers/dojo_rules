@@ -6,3 +6,4 @@ I'm a big fan of the JavaScript track on Code School.
 * Git
 * Ruby
 * JavaScript
+* Killing history using git rebase
