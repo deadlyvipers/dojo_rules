@@ -4,3 +4,4 @@
 * JavaScript
 * Git
 * Markdown
+* Killing history using git rebase
