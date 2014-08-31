@@ -6,4 +6,4 @@ Hello World! It's me!
 * Clojure
 * Git
 * Elixir
-
+* Killing history using git rebase
