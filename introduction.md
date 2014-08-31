@@ -4,4 +4,4 @@ Deadly skills:
 * Java
 * JavaScript
 * Oracle
-* rebase
+* Killing history using git rebase
