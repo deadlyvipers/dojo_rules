@@ -5,7 +5,3 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
