@@ -1,3 +1,5 @@
 # Introduction
 
-I'm Hilary, an API developer at Yammer. Hoping to pick up a few tricks...
+I'm Hilary, an API developer at Yammer. Hoping to pick up a few tricks.
+
+I like the Ruby and JavaScript paths equally.
