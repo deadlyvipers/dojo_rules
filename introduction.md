@@ -1,3 +1,3 @@
-#Hello
+#Hello, my name is Jill
 
-##My name is Jill and lorem ipsum and Sass and CSS.
+##JavaScript.
