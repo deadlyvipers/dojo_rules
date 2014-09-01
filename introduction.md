@@ -1,3 +1,1 @@
-Dojo Rules
-==========
-
+JavaScript, HTML & CSS
