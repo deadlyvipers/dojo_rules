@@ -4,4 +4,4 @@ javascript
 
 DEADLY SKILLS
 =============
-* None
+* Killing history using git rebase
