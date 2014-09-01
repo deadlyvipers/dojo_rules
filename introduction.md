@@ -11,3 +11,4 @@ a lot of new information.
 * MySQL
 * Python
 * PHP
+* Killing history using git rebase
