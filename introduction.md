@@ -3,3 +3,4 @@ My favorite path is Ruby
 
 * Ruby
 * Git
+* Javascript
