@@ -1,2 +1,5 @@
 hi! this is test!
-Ruby & JavaScript!
+
+## deadly skills
+* php
+* javascript
