@@ -6,3 +6,5 @@ Kill List
 * repeated code blocks
 * bad variable names
 
+stupid broken codeschool
+
