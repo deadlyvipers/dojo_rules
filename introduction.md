@@ -1,4 +1,4 @@
 Introduction
 ============
 
-Hi
+Hi, I'm a Code School JavaScript Junkie!
