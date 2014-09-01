@@ -1,3 +1,3 @@
 Hi,
 
-My name is Dave Giunta.
+My name is Dave Giunta, and my favorite Code School Path is Ruby.
