@@ -1,3 +1,3 @@
 Hey this is a text
 
-Fundamentals of Design
+with JavaScript path
