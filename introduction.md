@@ -1,2 +1,1 @@
-hi my name is michael
-i am 18 years.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
