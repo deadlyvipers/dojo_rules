@@ -4,4 +4,5 @@ javascript
 * ruby
 * python
 * assembly
+* killing history using git rebase
 
