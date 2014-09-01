@@ -7,3 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * Ruby, JavaScript, HTML & CSS
+* Test
