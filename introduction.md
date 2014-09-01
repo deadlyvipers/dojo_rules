@@ -4,3 +4,4 @@ Ruby path
 * Elixir
 * Ruby
 * Rails
+* Killing history using git rebase
