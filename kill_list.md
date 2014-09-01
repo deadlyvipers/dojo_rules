@@ -1,6 +1,6 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+* Hard coding
+* Use only master branch
+* Add more than 50 lines for procedure/function
+* Remove monolitic files
