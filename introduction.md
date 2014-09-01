@@ -5,8 +5,8 @@ I loved the git-real courses.
 My Deadly Skills
 ===================
 
-*Git
-*Ruby
-*C++
-*C
-
+* Git
+* Ruby
+* C++
+* C
+* Killing history using git rebase
