@@ -3,3 +3,5 @@
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* personal touch
+* programmer grievance
