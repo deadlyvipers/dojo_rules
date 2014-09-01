@@ -3,4 +3,5 @@
 *Rails
 *Javascript
 *ObjectiveC
+*Killing history using git rebase
 
