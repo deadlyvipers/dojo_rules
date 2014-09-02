@@ -1,2 +1,4 @@
 Introduction file.
-Ruby
+* Ruby
+* JavaScript
+* Git
