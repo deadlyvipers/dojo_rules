@@ -18,5 +18,6 @@ Deadly Skills:
 *RSpec
 *Capybara
 *Selenium
+*Killing history using git rebase
 
 
