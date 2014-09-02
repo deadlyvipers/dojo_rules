@@ -1,6 +1,7 @@
-This
-is
-not
-to
-short
-Ruby path
+# Deadly skills
+===============
+* Ruby
+* Javascript
+* CoffeScript
+* Php
+* Killing history using git rebase
