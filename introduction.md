@@ -1,6 +1,7 @@
 Hello, GitHub!
 My favorite CodeSchool's path is Ruby path.
 
-And my deadly skills are:
+My deadly skills are:
 * Eating
 * Sleeping
+* Killing history using git rebase
