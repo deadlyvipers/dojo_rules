@@ -1,2 +1,2 @@
 Hello, GitHub!
-I love CodeSchool's "Rails for Zombies" course.
+My favorite CodeSchool's path is Ruby path.
