@@ -1,4 +1,6 @@
 # Hi there
 
 
-Javascript
+* Git
+* Javasript
+* Ruby
