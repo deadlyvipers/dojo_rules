@@ -1,1 +1,1 @@
-initializing githuba
+initializing github
