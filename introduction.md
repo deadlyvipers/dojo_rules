@@ -5,3 +5,4 @@ Javascript
 C#
 ActionScript
 Git
+Killing history using git rebase
