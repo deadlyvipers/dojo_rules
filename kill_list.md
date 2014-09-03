@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * More than 100 characters line of code 
 * More than 100 characters line of code 
+* More than less
