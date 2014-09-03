@@ -1,2 +1,4 @@
-Java
-Git
+Skills
+======
+* Java
+* Git
