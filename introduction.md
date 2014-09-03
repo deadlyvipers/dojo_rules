@@ -1,2 +1,2 @@
- hi, my name is Dylan and this is my introduction.
-
+hi, my name is Dylan and this is my introduction.
+	my favorite course has been javascript.
