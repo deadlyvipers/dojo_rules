@@ -1,2 +1,4 @@
 Introduction for Shaun Dunne
-JavaScript
+* JavaScript
+* Ruby
+* Rails
