@@ -1,2 +1,4 @@
-Hello, I'm Bill ;)
-I like Electives
+*Git
+*Java
+*Groovy
+*Blablablablabla
