@@ -4,6 +4,7 @@ Big fan of the JavaScript path.
 
 Deadly Skills
 =============
+* rebase
 * Python
 * Ruby
 * JavaScript
