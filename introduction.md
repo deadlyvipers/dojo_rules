@@ -4,3 +4,4 @@ Deadly Skills
 * Ruby
 * Elixir
 * TDD
+* Killing history using git rebase
