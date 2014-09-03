@@ -2,3 +2,4 @@ Skills
 ======
 * Java
 * Git
+* Bash
