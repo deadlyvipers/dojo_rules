@@ -1,2 +1,5 @@
-== Hello!
-Ruby
+Hello!
+=====
+* Git
+* JavaScript
+* Ruby
