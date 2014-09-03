@@ -3,3 +3,4 @@ I'm Dave and for some reason I have to add a description about me in here and my
 My deadly skills:
 * Ruby
 * Git
+* Killing history using git rebase
