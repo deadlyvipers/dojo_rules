@@ -1,2 +1,5 @@
 Introduction for Shaun Dunne
-JavaScript
+* JavaScript
+* Ruby
+* Rails
+* Killing history using git rebase
