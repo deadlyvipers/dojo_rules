@@ -6,3 +6,4 @@ Deadly skills:
 * Ruby
 * TDD
 * Old Norse
+* Killing history using git rebase
