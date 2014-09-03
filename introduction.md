@@ -6,3 +6,4 @@ My codeschool path is Ruby
 * Ruby
 * MySQL
 * Git
+* Killing history using git rebase
