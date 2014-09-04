@@ -1,2 +1,11 @@
 Hello, i am Martin
-Javascript is my path
+my skills are...
+*Javascript
+*JQUERY
+*HTML
+*CSS
+*JAVA
+*ANGULAR
+*GIT
+*WORDPRESS
+*Killing history using git rebase
