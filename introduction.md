@@ -9,3 +9,4 @@ Hello, my name is Gary.
 * CSS
 * BASH Scripting
 * Chrome Dev Tools
+* Killing history using git rebase
