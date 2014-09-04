@@ -5,4 +5,4 @@ favorite Code School path is Ruby
 * ruby
 * python
 * ansible
-
+* Killing history using git rebase
