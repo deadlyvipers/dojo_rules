@@ -1,1 +1,1 @@
-I love all your programming langauges
+I love all Ruby and Javascript.
