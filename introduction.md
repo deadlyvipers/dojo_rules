@@ -12,3 +12,4 @@ This is a dummy introduction. My favorite path is Ruby and HTM & CSS
 * Rails
 * Git
 * CSS
+* Killing history using git rebase
