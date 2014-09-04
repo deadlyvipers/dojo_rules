@@ -1,1 +1,2 @@
-I am in the Dojo - Kevin
+On my way to becoming a GitHub Master
+
