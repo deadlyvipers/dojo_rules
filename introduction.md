@@ -1,1 +1,1 @@
-I am from Russia. My favorite is gitreal
+I am from Russia. My favorite Code School path is Electives
