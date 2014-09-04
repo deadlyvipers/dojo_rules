@@ -3,4 +3,5 @@ I love Ruby.
 
 My deadly skills are:
 * Cooking
-* Ride a bicycle
+* Riding a bicycle
+* Killing history using git rebase
