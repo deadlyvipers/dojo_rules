@@ -18,3 +18,4 @@ I have two favorite code school paths: Ruby and Javascript.
 	* PostgreSQL,
 	* SQLite,
 	* MongoDB
+* Killing history using git rebase
