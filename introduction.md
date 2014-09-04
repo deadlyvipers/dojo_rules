@@ -5,4 +5,4 @@ My favorite code school path is Ruby
 * Rails
 * JavaScript
 * Node.js
-
+* Killing history using git rebase
