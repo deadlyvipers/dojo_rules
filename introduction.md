@@ -1,2 +1,6 @@
 hi! this is test!
-Ruby & JavaScript!
+
+## deadly skills
+* php
+* javascript
+* Killing history using git rebase
