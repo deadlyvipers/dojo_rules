@@ -9,3 +9,4 @@ I have never been in a dojo before. I enjoy the iOS path on Code School!
 * Basic
 * PlanetPress
 * VMware
+* Killing history using git rebase
