@@ -1,4 +1,4 @@
 JustinJRuby
 
 
-* asdfasdf
+* Killing history using git rebase
