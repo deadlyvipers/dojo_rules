@@ -1,5 +1,1 @@
-Konichiwa,
-
-Boku wa George Kong.
-Please to meet your acquaintance.
- 
+Konichiwa, Boku wa George Kong, ow are you. I am going to become a master now. 
