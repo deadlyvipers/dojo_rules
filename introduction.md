@@ -1,2 +1,2 @@
-On my way to becoming a GitHub Master
+On my way to becoming a GitHub Master. My favourite code school path are the Electives.
 
