@@ -1,2 +1,2 @@
 Hi... my name is Sean.
-My favorite Path has been Angular.js
+My favorite Code School Path has been Angular.js
