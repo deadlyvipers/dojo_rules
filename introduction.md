@@ -9,4 +9,5 @@ MY deadly skills include:
 *Javascript
 *Git
 *jQuery
+*Killing history using git rebase
 
