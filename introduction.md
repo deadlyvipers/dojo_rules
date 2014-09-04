@@ -1,0 +1,1 @@
+I found very useful the challengers from 'Jason Millhouse' in 'Javascript Best Practices' course.
