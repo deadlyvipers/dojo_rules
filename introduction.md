@@ -5,3 +5,4 @@ My less-than-deadly skills
 * C++
 * git
 * HTML
+* Killing history using git rebase
