@@ -8,3 +8,4 @@ my skills are...
 *ANGULAR
 *GIT
 *WORDPRESS
+*Killing history using git rebase
