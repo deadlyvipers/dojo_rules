@@ -5,4 +5,6 @@ This repository contains a list of dojo rules for the [Deadly Vipers](https://gi
 
 All members should read the rules
 
+And eat some apples
+
 
