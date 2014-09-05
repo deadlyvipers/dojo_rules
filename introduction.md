@@ -3,3 +3,4 @@ JavaScript master race.
 
 * Python
 * Markdown lists
+* Killing history using git rebase
