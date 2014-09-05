@@ -3,4 +3,9 @@ on a clojure projects but also love to work with ruby and golang.
 
 My favorite codeschool path is Ruby.
 
-My skills are java, ruby, javascript, clojure, erlang, design.
+*My skills are java.
+    *ruby
+    *javascript
+    *clojure
+    *erlang
+    *design
