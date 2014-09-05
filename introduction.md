@@ -1,2 +1,4 @@
-Intro to dojo.
-Favorite codeschool path is : JavaScript
+* Git
+* Sass
+* JavaScript
+* Killing history using git rebase
