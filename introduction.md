@@ -1,2 +1,2 @@
 Intro to dojo.
-Favorite codeschool path is : JS
+Favorite codeschool path is : JavaScript
