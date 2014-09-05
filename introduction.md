@@ -3,3 +3,4 @@ Deadly Skills
 *R
 *trapping
 *masonry
+*killing history using rebase
