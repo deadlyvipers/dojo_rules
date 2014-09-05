@@ -1,2 +1,7 @@
-My name is Aureo and my favorite paths is JavaScript.
-Thank you Sensei for accepting me in your dojo.
+My name is Aureo and my favorite path is JavaScript.
+My deadly skills:
+	* Javascript
+	* HTML
+	* Spring 
+	* Hibernate
+
