@@ -5,4 +5,4 @@ My favorite codeschool path is Ruby
 * Ruby
 * Javascript
 * Actionscript
-
+* Killing history using git rebase
