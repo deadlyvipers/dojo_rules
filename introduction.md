@@ -9,3 +9,4 @@ My favorite codeschool path is Ruby.
     *clojure
     *erlang
     *design
+    *Killing history using git rebase
