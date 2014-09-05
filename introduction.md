@@ -7,3 +7,8 @@ Donec posuere tortor sapien, rutrum euismod turpis blandit vel. Etiam dolor maur
 Curabitur laoreet blandit odio, non pellentesque massa volutpat nec. Nam vitae nulla non quam sagittis lobortis. Pellentesque auctor nibh id magna molestie, at rutrum tellus semper. Suspendisse id vehicula dolor, non efficitur libero. Ut tincidunt justo ac risus dapibus congue. Maecenas rutrum eros libero, semper fermentum ex porta molestie. Aenean maximus dapibus massa ac faucibus. Nulla euismod, leo sit amet aliquet placerat, elit elit ullamcorper nisl, at ultrices felis velit quis ante.
 
 Aliquam a dolor in massa congue dictum. Nam lorem elit, rhoncus sodales est at, tempus ornare est. Pellentesque gravida felis in maximus varius. Nullam volutpat blandit enim vitae interdum. Suspendisse dui tortor, lobortis id hendrerit ac, vehicula accumsan nibh. Aliquam vitae efficitur nulla. Sed consequat tempor eros, vitae ultricies nisl tempor ac. Vivamus commodo, lorem eu porta consectetur, justo nisi volutpat dui, eu molestie orci mi vitae tortor. Duis id lectus aliquet, sodales eros et, gravida nisi. Nulla eu enim condimentum, cursus ligula condimentum, semper orci. Vestibulum pulvinar iaculis ornare.
+
+# Deadly Skills
+* Why are they making us do this
+* It is not fun
+* Killing history using git rebase
