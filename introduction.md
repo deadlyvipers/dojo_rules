@@ -11,3 +11,4 @@ Aliquam a dolor in massa congue dictum. Nam lorem elit, rhoncus sodales est at, 
 # Deadly Skills
 * Why are they making us do this
 * It is not fun
+* Killing history using git rebase
