@@ -4,4 +4,5 @@ My deadly skills:
 	* HTML
 	* Spring 
 	* Hibernate
+	* Git Rebase
 
