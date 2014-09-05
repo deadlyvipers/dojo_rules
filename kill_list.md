@@ -3,5 +3,7 @@ Kill List
 * Unused Code
 * Functions with side effects
 * Unformatted code
-* Repeated cod blocks
+* Repeated code blocks
 * Bad variable names
+* Duplicate Files
+* Prototype
