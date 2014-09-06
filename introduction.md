@@ -11,3 +11,4 @@ Deadly Skills
 * GitHub
 * Git
 * SQL
+* Killing history using git rebase
