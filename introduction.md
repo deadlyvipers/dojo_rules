@@ -7,3 +7,4 @@ My fav path at Code School: Javascript
 * drifting
 * kung fu
 * hacking
+* Killing history using git rebase
