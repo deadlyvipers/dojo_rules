@@ -4,3 +4,4 @@
 * Git
 * Electives
 * MongoDB
+* Killing history using git rebase
