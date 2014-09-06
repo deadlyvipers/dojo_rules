@@ -6,3 +6,4 @@ My favourite codeschool track is Ruby!
 * Ruby
 * Java
 * JavaScript
+* Killing git history with rebase
