@@ -8,3 +8,4 @@ Ruby Bits
 * JavaScrit
 * Ruby
 * PHP
+* Killing history using git rebase
