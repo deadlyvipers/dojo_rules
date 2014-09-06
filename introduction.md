@@ -18,3 +18,4 @@ plus I learn da new skills...
 * making things dead
 * ending lives
 * being a terminator
+* Killing history using git rebase
