@@ -8,3 +8,4 @@ BTW, My favourite CodeSchool path is Ruby, Javascript and HTML/CSS.
 * Ruby
 * Rails
 * Angular/Ember
+* Killing history using git rebase
