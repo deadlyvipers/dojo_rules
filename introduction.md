@@ -2,4 +2,4 @@
 *My major is math and computer science, and this is my senior year 
 *I love coding.
 *I know java, c++, and python and I am always ready to learn a lot more.
-*Git,Ruby, and javascript are my deadly skills. 
+*Git,Ruby,killing history using git rebase, and javascript are my deadly skills. 
