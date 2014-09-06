@@ -2,3 +2,4 @@ Introduction
 ============
 Hello, my name is SealTeamTom.
 
+My favourite Code School path is Electives!
