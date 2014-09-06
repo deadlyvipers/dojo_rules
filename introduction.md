@@ -9,3 +9,4 @@ My favourite CodeSchool Path is Javascript
 * Java
 * C/C++
 * Python
+* Killing history using git rebase
