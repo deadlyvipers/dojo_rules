@@ -3,3 +3,4 @@ My favorite code school path is Electives.
 *Java
 *Git
 *C
+Killing history using git rebase
