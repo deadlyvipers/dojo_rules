@@ -6,6 +6,6 @@ to testing out the Ruby path as well!!
 
 Deadly_skills:
 
-C++
-Git
-JavaScript
+* C++
+* Git
+* JavaScript
