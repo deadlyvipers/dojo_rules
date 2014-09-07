@@ -4,3 +4,4 @@ deadly skills
 *Git 
 *Java 
 *Ruby
+*android
