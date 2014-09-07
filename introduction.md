@@ -9,3 +9,4 @@ Hello :D
 * ham
 * egg
 * lettuce
+* Killing history using git rebase
