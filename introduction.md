@@ -6,3 +6,4 @@ deadly skills
 *Ruby
 *android
 *rebase
+*rebase2
