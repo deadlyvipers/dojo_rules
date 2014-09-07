@@ -17,3 +17,5 @@ Deadly Skills
 * Responsive Design
 * Linux Server Administration
 * MySQL Database Administration
+* Killing history using git rebase
+
