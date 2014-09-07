@@ -7,5 +7,5 @@ The path of Ruby is my favorite
 * Clojure
 * Elixir
 * Erlang
-* Kill History
+* Kill history using git rebase
 
