@@ -9,3 +9,4 @@ Deadly_skills:
 * C++
 * Git
 * JavaScript
+* Killing history using git rebase
