@@ -1,4 +1,4 @@
-JavaScript
-MySQL
-PHP
-Git
+*JavaScript
+*MySQL
+*PHP
+*Git
