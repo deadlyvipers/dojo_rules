@@ -1,2 +1,4 @@
-I am introducing myself
 JavaScript
+MySQL
+PHP
+Git
