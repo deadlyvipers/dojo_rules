@@ -1,0 +1,5 @@
+Skills
+======
+* Java
+* Git
+* Bash
