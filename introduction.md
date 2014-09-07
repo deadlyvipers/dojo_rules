@@ -8,3 +8,4 @@ Javascript CodeSchool path
 * Ruby
 * Rails
 * Javascript
+* Killing history using git rebase
