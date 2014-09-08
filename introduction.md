@@ -2,4 +2,5 @@ Hello world.
 Electives
 
 Skills:
-* Farting
+* farting
+* rebase
