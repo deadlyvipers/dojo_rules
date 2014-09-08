@@ -1,4 +1,4 @@
 Introduction - JavaScript
-Python
-Git
-Podengo Taming
+* Python
+* Git
+* Podengo Taming
