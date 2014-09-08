@@ -1,1 +1,4 @@
-Electives
+* Git
+* JavaScript
+* Ruby
+* Python
