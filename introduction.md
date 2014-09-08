@@ -6,4 +6,4 @@ My favorite track at Code School is Ruby and Ruby on Rails.
 * Javascript
 * System Design
 * iOS
-
+* Killing history using git rebase
