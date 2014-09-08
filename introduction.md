@@ -3,3 +3,4 @@ Hi there! I love the Electives path.
 * Python
 * Scala
 * Javascript
+* Killing history using git rebase
