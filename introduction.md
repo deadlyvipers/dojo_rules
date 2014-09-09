@@ -1,4 +1,4 @@
-I'm pretty fucking awesome.  I can use git.
+# I'm pretty fucking awesome.  I can use git.
 
 I also know a bit about:
 
@@ -7,4 +7,5 @@ I also know a bit about:
 *Python
 *Ruby
 *Frameworks
+*Killing history using git rebase
 *and more...
