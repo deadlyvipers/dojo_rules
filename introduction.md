@@ -12,3 +12,4 @@ Electives
 * Java
 * R
 * Objective-C
+* Killing history using git rebase
