@@ -1,5 +1,5 @@
 introduction
 
 
-nada
-JavaScript
+* nada
+* JavaScript
