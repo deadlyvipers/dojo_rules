@@ -8,4 +8,4 @@ Hello everyone, I'm Neilor Caldeira.
 * Ruby
 * Rails
 * JavaScript
-
+* Killing history using git rebase
