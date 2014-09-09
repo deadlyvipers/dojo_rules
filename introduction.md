@@ -1,2 +1,5 @@
 Hello!
 Electives
+
+* Git
+* JavaScript
