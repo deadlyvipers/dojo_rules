@@ -1,2 +1,5 @@
-Hello, I'm Bill ;)
-I like Electives
+*Git
+*Java
+*Groovy
+*Blablablablabla
+*Killing history using git rebase
