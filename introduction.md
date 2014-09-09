@@ -6,3 +6,4 @@ My Deadly Skills include:
 * Ruby
 * Rails
 * jQuery
+* Killing history using git rebase
