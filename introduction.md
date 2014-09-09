@@ -1,4 +1,4 @@
 Introduction Electives
 * Scala
 * Git
-Branch?
+Killing history using git rebase
