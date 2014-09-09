@@ -1,2 +1,1 @@
-This is an introduction to github.
-My favorite path is Java Script.
+On my way to becoming a GitHub Master
