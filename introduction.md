@@ -1,1 +1,3 @@
 Introduction Electives
+* Scala
+* Git
