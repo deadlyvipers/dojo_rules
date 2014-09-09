@@ -4,3 +4,4 @@ My favorite Code School path is Electives.
 *C#
 *Javascript
 *Ruby
+*Killing history using git rebase
