@@ -6,3 +6,4 @@ Kill List
 * repeated code blocks
 * bad variable names
 * forgotten semi-colons
+* test
