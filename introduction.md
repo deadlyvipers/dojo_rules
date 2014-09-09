@@ -1,2 +1,1 @@
-
-my name is something
+I like Ruby Course best!
