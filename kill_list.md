@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Taking too much time to learn a concept
+* Take too much time to learn a concept
