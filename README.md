@@ -6,5 +6,5 @@ dojo.
 
 All members should read the rules.
 
-[Visit deadlyvipers]("https://github.com/deadlyvipers")
+[Visit deadlyvipers](https://github.com/deadlyvipers)
 
