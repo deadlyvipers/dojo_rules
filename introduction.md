@@ -8,3 +8,4 @@ Deadly Skills
  * Ruby (working on it)
  * Rails (working on it)
  * JavaScript (Working on it)
+ * Killing history using git rebase
