@@ -4,3 +4,4 @@ My favorite path is the Javascript-path so far.
 * obective-c
 * java
 * javascript
+* Killing history using git rebase
