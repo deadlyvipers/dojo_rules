@@ -4,3 +4,4 @@
 * PHP
 * PHP
 * PHP
+* Killing history using git rebase
