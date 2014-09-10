@@ -5,3 +5,4 @@ Deadly Skills:
 * HTML
 * CSS
 * Javascript
+* PHP
