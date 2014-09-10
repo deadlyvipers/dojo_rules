@@ -9,3 +9,4 @@ Deadly skills include:
 *Nunchuks
 *Twerking
 *Sabotaging trust falls
+*Killing history using git rebase
