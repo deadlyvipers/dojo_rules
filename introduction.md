@@ -6,3 +6,4 @@ My favorite code school path is Ruby.
 * R
 * Rails
 * Python
+* Killing history using git rebase
