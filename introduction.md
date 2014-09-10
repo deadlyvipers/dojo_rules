@@ -5,3 +5,4 @@ JavaScript is my favorite Code School path
 Deadly Skills:
 * Git
 * JavaScript
+* HTML
