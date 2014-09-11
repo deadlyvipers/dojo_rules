@@ -1,6 +1,7 @@
 Introduction
 ==========
 
-*java
-*hello
-*gp
+* java
+* hello
+* gp
+* Killing history using git rebase
