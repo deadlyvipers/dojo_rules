@@ -5,3 +5,4 @@ Electives.
 * Objective-C
 * Swift
 * Git
+* Killing history using git rebase
