@@ -1,1 +1,1 @@
-Hello my name is Jakub.
+Hello my name is Jakub and I like Ruby.
