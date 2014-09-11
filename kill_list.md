@@ -5,5 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Duplication
-* ok, let's try again..
+* My personal grievance
+
