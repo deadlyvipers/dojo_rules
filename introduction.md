@@ -1,3 +1,3 @@
-Ruby
-git
-PHP
+* Ruby
+* git
+* PHP
