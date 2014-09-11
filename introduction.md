@@ -4,3 +4,4 @@ Looks good! Could you also please mention your favorite Code School path in your
 
 * Git
 * JavaScript
+* Killing history using git rebase
