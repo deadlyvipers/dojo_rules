@@ -1,3 +1,4 @@
+Hi There,
 Bad coding practices
 =========
 * Unused code
