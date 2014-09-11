@@ -7,5 +7,6 @@ My favorite path is JavaScript and Elective
 *Flex
 *HTML
 *JS
+*Killing history using git rebase
 
 
