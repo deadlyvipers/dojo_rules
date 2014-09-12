@@ -1,3 +1,3 @@
 'Aleluia!'
-<p>www.codeschool.com</p>
+<p>https://www.codeschool.com/courses/ruby-bits/goto</p>
 
