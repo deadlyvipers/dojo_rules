@@ -8,6 +8,7 @@ Deadly Skills:
 *Javascript
 *Coffeescript
 *SCSS
+*Killing history using git rebase
 
 ZOOOOOOOOM!
 
