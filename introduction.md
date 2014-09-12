@@ -1,2 +1,2 @@
-Hello
-Ruby
+*Ruby
+*Javascript
