@@ -1,3 +1,3 @@
-Hello, I'm Korinah
-Angular js 
-Jquery.
+Ruby
+Javascript 
+Angular
