@@ -1,7 +1,10 @@
-Name: Kathy Moran
-User Name: firstangelg
-Favorite Code School Path:  JavaScript
-Deadly Skill: 
+##Introduction
+* Name: Kathy Moran
+* User Name: firstangelg
+* Favorite Code School Path:  JavaScript
+
+
+##Deadly Skills 
 * Git
 * JavaScript
 * jQuery
