@@ -10,3 +10,4 @@ I like the Ruby and JavaScript paths equally.
 * JavaScript
 * Git
 * BDD
+* Killing history using git rebase
