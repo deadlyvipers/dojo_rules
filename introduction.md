@@ -1,2 +1,2 @@
 Hello, I'm Korinah
-I love Angular js and Jquery 
+My favourite CodeSchool path are Angular js and Jquery.
