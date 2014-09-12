@@ -2,4 +2,4 @@ I am great!
 My favorate Code School path is JavaScript
 * Git
 * JavaScript
-
+* Killing history using git rebase
