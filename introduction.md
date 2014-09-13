@@ -1,1 +1,1 @@
-"Hey all, I'm here!"
+Hey all! I'm here and I love the JavaScript path!
