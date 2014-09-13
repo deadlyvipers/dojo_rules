@@ -5,3 +5,4 @@ My favorite Code School path so far is JavaScript, but I do like the electives a
 My deadly skills:
 * Ruby
 * Javascript
+* Killing history using git rebase
