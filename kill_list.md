@@ -1,5 +1,6 @@
 Kill List
 =========
+* Brian Blanchard ;)
 * Unused code
 * Functions with side effects
 * Unformatted code
