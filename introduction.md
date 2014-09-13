@@ -3,3 +3,13 @@
 Hello, I'm David and I am new to the dojo.
 
 My favorite CodeSchool path is JavaScript.
+
+My deadly skills are:
+* JavaScript
+* SQL
+* .NET
+* Objective C
+* Git
+* HTML
+* CSS
+ 
