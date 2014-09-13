@@ -1,2 +1,5 @@
 On my way to becoming a GitHub Master
-Ruby
+* Ruby
+* Git
+* Rails
+* Rebase
