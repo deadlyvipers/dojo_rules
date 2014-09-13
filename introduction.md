@@ -5,3 +5,4 @@
 * Ruby
 * Git
 * Subversion
+* Killing history using git rebase
