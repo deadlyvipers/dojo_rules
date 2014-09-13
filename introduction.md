@@ -1,3 +1,4 @@
-Ruby
-Javascript 
-Angular
+*Git
+*Ruby
+*Javascript 
+*Angular
