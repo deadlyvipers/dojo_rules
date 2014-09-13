@@ -6,3 +6,4 @@ Skillz:
 * Ruby
 * Git
 * Awesome
+* Killing history using git rebase
