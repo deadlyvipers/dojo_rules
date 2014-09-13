@@ -2,4 +2,5 @@ For test
 Javascript
 
 # deadly skill
-*js
+* js
+* Killing history using git rebase
