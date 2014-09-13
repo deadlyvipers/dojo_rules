@@ -1,2 +1,5 @@
-Hello
-JavaScript
+Deadly Skills
+
+* HTML
+* CSS
+* JavaScript
