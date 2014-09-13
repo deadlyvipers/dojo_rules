@@ -11,3 +11,4 @@
 * HTML5
 * CSS3
 * PHP
+* Killing history using git rebase
