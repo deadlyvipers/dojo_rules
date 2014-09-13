@@ -3,3 +3,4 @@ Hey all! I'm here and I love the JavaScript path!
 * CSS
 * Javascript
 * Git
+* Killing history using git rebase
