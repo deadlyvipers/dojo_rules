@@ -7,3 +7,5 @@ MY favorite CodeSchool path is Electives.
 * CSS
 * PHP
 * MYSQL
+* Killing history using git rebase
+
