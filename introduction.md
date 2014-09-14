@@ -6,3 +6,6 @@ Dedly skilz
 * Cisco
 * Team Fortress 2
 * Quake 3
+by special request:
+* Killing history using git rebase
+
