@@ -1,3 +1,4 @@
 #Hello
 
-Javascript and Ruby
+* Javascript
+* Ruby
