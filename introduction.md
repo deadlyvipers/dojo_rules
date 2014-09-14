@@ -12,4 +12,7 @@ sdfg
  dfg
  sdg
 My favorite Code School path is Electives
+* Git
+* Java
+* Spring
  
