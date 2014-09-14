@@ -5,3 +5,4 @@ I am Ruby on Rails Developer
 * Ruby
 * MongoDb
 * Linux
+* Killing history using git rebase
