@@ -1,3 +1,3 @@
 Hi codeschool
 I'm Nguyen Huy Hoang
-yeah
+This could be Ruby, JavaScript, HTML & CSS, iOS or Electives.
