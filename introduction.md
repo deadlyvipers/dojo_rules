@@ -5,3 +5,4 @@ favorite code-school path is iOS
 * c++
 * objetive-c
 * soccer
+* Killing history using git rebase
