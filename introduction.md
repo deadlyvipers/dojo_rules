@@ -1,3 +1,5 @@
 #Hello
 
-Javascript and Ruby
+* Javascript
+* Ruby
+* Killing history using git rebase
