@@ -7,5 +7,3 @@ MY favorite CodeSchool path is Electives.
 * CSS
 * PHP
 * MYSQL
-* Math
-* Science
