@@ -15,4 +15,5 @@ My favorite Code School path is Electives
 * Git
 * Java
 * Spring
+* Killing history using git rebase
  
