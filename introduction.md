@@ -7,6 +7,7 @@ Deadly Skills
 * rebase
 * Python
 * Ruby
+* fork
 * JavaScript
 * R
 * Java
