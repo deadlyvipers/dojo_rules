@@ -12,3 +12,4 @@ deadly skills
 * css
 * javascript
 * puppet
+* Killing history using git rebase
