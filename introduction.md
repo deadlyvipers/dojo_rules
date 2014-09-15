@@ -1,3 +1,3 @@
-some changes
-
-Javascript
+* Git
+* JavaScript 
+* Ruby
