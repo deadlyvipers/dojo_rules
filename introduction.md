@@ -4,3 +4,4 @@ Hello world! I'm taking the Mastering Github course on Code School. My favorite 
 *Ruby
 *C#
 *JavaScript
+*Killing history using git rebase
