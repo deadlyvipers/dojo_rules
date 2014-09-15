@@ -5,3 +5,4 @@ My favorite path is ruby.
 * Angular
 * Ruby
 * C++
+* Killing history using git rebase
