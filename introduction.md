@@ -1,0 +1,1 @@
+Hello world! I'm taking the Mastering Github course on Code School.
