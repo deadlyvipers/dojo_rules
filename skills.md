@@ -1,0 +1,3 @@
+accounting
+micro-management
+overthinking
