@@ -1,3 +1,4 @@
 Hi!!
-My Nma e is Tiago Almeida
+My Name e is Tiago Almeida
 Ruby
+Javascript
