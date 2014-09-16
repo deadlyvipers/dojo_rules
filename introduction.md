@@ -1,2 +1,3 @@
-git demo
-JavaScript
+* JavaScript
+* Ruby
+* Killing history using git rebase
