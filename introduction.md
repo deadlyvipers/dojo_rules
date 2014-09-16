@@ -6,3 +6,4 @@ favorite Code School path:  HTML & CSS
 * CSS3
 * HTML5
 * Smarty
+* Killing history using git rebase
