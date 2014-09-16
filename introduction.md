@@ -9,3 +9,4 @@ Deadly skills:
 * HTML
 * PHP
 * Drupal
+* Killing history using git rebase
