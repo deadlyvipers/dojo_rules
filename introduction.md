@@ -8,3 +8,4 @@ Electives
 * Python
 * PHP
 * Ruby
+* Killing history using git rebase
