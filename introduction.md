@@ -1,3 +1,2 @@
-git demo
-JavaScript
-Ruby
+* JavaScript
+* Ruby
