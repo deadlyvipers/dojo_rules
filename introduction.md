@@ -1,0 +1,1 @@
+Hello! My name is John! This is for a Code School challenge.  My Code School path is Ruby.
