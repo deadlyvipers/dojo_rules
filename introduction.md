@@ -5,3 +5,5 @@ Deadly skills:
 * Haskell
 * Mercurial
 * Cooking hot chocolate
+* Killing history using git rebase
+
