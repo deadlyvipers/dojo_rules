@@ -10,3 +10,4 @@ Hello I am Ryan.
 *vim
 *PHP
 *Java
+*Killing history using git rebase
