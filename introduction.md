@@ -3,3 +3,4 @@ My favorite path is HTML/CSS
 *PHP
 *MySQL
 *Javascript
+Killing history using git rebase
