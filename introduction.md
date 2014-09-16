@@ -3,3 +3,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pulvinar e
 * foo
 * bar 
 * baz
+* Killing history using git rebase
