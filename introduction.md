@@ -1,4 +1,12 @@
 Hello I am Ryan.
 
-
-My favorite code school  path is Ruby
+*Ruby
+*HTML
+*C#
+*Python
+*Javascript
+*CSS
+*linux
+*vim
+*PHP
+*Java
