@@ -9,3 +9,4 @@ Deadly skills
 
 * Git
 * ColdFusion!
+* Killing history using git rebase
