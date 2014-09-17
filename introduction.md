@@ -1,2 +1,4 @@
 JavaScript hello this is raz from a forked repo
-JavaScript
+* Git
+* JavaScript
+* Ruby
