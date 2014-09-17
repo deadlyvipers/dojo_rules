@@ -1,0 +1,3 @@
+Skills:
+*Ruby
+*Javascript
