@@ -3,3 +3,4 @@ My favoriate path is Ruby.
 
 *Ruby
 *JavaScript
+*Killing history using git rebase
