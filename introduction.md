@@ -4,3 +4,4 @@ My favorite path is JavaScript
 * GIT
 * GRADLE
 * JAVA
+* Killing history using git rebase
