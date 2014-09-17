@@ -6,3 +6,4 @@ Hi I'm Pierre, my favorite path is JavaScript
 * Git
 * Javascript
 * PHP
+* Killing history using git rebase
