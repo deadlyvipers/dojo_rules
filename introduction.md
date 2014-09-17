@@ -1,3 +1,6 @@
-Hi xD 
+Hi xD
 Just finishing the task
 I like iOS most
+* Git
+* JS
+* Ruby
