@@ -1,3 +1,2 @@
-Skills:
 *Ruby
 *Javascript
