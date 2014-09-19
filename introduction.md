@@ -7,3 +7,4 @@ My favorite path is Electives!
 * Mad Skills!
 * Bow hunting skills
 * other skills
+* Killing history using git rebase
