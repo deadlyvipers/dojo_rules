@@ -8,3 +8,4 @@ My Deadly Skills are:
 * SASS
 * Design
 * Illustrations
+* Killing history using git rebase
