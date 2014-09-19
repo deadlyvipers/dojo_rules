@@ -6,3 +6,4 @@ For 2.2:
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
