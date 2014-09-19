@@ -1,3 +1,5 @@
-i love phpstorm
-
-JavaScript for now
+*Git,
+*JavaScript, 
+*Ruby
+*Killing history using git
+*rebase
