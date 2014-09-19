@@ -5,5 +5,6 @@ Deadly skills:
 * Reading fast
 * Walking slow
 * Sweating a lot
+* Killing history using git rebase
 
 
