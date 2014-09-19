@@ -1,1 +1,1 @@
-This is a test commit by adelucia.
+This is a test commit by adelucia. JavaScript path
