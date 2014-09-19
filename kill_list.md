@@ -1,6 +1,6 @@
 Kill List
 =========
-
+* Hidden TODOs
 * Unused code
 * Functions with side effects
 * Unformatted code
