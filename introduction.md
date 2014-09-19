@@ -1,2 +1,1 @@
-Nothing special.
-Still nothing.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
