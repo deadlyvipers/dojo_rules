@@ -15,3 +15,4 @@ Deadly Skills
 * NodeJS
 * Subversion
 * Git
+* Killing history using git rebase
