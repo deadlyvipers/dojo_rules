@@ -1,2 +1,3 @@
-Hello this is dog
-My favorite path is Javascript.
+* Javascript
+* Git
+* Killing history using git rebase
