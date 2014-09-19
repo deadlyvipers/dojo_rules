@@ -6,3 +6,4 @@ This is a test commit by adelucia. JavaScript path
 *AngularJS
 *jQuery
 *Bootstrap
+*Killing history using git rebase
