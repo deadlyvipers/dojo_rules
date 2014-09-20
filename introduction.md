@@ -7,3 +7,4 @@ My deadly skills:
 * PHP
 * Git
 * Github
+* Killing history using git rebase
