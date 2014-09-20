@@ -1,1 +1,1 @@
-a little sentence
+a little sentence about JavaScript
