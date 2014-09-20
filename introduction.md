@@ -1,1 +1,5 @@
-a little sentence about JavaScript
+a little sentence about me
+
+* JavaScript
+* php
+* Git
