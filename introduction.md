@@ -1,5 +1,7 @@
-Hello my name is Abdul
-
-My favorite code school path is Mastering GitHub!
-
-Also javascript is pretty cool. Ruby path as well.
+* The following is a list of skills:
+* HTML
+* CSS
+* JavaScript
+* C++
+* Ruby
+* Killing history using git rebase
