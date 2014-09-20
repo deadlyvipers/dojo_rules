@@ -1,5 +1,5 @@
 a little sentence about me
 
 * JavaScript
-* php
+* Killing history using git rebase
 * Git
