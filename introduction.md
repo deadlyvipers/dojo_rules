@@ -3,3 +3,4 @@ This is Mark. My favorite Code School path is Ruby.
 * ruby
 * c++
 * javascript
+* Killing history using git rebase
