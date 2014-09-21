@@ -1,3 +1,4 @@
-Hi xD 
+Hi XD
 Just finishing the task
-I like iOS most
+iOS
+Killing history using git rebase
