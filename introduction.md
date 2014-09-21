@@ -1,2 +1,5 @@
 visualjeff
-JavaScript
+
+* JavaScript
+* ember
+* bash
