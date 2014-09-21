@@ -1,4 +1,7 @@
-Hi XD
+Hi xD
 Just finishing the task
-iOS
+I like iOS most
+* Git
+* JS
+* Ruby
 Killing history using git rebase
