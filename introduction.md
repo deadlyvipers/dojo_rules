@@ -1,1 +1,1 @@
-My name is Allen Chang. Welcome to the Dojo.
+My name is Allen Chang. Welcome to the Dojo. My favourite Code School path is JavaScript.
