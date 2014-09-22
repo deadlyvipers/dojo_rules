@@ -1,1 +1,3 @@
 iamthemorron
+* Ruby
+* Javascript
