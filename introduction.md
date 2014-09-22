@@ -6,3 +6,4 @@ deadly skills:
 * OrientDB
 * AngularJS
 * GitHub
+* rebase
