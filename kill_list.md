@@ -7,4 +7,3 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Magic methods and functions
-* Hey my framework is the best kind of attitude
