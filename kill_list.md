@@ -4,3 +4,7 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
+* Unused code
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
