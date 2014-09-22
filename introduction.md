@@ -4,3 +4,4 @@ HTML & CSS rules.
 *JS
 *CSS
 *GIS
+*Killing history using git rebase
