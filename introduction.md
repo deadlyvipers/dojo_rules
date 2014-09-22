@@ -3,3 +3,4 @@ Deadly skills:
 *Ruby
 *JacaScript
 *CSS3
+*iOS
