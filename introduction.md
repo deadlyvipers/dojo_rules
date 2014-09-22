@@ -6,3 +6,4 @@ I am youbbi
 # Skills
  * Javascript
  * Yo
+ * Killing history using git rebase
