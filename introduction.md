@@ -1,1 +1,1 @@
-some text
+Javascript
