@@ -7,3 +7,4 @@ Repeated code blocks
 Bad variable names
 ruby
 test
+ha
