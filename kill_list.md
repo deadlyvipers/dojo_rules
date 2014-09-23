@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* assignments in if statementso
+* sdfassignments in if statementso
