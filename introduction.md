@@ -1,3 +1,2 @@
 introduction
-hello i'm jurgen
-
+hello i'm jurgen. My favorite codeschool path is the JavaScript one.
