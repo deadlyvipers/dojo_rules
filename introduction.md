@@ -4,3 +4,9 @@ Shaping up with Angular.js
 
 Oh. I see. You want a path. That's way too general.
 Javascript it is.
+
+# My Deadly Skills
+* Inline Skating
+* Amateur Cooking
+* Server Administration
+* Some web stuff
