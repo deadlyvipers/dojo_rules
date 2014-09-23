@@ -1,1 +1,1 @@
-Raitix is the nick.
+Raitix is the nick. Favorite = Electives.
