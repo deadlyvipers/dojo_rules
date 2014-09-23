@@ -4,3 +4,4 @@ Hello Sensei. I am Dave.
 * Git
 * HTML
 * CSS
+* Killing history using Git rebase
