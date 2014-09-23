@@ -5,3 +5,4 @@ Deadly skills
 * Git
 * jQuery
 * mySQL
+* Killing history using git rebase
