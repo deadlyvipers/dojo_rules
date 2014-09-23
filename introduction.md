@@ -1,3 +1,6 @@
 Hello Sensei. I am Dave.
 
-JavaScript
+* JavaScript 
+* Git
+* HTML
+* CSS
