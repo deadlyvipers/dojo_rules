@@ -6,3 +6,4 @@ Skills:
 * conditioning
 * decontesting
 * accenturating
+* Killing history using git rebase
