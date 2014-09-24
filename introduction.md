@@ -1,6 +1,7 @@
 #Introduction
 
-My favorite CodeSchool paths are: 
+My favorite Code School paths are:
 
 * Ruby
 * Javascript
+* CSS
