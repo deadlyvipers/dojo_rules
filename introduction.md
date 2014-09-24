@@ -5,4 +5,5 @@ List of my deadly skills:
 *Git
 *JavaScript
 *Angular.JS
+*Killing history using git rebase
 
