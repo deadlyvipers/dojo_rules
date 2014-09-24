@@ -1,1 +1,1 @@
-hi codeschool
+My favorite path is Ruby
