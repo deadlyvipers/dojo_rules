@@ -3,4 +3,6 @@ I like a lot Ruby
 *Ruby 
 *Javascript 
 *PHP
+*Killing history using git rebase
+
 
