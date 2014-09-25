@@ -10,5 +10,6 @@ My Deadly Skills:
 *HTML5
 *JavaScript
 *Git
+*Killing history using git rebase
 
 <3 Kat
