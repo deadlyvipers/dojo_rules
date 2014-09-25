@@ -9,4 +9,5 @@ Electives
 * CSS
 * Grunt
 * AngularJS
-* Killing history using git rebas
+* rebase
+* Killing history using git rebase
