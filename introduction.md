@@ -1,6 +1,7 @@
 ##Hello Mastering GitHub
 A course provided by CodeSchool
 ##Favorite paths:
-**Ruby 
-**Javascript 
-**Electives
+*Ruby*
+*Javascript*
+*Electives*
+*GitHub and Git*
