@@ -8,6 +8,7 @@ A course provided by CodeSchool
 * Javascript 
 * Electives
 * GitHub and Git
+* Killing history using git rebase
 
 ## This is another test
 
