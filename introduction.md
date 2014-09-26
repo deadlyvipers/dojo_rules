@@ -1,2 +1,4 @@
-Hello Dojo!
-My path is JavaScript.
+Deadly skills:
+* JS
+* HTML
+* etc
