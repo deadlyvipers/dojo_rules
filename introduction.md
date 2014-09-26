@@ -1,1 +1,1 @@
-my name is Sherry, nice to be here
+On my way to becoming a GitHub Master
