@@ -9,3 +9,4 @@ Deadly Skills
 *R
 *LaTeX
 *Caterwauling
+*Killing history using git rebase
