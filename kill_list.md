@@ -6,3 +6,4 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 Long Methods
+Long Param Lists
