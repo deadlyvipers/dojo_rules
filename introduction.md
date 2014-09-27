@@ -6,3 +6,4 @@ My deadly skills
 ----------------
 * Git
 * Javascript
+* Java
