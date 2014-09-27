@@ -1,1 +1,4 @@
-My favorite path is Javascript
+* Git
+* Javascript
+* HTML
+* CSS
