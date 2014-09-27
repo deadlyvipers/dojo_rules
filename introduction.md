@@ -6,3 +6,4 @@
 * Ruby on Rails
 * iOS
 * Android
+* Killing history using git rebase
