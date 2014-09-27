@@ -1,1 +1,4 @@
-Ruby
+* Ruby
+* Git
+* JavaScript
+* Ruby
