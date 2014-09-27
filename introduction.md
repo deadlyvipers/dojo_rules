@@ -7,4 +7,4 @@ Deadly Skills:
 * Javascript
 * HTML
 * One Power
-
+* Killing history using git rebase
