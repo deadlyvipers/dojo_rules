@@ -4,4 +4,4 @@
 * Ruby
 * HTML
 * CSS
-High
+* Killing history using git rebase
