@@ -1,3 +1,9 @@
+Howdy I'm Grant
+
 My favorite Code School path is Javascript.
 
-Howdy I'm Grant
+My deadly skills are:
+* Python
+* C++
+* Javascript
+* Objective C
