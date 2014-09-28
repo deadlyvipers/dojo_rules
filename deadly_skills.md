@@ -1,3 +1,3 @@
-Init
+* Init
 * a
 * b
