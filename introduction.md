@@ -10,3 +10,4 @@ My Favorite Codeschool Path is the Ruby Path.
 * HTML & CSS
 * Objective-C
 * Swift
+* Killing history using git rebase
