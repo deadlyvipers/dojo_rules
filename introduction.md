@@ -1,3 +1,3 @@
-about me
-JavaScript
+*about me
+*JavaScript
 
