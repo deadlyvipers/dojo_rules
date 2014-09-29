@@ -4,3 +4,4 @@ Deadly Skills
 *git
 *c
 *javascript
+*Killing history using git rebase
