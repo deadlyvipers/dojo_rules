@@ -1,3 +1,4 @@
-about me
-JavaScript
-
+*about me
+*JavaScript
+*Ruby rails
+*rebase
