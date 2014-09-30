@@ -6,4 +6,4 @@ JavaScript
 * JavaScript
 * Python
 * Actionscript
-* Working on GoLang
+* Working on GoLang... slowly
