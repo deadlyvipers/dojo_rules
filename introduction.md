@@ -12,4 +12,4 @@ Deadly Skills
 *scrum
 *mongo
 *nginx
-
+*Killing history using git rebase
