@@ -8,17 +8,15 @@ class FibFinder
     end
   end
   def self.fib_array(n)
-    begin
-      array = []
-      array[0] = 0
-      array[1] = 1
-      (n-1).times do |x|
-        array[x+2] = array[x+1] + array[x]
-      end
-      return array
-    rescue StandardError
-      puts 'Something bad happened.'
+    array = []
+    array[0] = 0
+    array[1] = 1
+    (n-1).times do |x|
+      array[x+2] = array[x+1] + array[x]
     end
+    return array
+  rescue StandardError
+    puts 'Something bad happened.'
   end
 
   class << self
