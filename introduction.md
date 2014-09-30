@@ -7,3 +7,4 @@ The CodeSchool Ruby path was my favorite.
 * JavaScript
 * Java
 * Ruby
+* Killing history using git rebase"
