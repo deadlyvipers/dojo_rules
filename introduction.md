@@ -1,2 +1,4 @@
-Simmons - JavaScript
-
+Simmons - Javascript
+*Git
+*JavaScript
+*Python
