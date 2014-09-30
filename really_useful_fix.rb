@@ -7,6 +7,9 @@ class FibFinder
       (-1)**(-n+1)*fib_array(-n)[-n]
     end
   end
+  def self.hell s
+     something = array.new()
+  end
   def self.fib_array(n)
     array = []
     array[0] = 0
