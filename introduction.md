@@ -1,3 +1,3 @@
 # Introduction
 
-Hi, I'm Trevor.
+Hi, I'm Trevor. My favorite Code School path is JavaScript.
