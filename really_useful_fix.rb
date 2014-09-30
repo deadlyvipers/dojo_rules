@@ -22,6 +22,6 @@ class Fib_Finder
   end
 
   class << self
-    alias :fibonacci :fib
+    alias_method :fibonacci, :fib
   end
 end
