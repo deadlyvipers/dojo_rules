@@ -17,7 +17,7 @@ class FibFinder
       end
       return array
     rescue Exception
-      puts "Something bad happened."
+      puts 'Something bad happened.'
     end
   end
 
