@@ -9,4 +9,3 @@ My deadly skills
 * Javascript
 * Java
 * Killing history using git rebase
-
