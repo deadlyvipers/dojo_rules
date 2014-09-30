@@ -1,13 +1,13 @@
 # This is a really useful fix to the project
 class Fib_Finder
-  def self.fib n
+  def self.fib(n)
     if !(n >= 0) then
       (-1)**(-n+1)*fib_array(-n)[-n]
     else
       fib_array(n)[n]
     end
   end
-  def self.fib_array n
+  def self.fib_array(n)
     begin
       array = Array.new
       array[0] = 0
