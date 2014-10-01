@@ -1,1 +1,2 @@
 Hello Dojo!
+JavaScript rulez!
