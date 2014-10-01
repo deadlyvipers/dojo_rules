@@ -1,2 +1,3 @@
-"buhuuu"
-JavaScript
+*JavaScript
+*Ruby
+*Killing history using git rebase
