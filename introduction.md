@@ -1,2 +1,4 @@
 Hello Dojo!
-JavaScript rulez!
+* HTML
+* CSS
+* JS
