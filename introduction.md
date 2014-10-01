@@ -1,2 +1,5 @@
 Hello Dojo!
-JavaScript rulez!
+* HTML
+* CSS
+* JS
+* Killing history using git rebase
