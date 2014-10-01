@@ -1,9 +1,6 @@
-<?php
 
-a=f;
-
-test=array[];
-
-array[5]=a;
-
-array[6]=f;
+    Unused code
+    Functions with side effects
+    Unformatted code
+    Repeated code blocks
+    Bad variable names
