@@ -5,3 +5,4 @@ Deadly skills i have:
 * gardening
 * childcareing
 * resting
+* Killing history using git rebase
