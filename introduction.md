@@ -1,3 +1,5 @@
 Hi everybody!
 
-JavaScript
+* JavaScript
+* Git
+* Java
