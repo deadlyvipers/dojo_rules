@@ -1,2 +1,2 @@
-"buhuuu"
-JavaScript
+*JavaScript
+*Ruby
