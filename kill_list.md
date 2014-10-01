@@ -8,3 +8,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * TOO LONG OF LINES
+* SHOUTING
