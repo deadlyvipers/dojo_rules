@@ -12,6 +12,6 @@ My Deadly Skills
 *git
 *html5
 *css
-
+*Killing history useing git rebase
 
 
