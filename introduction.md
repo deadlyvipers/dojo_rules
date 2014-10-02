@@ -4,3 +4,4 @@ Javascript Rulez!
 * Git,
 * JavaScript
 * Ruby
+* Killing history using git rebase
