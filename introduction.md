@@ -10,4 +10,4 @@ Electives are always great and fun to try out.
 * Swift
 * Javascript
 * Java
-
+* Killing history using git rebase
