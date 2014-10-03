@@ -1,3 +1,5 @@
+Equipment
+===========
 * stuff
 * things
 * banana
