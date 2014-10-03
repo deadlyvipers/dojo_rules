@@ -4,3 +4,5 @@ My favorite Code School are HTML &CSS,JavaScript,Backbone JS,Angular JS.
 * Java Script
 * Node JS
 * Backbone JS
+* Angular JS
+* CSS 3
