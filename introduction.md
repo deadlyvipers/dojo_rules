@@ -7,4 +7,5 @@ Deadly Skills:
 * PHP
 * SQL
 * JavaScript
+* Killing history using git rebase
 * ...and more!
