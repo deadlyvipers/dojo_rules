@@ -1,2 +1,5 @@
+Equipment
+===========
+
 * git 
 * ruby
