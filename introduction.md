@@ -1,0 +1,5 @@
+Equipment
+===========
+* rebase
+* git 
+* ruby
