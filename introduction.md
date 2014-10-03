@@ -3,3 +3,4 @@ this is an introduction of twdev10<br>Favorite Code School path would be Electiv
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
