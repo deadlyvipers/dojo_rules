@@ -7,4 +7,5 @@ Poldo is here. And I love Ruby path of course!
 *javascript
 *mysql
 *amazon
+*Killing history using git rebase
 *... 
