@@ -6,4 +6,4 @@ My favourite Code School path is "Electives". Yeah, baby!
 * shoelace
 * eggs
 * weather
-`
+* Killing history using git rebase
