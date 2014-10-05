@@ -9,3 +9,4 @@ My favourite CodeSchool path is Electives. I'm testing out Code Schools Masterin
 * CSS
 * JavaScript
 * Backbone
+* Killing history using git rebase
