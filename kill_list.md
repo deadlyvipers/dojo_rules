@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Spelling mistakes
+* No comments
+* undeclared variables
