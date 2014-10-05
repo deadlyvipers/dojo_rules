@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Spelling mistakes
 * No comments
+* undeclared variables
