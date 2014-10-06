@@ -1,1 +1,3 @@
 Beregszaszi Istvan
+Ruby
+JavaScript
