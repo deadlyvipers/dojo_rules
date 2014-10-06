@@ -1,1 +1,3 @@
-Favorite codeschool courses: Ruby, JavaScript, HTML & CSS, iOS or Electives.
+*Git
+*JavaScript
+*Ruby
