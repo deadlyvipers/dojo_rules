@@ -1,5 +1,3 @@
-Well, it was interesting.
-
-My favouritie paths are ruby and electieves
-
-Ruby, ads
+*Ruby
+*Git
+*Killing history using git rebase
