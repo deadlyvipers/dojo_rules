@@ -6,3 +6,7 @@ My favorite Code School are HTML &CSS,JavaScript,Backbone JS,Angular JS.
 * Backbone JS
 * Angular JS
 * CSS 3
+
+
+ ```bash
+  printf "On my way to becoming a GitHub Master. I love HTML and JavaScript.""
