@@ -11,7 +11,3 @@ Skills:
 * Javascript
 * Go
 * rebase
-
-Programmer:
-
-* Forster Groux
