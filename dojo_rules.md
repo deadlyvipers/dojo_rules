@@ -7,4 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * here oliver added sentence heree...a
-* hope this is working
+* aaaaaa hope this is working
