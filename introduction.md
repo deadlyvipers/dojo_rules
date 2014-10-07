@@ -1,3 +1,3 @@
-JavaScript
-This is my intro. I like snacks. 
-
+* Git
+* Ruby
+* JavaScript
