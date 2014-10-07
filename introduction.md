@@ -5,3 +5,4 @@ Electives
 * JavaScript
 * Ruby
 * Killing history using git rebase
+* rebase
