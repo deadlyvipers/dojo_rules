@@ -7,3 +7,4 @@ Deadly Skills:
 *  Git
 *  HTML/CSS
 *  Ruby
+*  Killing History Using Git Rebase
