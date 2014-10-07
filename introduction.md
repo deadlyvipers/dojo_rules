@@ -1,3 +1,3 @@
 introduction
 
-favorite codeschool path : Java Script
+favorite codeschool path : JavaScript
