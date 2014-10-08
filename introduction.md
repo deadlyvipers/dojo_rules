@@ -1,0 +1,1 @@
+I've been playing with code for a while now, but it's quite possible that some of the errors I'm getting could be mitigated with a deeper understanding of accepted best practices.  So, thanks Code School for putting up this course!
