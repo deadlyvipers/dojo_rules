@@ -1,2 +1,1 @@
-Hello!
-Favorite code school path: I dunno.
+Hello! Favorite code school path: Ruby.
