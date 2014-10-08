@@ -6,3 +6,4 @@ Mi Amo JavaScript
 
 * JavaScript
 * iOS
+* Killing history using git rebase
