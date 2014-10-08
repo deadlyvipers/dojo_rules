@@ -3,3 +3,4 @@ Ruby
 
 * Git
 * Java
+* Killing history using rebase
