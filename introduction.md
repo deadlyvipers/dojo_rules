@@ -12,4 +12,5 @@ Deadly Skills:
  * C++
  * R
  * GnuPlot
+ * Killing history using git rebase
 
