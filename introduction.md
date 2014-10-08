@@ -1,3 +1,4 @@
-JavaScript
-This is my intro. I like snacks. 
-
+* Git
+* Ruby
+* JavaScript
+* Killing history using git rebase
