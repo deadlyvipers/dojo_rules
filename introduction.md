@@ -5,3 +5,4 @@ my fav code school track would probably be javascript.
 *js
 *html
 *css
+*rebase 
