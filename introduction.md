@@ -5,3 +5,4 @@ with an addition of Electives
 
 * delphi
 * dozing
+* Killing history using git rebase
