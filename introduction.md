@@ -7,6 +7,6 @@ My deadly skills  Java , Javascript,
 * Java
 * Javascript
 * html
-*css
-*rebase
+* css
+* Rebase
 
