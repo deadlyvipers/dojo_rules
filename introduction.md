@@ -1,1 +1,1 @@
-intro
+intro to github through code school. that's about it for now.
