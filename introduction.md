@@ -1,2 +1,1 @@
-My favorite path is HTML & CSS
-
+*Klling history using git rebase
