@@ -6,3 +6,4 @@ Deadly skills:
 * Ruby
 * Passable HTML/CSS/JS/Bootstrap
 * Git/GitHub
+* rebase
