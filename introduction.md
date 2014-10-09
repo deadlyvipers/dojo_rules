@@ -1,2 +1,4 @@
 hello
-ruby
+* ruby
+* coffeescript
+* Killing history using git rebase
