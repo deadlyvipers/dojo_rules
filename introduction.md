@@ -2,3 +2,4 @@ Hey, my name is Andy.
 My favorite path on codeschool is JavaScript and Git.
 * Backing
 * Coding
+* Killing history using git rebase
