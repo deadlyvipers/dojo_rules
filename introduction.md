@@ -9,3 +9,4 @@ Deadly Skills
 * Git
 * Ruby
 * Puppet
+* Killing history using git rebase
