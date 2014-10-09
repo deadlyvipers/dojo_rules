@@ -8,3 +8,4 @@ My deadly skills include:
 *Ruby
 *Some Objective-C
 *And some Git
+*Killing history using git rebase
