@@ -1,0 +1,2 @@
+Konnichiwa!
+Hajime Bushido!
