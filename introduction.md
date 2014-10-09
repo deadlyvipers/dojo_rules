@@ -12,3 +12,4 @@ My deadly skills are:
 * Flying
 * Reading minds
 * Staying still
+* Killing history using git rebase
