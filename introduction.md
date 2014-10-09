@@ -10,3 +10,4 @@ Deadly Skills
 * TDD
 * Refactoring
 * Clean Architecture
+* Killing history using git rebase
