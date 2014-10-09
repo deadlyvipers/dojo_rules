@@ -1,5 +1,1 @@
-*css
-*cooking
-*html
-*madafaken_wordpress
-
+*Klling history using git rebase
