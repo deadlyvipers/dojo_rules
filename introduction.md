@@ -1,4 +1,4 @@
 Introduction
 ============
 
-Hello world, this is me.
+Hello world, this is me. I like ruby, css and other srs internet stuffs.
