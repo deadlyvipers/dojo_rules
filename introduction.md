@@ -1,2 +1,5 @@
-My favorite path is HTML & CSS
+*css
+*cooking
+*html
+*madafaken_wordpress
 
