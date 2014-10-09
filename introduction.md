@@ -6,3 +6,4 @@ Deadly skills
 * Ruby
 * Node
 * PHP
+* Killing history using git rebase
