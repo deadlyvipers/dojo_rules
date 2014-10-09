@@ -13,3 +13,4 @@ My deadly skills include
 *SVN
 *MVC
 *Laravel
+Killing history using git rebase
