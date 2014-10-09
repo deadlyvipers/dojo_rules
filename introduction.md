@@ -7,3 +7,9 @@ Wait for it...
 ..dary!
 
 My favorite paths are Javascript, Ruby and HTML & CSS
+
+My deadly skills are:
+* Flying
+* Reading minds
+* Staying still
+* Killing history using git rebase
