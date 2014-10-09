@@ -1,1 +1,3 @@
-introduction words Ruby 
+introduction words Ruby
+* Ruby
+* Git
