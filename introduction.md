@@ -1,2 +1,8 @@
-Dojo intro
-JavaScript
+Deadly skills
+* JavaScript
+* CSS
+* Sass
+* HTML
+* Ruby
+* Node
+* PHP
