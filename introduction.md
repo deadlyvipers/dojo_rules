@@ -1,7 +1,12 @@
 #--
 # This is a great elective and an awesome addition the Git real series.
+### * javascript
+### * ruby
+### * shell
 #++
 
+
+```ruby
 require 'codeschool/try_git'
 require 'codeschool/git_real'
 require 'codeschool/git_real_v2'
@@ -19,3 +24,4 @@ module IntroductionMe
   myself :Golf
   myself :Code
 end
+```
