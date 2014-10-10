@@ -5,3 +5,4 @@ JavaScript
 *javascript
 *ios
 *ruby
+*Killing history using git rebase
