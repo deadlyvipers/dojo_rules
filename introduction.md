@@ -8,3 +8,5 @@ My deadly skills are:
   * JavaScript, 
   * Ruby
   * Ember.js
+  * Killing history using git rebase
+
