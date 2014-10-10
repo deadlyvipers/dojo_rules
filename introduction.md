@@ -1,2 +1,2 @@
-intro text
-JavaScript
+* Git
+* JavaScript
