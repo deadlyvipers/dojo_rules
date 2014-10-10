@@ -1,2 +1,3 @@
-intro text
-JavaScript
+*Ruby
+*JavaScript
+*Git
