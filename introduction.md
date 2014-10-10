@@ -1,2 +1,2 @@
-Hello, this is my intro.
-Ruby
+* Ruby
+* Git
