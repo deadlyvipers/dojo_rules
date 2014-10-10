@@ -12,3 +12,4 @@ My deadly skills:
 * HAProxy
 * gunicorn
 * wsgi
+* Killing history using git rebase
