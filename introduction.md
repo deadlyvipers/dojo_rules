@@ -11,3 +11,4 @@ my favorite codeschool path is javascript
 * CSS
 * Sass
 * Design
+* Killing history using git rebase
