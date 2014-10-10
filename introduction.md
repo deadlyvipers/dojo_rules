@@ -13,3 +13,4 @@ Deadly Skills
 * TDD
 * BDD
 * Git
+* Killing history using git rebase
