@@ -6,3 +6,4 @@ My favorite Code School path is HTML
 *HTML
 *CSS
 *Umbraco
+*Killing history using git rebase
