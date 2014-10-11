@@ -3,3 +3,4 @@ Ruby
 * git
 * ruby
 * rails
+* git rebase
