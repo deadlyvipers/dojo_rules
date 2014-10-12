@@ -1,4 +1,4 @@
 introduction info
 * JavaScript
 * Git 
- Something else
+* Something else
