@@ -7,5 +7,6 @@ I got skillers in ----/
 
 * JavaScript
 * PHP
+* Killing history using git rebase
 
 Katah!
