@@ -9,4 +9,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * No horseplay on Tatami
 * No smoking 
-* Excessive noice is not allowwed
+* Excessive noice is not allowed
