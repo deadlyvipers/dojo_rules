@@ -1,2 +1,3 @@
 # Introduction
-Hello this is a fork
+My favorite Codeschool path: JavaScript
+
