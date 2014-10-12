@@ -1,2 +1,5 @@
 introduction info
-JavaScript
+* JavaScript
+* Git 
+* Something else
+* Rebase
