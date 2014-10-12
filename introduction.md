@@ -1,3 +1,1 @@
-Oh hello.
-
-Git
+Electives
