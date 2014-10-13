@@ -1,3 +1,5 @@
-Ruby
+deadly skills
+-------------
+* rum
+* sambuca
 
-I am Evgeny
