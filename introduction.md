@@ -6,3 +6,4 @@ Ruby
 * Erlang
 * Rails
 * React
+* Killing history using git rebase
