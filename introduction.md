@@ -1,5 +1,10 @@
 # Introduction
 
-## Favorite Code School Path
+## Skills
 
-Ruby
+* Skill 1
+* Skill 2
+* Skill 3
+* Skill 4
+* Skill 5
+
