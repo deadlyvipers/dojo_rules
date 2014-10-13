@@ -1,3 +1,5 @@
 # Introduction
 
-This is an introduction. Favorite course: mastering github.
+## Favorite Code School Path
+
+Ruby
