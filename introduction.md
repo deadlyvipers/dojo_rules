@@ -4,3 +4,4 @@ Ruby
 *ruby
 *rails
 **nix
+*Killing history using git rebase
