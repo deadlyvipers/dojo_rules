@@ -6,3 +6,4 @@ JavaScript is my path
 * Javascript
 * Git
 * CSS
+* Killing history using git rebase
