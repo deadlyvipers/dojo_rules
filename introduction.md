@@ -3,3 +3,4 @@ Just mentioning electives here, such a nice word...
 * Skill
 * Include
 * Exclude
+* Killing history using git rebase
