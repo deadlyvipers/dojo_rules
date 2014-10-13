@@ -1,3 +1,5 @@
-Ruby
-
-I am Evgeny
+deadly skills
+-------------
+* rum
+* sambuca
+* Killing history using git rebase
