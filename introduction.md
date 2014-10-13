@@ -1,2 +1,3 @@
-Hello, this is my intro.
-Ruby
+* Ruby
+* Git
+* Killing history using git rebase
