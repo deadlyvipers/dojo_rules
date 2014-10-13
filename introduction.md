@@ -1,3 +1,3 @@
 # Introduction
 
-This is an introduction.
+This is an introduction. Favorite course: mastering github.
