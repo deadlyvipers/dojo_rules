@@ -1,1 +1,1 @@
-this is the worst thing in the entire freaking world.
+someone please kill this forced introduction to a proprietary system.
