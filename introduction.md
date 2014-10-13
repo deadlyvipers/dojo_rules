@@ -6,3 +6,4 @@ Hi, I'm Ceili
 * Such Markdown
 * Many Vims
 * Wow.
+* Git code path ftw
