@@ -5,3 +5,4 @@ My favorite CodeSchool Ptah is JavascriptPath.
 * Javascript
 * HTML/CSS
 * Git
+* Killing history using git rebase
