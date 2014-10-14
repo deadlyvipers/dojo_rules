@@ -9,4 +9,5 @@ My Deadly Skillz are:
 * Git
 * Organizing LRP events
 * Slacking off
+* Killing history using git rebase
 * Gaming
