@@ -1,2 +1,3 @@
-Ruby
-This is new file I added to my fork
+Deadly Skills
+* Ruby
+* Killing history using git rebase
