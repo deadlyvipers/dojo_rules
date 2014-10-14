@@ -6,3 +6,4 @@ My name is Senén Rodero and RubyPath is my favorite learning path
 * PHP
 * Ruby
 * etc
+* Killing history using git rebase
