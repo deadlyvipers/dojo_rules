@@ -5,3 +5,4 @@ My favorite Code School path:
  *HTMl & CSS, 
  *iOS, 
  *Git
+ *rebase
