@@ -6,3 +6,4 @@ I'm looking forward to brushing up on my JS skills with https://www.codeschool.c
 * JQuery
 * PHP
 * MySQL
+* Killing history using Git Rebase
