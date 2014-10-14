@@ -8,3 +8,4 @@ My favorite path is the iOS path!
 * HTML
 * CSS
 * JavaScript
+* Killing history using git rebase
