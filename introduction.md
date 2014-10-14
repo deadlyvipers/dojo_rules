@@ -7,3 +7,4 @@ Some of my deadly skills
 * C/C++
 * .Net/C#
 * HTML/CSS
+* Killing history using git rebase
