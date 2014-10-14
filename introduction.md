@@ -7,4 +7,4 @@ Electives I guess
 *pretty much anything and everything
 *lists
 *everything
-
+*Killing history using git rebase
