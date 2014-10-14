@@ -5,3 +5,4 @@ Skillz
 *ruby
 *git
 *js
+*Killing history using git rebase
