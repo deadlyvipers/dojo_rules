@@ -7,3 +7,4 @@ deadly skils:
 *Git
 *Javascipt
 *Ruby
+*Killing history using git rebase
