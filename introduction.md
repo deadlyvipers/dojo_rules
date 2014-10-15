@@ -1,2 +1,2 @@
-On the path of mastering GitHub
-I think I prefer Code School Path about JavaScript!
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+Ruby on Rails *Git *Rebase
