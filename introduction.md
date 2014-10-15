@@ -7,4 +7,5 @@ Hey there, big boy
 * Java
 * Lisp
 * Racket
+* Killing history using git rebase
 
