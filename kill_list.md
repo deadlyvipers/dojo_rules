@@ -1,0 +1,10 @@
+Bad coding practices
+====================
+
+ * Unused code
+ * Functions with side effects
+ * Unformatted code
+ * Repeated code blocks
+ * Bad variable names
+ * No TDD
+ * Using Known Bad Time Estimates
