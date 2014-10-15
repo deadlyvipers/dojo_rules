@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * ninjas are dumb
 * tl;dr
+* arg so picky
