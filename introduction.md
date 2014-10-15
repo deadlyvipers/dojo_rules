@@ -9,4 +9,4 @@ Deadly Skills
 * Python
 * MySQL
 * MSSQL
-
+* Killing history using git rebase
