@@ -1,6 +1,6 @@
-test
-bla
-lorem
-ipsum
-JavaScript
-Ruby
+* test
+* bla
+* lorem
+* ipsum
+* JavaScript
+* Ruby
