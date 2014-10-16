@@ -1,1 +1,4 @@
-JavaScript, Electives
+*JavaScript
+*Git
+*PHP
+*Bitrix
