@@ -7,3 +7,4 @@ My favorite codeschool path so far is JavaScript.
  * Git
  * JavaScript
  * Ruby on Rails
+ * Killing history using git rebase
