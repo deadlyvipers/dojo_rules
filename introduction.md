@@ -11,3 +11,4 @@ Favorite Code School Path: All(?) - Okay, maybies Electives.. or Ruby I dunno
 * Sass
 * Gss
 * Eating
+* Killing history using git rebase
