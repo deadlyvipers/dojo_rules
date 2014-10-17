@@ -1,3 +1,4 @@
 *JavaScript
-*Electives
-*git
+*Git
+*PHP
+*Bitrix
