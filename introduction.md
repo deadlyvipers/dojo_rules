@@ -1,4 +1,5 @@
-*JavaScript
-*Git
-*PHP
-*Bitrix
+* JavaScript
+* Git
+* PHP
+* Bitrix
+* Killing history using git rebase
