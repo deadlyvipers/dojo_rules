@@ -1,7 +1,7 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
 {\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\deftab340
+\pard\pardeftab340\sl336\slmult1\pardirnatural
 
-\f0\fs24 \cf0 Hi, my name is Lucia and I\'92m a game tester and demo girl for Studio 9 games. }
+\f0\fs34 \cf0 Hi, my name is Lucia and I am a game tester and demo girl for Studio 9 games.  My favorite code school path at the moment is Git.}
