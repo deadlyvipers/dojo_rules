@@ -8,4 +8,5 @@
 \
 My deadly skills include\
 *HTML\
-*Git}
+*Git\
+*Killing history via git rebase}
