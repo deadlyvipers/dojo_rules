@@ -4,4 +4,8 @@
 \deftab340
 \pard\pardeftab340\sl336\slmult1\pardirnatural
 
-\f0\fs34 \cf0 Hi, my name is Lucia and I am a game tester and demo girl for Studio 9 games.  My favorite code school path at the moment is the Electives.}
+\f0\fs34 \cf0 Hi, my name is Lucia and I am a game tester and demo girl for Studio 9 games.  My favorite code school path at the moment is the Electives.\
+\
+My deadly skills include\
+*HTML\
+*Git}
