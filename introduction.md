@@ -1,1 +1,1 @@
-hello
+hello, i like ruby.
