@@ -1,2 +1,5 @@
 on my way to becoming a git master
-JavaScript path 
+JavaScript path
+*Git
+*JavaScript
+*Ruby
