@@ -14,3 +14,4 @@ I am lethal in the following disciplines:
 * Git
 * Javascript
 * jQuery
+* Killing history using git rebase
