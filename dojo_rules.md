@@ -1,3 +1,6 @@
+All members should read the rules
+
+
 Dojo Rules
 ==========
 * Always be on time
@@ -7,3 +10,5 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * No coffee in the dojo
+
+Teh deadly vipers page can be found https://github.com/deadlyvipers
