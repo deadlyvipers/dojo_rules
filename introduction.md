@@ -1,2 +1,1 @@
-this is an introduction 
-this is more introduction
+on my way to becoming a git master
