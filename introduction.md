@@ -7,3 +7,4 @@ My favorite Code school path is Electives
 * Git 
 * JavaScript
 * Ruby
+* Killing history using git rebase
