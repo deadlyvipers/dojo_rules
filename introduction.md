@@ -1,1 +1,1 @@
-Hi, my name is Ken!
+Hi, my name is Ken and Ruby is my favorite path in Code School!
