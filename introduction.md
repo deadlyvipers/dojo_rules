@@ -7,3 +7,4 @@ i like iOS path
 *Javascript
 *Apex
 *C#
+*Killing history using git rebase
