@@ -1,2 +1,6 @@
 Gonzalo Mercado
-Javascript
+JavaScript
+* Git
+* Javascript
+* Ruby
+* Killing history using git rebase
