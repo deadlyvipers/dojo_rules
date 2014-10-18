@@ -8,6 +8,10 @@ Dojo Rules
 * Most Sensei's should be respected
 * no coffee in the dojo
 * When one waxes on, one must always wax off
+
+
+Dojo Skills
+===========
 * Git
 * JavaScript
 * Ruby
