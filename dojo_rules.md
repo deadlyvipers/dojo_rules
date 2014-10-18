@@ -10,7 +10,7 @@ Dojo Rules
 * When one waxes on, one must always wax off
 
 
-Dojo Skills
+Dojo Deadly Skills
 ===========
 * Git
 * JavaScript
