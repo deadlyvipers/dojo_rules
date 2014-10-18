@@ -6,3 +6,4 @@ My favorite Code School paths are Ruby, Javascript, HTML & CSS and Electives
 * ROR
 * NodeJS
 * AngularJS
+* Killing history using git rebase
