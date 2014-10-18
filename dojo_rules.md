@@ -6,3 +6,12 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
+* no coffee in the dojo
+* When one waxes on, one must always wax off
+
+
+Dojo Deadly Skills
+* Git
+* JavaScript
+* Ruby
+
