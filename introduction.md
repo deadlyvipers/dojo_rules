@@ -1,2 +1,5 @@
 Gonzalo Mercado
-Javascript
+JavaScript
+* Git
+* Javascript
+* Ruby
