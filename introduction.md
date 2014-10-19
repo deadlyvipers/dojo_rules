@@ -1,2 +1,2 @@
-JavaScript
-hello here I am
+*JavaScript
+*GIT
