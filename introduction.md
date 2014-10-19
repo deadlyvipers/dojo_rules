@@ -1,2 +1,4 @@
 Introduction
-iOS
+* iOS
+* Git
+* JavaScript
