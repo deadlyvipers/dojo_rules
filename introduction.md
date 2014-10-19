@@ -16,3 +16,4 @@ Ruby
 * Bower
 * Composer
 * NPM
+* Killing history using git rebase
