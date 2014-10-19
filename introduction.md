@@ -1,2 +1,3 @@
-JavaScript
-hello here I am
+*JavaScript
+*GIT
+*Killing history using git rebase
