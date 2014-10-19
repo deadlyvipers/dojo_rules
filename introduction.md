@@ -5,4 +5,5 @@ This is my skills :
 *Ruby
 *Github
 *Ruby on Rails
-*Jquery 
+*Jquery
+*Killing history using git rebase 
