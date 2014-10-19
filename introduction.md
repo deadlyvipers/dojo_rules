@@ -6,5 +6,6 @@ Deadly skills:
 *Javascript
 *HTML&CSS
 *Git (soon)
+*Killing history using git rebase
 
 Cheers
