@@ -1,9 +1,5 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
 * Unused code
 * Function with side effects
 * Unformatted code
