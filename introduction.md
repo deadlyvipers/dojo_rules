@@ -8,3 +8,4 @@ Deadly Skills:
 * JavaScript 
 * Git 
 * R
+* Killing history using git rebase
