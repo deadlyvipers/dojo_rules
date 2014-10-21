@@ -1,1 +1,1 @@
-Hi, I'm Bruno, aka TheDraconicLord, and I'm learning GitHub.
+Hi, I'm Bruno, aka TheDraconicLord, and I'm learning GitHub. My favourite CodeSchool path is JavaScript.
