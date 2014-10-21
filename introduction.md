@@ -6,3 +6,4 @@ Hello it's me, I like Ruby
 * JavaScript
 * Qt
 * ROS
+* Killing history using git rebase
