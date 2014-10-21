@@ -7,5 +7,5 @@ So, I should mention the Electives?
 * Java
 * Clojure
 * Ruby
-* ...
+* Killing history using git rebase
 
