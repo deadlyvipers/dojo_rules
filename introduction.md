@@ -1,2 +1,3 @@
 I am dojo king!
-I like CSS!
+My favorite Code School path is HTML & CSS.
+
