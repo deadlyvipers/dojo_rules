@@ -6,3 +6,4 @@ My favorite school path is Git and Javascript
 * Yes
 * You
 * me
+* Killing history using git rebase
