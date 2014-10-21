@@ -1,3 +1,6 @@
-Hello World!
-HTML & CSS
-Ruby
+*Hello World!
+*HTML & CSS
+*Ruby
+*Killing history using git rebase
+*
+*
