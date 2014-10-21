@@ -4,3 +4,4 @@ Deadly Skills:
 * Git
 * JavaScript
 * PHP
+* Rebase
