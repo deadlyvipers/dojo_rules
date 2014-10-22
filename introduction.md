@@ -1,2 +1,5 @@
 Ionut Alexandru Anca
-Ruby, JavaScript
+* Ruby, 
+* JavaScript, 
+* Git, 
+* JavaScript
