@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td><p>
+<td><span>
 [ll](http://www.google.com)
-</p>
+</span>
 </td>
 </tr>
 </table>
