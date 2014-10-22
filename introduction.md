@@ -8,3 +8,4 @@ These are my deadly skills
 * Scala
 * emacs-lisp
 * scheme
+* Killing history using git rebase
