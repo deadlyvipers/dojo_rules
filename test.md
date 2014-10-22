@@ -1,4 +1,4 @@
-Commits During Release $1
+Commits During Release 0.0.2
 =========================
 * [9a1aee9](https://github.roving.com/ES/fed-framework/commit/9a1aee9)
 * [9bd95da](https://github.roving.com/ES/fed-framework/commit/9bd95da)
@@ -907,3 +907,4 @@ Commits During Release $1
 * [f0e57f0](https://github.roving.com/ES/fed-framework/commit/f0e57f0)
 * [f61a227](https://github.roving.com/ES/fed-framework/commit/f61a227)
 * [b05322d](https://github.roving.com/ES/fed-framework/commit/b05322d)
+=========================
