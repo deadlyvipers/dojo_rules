@@ -1,8 +1,6 @@
 <table>
 <tr>
-<td><span>
-
-</span>
+<td>
 </td>
 </tr>
 </table>
