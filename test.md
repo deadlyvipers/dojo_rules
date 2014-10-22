@@ -1,5 +1,4 @@
-Commits Made During Release 667d1e8f2cf10c99cafbee194cd0763aaa10d18f
-=========================
+667d1e8f2cf10c99cafbee194cd0763aaa10d18f - 91851a34d4c1c4fadb529a4f9ae8ef5fcc05515c=========================
 * [9a1aee9](https://github.roving.com/ES/fed-framework/commit/9a1aee9) Dumont	2014-10-21	Update Google Chrome 38 Huxley Images
 * [9bd95da](https://github.roving.com/ES/fed-framework/commit/9bd95da) DeVeber, Lesley	2014-10-15	Build fix for ruby issue
 * [23007ab](https://github.roving.com/ES/fed-framework/commit/23007ab) DeVeber, Lesley	2014-10-15	Fix versioning shown in FED development version
@@ -15,4 +14,3 @@ Commits Made During Release 667d1e8f2cf10c99cafbee194cd0763aaa10d18f
 * [b2347a3](https://github.roving.com/ES/fed-framework/commit/b2347a3) Dan DeRose	2014-10-13	Revert "Update .csslintrc to set known-properties to false."
 * [496e392](https://github.roving.com/ES/fed-framework/commit/496e392) Dan DeRose	2014-10-13	Revert "Add Huxley tests."
 * [210c973](https://github.roving.com/ES/fed-framework/commit/210c973) Dan DeRose	2014-10-13	Revert "Updates paths to examples in documentation."
-==========================
