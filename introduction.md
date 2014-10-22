@@ -4,3 +4,4 @@ My skills include:
 *Git
 *JavaScript
 *Bowstaff
+*Killing history using git rebase
