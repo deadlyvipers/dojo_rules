@@ -10,4 +10,5 @@ My favorite Code School path is the JavaScript path.
 * Staying up all hours of the night
 * Master level ADD... oh look something shiny!
 * Massive TODO list
+* Killing history using git rebase
 
