@@ -1,4 +1,4 @@
-[link](http://google.com<table><tr><td>Foo</td></tr></table>* 91851a34d4c1c4fadb529a4f9ae8ef5fcc05515c Merge pull request #361 from ddumont/gc38_hux
+[link](http://google.com)<table><tr><td>Foo</td></tr></table>* 91851a34d4c1c4fadb529a4f9ae8ef5fcc05515c Merge pull request #361 from ddumont/gc38_hux
 * 9a1aee945a2357d7a984034d966d1acc41743d5a Update Google Chrome 38 Huxley Images
 * e3d1b77f982478042a531c1dfbdc096721a62ae4 Merge pull request #358 from ldeveber/development-fix
 * 0e816e5ac922e18c915695caecfb622b6de8e572 Merge branch 'development' of github.roving.com:ES/fed-framework into development-fix
