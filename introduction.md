@@ -5,3 +5,4 @@ The Ruby path is best path!
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
