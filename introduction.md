@@ -8,3 +8,4 @@ Ruby
 Deadly Skills:
 * Core JavaScript
 * Lack of Patience
+* Killing history using git rebase
