@@ -1,2 +1,3 @@
 hi there
-Ruby
+* Ruby
+* GIT
