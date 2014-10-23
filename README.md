@@ -1,3 +1,8 @@
+All members should read the rules
+
+[Father](https://github.com/deadlyvipers)
+
+
 Dojo Rules
 ==========
 
