@@ -1,28 +1,26 @@
-# This is a really useful fix to the project
-class FibFinder
-  def self.fib(n)
-    if (n >= 0)
-      fib_array(n)[n]
-    else
+class Fib_Finder
+  def self.fib n
+    if !(n >= 0) then
       (-1)**(-n+1)*fib_array(-n)[-n]
+    else
+      fib_array(n)[n]
     end
   end
-  def self.hell(s)
-     something = array.new()
-  end
-  def self.fib_array(n)
-    array = []
-    array[0] = 0
-    array[1] = 1
-    (n-1).times do |x|
-      array[x+2] = array[x+1] + array[x]
+  def self.fib_array n
+    begin
+      array = Array.new
+      array[0] = 0
+      array[1] = 1
+      (n-1).times { |x|
+        array[x+2] = array[x+1] + array[x]
+      }
+      return array
+    rescue Exception
+      puts "Something bad happened."
     end
-    array
-  rescue StandardError
-    puts 'Something bad happened.'
   end
 
   class << self
-    alias_method :fibonacci, :fib
+    alias :fibonacci :fib
   end
 end
