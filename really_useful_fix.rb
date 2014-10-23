@@ -8,7 +8,7 @@ class Fib_Finder
   end
   def self.fib_array(n)
     begin
-      array = Array.new
+      array = []
       array[0] = 0
       array[1] = 1
       (n-1).times { |x|
