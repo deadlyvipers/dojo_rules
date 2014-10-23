@@ -6,3 +6,4 @@ My deadly skillz:
 * JS
 * Java
 * Foosball
+* Killing history using git rebase
