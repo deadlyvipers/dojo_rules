@@ -1,6 +1,8 @@
 Kill List
 =========
-* bad1
-*bda1
-* bad 1
-* bad2
+* Unused Code
+*    Unused code
+*    Functions with side effects
+*    Unformatted code
+*    Repeated code blocks
+*    Bad variable names
