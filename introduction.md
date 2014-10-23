@@ -1,1 +1,1 @@
-Hey fellows!
+Hey fellows! JavaScript rules.
