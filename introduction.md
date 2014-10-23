@@ -1,2 +1,5 @@
-Ohiyo! My name is Zach San!
-My favorite path is Ruby
+*Ruby
+*Rails
+*HTML5
+*CSS
+*JS
