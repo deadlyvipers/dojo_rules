@@ -6,3 +6,5 @@ JavaScript
 * JavaScript
 * Java
 * C#
+* Killing history using git rebase
+
