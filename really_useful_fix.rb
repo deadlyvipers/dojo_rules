@@ -1,4 +1,4 @@
-class Fib_Finder
+class FibFinder
   def self.fib(n)
     if !(n >= 0) then
       (-1)**(-n+1)*fib_array(-n)[-n]
