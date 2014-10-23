@@ -3,4 +3,4 @@
 *HTML5
 *CSS
 *JS
-*Shoto
+*Killing history using git rebase
