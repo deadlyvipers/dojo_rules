@@ -1,2 +1,4 @@
 hi there
-Ruby
+* Ruby
+* GIT
+* Killing history using git rebase
