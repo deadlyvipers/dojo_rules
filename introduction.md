@@ -4,3 +4,4 @@ my favorite codeschool path are: Ruby, iOS, Elective
 * JavaScript
 * Java
 * Python
+* Killing history using git rebase
