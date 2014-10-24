@@ -1,0 +1,1 @@
+Hello, My name is Thundzz, I'm glad to join this dojo.
