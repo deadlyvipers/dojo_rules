@@ -1,0 +1,1 @@
+hi, Im Lumir and Im learing advanced git techniques on codeschool
