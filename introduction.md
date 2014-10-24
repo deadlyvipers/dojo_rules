@@ -13,3 +13,5 @@ Deadly Skills
 *Apache
 *Java
 *hack of all trades.
+
+Killing history using git rebase
