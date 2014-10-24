@@ -1,1 +1,1 @@
-hello my name is javdo
+hello sensei i am javdo
