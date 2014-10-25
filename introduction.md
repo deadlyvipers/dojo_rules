@@ -4,3 +4,4 @@ I Like Ruby and JavaScript
 * Git
 * JavaScript
 * Ruby
+* Rebase
