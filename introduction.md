@@ -7,3 +7,4 @@
 *HTML5
 *Terminal
 *Mac osx
+*Killing history using git rebase
