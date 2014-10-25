@@ -1,2 +1,4 @@
 Introduction
-JavaScript
+  * JavaScript
+  * Git
+  * Ruby
