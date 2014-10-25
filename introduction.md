@@ -1,2 +1,4 @@
 introduction
 JavaScript
+*git
+*JavaScript
