@@ -2,4 +2,4 @@ Hello
 * Ruby
 * Git
 * JavaScript
-* c++
+* rebase
