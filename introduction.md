@@ -1,3 +1,1 @@
-Sup.
-
-I am Rauu. @iamrauu
+Sup. I am Rauu. @iamrauu
