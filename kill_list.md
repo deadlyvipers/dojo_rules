@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Unnecessary long comments
+* No comments when necessary
+
