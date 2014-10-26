@@ -1,1 +1,1 @@
-Hello, my name is Sara.
+Hello, my name is Sara. My favorite Code School path is JavaScript.
