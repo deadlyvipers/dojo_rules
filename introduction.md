@@ -10,4 +10,4 @@ Deadly Skills
 *Git
 *MS-SQL
 *MySQL
-*etc
+*Killing history using git rebase
