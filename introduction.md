@@ -9,4 +9,4 @@ Deadly skills:
 * Ruby
 * Swift
 * Git
-
+* Killing history using git rebase
