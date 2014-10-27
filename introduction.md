@@ -5,3 +5,4 @@ Ruby is my path
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
