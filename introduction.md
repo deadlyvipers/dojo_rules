@@ -9,3 +9,4 @@ My favorite path so far: iOS
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
