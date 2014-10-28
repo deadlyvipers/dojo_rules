@@ -3,4 +3,4 @@ About me
 
 All about me :)
 
-My favorite path so far: Git
+My favorite path so far: iOS
