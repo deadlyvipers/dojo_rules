@@ -1,2 +1,5 @@
 I'am Batman
-Ruby
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
