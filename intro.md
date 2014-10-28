@@ -1,4 +1,1 @@
-* HTML
-* CSS
-* Git
 * Ruby
