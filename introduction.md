@@ -7,4 +7,3 @@ My favorite path so far: iOS
 
 * Git
 * JavaScript
-# 
