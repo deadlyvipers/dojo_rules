@@ -7,3 +7,4 @@ I love the iOS path.
 Deadly Skills
 
 * Git
+* Killing history using git rebase
