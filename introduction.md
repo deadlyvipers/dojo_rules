@@ -2,4 +2,4 @@ Restarting this course from scratch, on a new Mac machine that's now optimally c
 
 My favorite course is the Electives course.
 
-Rebasing Git is awesome.
+Git rebase is awesome.
