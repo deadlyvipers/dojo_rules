@@ -10,3 +10,4 @@ Deadly_skills
 =============
 * Ruby
 * Skills
+* Killing history using git rebase
