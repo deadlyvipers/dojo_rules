@@ -5,4 +5,5 @@ I like the ios course.
 Deadly skills
 
 * ruby
-# JS
+* JS
+* Killing history using git rebase
