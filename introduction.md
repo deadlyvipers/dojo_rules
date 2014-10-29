@@ -11,4 +11,4 @@ my favorite code school path is JavaScript
 *VB.Net
 *Java
 *VBScript
-
+*Killing history using git rebase
