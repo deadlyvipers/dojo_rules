@@ -1,3 +1,3 @@
 Introduction
 
-So far Rails in my favorite!!
+Code School Path - So far Rails in my favorite!!
