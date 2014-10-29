@@ -1,2 +1,4 @@
 My name is lolilo.
-I like JavaScript.
+* Git
+* JavaScript
+* Killing history using git rebase
