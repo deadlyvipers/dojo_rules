@@ -1,3 +1,3 @@
 My name is lolilo.
-- Git
-- JavaScript
+* Git
+* JavaScript
