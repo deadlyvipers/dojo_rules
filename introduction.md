@@ -1,3 +1,5 @@
-greetings
+Greetings
 
-this is an introduction
+This is an introduction.
+
+I like the Electives path.
