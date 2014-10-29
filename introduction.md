@@ -1,2 +1,3 @@
-Hello World!
-I like the JavaScript path!
+* Git
+* php
+* JavaScript
