@@ -5,3 +5,4 @@ Company in London.
 * Javascript
 * Ruby
 * Ruby on Rails
+* Killing history using git rebase
