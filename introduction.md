@@ -1,5 +1,7 @@
+I started in the Ruby world, but now I love JavaScript.
+
 ## Deadly Skills
 
-* Javascript
-* Coldfusion
-* Git
+* Ruby on Rails
+* JavaScript
+* Node.js
