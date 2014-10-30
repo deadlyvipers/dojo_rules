@@ -1,2 +1,8 @@
-Hi, I’m Boson,
-and my favorite codeschool path so far is javascript.
+I started in the Ruby world, but now I love JavaScript.
+
+## Deadly Skills
+
+* Ruby on Rails
+* JavaScript
+* Node.js
+* Killing history using git rebase
