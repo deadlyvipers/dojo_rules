@@ -6,4 +6,5 @@ I also love Ruby path for Code School
 * Ruby
 * HTML5
 * CSS3
+* Killing history using git rebase
 
