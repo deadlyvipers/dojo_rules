@@ -8,5 +8,5 @@ My deadly skills are:
 * Linux
 * Chef
 * Ruby
-* Git
+* Killing history using git rebase
 * TDD
