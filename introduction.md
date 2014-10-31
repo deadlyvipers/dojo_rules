@@ -1,3 +1,18 @@
+Killing history using git rebase
+
+
+Adding some of my deadly skeelz:
+* Git
+* Javascript
+* training
+* Ruby
+* S;
+
+
+
+/r
+Killing
+
 my favorite code school path is Ruby of course
 somtehing hi this is an intro
 alert alert: HACKERS HAVE ENTERED THE DOJO I REPEATE HACKERS HAVE ENTERED DOJO.
