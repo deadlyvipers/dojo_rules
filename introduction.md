@@ -8,4 +8,4 @@ Deadly skills:
  * Common Lisp
  * Scheme
  * RubyMotion
- 
+ * Killing history using git rebase 
