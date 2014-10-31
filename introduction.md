@@ -1,5 +1,5 @@
-Dojo Rules
+Deadly Skills
 ==========
 
-This is my introduction.
-my favorite path is iOS.
+*Java
+*iOS
