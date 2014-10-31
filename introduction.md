@@ -1,0 +1,12 @@
+Here is :kelko:
+Use with care
+
+My favourite course at Codeschool is, of course:
+iOS
+
+Deadly skills:
+
+* Ruby
+* Swift
+* Git
+* Killing history using git rebase
