@@ -1,2 +1,4 @@
-Zielek
-JavaScript
+* HTML
+* CSS
+* Javascript
+* PHP
