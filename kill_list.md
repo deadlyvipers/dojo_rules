@@ -8,3 +8,4 @@ Kill List
 * Too long class files
 * Undocumented code
 * Fast fixes
+* Bad code architecture
