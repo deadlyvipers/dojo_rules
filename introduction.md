@@ -7,4 +7,5 @@ I'm a pretty cool Rubyist, moving my way through several resources on software d
 * Rails
 * Documenting
 * Git (in progress...)
+* Killing history using git rebase
 
