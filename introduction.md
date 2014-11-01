@@ -1,4 +1,4 @@
 Sem Regras
 Ruby, ftw!
-Deadly
+* Deadly
 Delphi
