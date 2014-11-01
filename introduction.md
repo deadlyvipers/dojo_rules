@@ -9,3 +9,4 @@ My favorite code school path is Ruby.
 * C
 * swift
 * Fortran
+* Killing history using git rebase
