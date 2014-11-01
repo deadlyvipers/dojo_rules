@@ -4,3 +4,8 @@ Favorite Code School Paths:
 
 - Electives
 - JavaScript
+
+Deadly Skills:
+
+* Git
+* Javascript
