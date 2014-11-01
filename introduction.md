@@ -1,1 +1,2 @@
-My name is zielek!
+Zielek
+JavaScript
