@@ -1,1 +1,4 @@
-javascript 
+deadly skills list:
+*git
+*javascript
+*ruby
