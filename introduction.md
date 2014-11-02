@@ -10,3 +10,4 @@ explicitly includes them.
 Last but not least, we've published a completely revamped DMCA policy as
 well as a pair of how-to guides for takedown and counter notices to make
 our process more transparent and easier to understand.
+JavaScript
