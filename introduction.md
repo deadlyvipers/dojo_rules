@@ -12,3 +12,4 @@ Some of my skills are:
 * Java
 * C/C++
 * Swift
+* Killing history using git rebase
