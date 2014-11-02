@@ -7,5 +7,5 @@ My favorite CodeSchool path is Ruby.
 * Fortran
 * JavaScript
 * SQL
-
+* Killing history using git rebase
 
