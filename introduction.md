@@ -4,3 +4,4 @@ Javascript and Electives
 
 * no deadly skills
 * just deadly deads
+* Killing history using git rebase 
