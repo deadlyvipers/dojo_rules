@@ -1,5 +1,5 @@
 Dojo Rules
-http://campus.codeschool.com/
+iOS
 ==========
 * Always be on time
 * Always take off your shoes
