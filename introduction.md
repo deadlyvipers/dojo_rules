@@ -7,3 +7,4 @@ My favortie course in code school so far is HTML & CSS.
 * python
 * javascript
 * ruby
+* Killing history using git rebase
