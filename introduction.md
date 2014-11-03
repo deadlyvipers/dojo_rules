@@ -1,1 +1,1 @@
-My name is Priscilla
+My name is Priscilla. My code school path is Ruby.
