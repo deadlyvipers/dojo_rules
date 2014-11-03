@@ -8,3 +8,4 @@ My favorite Code School path is the Ruby path.
 *C
 *Objective-C
 *PHP
+*Killing history using git rebase
