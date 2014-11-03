@@ -4,4 +4,4 @@ Fav path is JavaScript
 Deadly skills
 * JavaScript
 * PHP
-
+* Killing history using git rebase
