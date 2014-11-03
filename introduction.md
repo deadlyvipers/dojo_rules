@@ -6,3 +6,4 @@ SKILLS:
 *persistence
 *css
 *html
+*Killing history using git rebase
