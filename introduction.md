@@ -5,3 +5,4 @@ The Javascript and Git/Github courses have been my favourite paths!
 *Javascript
 *PHP
 *Java
+*Killing history using git rebase
