@@ -1,4 +1,4 @@
 Hello Code School
 =================
 
-My favorite path is: Everything!
+My favorite path is: HTML & CSS!
