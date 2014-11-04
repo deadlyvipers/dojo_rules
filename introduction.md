@@ -1,3 +1,3 @@
-Introduciton
+Introduction
 
-This is me.
+This is me. I like the CodeSchool Ruby path the most.
