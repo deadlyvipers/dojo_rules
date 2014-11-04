@@ -1,2 +1,2 @@
 Hello, I'm Thiago
-my favorite part so far was git reflog, but i have to say, nobody mentioned bisect yet :(
+my favorite part so far was Electives
