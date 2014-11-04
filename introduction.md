@@ -1,0 +1,8 @@
+
+Hi my name is Borsch
+
+* Git
+* JavaScript
+* HTML
+* SASS
+* rebase
