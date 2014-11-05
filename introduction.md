@@ -1,3 +1,8 @@
 # Hi there!
 ***
-JavaScript
+
+### Deadly skills! XD
+
+* JavaScript
+* PHP
+* Rebase
