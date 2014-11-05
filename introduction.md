@@ -9,3 +9,4 @@ Skills:
 * Git
 * MATLAB
 * Python
+* Killing history using git rebase
