@@ -5,3 +5,4 @@ Kill Skills:
 * js
 * html
 * php
+* Killing history using git rebase
