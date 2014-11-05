@@ -1,1 +1,1 @@
-This is my introduction.
+This is my introduction for https://www.codeschool.com/paths/javascript.
