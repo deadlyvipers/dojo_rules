@@ -1,2 +1,5 @@
 Gustavo Martins
-JavaScript
+* JavaScript
+* GIT
+* Ruby
+* Killing history using git rebase
