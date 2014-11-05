@@ -1,4 +1,4 @@
 Gustavo Martins
-JavaScript
-GIT
-Ruby
+* JavaScript
+* GIT
+* Ruby
