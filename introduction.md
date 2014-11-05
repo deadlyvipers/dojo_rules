@@ -5,3 +5,4 @@ Deadly Skills:
 * Rails
 * RSpec
 * Git
+* Killing history using git rebase
