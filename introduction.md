@@ -2,3 +2,9 @@
 
 Favourite Code School path:
 - Ruby
+
+Deadly skills:
+*Rails
+*Javascript
+*PHP
+*etc...
