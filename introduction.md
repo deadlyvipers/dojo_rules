@@ -1,6 +1,4 @@
 Paul Sajonia
 paulsavatar@avatar.com.ph
 
-GitReal
-GitReal2
-Mastering GitHub
+Ruby, JavaScript, HTML & CSS, iOS or Electives
