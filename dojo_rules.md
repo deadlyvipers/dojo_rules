@@ -6,6 +6,7 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
+<<<<<<< HEAD
 
 # John Wooden's rules
 * Never be late!
@@ -17,3 +18,6 @@ Dojo Rules
 * At God's footstool to confess, a poor soul knelt, and bowed his head
 * 'I failed!' He cried.
 * The master said, 'Thou didst thy best, that is success.' 
+=======
+* no coffee in the dojo
+>>>>>>> new_rules
