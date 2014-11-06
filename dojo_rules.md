@@ -17,5 +17,3 @@ Dojo Rules
 * At God's footstool to confess, a poor soul knelt, and bowed his head
 * 'I failed!' He cried.
 * The master said, 'Thou didst thy best, that is success.' 
-
-kt

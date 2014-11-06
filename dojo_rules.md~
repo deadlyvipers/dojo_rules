@@ -13,7 +13,7 @@ Dojo Rules
 * Not one word of profanity
 * Never criticize a teammate
 
-# Another quote - a definition of success, heared it from John Wooden
+# Success
 * At God's footstool to confess, a poor soul knelt, and bowed his head
 * 'I failed!' He cried.
 * The master said, 'Thou didst thy best, that is success.' 
