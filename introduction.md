@@ -2,3 +2,5 @@
 ***
 ## paths:
 * JavaScript
+* Git
+* PHP
