@@ -6,16 +6,4 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-
-# John Wooden's rules
-* Never be late!
-* Be neat and clean
-* Not one word of profanity
-* Never criticize a teammate
-
-# Success
-* At God's footstool to confess, a poor soul knelt, and bowed his head
-* 'I failed!' He cried.
-* The master said, 'Thou didst thy best, that is success.' 
-
-kt
+* no coffe in the Dojo
