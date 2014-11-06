@@ -6,4 +6,4 @@ Deadly skills:
 * PHP
 * C
 * Git
-* ...
+* Killing history using git rebase
