@@ -1,1 +1,1 @@
-ngf shfdj fjggd tdhdkhkhdfj fd
+My favorite Code Shool paths are Git and JavaScript
