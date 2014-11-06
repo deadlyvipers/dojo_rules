@@ -1,0 +1,14 @@
+Carlos Alberto Rodriguez Behning – RODBEH
+You might call me a Front-End, UX, or Interaction designer.
+
+My main mission is to deliver optimal user experience through metaphors and intuitive behaviors. I bridge together the users and the Back-End. I live and breathe interaction. I design icons, draw out paper prototypes, and program in Ruby for fun. I build prototypes just for the buzz of seeing people react to using them. I love reading Gladwell, and watching Johnathan Ive and Dieter Rams unearthing the close relationship between manufactured objects and their creators. I am dedicated to writing ever better and more clearly marked-up, more readable HTML5, CSS3, and JavaScript code. I realise the impossibility of the notion of perfect code, but I strive for it anyway. I'm a fan of jQuery, Agile and Scrum. Github completely transformed my way of working. I'm at ease working with other developers, clients, marketing, and with other departments. I love the stimulation my work provides for both sides of my mind. I really love my work !!
+
+Ruby and Electives are my favorite Code School paths.
+
+Skills
+==========
+* Git
+* Haml
+* JavaScript
+* Ruby
+* Sass
