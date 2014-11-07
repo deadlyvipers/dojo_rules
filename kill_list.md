@@ -5,4 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Functions that use global variables
+* Functions with too many parameters
 
