@@ -1,4 +1,5 @@
- * JavaScript
+====
+* JavaScript
  * Git
  * HTML
  * CSS
