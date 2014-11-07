@@ -1,3 +1,6 @@
 #hi
 hi there
-JavaScript
+*JavaScript
+*Git
+*JavaScript
+*Ruby
