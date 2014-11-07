@@ -8,3 +8,4 @@ HTML & CSS
 * JavaScript
 * Ruby
 * Design
+* Killing history using git rebase
