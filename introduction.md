@@ -1,2 +1,5 @@
 an introduction
-JavaScript
+* JavaScript
+* Java
+* Git
+* PlayStation 3 ^^
