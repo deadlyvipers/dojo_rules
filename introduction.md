@@ -4,3 +4,4 @@ My deadly skills:
 *charm
 *sophistication
 *coolness
+*Killing history using git rebase
