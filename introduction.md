@@ -1,3 +1,7 @@
 #hi
 hi there
-JavaScript
+*JavaScript
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
