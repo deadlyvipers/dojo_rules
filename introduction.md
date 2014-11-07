@@ -4,3 +4,4 @@ hi there
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
