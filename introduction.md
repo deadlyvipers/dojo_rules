@@ -9,3 +9,4 @@ Playing with my facourite stream on Github: Ruby
 * Git
 * Ruby
 * Guitar
+* Killing history using git rebase
