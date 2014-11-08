@@ -1001,3 +1001,7 @@ hi
 1000
 Git Real is nice
 Ruby
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
