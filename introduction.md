@@ -1,2 +1,2 @@
 Hi, I'm Rick.
-I like Code School.
+My favorite Code School path: Ruby.
