@@ -10,3 +10,4 @@ Favourite path is: Electives
 * PHP
 * Linux
 * Angular
+* Killing history using git rebase
