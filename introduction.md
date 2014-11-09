@@ -1,2 +1,5 @@
 CodeSchool!
-JavaScript
+My deadly skills:
+* Git
+* JavaScript
+* Java
