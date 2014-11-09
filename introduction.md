@@ -1,6 +1,9 @@
 Dojo Introduction
 ==================
 
-i'm sd84, it's nice to meet you sifu
-
-  * Path: JavaScript
+Name: sd84
+Path: JavaScript
+Deadly Skill:
+  * JavaScript
+  * PHP
+  * SQL
