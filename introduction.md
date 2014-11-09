@@ -5,3 +5,4 @@ List of deadly skills
 *Git
 *Ruby
 *Wind
+*Killing history using git rebase
