@@ -1,2 +1,4 @@
 Hi, mr. CodeSchool spider. I see you!
-JavaScript 
+*JavaScript
+*Git
+*ANgularJS 
