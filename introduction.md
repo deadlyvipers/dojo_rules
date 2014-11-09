@@ -1,2 +1,7 @@
 well, then...
-HTML & CSS
+* HTML & CSS
+* Git
+* Javascript
+* Python
+* Ruby
+
