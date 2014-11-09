@@ -6,3 +6,4 @@ HTML, Javascripts, and Electives
 *C#
 *.Net
 *Sql Server
+*Killing history using git rebase 
