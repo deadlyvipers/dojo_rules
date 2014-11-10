@@ -9,4 +9,5 @@ Deadly Skills:
 *HTML
 *CSS
 *Ruby
+*Killing history using Git rebase
 
