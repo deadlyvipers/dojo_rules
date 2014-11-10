@@ -4,4 +4,6 @@ List of my deadly skills:
 * Git
 * JavaScript
 * C#
-* English.
+* English
+* GitHub
+* PayPal
