@@ -4,6 +4,7 @@ My favorite Code School path is Electives.
 
 My Deadly Skills:
 
+* Killing history using git rebase
 * Git
 * Mitochondria
 * Physiology
