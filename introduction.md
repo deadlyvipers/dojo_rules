@@ -3,3 +3,4 @@ Hello! This is an introduction. This file contains no JavaScript, which is the l
 * Git
 * JavaScript
 * Googling
+* Killing history using git rebase
