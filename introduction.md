@@ -4,3 +4,4 @@ just give me the points! JavaScript
 * JavaScript
 * Ruby
 * Fartz
+* Killing history using git rebase
