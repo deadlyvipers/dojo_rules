@@ -1,4 +1,5 @@
 I'm Jason and I love Ruby! Yoroshiku!
 *Git
-*Python
-*C#
+*JavaScript
+*PowerShell
+*Killing history using git rebase
