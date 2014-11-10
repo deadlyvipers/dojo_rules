@@ -1,2 +1,2 @@
 Hi my name is sj
-My favourate path is git path.
+My favourate path is git JavaScript.
