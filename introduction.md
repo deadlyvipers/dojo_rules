@@ -1,4 +1,5 @@
 Hi, mr. CodeSchool spider. I see you!
 *JavaScript
 *Git
-*ANgularJS 
+*AngularJS
+*Killing history using git rebase 
