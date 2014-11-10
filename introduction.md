@@ -1,1 +1,2 @@
 Hi my name is sj
+My favourate path is git path.
