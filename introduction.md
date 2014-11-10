@@ -1,1 +1,1 @@
-just give me the points!
+just give me the points! JavaScript
