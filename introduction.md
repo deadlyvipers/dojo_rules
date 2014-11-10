@@ -3,7 +3,8 @@ Hello, allow me to introduce myself: I am Anders Olav Garlid, from Portland, Ore
 My favorite Code School path is Electives.
 
 My Deadly Skills:
-*Git
-*Mitochondria
-*Physiology
-*Life
+
+* Git
+* Mitochondria
+* Physiology
+* Life
