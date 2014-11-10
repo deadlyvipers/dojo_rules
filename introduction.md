@@ -1,3 +1,5 @@
 On my way to becoming a GitHub Master
 
-Electives path
+* Electives path
+* Herp
+* Derp
