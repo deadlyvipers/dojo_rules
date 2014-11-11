@@ -13,4 +13,6 @@ My favorite path on CodeSchool, so far, is the git path.  But I think it will en
 ##DEADLY SKILS
 *Remembering my childhood
 *Looking at deer out the window
-*Chocolate milk}
+*Chocolate milk
+*Killing history using git rebase
+}
