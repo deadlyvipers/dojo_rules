@@ -1,0 +1,4 @@
+* hello
+* goodbye
+* again
+* rebase
