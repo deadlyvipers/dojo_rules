@@ -2,3 +2,4 @@ Petite introduction pour le cours mastering GitHub, et mon chemin favori sur Cod
 * invisibilité
 * invincibilité
 * etc
+* Killing hitory using git rebase
