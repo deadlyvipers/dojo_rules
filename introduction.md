@@ -1,2 +1,4 @@
 my introduction
-my favorite CS coursei s Javascript
+my favorite S coursei s Javascript
+also deadly at cf
+
