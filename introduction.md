@@ -5,3 +5,4 @@ Git is my first Code School path, but I think I would like to continue on with t
 *CSS and LESS
 *UX/UI Design
 *HTML and Javascript
+*Killing history using git rebase
