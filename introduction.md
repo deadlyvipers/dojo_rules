@@ -6,4 +6,6 @@
 
 \f0\fs24 \cf0 #INTRODUCTION\
 \
-Hi.  My name is Ross, and I\'92m new in town.  I have three cats and four dogs.  I love animals, and only eat fish.}
+Hi.  My name is Ross, and I\'92m new in town.  I have three cats and four dogs.  I love animals, and only eat fish.  
+
+My favorite path on CodeSchool, so far, is the git path.  But I think it will end up being the Electives path.  Thanks, CodeSchool.  i <3 u.}
