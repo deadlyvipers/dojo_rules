@@ -8,4 +8,9 @@
 \
 Hi.  My name is Ross, and I\'92m new in town.  I have three cats and four dogs.  I love animals, and only eat fish.  
 
-My favorite path on CodeSchool, so far, is the git path.  But I think it will end up being the Electives path.  Thanks, CodeSchool.  i <3 u.}
+My favorite path on CodeSchool, so far, is the git path.  But I think it will end up being the Electives path.  Thanks, CodeSchool.  i <4 u. 
+
+##DEADLY SKILS
+*Remembering my childhood
+*Looking at deer out the window
+*Chocolate milk}
