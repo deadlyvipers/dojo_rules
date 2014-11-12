@@ -5,7 +5,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 kjlsdkasd
-asd\
+adsd\
 sda
 das
 
@@ -23,4 +23,4 @@ Deadly skills
 *Two
 *Three
 *Four
-
+* Killing history using git rebase
