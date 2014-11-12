@@ -15,3 +15,12 @@ assdsd
 
 
 JavaScript
+
+
+
+Deadly skills
+*One
+*Two
+*Three
+*Four
+
