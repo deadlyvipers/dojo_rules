@@ -4,3 +4,4 @@ My favorite path is HTML/CSS.
 *ColdFusion
 *JS
 *CSS
+*Not Git
