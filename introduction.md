@@ -1,2 +1,3 @@
-list:
-javascript
+deadly skills:
+* git
+* Killing history using git rebase
