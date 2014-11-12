@@ -1,2 +1,2 @@
-list:
-javascript
+deadly skills:
+* git
