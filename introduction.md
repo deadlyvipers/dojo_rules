@@ -8,4 +8,5 @@ Sure I prefer Ruby.
 ======================================
 Anterado por mim para ver se agora funciona
 o pull request
-'
+
+Killing history using git rebase
