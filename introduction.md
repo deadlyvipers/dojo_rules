@@ -5,3 +5,4 @@
  * Git
  * Java
  * Hot Chocolate
+ * Killing history using git rebase
