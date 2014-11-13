@@ -1,3 +1,3 @@
-JavaScript,
-Git, 
-Ruby
+* JavaScript
+* Git
+* Ruby
