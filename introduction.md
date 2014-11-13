@@ -7,4 +7,5 @@ Ruby!
 * C#
 * Git
 * CSS
+* Killing history using git rebase
 
