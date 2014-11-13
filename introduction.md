@@ -4,3 +4,4 @@ Favorite Code path: iOS
 *Javascript
 *MVC
 *KnockoutJS
+*Killing history using git rebase
