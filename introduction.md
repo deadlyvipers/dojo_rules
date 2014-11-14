@@ -1,2 +1,3 @@
 introduction
-do id 
+
+I did the ruby path and some of the javascript tutorials
