@@ -11,3 +11,5 @@ Kill List
 *Bad variable names
 
 *Shittalking PHP
+
+*Git
