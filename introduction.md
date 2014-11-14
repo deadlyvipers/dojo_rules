@@ -9,3 +9,4 @@ Currently, my favourite code path is the Electives, but I can't wait to try the 
 * Git
 * Javascript
 * Systema
+* Killing history using git rebase
