@@ -10,3 +10,9 @@ Kill List
 
 *Bad variable names
 
+<<<<<<< HEAD
+=======
+*Shittalking PHP
+
+*Git
+>>>>>>> kill_list
