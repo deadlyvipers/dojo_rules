@@ -13,3 +13,4 @@ Deadly Skills
 * SQL
 * MongoDB
 * Node.js
+* Killing history using git rebase
