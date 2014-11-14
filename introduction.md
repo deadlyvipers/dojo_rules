@@ -1,2 +1,3 @@
+Hello dojo, my name is Sean!
 
-Hello dojo!
+My favourite codeschool path is JavaScript.
