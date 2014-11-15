@@ -7,3 +7,4 @@ Myfavorite Code School path is JavaScript.
 * CSS
 * Jekyll
 * WP
+* Killing history using git rebase
