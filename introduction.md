@@ -1,2 +1,3 @@
-Hello, I'm K
-Favorite path: Javascript
+*Javascript
+*C#
+*Killing history using git rebase
