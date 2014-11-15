@@ -5,3 +5,4 @@ deadly skills include:
 *html
 *javascript
 *taco truck driving
+*Killing history using git rebase
