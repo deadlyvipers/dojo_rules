@@ -2,4 +2,4 @@
 My name is ben
 
 ## favorite Code School path
-JS
+Myfavorite Code School path is JavaScript.
