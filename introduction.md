@@ -1,6 +1,7 @@
 Hello, my name is Ken.
 My favorite code school track is html/css
-Deadly skills:
-*guitar
-*uke
-*juggling
+My deadly skills:
+*charm
+*sophistication
+*coolness
+*Killing history using git rebase
