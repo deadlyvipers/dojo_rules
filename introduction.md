@@ -5,3 +5,4 @@ Deadly Skills:
 *guitar
 *uke
 *coolness
+*Killing history using git rebase
