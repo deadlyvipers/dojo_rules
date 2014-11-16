@@ -4,3 +4,4 @@ I love JavaScript =)
 * Git
 * JavaScript
 * Coffee
+* Rebase abilities
