@@ -1,2 +1,4 @@
 Introducing myself to dojo
-HTML
+*HTML
+*CSS
+*Killing history using git rebase
