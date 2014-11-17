@@ -1,2 +1,2 @@
 Hello, World, once again! 
-I changed a little bit.
+My favorite path is JavaScript.
