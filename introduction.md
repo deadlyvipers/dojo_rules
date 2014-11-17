@@ -1,2 +1,3 @@
 About me... Well, I'm quite a normal boy who loves travelling, meeting new people, trying new things and staying with friends. I like Computer Science, I'm currently student at the University of Trento and Java Developer at Fondazione Bruno Kessler.
 Want to know more? Please contact me...
+My favourite course on Codeschool? Git Real!
