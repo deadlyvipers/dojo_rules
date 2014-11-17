@@ -1,1 +1,1 @@
-Hello this is dinesh kumar and i am learning git 
+My favarite course id JavaScript
