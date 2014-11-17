@@ -9,5 +9,4 @@ Dojo Rules
 html
 I love code school at all
 Killing history using git rebase
-rebase
 * Killing history using git rebase
