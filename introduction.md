@@ -6,3 +6,4 @@ My skills:
 * Git
 * Java
 * Web development
+* Killing history using git rebase
