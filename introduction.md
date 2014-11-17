@@ -1,1 +1,1 @@
-Hello!
+Hello! JavaScript is my favorite path on Code School!
