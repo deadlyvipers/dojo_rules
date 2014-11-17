@@ -1,1 +1,2 @@
 $ echo 'Hello! I'm here to teach people about GitHub.' > introduction.md
+echo "On my way to becoming a GitHub Master. I love Ruby and JavaScript." > int git commit -am "Added Code School Path" git push
