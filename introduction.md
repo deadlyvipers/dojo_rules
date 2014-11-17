@@ -1,1 +1,6 @@
-Intro text. Javascript.
+Intro text. Favorite CodeSchool course: Javascript.
+
+Deadly Skills
+====================
+* JavaScript
+* Git
