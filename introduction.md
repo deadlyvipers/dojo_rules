@@ -6,3 +6,4 @@ Slug: introdution
 Tags: hi
 
 Hello Sensei, my name is bradrice
+My favorite code school path is javascript
