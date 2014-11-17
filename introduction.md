@@ -8,3 +8,5 @@ Dojo Rules
 * Most Sensei's should be respected
 html
 I love code school at all
+Killing history using git rebase
+* Killing history using git rebase
