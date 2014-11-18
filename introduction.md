@@ -15,6 +15,7 @@ dojo_rules (deadly_skills)$ git push origin deadly_skills
 * Ruby on Rails
 * JavaScript
 * Node.js
+* rebase
 >>>>>>> Stashed changes
 dojo_rules (deadly_skills) $ git commit -am "Added rebase to my list of deadly skills."
 dojo_rules (deadly_skills) $ git push origin deadly_skills
