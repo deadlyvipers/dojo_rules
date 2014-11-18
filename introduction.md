@@ -13,3 +13,4 @@ My favorite code school path is javascript
 * Python
 * Django
 * PHP
+* Killing history using git rebase
