@@ -5,4 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Abbrevations in the code
+* Else statements
 
