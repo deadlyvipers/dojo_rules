@@ -7,4 +7,4 @@ My deadly skills are:
 * Making coffee
 * Fiddling with Swift
 * Learning Git
-
+* Killing history using git rebase
