@@ -1,1 +1,2 @@
-introduction
+introduction 
+JavaScript
