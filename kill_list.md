@@ -7,3 +7,7 @@ Kill List
 * Bad variable names
 * dirty coding 
 * no commenting
+* dirty coding 
+* no commenting
+* dirty coding 
+* no commenting
