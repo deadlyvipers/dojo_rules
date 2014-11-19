@@ -5,4 +5,4 @@ skills:
 * AngularJS
 * CSS3
 * HTML5
-
+* Killing history using git rebase
