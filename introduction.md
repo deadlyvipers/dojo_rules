@@ -1,4 +1,4 @@
 An Introduction!
 
-I like stuff
+My favoritve codeschool path is ruby
 
