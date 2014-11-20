@@ -1,0 +1,4 @@
+* I am Tekin!
+* My favorite Code School path is JavaScript
+* Pull me up!
+* Killing history using git rebase
