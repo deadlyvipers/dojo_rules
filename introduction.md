@@ -8,3 +8,4 @@ Deadly skills:
 * Sass
 * CSS
 * HTML
+* Killing history using git rebase
