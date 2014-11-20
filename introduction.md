@@ -1,3 +1,5 @@
 Hello there!
 My favorite code path at CodeSchool is JavaScript.
-Deadly Skills: Charms.
+Deadly Skills
+-------------
+* Charms
