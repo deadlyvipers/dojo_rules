@@ -1,2 +1,3 @@
-This is an introduction to github course :)
-Ruby
+*Git, C++, 
+*Ruby
+*Ruby
