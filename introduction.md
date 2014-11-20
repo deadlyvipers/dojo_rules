@@ -1,2 +1,4 @@
 Introduction
-My favorite Code School path is HTML & CSS
+
+*HTML & CSS
+*mastering GIT HUB
