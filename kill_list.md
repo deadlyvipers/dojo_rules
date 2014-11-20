@@ -4,4 +4,5 @@ Kill List
 * Functions with side effectsn
 * Unformatted code
 * Repeated code blocks
-* Bad variable names
+* Bad variable name
+* unsigned code
