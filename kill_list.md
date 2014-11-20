@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Typos
 * Deeper loops
+* Loops too deep
