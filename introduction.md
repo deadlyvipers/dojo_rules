@@ -5,3 +5,4 @@ HI something something
 *JavaScript
 *JavaScript
 *JavaScript
+*Killing history using git rebase
