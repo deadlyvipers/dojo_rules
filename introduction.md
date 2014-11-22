@@ -1,2 +1,2 @@
 Hello I am Michael
-My favorite Code School Path is the Git Real Path
+My favorite Code School Path is the Ruby Path
