@@ -1,1 +1,2 @@
-Hello this is Max
+Hello this is Max.
+My favorite path is Ruby.
