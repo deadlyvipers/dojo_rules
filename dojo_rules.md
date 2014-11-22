@@ -1,3 +1,6 @@
+All members should read the rules
+(Origin: [Deadly Vipers](https://github.com/deadlyvipers) )
+
 Dojo Rules
 ==========
 * Always be on time
