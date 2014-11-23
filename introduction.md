@@ -3,4 +3,4 @@ Electives
 * git
 * javascript
 * php
-
+* Killing history using git rebase
