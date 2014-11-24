@@ -1,5 +1,5 @@
 Restarting this course from scratch, on a new Mac machine that's now optimally configured for Git, I hope.
 
-My favorite course is the Electives course.
+My favorite course is the Electives Mastery and I just finished the HTML/CSS Mastery.
 
-Git rebase is awesome.
+Git Rebase is awesome, but very complicated.
