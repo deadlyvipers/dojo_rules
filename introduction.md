@@ -1,2 +1,5 @@
-Hello, world.  My name is Steve.
-My favorite Code School path is Electives
+My deadly skills
+================
+* PHP
+* Git
+* Markdown
