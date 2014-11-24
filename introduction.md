@@ -2,4 +2,4 @@ Restarting this course from scratch, on a new Mac machine that's now optimally c
 
 My favorite course is the Electives Mastery and I just finished the HTML/CSS Mastery.
 
-Git Rebase is awesome, but very complicated.
+Git rebase is awesome, but very complicated unless you practice often.
