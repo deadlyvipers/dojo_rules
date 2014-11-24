@@ -5,3 +5,4 @@ i liked the HTML & CSS and the Git course
 *Javascript
 *html/css
 *html5
+*Killing history using git rebase
