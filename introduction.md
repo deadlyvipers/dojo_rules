@@ -5,3 +5,5 @@ My Dealy Skills
 * Ruby
 * Html
 * Css
+* Killing history using git rebase
+
