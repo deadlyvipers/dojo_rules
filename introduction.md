@@ -6,3 +6,4 @@ I like javascript
 * css
 * git
 * Sass
+* killing history using git rebase
