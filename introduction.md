@@ -4,3 +4,4 @@ hi, Im Lumir and Im learing advanced git techniques on codeschool and my favorit
 * Ruby
 * Rails
 * Javascript
+* Killing history using git rebase
