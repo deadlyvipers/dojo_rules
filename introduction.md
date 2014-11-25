@@ -12,3 +12,4 @@ My favorite Code School path is Ruby.
 * Ember
 * Vim
 * Markdown
+* Killing history using git rebase
