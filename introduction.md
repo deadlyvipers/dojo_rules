@@ -7,3 +7,4 @@ My current deadly skills are:
 * Java
 * JavaScript
 * Git
+* Killing history using git rebase
