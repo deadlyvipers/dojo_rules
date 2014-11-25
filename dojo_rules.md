@@ -1,4 +1,6 @@
-Everyone should read the rules and refer to the original repo [https://github.com/deadlyvipers]
+All members should read the rules
+
+Refer to the original repo [https://github.com/deadlyvipers]
 
 Dojo Rules
 ==========
