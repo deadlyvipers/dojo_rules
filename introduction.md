@@ -4,3 +4,4 @@ My favorite path is Ruby
 Deadly Skills
 * Ruby
 * Git
+* rebase
