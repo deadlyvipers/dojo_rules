@@ -4,4 +4,4 @@ JavaScript
 * Ruby
 * Git
 * HTML5
-
+* Killing history using git rebase
