@@ -18,4 +18,5 @@ My deadly skills are:
 * Java
 * Smalltalk
 * Haskell
+* Killing history using git rebase
 * Lat but not least, exaggeration
