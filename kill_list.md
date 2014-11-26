@@ -5,5 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* No backup
+* No comments on the code
 
 
