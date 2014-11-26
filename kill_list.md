@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Lack of comments
 * Mixed whitespace indent characters.
+* Over commenting
