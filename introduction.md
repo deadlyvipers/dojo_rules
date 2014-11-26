@@ -1,0 +1,9 @@
+My favourite Code School path is Ruby. word up yo my name is davis1x
+
+My Dealy Skills
+
+* Ruby
+* Html
+* Css
+* Killing history using git rebase
+
