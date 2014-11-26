@@ -10,3 +10,4 @@ Deadly Skills
 * Bash
 * Batch
 * SQL
+* Killing history using git rebase
