@@ -5,3 +5,5 @@ Kill List
 * BUnformatted code
 * BRepeated code blocks
 * BBad variable names
+
+Dette har Roger fixa :-D
