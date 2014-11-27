@@ -1,2 +1,2 @@
-Lukas is introducing hisself to the Dojo
+Lukas is introducing himself to the Dojo
 JavaScript
