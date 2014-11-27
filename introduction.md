@@ -1,1 +1,1 @@
-My favorite Code School course is DevTools.
+My favorite Code School course is JavaScript.
