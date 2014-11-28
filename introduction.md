@@ -5,3 +5,4 @@ Deadly skills:
 * JavaScript
 * php
 * html / css
+* rebase
