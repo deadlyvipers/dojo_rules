@@ -4,3 +4,4 @@ Electives were useful
 # Deadly skills
 * Git
 * Ruby
+* Killing history using git rebase
