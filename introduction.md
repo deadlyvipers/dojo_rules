@@ -1,2 +1,5 @@
 On my way to becoming a GitHub Master
-Javascript
+*Javascript
+*Java
+*Git
+*Ruby
