@@ -3,3 +3,4 @@ On my way to becoming a GitHub Master
 *Java
 *Git
 *Ruby
+*Killing history using git rebase
