@@ -3,3 +3,4 @@ hi i'm peter from vairix and my favorites paths from codeschool are Ruby and HTM
 * HTML & CSS
 * JQuery
 * ROR
+* Killing history using git rebase
