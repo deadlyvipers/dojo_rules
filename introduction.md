@@ -6,3 +6,4 @@ Skill list:
 * CSS
 * R
 * Devtools
+* Killing history using git rebase
