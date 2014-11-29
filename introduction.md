@@ -1,3 +1,3 @@
-hello
-this is fun, just pure fun...
-ruby path
+* git
+* javascript
+* ruby
