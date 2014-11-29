@@ -5,3 +5,4 @@ Skill list:
 * HTML
 * CSS
 * R
+* Devtools
