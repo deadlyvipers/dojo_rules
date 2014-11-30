@@ -1,1 +1,2 @@
-intro...
+intro. codeschool path: JavaScript.
+
