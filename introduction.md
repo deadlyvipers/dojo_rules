@@ -10,3 +10,4 @@ My name is Xander Miller. I am not a master of github but I am a master procrati
 * CSS
 * Ruby
 * Python
+* Killing history using git rebase
