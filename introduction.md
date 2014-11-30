@@ -1,3 +1,4 @@
 intro. codeschool path: JavaScript.
 * Candy
-* Coffeee
+* Coffee
+* Killing history using git rebase
