@@ -7,4 +7,4 @@ Deadly Skills
 * World Domination
 * More World Domination
 * JavaScript
-
+* Killing history using git rebase
