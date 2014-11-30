@@ -1,3 +1,3 @@
-*Javascript
-*Css
-*Sass
+* Javascript
+* Css
+* Sass
