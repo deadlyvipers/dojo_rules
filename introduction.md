@@ -6,3 +6,4 @@ My Favorite Code School Path is JavaScript
 * JavaScript
 * Ruby
 * C#
+* git rebase
