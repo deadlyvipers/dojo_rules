@@ -1,5 +1,6 @@
-Kill List
-=========
+dsl dst
+gf
+gf
 *f O-Ren Ishii
 $ Vernita Green
 ^* Elle Driver
