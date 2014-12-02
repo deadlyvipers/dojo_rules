@@ -1,2 +1,4 @@
 Introduction Mojeto
-Javascript
+
+* Javascript
+* git
