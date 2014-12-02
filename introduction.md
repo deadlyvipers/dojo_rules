@@ -3,5 +3,6 @@ My favorite CodeSchool path is Ruby.
 My deadly skills include: 
 * Ruby, 
 * Git,
-* MarkDown, 
+* MarkDown,
+* Killing history using git rebase,
 * and Objective-C.
