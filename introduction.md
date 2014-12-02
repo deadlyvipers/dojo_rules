@@ -4,3 +4,4 @@ Hi! I am a software developer, writer, speaker, father, and husband living in NJ
 * Python
 * JavaScript
 * Clojure
+* Killing history using git rebase
