@@ -1,3 +1,3 @@
 New file
-Javascript
-git
+*Javascript
+*Git
