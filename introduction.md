@@ -1,0 +1,3 @@
+New file
+*Git
+rebase
