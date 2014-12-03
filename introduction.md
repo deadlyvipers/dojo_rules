@@ -1,3 +1,2 @@
 New file
-*Javascript
 *Git
