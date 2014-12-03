@@ -10,3 +10,4 @@ Currently loving the Git path and about to start the javascript one as well.
 * Java
 * C
 * Fortran
+* Killing history using git rebase
