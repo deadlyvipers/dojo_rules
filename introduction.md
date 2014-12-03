@@ -1,1 +1,1 @@
-Its dojo rules!
+Its dojo rules! Ruby path at CodeSchool!
