@@ -1,3 +1,4 @@
-hello
-this is fun, just pure fun...
-ruby path
+* git
+* javascript
+* ruby
+* Killing history using git rebase
