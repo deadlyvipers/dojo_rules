@@ -7,3 +7,4 @@ So far I have mostly been going over Electives.
 * C
 * C++
 * Git
+* Killing history using git rebase
