@@ -9,4 +9,5 @@ My favorite path, so far, is the HTML & CSS path.
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
 
