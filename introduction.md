@@ -4,3 +4,4 @@ My deadly-skills are:
 * Git
 * Java
 * Tea
+* Killing history using git rebase
