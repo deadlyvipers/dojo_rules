@@ -7,3 +7,4 @@ My deadly skills:
 * Ruby
 * Java
 * SQL
+* Killing history using git rebase
