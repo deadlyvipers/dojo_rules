@@ -5,3 +5,6 @@ My favorite Code School path probably the Ruby path.
 * Git
 * Javascript
 * Ruby
+
+Killing History
+* The first one
