@@ -7,6 +7,5 @@ My favorite Code School path probably the Ruby path.
 * Ruby
 
 Killing History
-* rebase
 * The first one
-* The second one
+* rebase
