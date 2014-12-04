@@ -8,3 +8,4 @@ My favorite Code School path probably the Ruby path.
 
 Killing History
 * The first one
+* rebase
