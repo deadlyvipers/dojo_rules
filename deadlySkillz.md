@@ -1,0 +1,3 @@
+punch
+kick
+claw
