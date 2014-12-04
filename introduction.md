@@ -5,3 +5,4 @@ my skillz
  * Git, 
  * JavaScript, 
  * Ruby
+ * Killing history using git rebase
