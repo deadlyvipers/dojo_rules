@@ -1,4 +1,5 @@
 ﻿On my way to becoming a GitHub Master
-*Git,
+﻿Git
+*Git
 *HTML & CSS 
 *Javascript
