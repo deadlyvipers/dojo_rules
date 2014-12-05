@@ -1,3 +1,5 @@
 On my way to becoming a GitHub Master
 Electives
-JavaScript
+*Git
+*JavaScript
+*Ruby
