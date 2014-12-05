@@ -1,3 +1,5 @@
 Introduction Mojeto
-Javascript
-Killing history using git rebase
+
+* Javascript
+* git
+* Killing history using git rebase
