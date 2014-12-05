@@ -1,1 +1,1 @@
-It's me, Dave.
+It's me, Dave. My favorite Code School path is JavaScript.
