@@ -5,3 +5,4 @@ Favorite codeschool path is Ruby
 * vi
 * java
 * ruby
+* Killing history using git rebase
