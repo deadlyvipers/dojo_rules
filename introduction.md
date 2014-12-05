@@ -1,5 +1,6 @@
 Hey Guys, :) .. I am Niraj
 Added next line :)
 
-I am enjoying this Git tutorial :)
-.
+My favorite Code School path probably the Ruby path.
++* Git
++* Javascript
