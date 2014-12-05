@@ -10,3 +10,4 @@ Nice to meet you.
 * JavaScript
 * HTML
 * Ruby
+* Killing history using git rebase
