@@ -6,3 +6,4 @@ My favorite Code School path probably the Ruby path.
 +* Javascript
 
 Deadly Skills Changes for pull request :)
+Killing history using git rebase
