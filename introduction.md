@@ -1,1 +1,1 @@
-My name is kelly. 
+My name is kelly. Right now, I'm playing with ruby. 
