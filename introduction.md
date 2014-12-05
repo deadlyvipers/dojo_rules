@@ -1,0 +1,7 @@
+Hi, I'm randy, working my way through codeschool.
+
+Favorite codeschool path is Ruby
+
+* vi
+* java
+* ruby
