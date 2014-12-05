@@ -5,6 +5,7 @@ so I'll say it is HTML & CSS so that the automatic sniffers mark this as correct
 My deadly skills
 * HTML
 * Git
+* "Killing history using git rebase
  
 Here is my introduction: 
 SirSpidey here.
