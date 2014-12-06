@@ -1,1 +1,2 @@
-JavaScript electives.
+* Javascript
+* Ruby
