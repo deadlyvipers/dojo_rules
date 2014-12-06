@@ -15,3 +15,4 @@ Deadly Skills
 * Linux
 * HTML
 * CSS
+* Killing history using git rebase"
