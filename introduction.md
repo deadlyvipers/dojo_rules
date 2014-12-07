@@ -7,3 +7,4 @@ Deadly Skills
 * AngularJS
 * HTML
 * CSS
+* Killing history using git rebase
