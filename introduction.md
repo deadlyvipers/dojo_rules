@@ -8,3 +8,4 @@ deadly skills
 * iOS
 * Git
 * Electives
+* rebase
