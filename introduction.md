@@ -3,3 +3,4 @@ Favorite Code School path is Ruby
 *Git
 *JavaScript
 *Ruby
+*Rebase
