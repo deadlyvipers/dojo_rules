@@ -5,3 +5,4 @@ My favorite codeschool path is javascript.  This one is probably going to be the
 * Git
 * JavaScript
 * Pancakes
+* Killing history using git rebase
