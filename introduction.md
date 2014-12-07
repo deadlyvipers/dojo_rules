@@ -1,1 +1,2 @@
-HTML & CSS and iOS
+* Git
+* Python
