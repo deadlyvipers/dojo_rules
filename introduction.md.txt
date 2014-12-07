@@ -1,0 +1,1 @@
+I'm Bram, for me Shit Just Git Real. I want to become a ninja throwing git's at my frienemy's.
