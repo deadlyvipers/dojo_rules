@@ -1,1 +1,1 @@
-hello, i'm rick
+hello, i'm rick and I eat JavaScript.
