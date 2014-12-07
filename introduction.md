@@ -1,2 +1,4 @@
 # I am nielssorensen.
-# Ruby.
+* Ruby
+* Git
+* rebase
