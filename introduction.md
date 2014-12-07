@@ -4,3 +4,4 @@ My deadly skills are:
 *Git
 *Python
 *JS
+*Killing the unnecessary rebase commits
