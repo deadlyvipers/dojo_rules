@@ -3,3 +3,4 @@ codeschool/javascript
 code school/ruby
 * ruby
 * html
+Killing history using git rebase
