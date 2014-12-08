@@ -1,2 +1,2 @@
 Introduction
-Hi!
+Hi! I like ruby!
