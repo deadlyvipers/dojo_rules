@@ -3,4 +3,4 @@ html,css3,ruby
 * Git 
 * JavaScript 
 * Ruby
-rebase
+Killing history using git rebase
