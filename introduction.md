@@ -2,6 +2,6 @@ My introduction
 
 HTML \path\
 
-Rebase
+Skills Rebase
 
 * Rebase
