@@ -7,4 +7,3 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 http://campus.codeschool.com/courses/mastering-github/level/1/section/3/pull-request
-test 
