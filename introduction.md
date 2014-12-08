@@ -1,2 +1,4 @@
 hi, my name is Dmitry Breydo, great course, guys
-HTML
+* HTML
+* Git
+* JavaScript
