@@ -13,3 +13,4 @@ Deadly Skills
 * Nunchuks
 * Oh you mean like code? Erm...
 * Shuriken?
+* Killing history using git rebase
