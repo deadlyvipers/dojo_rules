@@ -1,15 +1,16 @@
-<<<<<<< HEAD
-C
-iI
-A
-B
-B
-B
-B
-C
-B
-B
-i
+
+
+
+
+
+
+
+
+
+killing histroy using git rebase
+
+
+
 
 
  HTML CSS 
