@@ -1,7 +1,6 @@
-i
-
-
- HTML CSS 
+* html
+* java
+* git
 
 
 
