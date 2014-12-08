@@ -1,4 +1,8 @@
 Hi, I'm Jon.
 I enjoy working in the JavaScript path.
 
-I am trying to create a new branch.
+Deadly Skills:
+* HTML5
+* CSS
+* AngularJS
+* Laravel
