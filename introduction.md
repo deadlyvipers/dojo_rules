@@ -8,3 +8,4 @@ deadly skills:
 *eating
 *bicycling
 *sleeping
+*"Killing history using git rebase"
