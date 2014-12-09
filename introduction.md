@@ -2,4 +2,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Ruby, JavaScript, HTML/CSS, iOS
 
-Ruby, JavaScript
+* Ruby
+* JavaScript
