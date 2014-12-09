@@ -4,3 +4,4 @@ Ruby, JavaScript, HTML/CSS, iOS
 
 * Ruby
 * JavaScript
+* Killing history using git rebase
