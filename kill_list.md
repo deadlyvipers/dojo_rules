@@ -1,6 +1,1 @@
-Kill List
-=========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+ "Going after bad coding practices instead of assassins."
