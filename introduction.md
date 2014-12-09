@@ -9,3 +9,4 @@ Favorite path is iOS.
 * JavaScript
 * Objective-C
 * Ruby
+* Killing history using git rebase
