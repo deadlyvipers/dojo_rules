@@ -1,1 +1,1 @@
- "Going after bad coding practices instead of assassins." Unused code Functions with side effects Unformatted code Repeated code blocks Bad variable names
+ printf "Dojo Rules\n==========\n\nThis repository contains a list of dojo rules for the Deadly Vipers dojo\n\nAll members should read the rules.\n\nFor more information, checkout the [deadlyvipers](https://github.com/deadlyvipers)."
