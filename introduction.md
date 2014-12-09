@@ -3,3 +3,4 @@ I like JavaScript
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
