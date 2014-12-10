@@ -5,3 +5,4 @@ Deathly skills:
 * .Net
 * Ruby
 * Problem solving
+* Killing history using git rebase
