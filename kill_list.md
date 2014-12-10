@@ -1,5 +1,7 @@
 Kill List
 =========
-* var a;
-* function(){a = 3; a=3;}
-* function(){a = 3; a=3;}
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
