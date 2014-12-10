@@ -2,3 +2,5 @@ g hskfghslghdfjghsdl gjshdfjgksdgsdfgdf gsdfgskdfjgh sdkjfghs djhsdjfhgk sjdhfkg
 sdfg sdfjgh sdfgsdfg ksjdfgsdgf
 sdfg sdfgsd fgsdfg sdgsdfgsdf
 JavaScript
+*Git
+*Killing history using git rebase
