@@ -4,4 +4,10 @@ GIT
 http://campus.codeschool.com/courses/mastering-github/level/1/section/3/pull-request
 https://www.codeschool.com/paths/html-css
 
-rebase
+
+
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
+
