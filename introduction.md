@@ -4,3 +4,4 @@ My deadly skills:
 * HTML
 * CSS
 * JavaScript basics
+* Killing history using git rebase
