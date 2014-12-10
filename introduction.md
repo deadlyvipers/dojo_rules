@@ -1,3 +1,7 @@
 "Text"
 
 JavaScript
+
+* Git
+* Ruby
+
