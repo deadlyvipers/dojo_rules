@@ -5,4 +5,3 @@ JavaScript
 * Name: Hammerkopfturm
 * HUHU: Hallo
 * Killing history
-* Killing history
