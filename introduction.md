@@ -8,4 +8,5 @@ My Deadly Skills?
 * Scala
 * Groovy
 * Ruby
+* Killing history using git rebase
 
