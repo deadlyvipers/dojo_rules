@@ -3,5 +3,5 @@ Dojo Rules
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
-hi wassup
-
+All members should read the rules
+[deadlyvipers]https://github.com/deadlyviper
