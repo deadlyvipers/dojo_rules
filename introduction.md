@@ -1,2 +1,6 @@
 This is Introduction updated file.
-javascript 
+CSS, HTML and Javascript.
+* Git
+* JavaScript
+* Ruby
+Killing history using git rebase
