@@ -6,3 +6,4 @@ Deadly-skills:
 *HTML
 *Phaser
 *Java
+*Killing history using git rebase
