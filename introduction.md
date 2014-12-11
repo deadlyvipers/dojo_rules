@@ -4,3 +4,4 @@ with JavaScript path
 
 * Javascript
 * Git
+* Killing history using git rebase
