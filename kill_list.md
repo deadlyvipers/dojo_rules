@@ -1,8 +1,5 @@
 Kill List
 =========
-* Unused code
-* Functions with side effects
-* Unformatted code
-* Repeated code blocks
-* Bad variable names
+hi how r you
+MY NAME IA SOMESEKHAR
 
