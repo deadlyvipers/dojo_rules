@@ -4,4 +4,5 @@ JavaScript is the best!
 * Javascript
 * Git
 * Ember
+* Killing history using git rebase
 
