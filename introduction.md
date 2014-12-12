@@ -1,1 +1,4 @@
-This is an introduction.
+* Git
+* Ruby
+* R
+* Python
