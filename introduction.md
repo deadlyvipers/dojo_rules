@@ -5,4 +5,5 @@ my deadly skills are
 * Spring
 * Javascript
 * html
-* css	
+* css
+* Killing history using git rebase	
