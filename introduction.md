@@ -3,3 +3,4 @@ Favorite Code School path is Electives
 * Git
 * Javascript
 * Ruby
+* Killing history using git rebase
