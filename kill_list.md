@@ -6,3 +6,4 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 Create large methods
+Unused @override annotation in java code
