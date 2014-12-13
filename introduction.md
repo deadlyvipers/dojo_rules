@@ -1,1 +1,1 @@
-Put basic introduction here.
+This is the first github tutorial project.
