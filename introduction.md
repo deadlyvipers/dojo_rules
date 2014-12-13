@@ -6,3 +6,4 @@ Favorate path ? hmm. JavaScript ?!
 * Git
 * JavaScript
 * Ruby 
+* Killing history using git rebase
