@@ -5,3 +5,4 @@ oh, i have to pick. i'll choose JavaScript
 * knitting
 * sleeping
 * tv watching
+* Killing history using git rebase
