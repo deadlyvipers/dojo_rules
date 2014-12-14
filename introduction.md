@@ -1,2 +1,2 @@
 I'm me
-JavaScrtipt
+My favorite path is JavaScrtipt
