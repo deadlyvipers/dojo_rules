@@ -1,0 +1,1 @@
+Hi! I am Shaya Tepper, a web developer. I am really excited to learn more about how to get the most out of GitHub! My favorite code school path is Javascript.
