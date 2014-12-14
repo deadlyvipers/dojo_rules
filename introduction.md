@@ -6,3 +6,4 @@ fave path is Electives
 * java
 * javascript
 * etc
+* Killing history using git rebase
