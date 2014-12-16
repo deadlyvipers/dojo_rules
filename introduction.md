@@ -1,3 +1,6 @@
 ## Introduction
 
-Javascript is my favorite CodeSchool path
+ * Javascript
+ * Nodejs
+ * ReactJS
+ * Killing history using git rebase
