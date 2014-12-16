@@ -1,1 +1,3 @@
-HTML & CSS and iOS
+* Git
+* Python
+* Killing history using git rebase
