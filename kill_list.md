@@ -9,3 +9,5 @@ Kill List
 * Repeated code blocks
 
 * Bad variable names
+
+* Lack of passion for programming
