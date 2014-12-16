@@ -17,3 +17,5 @@ Ruby
 * Node
 
 * Express JS
+
+* Killing history using git rebase
