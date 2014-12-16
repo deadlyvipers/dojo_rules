@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Too much code
 * Screen too small!
+* Some more things
