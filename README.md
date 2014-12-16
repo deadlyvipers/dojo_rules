@@ -14,3 +14,5 @@ Another section in a file to show how Markdown works.
 Warnings
 --------
 All members should read the rules
+
+[https://github.com/deadlyvipers](https://github.com/deadlyvipers)
