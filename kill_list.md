@@ -5,5 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-
+* Too much code
 * Screen too small!
+* Some more things
