@@ -33,3 +33,5 @@ Deadly Skills
 * CSS3
 
 * Jquery
+
+* Killing history using git rebase
