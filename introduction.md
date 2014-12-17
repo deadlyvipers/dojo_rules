@@ -1,1 +1,5 @@
-Imperium is a Latin word which, in a broad sense, translates roughly as 'power to command'. In ancient Rome, different kinds of power or authority were distinguished by different terms. Imperium referred to the sovereignty of the state over the individual.
+Name: Luis Lopes
+Location: London
+Profession: Webdeveloper
+
+Prefered Language: PHP
