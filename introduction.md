@@ -7,6 +7,6 @@ Ruby track.
 
 Deadly Skills:
 
-00. Git
-00. JavaScript
-00. Ruby
+* Git
+* JavaScript
+* Ruby
