@@ -1,1 +1,1 @@
-Hi my name is Ryan
+Hi my name is Ryan and my favorite Code School path is JavaScript. 
