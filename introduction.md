@@ -4,4 +4,5 @@ JavaScript is my favorite path
 * JavaScript
 * CSS
 * HTML
+* AngularJS
 Killing history using git rebase
