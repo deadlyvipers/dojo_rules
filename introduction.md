@@ -3,3 +3,4 @@ Deadly Skills:
 *Cooking
 *Poison
 *Javascript
+*Killing history using git rebase
