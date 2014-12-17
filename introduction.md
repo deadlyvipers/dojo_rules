@@ -5,3 +5,4 @@ goal: getting to know github to use it for our open source projects.
 * HTML /CSS
 * Git
 * Python
+* JQuery
