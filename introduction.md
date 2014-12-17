@@ -1,1 +1,1 @@
-Hi, I'm Joe
+Hi, I'm Joe. I like javascript.
