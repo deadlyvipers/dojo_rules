@@ -5,4 +5,4 @@ Here is a list of deadly skills:
 * Ruby
 * Rails
 * Sass
-
+* Klling history using git rebase
