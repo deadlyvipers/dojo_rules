@@ -4,11 +4,13 @@ My favorite CodeSchool path is Javascript for sure!
 
 -- sergio
 
-# Skills
+# Deadly Skills
 
 * mercurial
 * python
 * javascript
 * git
+* Killing history using git rebase
+
 
 
