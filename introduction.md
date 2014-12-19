@@ -1,5 +1,4 @@
-huhu, ich bins
-JavaScript 
-HTML
-CSS
-Jarak
+*JavaScript 
+*HTML
+*CSS
+*Jarak
