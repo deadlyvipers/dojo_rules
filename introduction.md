@@ -1,2 +1,5 @@
 Introdution
-Ruby
+*Ruby
+*Git
+*JS
+*Killing history using git rebase
