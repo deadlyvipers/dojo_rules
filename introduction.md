@@ -4,4 +4,4 @@ My deadly skills is
 *JavaScript
 *Git
 
-I do osome changes in my files
+Killing history using git rebase
