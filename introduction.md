@@ -6,3 +6,4 @@ I like JavaScript and Git paths
 
 * Git
 * JavaScript
+* Killing history using git rebase
