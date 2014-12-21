@@ -7,3 +7,4 @@ DEADLY SKILLS
 * CSS
 * JAVASCRIPT
 * POLE DANCING
+* Killing history using git rebase
