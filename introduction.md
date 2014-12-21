@@ -1,1 +1,4 @@
-Hello mr. Dojo
+Hello mr. Dojo, I like Javascript.
+* Git
+* hello
+* nooo
