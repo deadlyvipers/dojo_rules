@@ -4,3 +4,4 @@ I love JavaScript!
 
 * GIT
 * JavaScript
+* rebase
