@@ -1,2 +1,3 @@
-Hi Sensei I'm Arthur
-My favorite path is JavaScript
+*Ruby
+*CSS
+*JavaScript
