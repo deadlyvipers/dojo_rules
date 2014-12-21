@@ -1,1 +1,1 @@
-Hey, I'm Sean!
+Hey, I'm Sean! I've enjoyed the Ruby Codeschool path so far.
