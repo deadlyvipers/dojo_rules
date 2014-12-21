@@ -4,3 +4,4 @@
 * git
 * Node
 * SQL
+* Killing history using git rebase
