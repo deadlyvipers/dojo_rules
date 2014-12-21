@@ -4,4 +4,3 @@ I love JavaScript!
 
 * GIT
 * JavaScript
-* Ruby
