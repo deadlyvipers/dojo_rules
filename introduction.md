@@ -1,9 +1,9 @@
 I'm Lichtjaeger. A Shadow from Germany.
 My favorite Code School path is JavaScript.
 Skills:
-  JS
-  JQ
-  AWL
-  FUP
-  SCL
-  ...
+*JS
+*JQ
+*AWL
+*FUP
+*SCL
+*...
