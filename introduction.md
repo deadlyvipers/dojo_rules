@@ -9,3 +9,4 @@ My favorite Code School path is iOS, I'll definitely do it. The Git path taught 
 *Perl
 *Visual Basic
 *Git
+*Killing history using git rebase
