@@ -1,2 +1,1 @@
-intro text
 git
