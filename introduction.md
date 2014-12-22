@@ -6,3 +6,4 @@ My most deadly skills are:
 * Javascript
 * Ember
 * PHP
+* Killing history using git rebase
