@@ -4,3 +4,4 @@ Deadly skills:
 * JavaScript
 * Apex
 * VisualForce
+* Killing history using git rebase
