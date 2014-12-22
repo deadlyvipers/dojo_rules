@@ -1,3 +1,4 @@
 hihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi
-*ruby
-*Killing history using git rebase
+* ruby
+* Killing history using git rebase
+* other
