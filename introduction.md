@@ -1,2 +1,3 @@
 hihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi
 *ruby
+*Killing history using git rebase
