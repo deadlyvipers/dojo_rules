@@ -1,3 +1,3 @@
 MychaBP JavaScript
-1 GIT
-2 ASAP
+*1 GIT
+*2 ASAP
