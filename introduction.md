@@ -6,4 +6,4 @@ Skills:
 *AWL
 *FUP
 *SCL
-*...
+*Killing history using git rebase
