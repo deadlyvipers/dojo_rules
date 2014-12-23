@@ -4,4 +4,4 @@ my deadly skills are:
 *javascript
 *ruby
 *html
-
+*Killing history using git rebase
