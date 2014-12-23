@@ -5,3 +5,4 @@ Ruby, HTML and CSS
 *Git
 *JavaScript
 *Ruby
+*Rebase
