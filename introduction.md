@@ -1,1 +1,1 @@
-Hello world, I am ted
+Hello world, I am JavaScript ted
