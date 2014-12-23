@@ -10,3 +10,4 @@ My deadly skills:
 * CSS
 * SQL
 * Git
+* Killing history using git rebase
