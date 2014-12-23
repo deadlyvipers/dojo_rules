@@ -13,3 +13,4 @@ Deadly skills include:
 * Python
 * Haskell
 
+Killing history using git rebase
