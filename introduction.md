@@ -4,3 +4,4 @@ Hello world, I am JavaScript ted
 * Javscript
 * Ruby
 * PHP
+* Killing history using git rebase
