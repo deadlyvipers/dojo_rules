@@ -1,2 +1,2 @@
 this is my first file.
-http://campus.codeschool.com/courses/mastering-github
+https://www.codeschool.com/paths/javascript
