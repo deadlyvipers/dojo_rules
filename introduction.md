@@ -7,4 +7,4 @@
 * HTML & CSS
 * JavaScript
 oh man
-auf dem weg nach vertania city
+Killing history using git rebase
