@@ -1,2 +1,2 @@
 It works! My name is Marcin.
-I like the javasctipt path.
+I like the JavaScript path.
