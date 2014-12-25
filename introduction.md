@@ -27,3 +27,13 @@ Check out the message we left on your Pull Request.
 We asked you to update your introduction with your favorite Code School path 
 (Ruby, JavaScript, HTML & CSS, iOS or Electives). 
 Make sure you update the file, add, commit and push it up to GitHub.
+
+
+*
+Git
+JavaScript
+Ruby
+
+ 
+ Git, JavaScript, Ruby). Since this file is Markdown, you can specify these one per line starting the line with a * to make them into a list.
+ 
