@@ -1,2 +1,2 @@
 ### Intro ###
-# Line 2 #
+## Code School path is JavaScript ##
