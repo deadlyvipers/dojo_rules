@@ -10,3 +10,4 @@ My favorite path in CodeSchool is Ruby (not), actually is GitHub path
 * cut the balls
 * kick in nuts
 * twist the nipples
+* Killing history using git rebase
