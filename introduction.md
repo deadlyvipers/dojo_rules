@@ -33,6 +33,7 @@ Make sure you update the file, add, commit and push it up to GitHub.
 Git
 JavaScript
 Ruby
+Killing history using git rebase
 
  
  Git, JavaScript, Ruby). Since this file is Markdown, you can specify these one per line starting the line with a * to make them into a list.
