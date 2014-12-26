@@ -5,3 +5,4 @@ And my favorite Code School path have to be iOS.
 * Git
 * Javascript
 * Ruby
+* Killing history using git rebase
