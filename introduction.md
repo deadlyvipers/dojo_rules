@@ -1,4 +1,4 @@
 My name's Igor Goltsov. 
-I'm Magento Developer but i want to became GitHub master in 2015 year and start own deadly useful and hightly popular support service and dozen ones for ecommerce. 
+I'm Magento Developer but i want to became GitHub master in 2015 year and start own deadly useful and hightly profitable support service and dozen ones for ecommerce. 
 Sure i'll done it. Especialy if I learn this course. This class should make my work efficient and professional.
 Let's go ->
