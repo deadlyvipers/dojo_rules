@@ -2,12 +2,17 @@ hi, I'm presenting myself ... blabla introduction
 
 My favourite Codeschool path is Javascript but I haven't began it yet ...
 
-# My deadly skills
+# Some of my skills
+
 
 * Python
 * Django
-* HTML/CSS
-* SQL / Relational Databases
-* Constraint Programming
-* blablabla ...
+* JavaScript
+* OOP
+* Relational Databases / SQL
+* MAthematics
+* Constraint programming
+* Killing history using git rebase
+ 
+
 
