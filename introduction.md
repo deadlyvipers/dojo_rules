@@ -12,6 +12,7 @@ My favourite Codeschool path is Javascript but I haven't began it yet ...
 * Relational Databases / SQL
 * MAthematics
 * Constraint programming
-* ...
+* Killing history using git rebase
+ 
 
 
