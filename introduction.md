@@ -1,2 +1,5 @@
-Hello My name is Michal Graffy
-My favorite is: JavaScript
+* JavaScript
+* .Net
+* Git
+* C#
+* Killing history using git rebase
