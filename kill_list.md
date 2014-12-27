@@ -1,2 +1,3 @@
+Kill list
 * ciao
 * mondo
