@@ -1,15 +1,1 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-my name is Bond, James Bond.
+ JavaScript is cool
