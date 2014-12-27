@@ -10,3 +10,4 @@ My skills
 * HTML
 * CSS
 * C#
+* Killing history using git rebase
