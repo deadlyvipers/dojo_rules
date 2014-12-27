@@ -1,1 +1,4 @@
-Electives
+* JavaScript
+* Ruby
+* rebase
+* new rule
