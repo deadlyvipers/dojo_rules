@@ -4,3 +4,4 @@ My favorite codeschool path is JavaScript.
 My deadly skills:
   * submit pull requests
   * accidental rm -rf /*
+  * Killing history using git rebase
