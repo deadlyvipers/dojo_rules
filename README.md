@@ -4,5 +4,7 @@ All members should read the rules
 
 [Visit the original repo](https://github.com/deadlyvipers)
 
-` testing code 
-`  other line`
+```
+  testing code
+  other line of code 
+``` 
