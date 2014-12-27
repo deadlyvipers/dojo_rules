@@ -7,4 +7,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
+Always think twice before coding
 
