@@ -1,0 +1,1 @@
+My name is Chuk, and I’m a Code School student.
