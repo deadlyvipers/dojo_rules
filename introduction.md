@@ -11,4 +11,5 @@ My Deadly skills:
 *JavaScript
 *HMTL
 *CSS
+*Killing history using git rebase
 
