@@ -1,1 +1,3 @@
- JavaScript is cool
+* Git,
+* JavaScript,
+*  Ruby
