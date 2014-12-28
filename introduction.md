@@ -7,3 +7,4 @@ Hello. I'm Chris, and I know:
 * MYSQL
 * Linux shell scripting
 * Javascript
+* Killing history using git rebase"
