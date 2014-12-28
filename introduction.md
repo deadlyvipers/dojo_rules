@@ -4,3 +4,4 @@ My favorite Code School Path is the JavaScript one.
 * JavaScript
 * Java
 * SQL
+* Killing history using git rebase
