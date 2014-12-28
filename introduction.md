@@ -1,5 +1,4 @@
-I love Ruby
-
-* Ruby
 * JavaScript
-* rebase
+* Git
+* HTML
+* Killing history using git rebase
