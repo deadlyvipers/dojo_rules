@@ -1,1 +1,2 @@
 Finishing the "Mastering GitHub" course on codeschool.com
+The GIT path is my favorite CodeSchool path
