@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Trailing spaces
+* And another cause I'm foolish
