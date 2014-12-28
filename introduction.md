@@ -12,3 +12,5 @@ Deadly skills:
 * CoffeeScript
 * Git
 
+Killing history using git rebase
+
