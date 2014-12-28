@@ -1,3 +1,10 @@
-Hello. I'm Chris.
+Hello. I'm Chris, and I know:
 
-My favorite path will probably be the Javascript.
+* HTML
+* CSS
+* PhP
+* PERL
+* MYSQL
+* Linux shell scripting
+* Javascript
+* Killing history using git rebase"
