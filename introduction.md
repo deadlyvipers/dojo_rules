@@ -9,3 +9,4 @@ deadly skills:
 *JS
 *CSS
 *html
+*Killing history using git rebase
