@@ -1,2 +1,2 @@
 Finishing the "Mastering GitHub" course on codeschool.com
-The GIT path is my favorite CodeSchool path
+The GIT path is my favorite CodeSchool path Maybe I have to mention HTML & CSS too?
