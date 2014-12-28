@@ -1,4 +1,9 @@
-Hello. I'm Chris.
+Hello. I'm Chris, and I know:
 
-My favorite path will probably be the Javascript.
-But I also want to learn better, more up-to-date basic HTML and CSS.
+* HTML
+* CSS
+* PhP
+* PERL
+* MYSQL
+* Linux shell scripting
+* Javascript
