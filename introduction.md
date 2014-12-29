@@ -6,5 +6,6 @@ Deadly Skillz:
 * Javascript
 * jQuery
 * PHP
+* Killing history using git rebase
 
 
