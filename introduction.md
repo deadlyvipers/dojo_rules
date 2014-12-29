@@ -1,3 +1,6 @@
-Introduction.
+My Deadly Skills
 
-I like the HTML/CSS Code School path.
+* HTML
+* CSS
+* PHP
+* Killing history using git rebase
