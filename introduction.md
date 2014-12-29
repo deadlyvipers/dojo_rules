@@ -1,4 +1,3 @@
 * Git,
-* JavaScript,
-* Ruby
-
+* JavaScript
+* Rebase
