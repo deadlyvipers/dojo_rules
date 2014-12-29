@@ -10,3 +10,4 @@ Looks good! Could you also please mention your favorite Code School path in your
 * Ruby
 * nunchuck skills
 * people skills
+* Killing history using git rebase
