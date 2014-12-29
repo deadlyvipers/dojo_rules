@@ -7,3 +7,4 @@ My deadly skills include
 * Javascript
 * Php
 * Dancing!
+* Killing history using git rebase
