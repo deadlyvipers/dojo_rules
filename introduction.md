@@ -1,1 +1,1 @@
-Hello, I'm sharpening my Git/GitHub skills after working almost exclusively with Perforce for the last couple of months. --lisavogtsf
+Hello, I'm sharpening my Git/GitHub skills after working almost exclusively with Perforce for the last couple of months. I enjoyed the Javascript path in Code School.  --lisavogtsf
