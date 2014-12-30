@@ -1,3 +1,4 @@
-* ruby
+* Ruby
 * R
-* shell
+* Shell
+* Killing history using git rebase
