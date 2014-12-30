@@ -1,6 +1,7 @@
-Dojo Rules
-==========
+I started in the Ruby world, but now I love JavaScript.
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
+## Deadly Skills
 
-JavaScript
+* Ruby on Rails
+* JavaScript
+* Node.js
