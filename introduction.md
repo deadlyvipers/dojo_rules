@@ -7,3 +7,4 @@ Hello, I am Melderan.  I am following a tutorial on Git from CodeSchool.com.  My
 * Java
 * HTML
 * CSS
+* Killing history using git rebase
