@@ -19,3 +19,4 @@ this is me
 * #gulp
 * #redis
 * #sql
+* Killing history using git rebase
