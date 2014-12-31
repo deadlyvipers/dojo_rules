@@ -5,3 +5,4 @@ Deadly Skills
     * Git
     * Python
     * HTML+CSS
+    * Killing history using git rebase
