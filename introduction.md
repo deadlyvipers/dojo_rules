@@ -9,5 +9,6 @@ Deadly skills:
 * Git
 * Modelica
 * Python
+* Killing history using git rebase
 * ...
 
