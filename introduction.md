@@ -1,3 +1,3 @@
-Hello, Deadly vipers
-regards, Jorge!
-Favourite path: Javascript
+* GitG
+* Java
+* polle
