@@ -11,3 +11,4 @@ Dojo Rules
 
 
 ruby
+Killing history using git rebase
