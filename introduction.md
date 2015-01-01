@@ -1,11 +1,10 @@
  - My name ExuperO
  - My favorite Code School path: 
- 	- Javascript
- 	- Rubyit
+ 	* Javascript
+ 	* Rubyit
  - My Deadly Skills:
- 	- Git
- 	- Vagrant
- 	- Puppet
- 	- Docker
- 	- Chef
- 
+ 	* Git
+ 	* Vagrant
+ 	* Puppet
+ 	* Docker
+ 	* Chef
