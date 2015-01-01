@@ -1,1 +1,4 @@
-My name ExuperO
+ - My name ExuperO
+ - My favorite Code School path: 
+ 	- Javascript
+ 	- Ruby
