@@ -10,4 +10,4 @@ Dojo Rules
 
 
 
-ruby, git
+ruby
