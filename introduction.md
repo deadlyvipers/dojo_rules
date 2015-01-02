@@ -3,3 +3,4 @@ Deadly Skills
 *Harry Potter
 *Silly Putty
 *Fall Out Boy
+*Killing history using git rebase
