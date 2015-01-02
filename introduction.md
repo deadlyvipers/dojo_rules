@@ -1,4 +1,2 @@
-Hi There
-Javascript
-
-Java
+*Javascript
+*Java
