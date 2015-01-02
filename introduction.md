@@ -6,4 +6,5 @@ My deadly skills:
 * Git
 * Javascript
 * Python
+* Killing history using git rebase
 
