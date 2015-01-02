@@ -4,3 +4,4 @@ Deadly skills:
 * Ruby
 * Javascript
 * CSS
+* Killing history using git rebase
