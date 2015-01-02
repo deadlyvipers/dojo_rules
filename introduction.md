@@ -4,3 +4,4 @@ Ruby, JavaScript, HTML & CSS, iOS or Electives
 *SUSY
 *HTML
 *JS
+*Killing history using git rebase
