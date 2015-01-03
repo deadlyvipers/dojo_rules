@@ -8,3 +8,4 @@ Kill List
 * Lots of comments in code
 * Whithout test coverage
 * Very complicated code without classes and functions
+* Not readible code
