@@ -1,5 +1,2 @@
-Dojo Rules
+This is the README for Mastering Github on Code School.
 ==========
-
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
