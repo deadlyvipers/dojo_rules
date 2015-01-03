@@ -5,3 +5,4 @@ Favorite CodeSchool Path: JavaScript
 Deadly Skills:
 *C#
 *JavaScript
+*Killing history using git rebase
