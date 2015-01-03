@@ -10,3 +10,4 @@ Kill List
 * Very complicated code without classes and functions
 * Not readible code
 * Unsage of well-known pattern
+* Without usage of destructors
