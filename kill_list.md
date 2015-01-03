@@ -9,3 +9,4 @@ Kill List
 * Whithout test coverage
 * Very complicated code without classes and functions
 * Not readible code
+* Unsage of well-known pattern
