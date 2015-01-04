@@ -17,3 +17,4 @@ and I think JavaScript is a greatest Code School path.
 * jQuery
 * AngualsJS
 * C++
+* Killing history using git rebase
