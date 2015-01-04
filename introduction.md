@@ -5,8 +5,8 @@ My favourite path so far has been Ruby Path.
 
 ## Deadly Skills
 
-- Javascript / CoffeeScript
-- CSS / SASS
-- Ember.js
-- GIT (in a while!)
-- English fluency
+* Javascript / CoffeeScript
+* CSS / SASS
+* Ember.js
+* GIT (in a while!)
+* English fluency
