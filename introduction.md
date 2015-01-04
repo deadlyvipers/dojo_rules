@@ -1,2 +1,3 @@
 Artem Trubitsyn
-JavaScript
+*JavaScript
+*Git
