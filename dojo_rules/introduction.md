@@ -1,3 +1,9 @@
-Hi!  I'm here to teach people about Github.
+Hello! I'm here to teach people about Github.
 
-My favorite Path on Code School has been Git.
+Deadly Skills:
++
++*  Git
++*  HTML/CSS
++*  Ruby
++*  Adobe Photoshop
++*  Killer rebasing skills in Git on Github.^^^B
