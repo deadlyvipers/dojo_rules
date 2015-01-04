@@ -1,2 +1,5 @@
 I'm Ramon
-JavaScript
+* JavaScript
+* Git
+* HTML
+* CSS
