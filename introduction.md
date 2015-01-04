@@ -1,4 +1,8 @@
-####Hai, hai!
+This is an introduction
+======================
 
-> Important notes goes here.
 
+> Here goes an important note 
+
+
+and I think JavaScript is a greatest Code School path
