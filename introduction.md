@@ -10,3 +10,4 @@ My favourite path so far has been Ruby Path.
 * Ember.js
 * GIT (in a while!)
 * English fluency
+* Killing history using git rebase
