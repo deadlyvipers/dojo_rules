@@ -1,5 +1,1 @@
-Dojo Rules
-==========
-
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+This repository was created for the final Code School Git Course called Mastering Github.  Most actions will be performed on the command line and pushed up to Github live.  This project is the result of collaboration between Gregg Pollack at Envy Labs, Peter Bell, and others.  This exercise is for tutorial purposes and I don't own anything other than my personal actions.
