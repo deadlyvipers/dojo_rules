@@ -4,4 +4,4 @@ My favorite path is: Javascript.
 * Git
 * JS
 * CSS3
-
+* WP
