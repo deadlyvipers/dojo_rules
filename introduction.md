@@ -5,3 +5,4 @@ Mad Skills:
 * EmberJS (new school)
 * C++ (old school)
 * UNIX shell (old school)
+* Killing history using git rebase (CodeSchool)
