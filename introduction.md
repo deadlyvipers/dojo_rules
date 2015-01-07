@@ -10,3 +10,4 @@ My deadly skills are:
 * PL/SQL
 * MongoDB
 * Node.js
+* Killing history using git rebase
