@@ -1,7 +1,4 @@
-I'm a brazilian web developer.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-My favorites path are:
-* JS
-* CSS3
-* HTML
-
+* Ruby on Rails
+*Git
