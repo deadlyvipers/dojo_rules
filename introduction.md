@@ -1,2 +1,4 @@
-comment here 
-IOS
+killer skills
+*IOS
+*java
+*ruby
