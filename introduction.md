@@ -4,3 +4,4 @@
 *Python
 *Django
 *loco
+*Killing history using git rebase
