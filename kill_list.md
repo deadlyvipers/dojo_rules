@@ -6,3 +6,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Too heavy methods (please use method extraction!)
+* Only LF please (no CRs!)
