@@ -1,2 +1,2 @@
 On my way to becomig a GitHub Master
-update 
+My favorite Code School path is JavaScript. 
