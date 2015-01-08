@@ -2,4 +2,4 @@ Unused code
 Functions with side effects
 Unformatted code
 Repeated code blocks
-Bad variable bames
+Bad variable names
