@@ -7,3 +7,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * untested codes
+* long methods
