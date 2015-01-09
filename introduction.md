@@ -1,4 +1,4 @@
-Hello, my name is Todd!
+Hello, my name is Todd! I have really excellent rebase skills!
 
 My favorite CodeSchool path is HTML&CSS.
 
