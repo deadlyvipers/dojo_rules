@@ -8,3 +8,4 @@ Deadly Skills:
 * Backbone
 * Coffee
 * Git
+* Killing history using git rebase
