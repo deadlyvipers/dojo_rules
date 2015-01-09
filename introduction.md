@@ -9,4 +9,4 @@ My deadly skills are:
 * PHP
 * HTML
 * CSS
-* rebase
+* Killing history using git rebase
