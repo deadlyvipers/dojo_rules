@@ -17,4 +17,5 @@ ok! (ruby)
 * Javascript
 * HTML
 * CSS
+* Git rebase
 
