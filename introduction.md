@@ -7,3 +7,12 @@ Favorite CodeSchool Path
 ========================
 
 Javascript
+
+Deadly Skills
+=============
+* JavaScript
+* PHP
+* Git
+* HTML5
+* CSS3
+* Killing history using git rebase
