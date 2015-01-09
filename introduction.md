@@ -1,7 +1,4 @@
-Welcome
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-My favourite Code School path is HTML & CSS
-* Git
-* Javascript
-* Ruby
-* Killing history using git rebase
+* Ruby on Rails
+*Git
