@@ -1,3 +1,5 @@
-Hello! I'm here to teach people about GitHub.
+I love Ruby
 
-My favorite Code School Path is Git.
+* Ruby
+* JavaScript
+* rebase
