@@ -4,4 +4,5 @@ my favorite path is ruby & javascript.
 * Ruby
 * Clojure
 * Git
+* Python
 * Killing history using git rebase
