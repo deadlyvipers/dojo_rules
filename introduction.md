@@ -10,3 +10,12 @@ Si señor!
 
 ok! (ruby)
 
+## Deadly skills
+
+* Ruby
+* Git
+* Javascript
+* HTML
+* CSS
+* Git rebase
+
