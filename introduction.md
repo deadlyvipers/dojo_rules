@@ -1,1 +1,1 @@
-Hello, I'm Anthony.
+Hello, I'm Anthony.  My favorite CodeSchool path is Javascript.
