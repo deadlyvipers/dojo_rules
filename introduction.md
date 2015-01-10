@@ -3,3 +3,4 @@ Hello, I'm Anthony.  My favorite CodeSchool path is Javascript.
 * C#
 * Javascript
 * Sleeping on the couch
+* Killing history using git rebase
