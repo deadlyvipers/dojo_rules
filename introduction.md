@@ -2,5 +2,5 @@ Hai Sensei!
 
 Domo Arigato
 
-(sp?)
+My favorite so far is the javascript path, which was awesome!
 
