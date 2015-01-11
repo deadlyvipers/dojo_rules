@@ -1,1 +1,3 @@
-this is a new student.
+This is a new student.
+His favorite path is electives.
+
