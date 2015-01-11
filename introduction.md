@@ -12,3 +12,4 @@ I really like all the Code School paths, except iOS since I don't have any Apple
 * CSS
 * Ruby
 * Git
+* Killing history using git rebase
