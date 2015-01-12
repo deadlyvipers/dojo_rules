@@ -1,5 +1,2 @@
-Dojo Rules
-==========
-
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
++Introduction
++My favorite Code School path is HTML & CSS
