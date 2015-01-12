@@ -5,3 +5,4 @@ Favourite path: Javascript
 * Javascript
 * Java
 * Judo
+* Killing history using git rebase
