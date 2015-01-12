@@ -1,2 +1,5 @@
 Hi there!
-iOS
+* iOS
+* Git
+* Ruby?
+* Killing history using git rebase
