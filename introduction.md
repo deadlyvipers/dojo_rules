@@ -1,1 +1,1 @@
-Some introduction.
+An introduction to HTML & CSS.
