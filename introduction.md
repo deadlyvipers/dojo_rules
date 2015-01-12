@@ -1,2 +1,4 @@
 Hi there!
-iOS
+* iOS
+* Git
+* Ruby?
