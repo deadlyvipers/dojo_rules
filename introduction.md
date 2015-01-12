@@ -5,3 +5,4 @@ Favorite CodeSchool path - Ruby !
 * Java
 * Ruby
 * Angular.js
+* Killing history using git rebase
