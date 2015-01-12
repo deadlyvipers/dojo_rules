@@ -4,3 +4,4 @@ Hi I'd like to introduce myself. I'm Derick.
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
