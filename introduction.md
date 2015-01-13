@@ -1,3 +1,4 @@
 Helllo I am Arek
 
-Ruby
+*Ruby
+*JavaScript
