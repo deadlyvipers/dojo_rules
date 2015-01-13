@@ -9,3 +9,4 @@ Skills:
 * Html
 * Css
 * Sql
+* Killing history using git rebase
