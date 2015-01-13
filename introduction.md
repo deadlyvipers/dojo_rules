@@ -3,3 +3,4 @@ My favourite codeschool path is Git (the only one I almost completed until now),
 * iOS
 * Game Programming
 * Web Development (Javascript, PHP, HTML, CSS, etc.)
+* Killing history using git rebase
