@@ -1,6 +1,9 @@
 Dojo Rules
 Ruby 
 MotherFucker
+asdasdaasdasdijuas
+asfj
+sasda
 ==========
 * Always be on time
 * Always take off your shoes
