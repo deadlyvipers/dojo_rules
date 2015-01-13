@@ -1,1 +1,2 @@
-Hi, I am ToothlessRebel
+Hi, I am ToothlessRebel.
+I like the JavaScript path!
