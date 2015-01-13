@@ -8,4 +8,5 @@ My favorite path on Code School is Ruby.
 
 Deadly Skills List:
 * Git
+* Killing history using git rebase
 * Java
