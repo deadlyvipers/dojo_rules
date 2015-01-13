@@ -1,3 +1,5 @@
 Helllo I am Arek
 
-Ruby
+*Ruby
+*JavaScript
+*Killing history using git rebase
