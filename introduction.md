@@ -2,7 +2,7 @@ Electives
 
 Hello
 
-*Git
-*JS
-*HTML
-*CSS
+* Git
+* JS
+* HTML
+* CSS
