@@ -1,0 +1,2 @@
+Hi Dojo.
+Javascript path!
