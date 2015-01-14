@@ -1,10 +1,1 @@
-XDD
-hah
-hahah
-ahaha
-hahahah
-ahaha
-hahahah
-XQQQ
-QAKA
-
+Just trying and learning things.
