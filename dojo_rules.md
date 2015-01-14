@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dojo Rules
 ==========
 * Always be on time
@@ -7,3 +8,6 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * no coffee in the dojo
+=======
+mastering gethub needed this file.
+>>>>>>> missing file was replaced.
