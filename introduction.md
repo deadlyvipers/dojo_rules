@@ -1,10 +1,5 @@
 Dojo Rules
-Ruby 
-MotherFucker
-asdasdaasdasdijuas
-asfj
-sasdaasdasd
-==========
+* Killing history using git rebase
 * Always be on time
 * Always take off your shoes
 * Keep the dojo tidy
