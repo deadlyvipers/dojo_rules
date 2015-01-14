@@ -6,3 +6,4 @@ i know
 *ruby
 *linux
 *java
+*Killing history using git rebase
