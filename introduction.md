@@ -3,4 +3,4 @@ I like the JavaScript path!
 My deadly skills:
 * Git
 * JavaScript
-* Killing history using git rebsase
+* Killing history using git rebase
