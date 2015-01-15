@@ -1,3 +1,6 @@
-hello 
-favorite path: Ruby
-
+## abrel 
+favorite path: 
+ - Ruby
+deadly skills: 
+ - Git
+ - Ruby
