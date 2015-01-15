@@ -1,9 +1,9 @@
-## abrel 
+#I am abrel 
 
-#favorite path: 
+##favorite path: 
  - Ruby
 
 
 #deadly skills: 
- - Git
- - Ruby
+ *Git
+ *Ruby
