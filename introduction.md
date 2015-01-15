@@ -1,2 +1,8 @@
 mtrojanowski
 my favourite path on CS is Ruby
+
+My deadly skills
+================
+
+* PHP
+* git
