@@ -6,3 +6,4 @@ Deadly skills
 * C++
 * Java
 * CSS
+* Killing history using git rebase
