@@ -3,4 +3,4 @@
 2. It ended
 
 #Favorite Path#
-My favorite code school path is Git
+My favorite code school path is Ruby
