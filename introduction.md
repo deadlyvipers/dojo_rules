@@ -6,3 +6,4 @@ My deadly skills
 
 * PHP
 * git
+* Killing history using git rebase
