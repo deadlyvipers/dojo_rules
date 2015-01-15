@@ -1,2 +1,10 @@
 Hello, my name is panda
-JavaScript
+
+*JavaScript
+
+*CoffeeScript
+*Git
+*Python
+*PHP
+*Java	
+*Killing history using git rebase
