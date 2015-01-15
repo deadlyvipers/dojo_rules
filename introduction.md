@@ -4,6 +4,6 @@
  - Ruby
 
 
-#deadly skills: 
- *Git
- *Ruby
+##deadly skills: 
+* Git
+* Ruby
