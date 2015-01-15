@@ -9,4 +9,5 @@ Deadly Skills
 * Git
 * JavaScript
 * ColdFusion
+* Killing history using git rebase
 
