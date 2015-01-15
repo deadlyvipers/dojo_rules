@@ -1,6 +1,9 @@
 ## abrel 
-favorite path: 
+
+#favorite path: 
  - Ruby
-deadly skills: 
+
+
+#deadly skills: 
  - Git
  - Ruby
