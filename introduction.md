@@ -7,3 +7,4 @@ Hello, my name is panda
 *Python
 *PHP
 *Java	
+*Killing history using git rebase
