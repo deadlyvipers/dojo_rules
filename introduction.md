@@ -4,11 +4,9 @@ My Favorite path is Ruby
 
 ## Deadly Skills
 
-* Ruby
-* Ruby on rails
+* Ruby & Ruby on rails
 * Javascript 
-* Java
 * Html5
 * CSS3
 * SASS
-* Github
+* Killing history using git rebase
