@@ -5,3 +5,4 @@ My deadly skills are:
 * Javascript
 * Python
 * MongoDB
+* Killing history using git rebase
