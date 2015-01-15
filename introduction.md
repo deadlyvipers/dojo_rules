@@ -1,1 +1,2 @@
-Hi I'm Jolyan, aka Jools!
+I'm Jolyan, aka Jools!
+Currently liking the Electives.
