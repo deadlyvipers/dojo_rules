@@ -5,3 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Bad accoustic guitar theme songs on training videos
