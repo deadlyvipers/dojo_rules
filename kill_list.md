@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Kill ermagherd lolz
+* Kill ermagherd lol
