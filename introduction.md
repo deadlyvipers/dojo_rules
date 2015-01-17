@@ -1,2 +1,9 @@
 Hi I'm Bryan
-JavaScript is awesome.	
+Javascript is awesome.	
+
+Deadly skills
+
+* Git
+* JS
+* Ruby
+* Killing history using git rebase
