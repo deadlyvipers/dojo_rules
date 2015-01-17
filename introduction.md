@@ -6,3 +6,4 @@ Mai roo Kumtob
 * Javascript
 * Ruby
 * Git Rebase
+000
