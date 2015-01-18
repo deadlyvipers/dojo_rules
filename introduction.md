@@ -3,3 +3,4 @@ Additionally I will be taking part in the favorite Code School path of JavaScrip
 ...oh well.
 * Git
 * C++
+* Killing history using git rebase
