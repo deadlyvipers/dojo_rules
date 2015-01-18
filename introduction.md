@@ -1,2 +1,5 @@
-my name is riceboy
-I love Ruby
+Deadly skills
+======
+* Git
+* Ruby
+* Javascript
