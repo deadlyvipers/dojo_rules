@@ -4,3 +4,6 @@ hello.
 
 I like JavaScript
 
+* Git
+* JavaScript
+* Ruby
