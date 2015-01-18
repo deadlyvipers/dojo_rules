@@ -4,3 +4,4 @@ My deadly skills are:
 *iOS
 *GIT
 *Waltz
+*Killing history using git rebase
