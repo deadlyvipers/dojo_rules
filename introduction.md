@@ -1,2 +1,6 @@
-my name is riceboy
-I love Ruby
+Deadly skills
+======
+* Git
+* Ruby
+* Javascript
+* Killing history using git rebase
