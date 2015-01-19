@@ -7,3 +7,4 @@ Hi this is me
 * Ruby
 * Javascript
 * Git
+* Killing history using git rebase
