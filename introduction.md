@@ -1,2 +1,2 @@
 Simple introduction file with content, they say.
-Favorite Code School path -- unknown.
+Favorite Code School path -- Ruby.
