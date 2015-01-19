@@ -6,3 +6,4 @@ Deadly skills:
 * JavaScript
 * HAML
 * SASS
+* Killing history using git rebase
