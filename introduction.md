@@ -1,2 +1,2 @@
 This is my intro file.
-My favorite path on Code School is Git.  
+My favorite path on Code School is Ruby.  
