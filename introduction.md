@@ -1,9 +1,3 @@
-Introduction:
-
-
-
-Electives:
-
-
-
-Test
+*Introduction:
+*Electives:
+*Test
