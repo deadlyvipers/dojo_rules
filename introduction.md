@@ -6,3 +6,5 @@ This is my Dojo introduction.
 +* HTML/CSS
 +* Git
 +* Killing history using git rebase
++
++I really hate this exercises, they are very stupid. I did all that it was requested and still something is not right. 
