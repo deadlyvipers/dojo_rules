@@ -5,3 +5,4 @@ Love the Javascript path.
 * Ruby
 * HTML
 * CSS
+* Killing history using git rebase
