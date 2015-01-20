@@ -7,3 +7,4 @@ introduction of what? Ruby
 * Asm
 * C
 * Haskell
+* Killing history using git rebase
