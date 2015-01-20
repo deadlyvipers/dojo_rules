@@ -1,4 +1,4 @@
 introduction.md
-JavaScrips favorite 
+JavaScript favorite
 ahallett intro
 austinhallett4@gmail.com
