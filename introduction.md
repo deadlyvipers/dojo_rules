@@ -1,2 +1,9 @@
 Hi, this is László Bácsi. Nice to meet you. My favorite CodeSchool path
 is Ruby.
+
+### Deadly Skills
+
+* Ruby
+* JavaScript
+* Git
+* Killing history using git rebase
