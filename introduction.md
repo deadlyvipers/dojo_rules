@@ -1,1 +1,2 @@
-Hi, this is László Bácsi. Nice to meet you.
+Hi, this is László Bácsi. Nice to meet you. My favorite CodeSchool path
+is Ruby.
