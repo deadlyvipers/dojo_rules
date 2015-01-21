@@ -1,1 +1,1 @@
-my favorite path is html/css
+*killing history using git rebase
