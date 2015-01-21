@@ -1,7 +1,4 @@
-I started in the Ruby world, but now I love JavaScript.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-## Deadly Skills
-
-* PHP
-* C#
-
+* Ruby on Rails
+*Git
