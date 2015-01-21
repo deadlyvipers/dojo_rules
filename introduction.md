@@ -1,0 +1,1 @@
+Hello, I'm Rico Suave and my favorite codeschool path is JavaScript.
