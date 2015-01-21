@@ -1,6 +1,7 @@
 Hello, my name is Bogdan!
-I like 
+Deadly skills
 * Git
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
