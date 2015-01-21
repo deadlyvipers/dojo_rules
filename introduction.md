@@ -5,3 +5,4 @@ my deadly skills are:
 *wheel kick
 *hammer punch
 *Ruby
+*killing history using git rebase
