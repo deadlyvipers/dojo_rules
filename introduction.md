@@ -1,2 +1,3 @@
 im chloeliao
-JavaScript
+*JavaScript
+*Git
