@@ -1,3 +1,4 @@
 im chloeliao
-*JavaScript
-*Git
+* JavaScript
+* Git
+* Killing history using git rebase
