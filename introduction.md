@@ -1,2 +1,3 @@
 I love Ruby and JavaScript!
-*Git
+* Git
+* Killing history using git rebase
