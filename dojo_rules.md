@@ -8,4 +8,5 @@ Dojo Rules
 * Most Sensei's should be respected
 * Rebase!
 * Again!
-* dojo coffee...
+* no coffee in the dojo
+
