@@ -1,2 +1,4 @@
 Code school
-Javascript
+*Javascript
+*RUBYYYY
+*Killing history using git rebase
