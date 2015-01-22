@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * Rebase!
 * Again!
+* Dojo coffee...
