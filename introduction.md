@@ -1,1 +1,1 @@
-Hey, my name is Elayna. I'm a student. 
+Hey, my name is Elayna. I'm a student. My favorite Code School path is Javascript!
