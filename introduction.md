@@ -9,3 +9,4 @@ Required token: Javascript
 * Git
 * Nginx
 * PHP
+* Killing history using git rebase
