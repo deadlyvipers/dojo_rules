@@ -1,1 +1,1 @@
-Hey
+Hey, my name is Elayna. I'm a student. 
