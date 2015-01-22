@@ -7,3 +7,5 @@ My skills are:
 * JavaScript
 
 * Git
+
+* Killing history using git rebase
