@@ -1,1 +1,1 @@
-Hello! I'm here to teach people about GitHub.
+I've found JavaScript the most useful path so far.
