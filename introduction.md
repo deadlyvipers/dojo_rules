@@ -1,1 +1,1 @@
-Git and JavaScript.
+*Git and *JavaScript
