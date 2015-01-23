@@ -1,1 +1,1 @@
-Hello! My name is Alissa.
+Hello! My name is Alissa. My favorite Code School path is JavaScript.
