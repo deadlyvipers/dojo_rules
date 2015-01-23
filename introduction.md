@@ -1,6 +1,5 @@
 
 Hello
-Ruby
-Ruby
-Git
-Javascript
+*Ruby
+*Git
+*Javascript
