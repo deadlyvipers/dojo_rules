@@ -1,1 +1,2 @@
-I've found JavaScript the most useful path so far.
+*Git and *JavaScript
+Killing history using git rebase
