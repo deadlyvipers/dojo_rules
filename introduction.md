@@ -4,3 +4,4 @@ My deadly skills include:
 * Mastering Git
 * Mastering Javascript
 * Enjoying Life
+* Killing history using git rebase
