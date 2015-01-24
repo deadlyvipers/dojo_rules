@@ -1,2 +1,5 @@
-Hello! I'm here to teach people about GitHub.
-JavaScript
+* GIT
+* PHP
+* JS
+* NodeJS
+* Killing history using git rebase
