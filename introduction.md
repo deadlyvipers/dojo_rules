@@ -1,4 +1,3 @@
-an introduction
-JavaScript
-Git
-Ruby
+* JavaScript
+* Git
+* Ruby
