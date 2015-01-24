@@ -1,1 +1,1 @@
-I'm Sarah. learning to use git.
+I'm Sarah. Learning to use git. I like th iOS path.
