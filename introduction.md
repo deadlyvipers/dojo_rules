@@ -1,2 +1,4 @@
-Hello! I'm here to teach people about GitHub.
-JavaScript
+* GIT
+* PHP
+* JS
+* NodeJS
