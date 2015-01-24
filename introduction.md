@@ -1,1 +1,1 @@
-Instrukce
++Favorite path is Ruby.
