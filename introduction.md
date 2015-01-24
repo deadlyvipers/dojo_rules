@@ -8,3 +8,4 @@ JavaScript
 * Python
 * jQuery
 * HTML
+* Killing history using git rebase
