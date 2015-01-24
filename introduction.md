@@ -2,4 +2,4 @@
 * PHP
 * JS
 * NodeJS
-* OLOLO
+* Killing history using git rebase
