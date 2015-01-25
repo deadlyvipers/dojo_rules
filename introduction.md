@@ -1,3 +1,6 @@
 Hello Ruby!
 
-Ruby, Git, JS, Swift
+* Ruby, 
+* Git, 
+* JS, 
+* Swift
