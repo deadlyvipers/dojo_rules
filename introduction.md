@@ -3,4 +3,5 @@ An introduction as requested ;-)
 Favorite path:
 * Ruby
 * Git
-* Javascript.
+* Javascript
+* Killing history using git rebase
