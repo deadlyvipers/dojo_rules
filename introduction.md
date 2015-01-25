@@ -1,4 +1,8 @@
 This is an introduction file
 JavaScript
 
-Git, Javascript, C#, Python
+Deadly Skills:
+*Git
+*Javascript
+*C#
+*Python
