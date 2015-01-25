@@ -1,1 +1,3 @@
-Here's some stuff
+* Ruby
+* Ruby on Rails
+* RSpec
