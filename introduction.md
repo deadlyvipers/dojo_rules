@@ -5,6 +5,7 @@ Favorite path: iOS
 *iOS
 *Ruby
 *Javascript
+*Killing history using git rebase
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque varius, nulla commodo consequat lobortis, nulla tortor molestie erat, id pretium nulla est sit amet lectus. Vivamus dapibus arcu ante, sit amet eleifend ex gravida in. Pellentesque quis dui sed erat rutrum efficitur sed malesuada enim. Sed at velit nisl. Sed vulputate arcu leo, et placerat mauris viverra ut. Morbi leo enim, tincidunt ac commodo eu, dignissim eget nunc. Nulla varius massa sit amet porta ultricies. Integer nec finibus massa, egestas elementum leo. Phasellus varius ante metus, non malesuada sapien hendrerit at. In imperdiet neque purus, et porttitor libero pharetra vitae.
