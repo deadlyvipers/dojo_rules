@@ -1,1 +1,1 @@
-'Hello! I'm here to teach people about GitHub' 
+https://www.codeschool.com/courses/javascript-road-trip-part-1
