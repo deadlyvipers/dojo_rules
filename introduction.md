@@ -1,3 +1,6 @@
 Intruduction
 
 JavaScript
+
+*C#
+*Oracle
