@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Keep your surce clean and clear
+* Keep your surce clean and clear 
