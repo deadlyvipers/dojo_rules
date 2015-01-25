@@ -7,3 +7,4 @@ Deadly Skills
 * Video games
 * Disney
 * Killing history using git rebase
+* Adding another since code school says it's not working
