@@ -6,3 +6,4 @@ Deadly Skills
 * Javascript
 * Video games
 * Disney
+* Killing history using git rebase
