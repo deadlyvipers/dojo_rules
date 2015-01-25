@@ -1,2 +1,6 @@
 An introduction as requested ;-)
-Favorite path: Ruby, Git, Javascript.
+
+Favorite path:
+* Ruby
+* Git
+* Javascript.
