@@ -1,4 +1,4 @@
 Blabla introduction
-Favorite path : java
+Favorite path : JavaScript
 
 autre mise à jour
