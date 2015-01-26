@@ -11,3 +11,4 @@ Deadly skills
 * Java
 * Git
 * JavaScript
+* SQL
