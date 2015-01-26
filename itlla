@@ -1,0 +1,14 @@
+[33m21bb006[m HEAD@{0}: reset: moving to 21bb006
+[33mc82aff9[m HEAD@{1}: revert: Revert "test.txt"
+[33mca9b4db[m HEAD@{2}: checkout: moving from ca9b4dbf6b6f503bc903cd25af8accae2a66e2d7 to master
+[33mca9b4db[m HEAD@{3}: checkout: moving from master to head
+[33mca9b4db[m HEAD@{4}: commit (amend): first commit this message
+[33m6a04bc9[m HEAD@{5}: commit: first commit this message
+[33m21bb006[m HEAD@{6}: reset: moving to HEAD^
+[33m16f68f1[m HEAD@{7}: commit (amend): new commit message
+[33m55943d1[m HEAD@{8}: commit: added what
+[33m21bb006[m HEAD@{9}: reset: moving to HEAD^
+[33m9157cbd[m HEAD@{10}: commit: poop
+[33m21bb006[m HEAD@{11}: reset: moving to HEAD^
+[33m581974f[m HEAD@{12}: commit: another commit
+[33m21bb006[m HEAD@{13}: commit (initial): test.txt
