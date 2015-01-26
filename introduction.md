@@ -12,3 +12,4 @@ Deadly Skills
 * sass
 * mobile
 * css
+* Killing history using git rebase
