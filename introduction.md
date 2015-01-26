@@ -8,3 +8,4 @@ Ruby
 * angular
 * gulp
 * aurelia
+* Killing history using git rebase
