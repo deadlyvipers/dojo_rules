@@ -3,5 +3,10 @@
 - wealth (health?)
 - taste
 
+##Deadly skills
+* Git
+* JavaScript
+* Python
+
 
 edit: Electives is my favorite code school path
