@@ -4,3 +4,4 @@ deadly skills
 * Git
 * JavaScript
 * Ruby
+* Python
