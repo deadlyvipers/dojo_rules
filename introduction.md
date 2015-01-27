@@ -1,0 +1,1 @@
+Hi, my name is Kent McLean. I am enjoying the JavaScript path at Code School.
