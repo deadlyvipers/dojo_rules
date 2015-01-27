@@ -4,3 +4,4 @@
 *CSS
 *AngularJS
 *Bootstrap
+*Killing history using git rebase
