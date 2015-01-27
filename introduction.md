@@ -5,3 +5,4 @@ My fav code school path is the Ruby one
 *C#
 *Javascript
 *HTML
+*Killing history using git rebase
