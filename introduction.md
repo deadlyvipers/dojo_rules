@@ -3,5 +3,11 @@
 - wealth (health?)
 - taste
 
+##Deadly skills
+* Git
+* JavaScript
+* Python
+* Killing history using git rebase
+
 
 edit: Electives is my favorite code school path
