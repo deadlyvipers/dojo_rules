@@ -1,3 +1,9 @@
 introduction of emcek aka mipl
+deadly skills
+==============
+* Git
+* JavaScript
+* Ruby
+* Python
 
-My fav path and code schole is JavaScript and Electives.
+do we need rebase?
