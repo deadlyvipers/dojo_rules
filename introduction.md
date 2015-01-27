@@ -7,4 +7,4 @@ I am deadly at:
 * HTML5
 * CSS3
 * Bo Staff!!
-
+* Killing history using git rebase
