@@ -1,3 +1,4 @@
 my introduction
 HTML
-deadly_skills: Git
+deadly_skills:
+* Git
