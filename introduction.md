@@ -8,3 +8,4 @@ Deadly skills (sigh):
 * Not Ruby
 * LaTeX
 * Cooler things
+* Killing history using git rebase
