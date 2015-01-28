@@ -1,3 +1,4 @@
 hello this is zh
-I add one line
-yeah, my favourate class is Ruby
+yeah, my favourate class is git.
+* Git is a deadly skill
+rebase I add one line 
