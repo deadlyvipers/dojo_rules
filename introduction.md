@@ -1,3 +1,6 @@
-Hi, This is my Introduction to the dojo
-My favorite elective on Codeshool is HTML & CSS
-
+* Git
+* Python
+* JS
+* SQL
+* HTML/CSS
+* Rebase
