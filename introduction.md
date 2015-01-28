@@ -13,3 +13,4 @@ This repository contains a list of dojo rules for the Deadly Vipers dojo
 * emacs
 * csharp
 * perl
+* Killing history using git rebase
