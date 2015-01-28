@@ -4,3 +4,4 @@
 *Git
 *Ruby
 *Gerrit
+*Killing history using git rebase
