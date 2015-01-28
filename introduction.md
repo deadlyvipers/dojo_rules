@@ -8,3 +8,9 @@ This repository contains a list of dojo rules for the Deadly Vipers dojo
 
 +I prefer git path :)
 +I prefer javascript path :)
+
+* git
+* emacs
+* csharp
+* perl
+* Killing history using git rebase
