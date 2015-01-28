@@ -1,1 +1,13 @@
 * Git 
+* JavaScript
+* Ruby
+* JavaScript
+* Ruby
+* JavaScript
+* Ruby
+* Ruby
+* JavaScript
+* Ruby
+* Ruby
+* JavaScript
+* rebase 
