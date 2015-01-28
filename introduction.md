@@ -4,3 +4,4 @@ I like Javascript and Java
 *Eating
 *Sleeping
 *Walking
+*Killing history using git rebase
