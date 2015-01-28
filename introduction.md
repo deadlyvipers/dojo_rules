@@ -1,1 +1,3 @@
 somithing about me
+
+JavaScript
