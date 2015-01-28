@@ -2,4 +2,6 @@
 
 Hi there :) I'm Max.
 
-This repository is part of the codeschool course Mastering Github
+This repository is part of the codeschool course 'Mastering Github'
+
+My favorite codeschool path is the JavaScript one. :)
