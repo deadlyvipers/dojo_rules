@@ -1,3 +1,4 @@
-*Git
-*javaScript
-*Ruby
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
