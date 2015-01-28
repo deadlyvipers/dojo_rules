@@ -1,2 +1,4 @@
-alextran
-favorite code school path is electives
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
