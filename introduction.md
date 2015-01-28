@@ -4,3 +4,4 @@ List of my deadly skills:
 * Git
 * jQuery
 * PHP
+* Android
