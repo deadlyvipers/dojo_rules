@@ -3,3 +3,4 @@ My deadly skills include:
 * git
 * C++
 * knitting (almost)
+* Killing history using git rebase
