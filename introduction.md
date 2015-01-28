@@ -1,1 +1,1 @@
-I am vizi
+I am vizi and my favourite Code School path is Javascript
