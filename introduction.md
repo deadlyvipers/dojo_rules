@@ -8,4 +8,11 @@ The GitReal and GitReal2 courses are really useful as well.
 
 Keep up the good work!
 
+Some deadly skills:
+* Git
+* Python
+* Java
+* Javascript
+* C/C++
+etc.
 
