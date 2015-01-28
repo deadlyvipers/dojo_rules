@@ -1,2 +1,3 @@
-alextran
-favorite code school path is electives
+*Git
+*javaScript
+*Ruby
