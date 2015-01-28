@@ -1,1 +1,3 @@
-ksuienicki Ruby
+* Git 
+* JavaScript
+* Ruby
