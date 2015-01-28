@@ -7,3 +7,5 @@ Repeated code blocks
 Bad variable names
 Personal Touch
 Programmer
+Developer
+add more
