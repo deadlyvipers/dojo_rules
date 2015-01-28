@@ -7,3 +7,4 @@ List of my deadly skills:
 * Killing history using git rebase
 
 Still having issues with the validation of my pull request.
+New updates.
