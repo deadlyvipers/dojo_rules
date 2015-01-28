@@ -1,0 +1,3 @@
+somithing about me
+
+JavaScript
