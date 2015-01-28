@@ -1,3 +1,8 @@
 Hello Dojo
 favorite Code School path - JavaScript
-Skills: JavaScript, Git, PHP, HTML, CSS
+Skills:
+* JavaScript
+* Git
+* PHP
+* HTML
+* CSS
