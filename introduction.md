@@ -7,3 +7,4 @@ I am not sure yet what my favourite path is. I very much enjoy the Git path, it 
 * Git
 * human intelligence
 * speech
+* Killing history using git rebase
