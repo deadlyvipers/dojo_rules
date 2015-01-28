@@ -10,3 +10,4 @@ h3. my deadly skills
 
 * Git
 * Everything else
+* Killing history using git rebase
