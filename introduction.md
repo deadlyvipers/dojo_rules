@@ -1,1 +1,1 @@
-Ala ma kota. v2
+ksuienicki Ruby
