@@ -1,1 +1,1 @@
-24 year old programmer currently getting better at forking. Have a nice day :)
+On my way to becoming a GitHub Master.
