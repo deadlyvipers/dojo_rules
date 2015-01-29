@@ -1,3 +1,3 @@
 *Hi there, I am Sidra!
 *Ruby Path
-*Git, Ruby, Rails
+*Git, Ruby, Rails, rebase
