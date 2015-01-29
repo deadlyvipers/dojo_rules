@@ -1,0 +1,3 @@
+We're going to "come to you" and collaborate on your fork of the "dojo_rules" repository.
+To start out
+We'll try doing some work on a local branch with a pull request.
