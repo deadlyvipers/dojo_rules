@@ -1,2 +1,2 @@
 Hi, I am Bob. 
-Favourite Code School path: GIT
+Favourite Code School path: JavaScript
