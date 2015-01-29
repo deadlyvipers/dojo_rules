@@ -1,1 +1,2 @@
-Hi, I am Bob
+Hi, I am Bob. 
+Favourite Code School path: GIT
