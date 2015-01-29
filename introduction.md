@@ -6,3 +6,4 @@ I'm not a killer in anything... But I know:
 * JavaScript
 * PHP
 * Perl
+* Killing history using git rebase
