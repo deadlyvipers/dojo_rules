@@ -1,1 +1,10 @@
 ruby
+REST
+git
+js
+bash
+prolog
+c
+sqitch
+postgres
+rails
