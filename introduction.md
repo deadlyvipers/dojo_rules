@@ -3,6 +3,7 @@ iOS
 * OK!
 * This is NOT OK
 * This is OK
+* Killing history using git rebase
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula sem nec magna dapibus lobortis. Vivamus venenatis purus eget nisi ultricies venenatis. Duis convallis odio nisi, sed ornare risus dignissim vehicula. Nullam efficitur est laoreet cursus auctor. Aliquam erat volutpat. Cras vel nunc volutpat, fermentum elit sed, pharetra enim. Vestibulum malesuada sapien diam, et mollis nisl dictum rutrum. Nunc at lorem at dui vehicula tristique. Nullam eu egestas est. Vivamus fermentum diam sed nisi tempor, quis condimentum augue suscipit. Sed quis velit eu lectus congue suscipit nec eget sem. Quisque dapibus leo purus, in sagittis diam sagittis ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin finibus ex eu mollis euismod. Morbi in ultrices odio. Sed fringilla elit in felis viverra mattis.
 
