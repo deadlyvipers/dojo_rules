@@ -5,3 +5,4 @@ Favorite Code School path: Electives
 * Git
 * JavaScript
 * PowerShell
+* Killing history using git rebase
