@@ -4,3 +4,4 @@ My favorit Code School path is javascript.
 * php
 * html
 * css
+* Killing history using git rebase
