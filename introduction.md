@@ -4,3 +4,4 @@ Deadly Skills Are:
 * maschine
 * ableton
 * guitar
+* killing history using git rebase
