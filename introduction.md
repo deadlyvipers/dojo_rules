@@ -1,1 +1,3 @@
 Hi Dojo, I'm Martin!
+
+My favourite Code School path is JavaScript!
