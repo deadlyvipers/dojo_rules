@@ -1,1 +1,1 @@
-this is my intro 
+this is my intro, and I love both the JavaScript and Git paths from Code School
