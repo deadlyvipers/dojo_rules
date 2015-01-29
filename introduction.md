@@ -1,2 +1,4 @@
-Hello
-JavaScript
+* Git
+* JavaScript
+* Ruby
+* HTML/CSS
