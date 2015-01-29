@@ -4,3 +4,4 @@ My deadly skills:
 * Git
 * Eating
 * Sleeping
+* Killing history using git rebase
