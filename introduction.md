@@ -1,2 +1,5 @@
 Hi, Presentation.
-JavaScript path.
+
+* JavaScript path.
+* Git.
+* Killing history using git rebase.
