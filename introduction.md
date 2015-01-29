@@ -1,2 +1,3 @@
-Hi there, I am Sidra!
-Ruby Path
+*Hi there, I am Sidra!
+*Ruby Path
+*Git, Ruby, Rails
