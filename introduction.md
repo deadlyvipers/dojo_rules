@@ -4,6 +4,7 @@ df g dfg Electives f fd gdf g df ElectivesElectives g
 
 fgdg
 
-*Git, 
-*JavaScript, 
-*Ruby
++* Git
++* JavaScript
++* Ruby
++* Killing history using git rebase
