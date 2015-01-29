@@ -12,3 +12,4 @@ My favorite codeschool path is the JavaScript one. :)
 * Ruby
 * JavaScript
 * Vim
+* Killing history using git rebase
