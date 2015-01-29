@@ -1,1 +1,1 @@
-Im the apprentice
+Im the apprentice of JavaScript
