@@ -14,5 +14,6 @@ Some deadly skills:
 * Java
 * Javascript
 * C/C++
+* Killing history using git rebase
 etc.
 
