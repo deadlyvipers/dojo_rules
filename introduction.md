@@ -6,3 +6,4 @@ My deadly skills:
 * CSS
 * Git
 * HTML
+* Killing history using git rebase
