@@ -1,3 +1,4 @@
 # This is a an introduction
-JavaScript
-Node
+* Git
+* JavaScript
+* Ruby
