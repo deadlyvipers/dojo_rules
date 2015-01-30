@@ -11,3 +11,4 @@ My favorite path on Code School is the JavaScript one.
 * Backbone JS
 * jQuery
 * Git
+* Killing history using git rebase
