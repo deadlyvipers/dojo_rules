@@ -9,3 +9,4 @@ My "deadly_skills" are
 * HTML & CSS
 * PHP
 * Python
+* Killing history using git rebase
