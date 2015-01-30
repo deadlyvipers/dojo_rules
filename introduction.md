@@ -1,5 +1,5 @@
 aoz
 Ruby
 Deadly skills
-*Ruby
-*Java script
+* Ruby
+* Java script
