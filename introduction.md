@@ -12,4 +12,4 @@ My skills:
 * AngularJS
 * Git
 * ...
-
+* Killing history using git rebase
