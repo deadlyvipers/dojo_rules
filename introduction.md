@@ -1,5 +1,6 @@
 Code School
 
-*JavaScript
-*HTML
-*SASS
+* JavaScript
+* HTML
+* SASS
+* Killing history using git rebase
