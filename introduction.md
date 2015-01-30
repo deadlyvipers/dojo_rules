@@ -1,3 +1,3 @@
-Hello sensei, my name is Humbert
 * exploring
 * curiosity
+* Killing history using git rebase
