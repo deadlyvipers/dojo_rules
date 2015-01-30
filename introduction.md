@@ -1,4 +1,4 @@
 *Git
 *JavaScript
 *Ruby
-*Killing history
+*rebase Killing history
