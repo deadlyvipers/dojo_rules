@@ -1,5 +1,7 @@
 aoz
 Ruby
-Deadly skills
-* Ruby
-* Java script
+deadly skills
+* ruby
+* java script
+* killing history using git rebase"
+
