@@ -1,1 +1,1 @@
-Hi it is me
+Favorite path is git
