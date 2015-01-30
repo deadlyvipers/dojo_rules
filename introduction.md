@@ -1,2 +1,1 @@
-[Introduction]
-My name is Fredrik Näslund, webdeveloper.
+Hi, My name is Fredrik, web developer.
