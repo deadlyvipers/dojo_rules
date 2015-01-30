@@ -1,2 +1,5 @@
 I am Wesner Moise.
-Javascript
+* Javascript
+*Git
+* Ruby
+* C#
