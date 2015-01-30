@@ -13,3 +13,4 @@ My skills:
 * Git
 * ...
 * Killing history using git rebase
+* And more.
