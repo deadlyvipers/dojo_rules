@@ -1,2 +1,3 @@
-My owsom introduction
-javascript
+*Git
+*JavaScript
+*Ruby
