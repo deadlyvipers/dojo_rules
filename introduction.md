@@ -1,4 +1,5 @@
 Introduction
 ============
 
-This file contains an introduction of dojo rules for the Deadly Vipers dojo
+My name is Charalampos Sarantoglou.
+My favorite Code School path is Electives.
