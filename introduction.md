@@ -1,3 +1,5 @@
 Code School
 
-JavaScript
+*JavaScript
+*HTML
+*SASS
