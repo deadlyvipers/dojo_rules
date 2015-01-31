@@ -1,3 +1,3 @@
-* Git
-* Ruby
+*Git
+*Ruby
 
