@@ -1,8 +1,7 @@
 Kill List
 =========
-
 Unused code
-Fuctions with side effects
+Functions with side effects
 Unformatted code
-Repeated code block
+Repeated code blocks
 Bad variable names
