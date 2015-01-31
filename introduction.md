@@ -1,2 +1,5 @@
 Hey this is me, Laszlo!
-Javascript
+* Javascript
+* Git
+* Killing history using git rebase
+
