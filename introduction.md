@@ -1,2 +1,3 @@
 Hey this is me, Laszlo!
-Javascript
+* Javascript
+* Git
