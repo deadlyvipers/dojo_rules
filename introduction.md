@@ -1,2 +1,6 @@
 I am Wesner Moise.
-Javascript
+* Killing history using git rebase
+* Javascript
+*Git
+* Ruby
+* C#
