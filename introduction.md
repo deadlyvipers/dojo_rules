@@ -6,3 +6,4 @@ A simple introduction to the Code School: Mastering Git Hub course/dojo rules. M
 * Git
 * Javascript
 * HTML
+* Killing history using git rebase
