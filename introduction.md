@@ -7,4 +7,6 @@ deadly skills:
 *Scala
 *Python
 *Ruby
-*C 
+*C
+*Killing history using git rebase
+ 
