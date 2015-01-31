@@ -1,1 +1,1 @@
-"Oh my way to becoming a GitHub Master" 
+"Oh my way to becoming a GitHub Master. Amazing the Javascript path" 
