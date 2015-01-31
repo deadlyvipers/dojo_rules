@@ -5,4 +5,6 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
-programmer greviences
+programmer grevience
+good practices
+best code
