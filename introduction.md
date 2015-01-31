@@ -6,3 +6,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 * Javascript
 * Python
 * Git
+* Killing history using git rebase
