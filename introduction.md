@@ -12,3 +12,4 @@ Deadly Skills
  * Ruby
  * Boo
  * Antlr
+ * Killing history using git rebase
