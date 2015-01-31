@@ -6,3 +6,4 @@ deadly skills
 * Elixir
 * Coffeescript / Javascript
 * Haskell
+* Killing history using git rebase
