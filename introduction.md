@@ -9,3 +9,5 @@ MY FAVORITE CODESCHOOL PATH ARE Electives.
 *GIT
 *PYTHON
 *RUBY
+*Killing history using git rebase
+
