@@ -3,3 +3,4 @@ This is the first file created in the forked repo for the Code School Github cou
 * iOS
 * Git
 * JavaScript
+* Killing history using git rebase
