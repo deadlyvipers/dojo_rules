@@ -3,3 +3,4 @@ codeschool/courses/python
 code school path: http://campus.codeschool.com/courses/Ruby
 * Git
 * python
+"Killing history using git rebase"
