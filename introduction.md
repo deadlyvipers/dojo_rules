@@ -1,7 +1,7 @@
-Hello World!
+#Hello World!
 My favourite Code School path is Ruby!
 
-== Deadly Skills ==
+## Deadly Skills
 * Git
 * JavaScript
 * Ruby
