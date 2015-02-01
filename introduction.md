@@ -3,3 +3,8 @@ Computer science is a passion since I was very young. My interest in this area i
 Usually I don't like having the feeling of being taken "hostage" by the editors of Software. Therefore, I'm constantly looking for free alternatives.
 
 My favorite Code School is JavaScript
+
+deadly_skills
+* Java
+* Pyhton
+* Bash
