@@ -8,3 +8,4 @@ deadly_skills
 * Java
 * Pyhton
 * Bash
+* Killing history using git rebase
