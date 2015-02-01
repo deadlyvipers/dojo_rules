@@ -10,3 +10,4 @@ My deadly skills are :
 * XML ;
 * XPath ;
 * Regexp.
+* Killing history using git rebase.
