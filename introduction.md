@@ -1,1 +1,1 @@
-Oh my way to becominbg a GitHub Master
+On my way ti becoming a Github Master. I love Ruby and Javascript.
