@@ -7,3 +7,4 @@ My favorite Code School path is the Ruby one.
 * XML
 * XPath
 * Regex
+* Killing history using git rebase
