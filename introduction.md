@@ -1,3 +1,3 @@
 # Introduction
 
-## Chip Ashby
+## Ruby is my favorite Code School path.
