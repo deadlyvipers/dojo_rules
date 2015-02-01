@@ -5,4 +5,6 @@ Deadly Skills:
 * Javascript  
 * GIS  
 * Python  
-* Bash 
+* Bash  
+* Killing history using git rebase  
+ 
