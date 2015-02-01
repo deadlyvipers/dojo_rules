@@ -10,3 +10,4 @@ I like it very much HTML & CSS path.
 * CSS3
 * jQuery
 * PHP
+* Killing history using git rebase
