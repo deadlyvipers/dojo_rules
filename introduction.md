@@ -7,5 +7,6 @@ My favorite CodeSchool path is Ruby.
 #### Deadly Skills:
 
 * Git
-* JavaScript
-* Ruby
+* Stretching shorts covering with JavaScript
+* Kicking ass with Ruby
+* Killing history using git rebase
