@@ -2,4 +2,6 @@
 
 Software developer
 
-Ruby and JavaScript rules
+* Git,
+* JavaScript,
+* Ruby
