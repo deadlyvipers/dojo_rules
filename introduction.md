@@ -1,1 +1,1 @@
-Oh my way to becominbg a GitHub Master
+oh my way to become
