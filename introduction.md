@@ -5,3 +5,4 @@ I'm :
 * JavaScript
 * Ruby
 * HTML5
+* CSS
