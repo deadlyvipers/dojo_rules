@@ -3,3 +3,4 @@ favorite path is JavaScript
 * Git
 * JavaScript
 * Java
+* Killing history using git rebase
