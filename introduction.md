@@ -1,8 +1,3 @@
-Dasdadasdsad
-JavaScript
-sad
-as
-d
-ad
-s
-dasdasdasdsda
+* sdasd
+* dsadslk d
+* aldk
