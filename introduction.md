@@ -7,3 +7,4 @@ I'm :
 * HTML5
 * CSS
 * Killing history using git rebase
+* Python
