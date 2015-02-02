@@ -6,3 +6,4 @@ deadly skills are
 *c++
 *cuda
 *git
+*Killing history using git rebase
