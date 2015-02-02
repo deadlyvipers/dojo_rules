@@ -1,4 +1,4 @@
-Hi, My name is Fredrik, web developer.
+Hi, My name is Fredrik, Web developer.
 My favorite path is JavaScript.
 My deadly skills:
 * JavaScript
