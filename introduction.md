@@ -8,3 +8,4 @@ Favorites Code School path : JavaScript, iOS and Electives.
 *J2EE
 *Spring4
 *Bootstrap
+*Killing history using git rebase
