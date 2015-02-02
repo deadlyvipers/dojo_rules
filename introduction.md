@@ -4,3 +4,4 @@ I'm :
 * Git
 * JavaScript
 * Ruby
+* HTML5
