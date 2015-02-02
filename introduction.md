@@ -1,2 +1,3 @@
 Hello all
 I'm ruby developer
+Git, JavaScript, Ruby
