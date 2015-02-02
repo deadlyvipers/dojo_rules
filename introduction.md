@@ -1,1 +1,1 @@
-Hello I'm candulterio!
+Hello I'm candulterio! My favorite CodeSchool path is JavaScript.
