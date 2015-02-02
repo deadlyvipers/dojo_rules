@@ -1,3 +1,6 @@
 Hello all
-I'm ruby developer
-Git, JavaScript, Ruby
+I'm :
+* ruby developer
+* Git
+* JavaScript
+* Ruby
