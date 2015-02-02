@@ -1,5 +1,3 @@
-Kill List
-=========
 * Unused code
 * Function with side effects
 * Unformatted code
