@@ -1,1 +1,1 @@
-Hello, my name is Sean. I am new to the dojo
+Hello, this is Sean trying again to introduce myself to the dojo.
