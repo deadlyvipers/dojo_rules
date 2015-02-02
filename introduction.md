@@ -1,2 +1,4 @@
 Hello World
-Ruby
+* Ruby
+* Git
+* R
