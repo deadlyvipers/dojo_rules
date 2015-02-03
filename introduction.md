@@ -2,4 +2,4 @@
 
 I am David Carradine's stand-in. Welcome to the dojo of the DVAS.
 
-My favorite Code School path is Git. I think you'll find it quite useful, as well.
+I am anticipating that my favorite Code School path to come will be Ruby.
