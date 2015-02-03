@@ -10,6 +10,7 @@ Mad skills:
   * JavaScript
   * Perl
   * Ruby
+  * Killing history using git rebase
 
 [mg]: https://www.codeschool.com/courses/mastering-github
 [cs]: https://www.codeschool.com/
