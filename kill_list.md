@@ -5,6 +5,8 @@ Kill List
 *Unformatted Code
 *Repeated Code Blocks
 *Bad Variable Names
+*Bad People Names
+*Bad People
 
 
 
