@@ -1,4 +1,4 @@
-Git
-iOS
-Windows
-Linux
+*Git
+*iOS
+*Windows
+*Linux
