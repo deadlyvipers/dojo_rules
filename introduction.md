@@ -1,1 +1,1 @@
-Konichiwa,  Watashiwa Wes san.  Kitanai inu des.
+On my way with becoming a code schoo master with Ruby
