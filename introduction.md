@@ -1,3 +1,6 @@
 Hell world. 
 
-iOS
+* Git
+* Javascript
+* iOS
+* Killing history using git rebase
