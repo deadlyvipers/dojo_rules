@@ -5,3 +5,5 @@ https://www.codeschool.com/paths/javascript
 *HTML
 *PHP
 *GIT
+*Killing history using git rebase
+
