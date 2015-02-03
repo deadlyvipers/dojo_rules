@@ -1,1 +1,5 @@
-My favorite path is iOS
+*Git
+*iOS
+*Windows
+*Linux
+*Killing history using git rebase
