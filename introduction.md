@@ -1,3 +1,5 @@
 Hell world. 
 
-iOS
+* Git
+* Javascript
+* iOS
