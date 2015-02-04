@@ -1,1 +1,1 @@
-Hello, I am Jovon.
+Hello, I am Jovon.  My favorite Codeschool course is Javascript.
