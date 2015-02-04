@@ -6,3 +6,5 @@ I love the Javascript Path
 * Javascript
 * MySQL
 * Killing history using git rebase
+
+dumb
