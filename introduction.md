@@ -1,4 +1,4 @@
 * git
 * javascript
 * java
-* new skill
+* Killing history using git rebase
