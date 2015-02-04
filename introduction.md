@@ -14,3 +14,4 @@
 * Scala 
 * Akka
 * Javascript (sort of !)
+* Killing history using git rebase
