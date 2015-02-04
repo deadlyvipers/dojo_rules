@@ -1,2 +1,3 @@
- This is me myself
-Its the Javascript path
+* git
+* javascript
+* java
