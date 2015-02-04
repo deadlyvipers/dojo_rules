@@ -14,3 +14,4 @@ My "deadly skills":
 * Some C++
 * Some R
 * Lots more! :D
+* Killing history using git rebase
