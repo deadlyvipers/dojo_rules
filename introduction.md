@@ -1,2 +1,1 @@
-My name is Nelson Moller and I'm following this nice github course.
-CSS.
+CSS is my favorite so far.
