@@ -10,3 +10,4 @@ favorite code school path: JavaScript
 * JavaScript
 * Circuit Design
 * DRAM experience
+* Killing history using git rebase
