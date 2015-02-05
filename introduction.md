@@ -5,3 +5,4 @@ My favorite Code School path is JavaScript
 My deadly skills are 
 * C# 
 * Javascript
+* Killing history using git rebase
