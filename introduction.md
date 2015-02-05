@@ -1,2 +1,1 @@
-Simply Ihor
-Ruby
+* Ruby
