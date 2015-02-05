@@ -3,5 +3,5 @@
 name: Rob Tamlyn
 belt: White
 profession: Electrical Engineer
-favorite code school path: Javascript
+favorite code school path: JavaScript
 }
