@@ -1,3 +1,5 @@
-I'm Alberto Valverde and I'm a software engineer.
-My favourite Code School path is JavasScript.
-Ruby.
+* I'm Alberto Valverde and I'm a software engineer.
+* My favourite Code School path is JavasScript.
+* Ruby
+* Git
+* JavaScript
