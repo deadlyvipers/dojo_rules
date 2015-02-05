@@ -1,2 +1,2 @@
-Simply Ihor
-Ruby
+* Ruby
+Killing history using git rebase
