@@ -4,4 +4,5 @@ Ruby Path
 * Java
 * Ruby
 * Git
-* J2EE 
+* J2EE
+* Killing history using git rebase 
