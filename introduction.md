@@ -6,3 +6,4 @@ goal: getting to know github to use it for our open source projects.
 * Git
 * Python
 * JQuery
+* Killing history using git rebase
