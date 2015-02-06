@@ -4,3 +4,4 @@ My favorite Code School path is Ruby!! : D
 
 Deadly skills:
 * RoR
+* Killing history using git rebase
