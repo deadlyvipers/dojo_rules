@@ -1,1 +1,1 @@
-Meeesa Marrrrrko
+My favourite CodeSchool path is JavaScript
