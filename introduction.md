@@ -1,1 +1,1 @@
-Hi Dojo this is me.
+Hi Dojo this is me. JavaScript.
