@@ -1,1 +1,3 @@
-My favourite CodeSchool path is JavaScript
+* Git
+* JavaScript
+* Chef
