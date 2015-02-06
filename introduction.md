@@ -1,2 +1,7 @@
-I'm Erik from Malmö, Sweden
-My favorite Code School path is Ruby
+# I'm Erik from Malmö, Sweden
+# My favorite Code School path is Ruby
+# My skills
+* Git
+* Ruby
+* Bash
+* Killing history using git rebase
