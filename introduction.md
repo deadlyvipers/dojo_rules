@@ -1,1 +1,4 @@
-hi, my name is steve.
+*
+Git
+PHP
+JavaScript
