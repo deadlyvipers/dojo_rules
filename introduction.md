@@ -1,2 +1,2 @@
 Hajimemashite. msholmes desu. Douzo yoroshiku.
-Ichiban suki na Code School Path ha Git desu yo.
+My favorite codeschool path is https://www.codeschool.com/paths/git
