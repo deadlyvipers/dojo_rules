@@ -8,4 +8,5 @@
 deadly skills:\
 *Javascript\
 *HTML/CSS\
-*Git}
+*Git\
+*JQuery}
