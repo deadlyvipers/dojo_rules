@@ -7,3 +7,4 @@
 * Ruby on Rails
 * Heroku
 * Sublime Text 3
+* Killing history using git rebase
