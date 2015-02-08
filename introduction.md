@@ -8,3 +8,4 @@ Favorite code school path:
 *Artificial Intelligence
 *Algorithms
 *jQuery
+*Optimization
