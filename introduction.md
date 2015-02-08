@@ -1,3 +1,3 @@
 Hello,
 
-My nam is Andreas, and I one day strive to become a GitHub Master.
+My nam is Andreas, my favorite Code School course is HTML & CSS and I one day strive to become a GitHub Master.
