@@ -1,1 +1,1 @@
-Hi, my name is Michael.
+Hi, my name is Michael and my favortite CodeSchool path so far is Ruby.
