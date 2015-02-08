@@ -1,7 +1,7 @@
 Introducing wjn
 
 Deadly Skills
-- Thinking
-- Patience
-- Strategy
+* Thinking
+*  Patience
+* Strategy
 
