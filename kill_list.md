@@ -6,5 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Trying to put everything on one line
-* adding this after gitignore.
-* also this!
+* Adding after --assume-unchanged
