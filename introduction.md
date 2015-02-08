@@ -11,3 +11,4 @@ My favorite Code School Path so far has been HTML & CSS's Course on Sass and Boo
 *Angular
 *Git
 *Ember
+*Killing history using git rebase
