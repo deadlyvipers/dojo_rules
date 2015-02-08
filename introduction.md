@@ -4,3 +4,4 @@ Hi! I'm Justin Lee. I'm a developer. I'm passionate about education, technology,
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
