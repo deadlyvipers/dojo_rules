@@ -3,3 +3,4 @@
 *Git
 *Javascript
 *Ruby
+*rebase
