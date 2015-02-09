@@ -5,3 +5,5 @@ Javascript..
 *git
 *css
 *javascript
+
+Killing history using git rebase
