@@ -7,3 +7,5 @@ Javascript..
 *javascript
 
 Killing history using git rebase
+
+rebase
