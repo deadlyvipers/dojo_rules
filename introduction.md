@@ -1,3 +1,3 @@
-I am 
-
-Ruby
+* Git
+* JavaScript
+* Ruby 
