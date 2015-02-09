@@ -7,4 +7,4 @@ I really enjoy learning from the Ruby courses, especially about Zombies.
 * SQL
 
 Killing History
-* git rebase
+* git rebase 
