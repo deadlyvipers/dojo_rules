@@ -1,2 +1,4 @@
 Test Daniel
-javascript
+*javascript
+*git
+*ruby
