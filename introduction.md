@@ -1,2 +1,5 @@
 Test Daniel
-javascript
+*javascript
+*git
+*ruby
+*Killing history using git rebase
