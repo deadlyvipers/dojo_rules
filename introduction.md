@@ -1,4 +1,3 @@
 Introduction
 ===========
-monter
-PHP
+Electives
