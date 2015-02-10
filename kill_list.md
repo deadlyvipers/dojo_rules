@@ -7,4 +7,5 @@ Kill List
 * Bad variable names
 * Mixing tabs and spaces
 * Mixing curly bracket styles
+* Stupid comments
 
