@@ -6,3 +6,4 @@ I've been working primarily with the JavaScript code path.
 *Rails
 *Angular
 *Apache
+*Killing history using git rebase
