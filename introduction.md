@@ -1,2 +1,5 @@
 Hello
-Ruby
+*Ruby
+*Git
+*Java
+*Killing history using git rebase
