@@ -5,5 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Mixing tabs and spaces.
+* Mixing tabs and spaces
+* Mixing curly bracket styles
 
