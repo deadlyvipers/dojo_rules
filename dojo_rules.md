@@ -8,4 +8,4 @@ dojo Rules
 * Most Sensei's should be respected
 * coffee
 =======
-* no coffee in the Dojo
+* no coffee in the dojo
