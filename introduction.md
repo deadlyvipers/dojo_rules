@@ -2,3 +2,4 @@ Hello, where in teh world should my face be that would not give thios silly thin
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
