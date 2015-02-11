@@ -1,2 +1,3 @@
-JavaScript
+*Git
+*JavaScript
 BLack929 introducing to the dojo
