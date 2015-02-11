@@ -5,3 +5,9 @@ monter
 * ruby
 PHP
 Ruby
+
+* Git
+* JavaScript
+* Ruby
+
+rebase
