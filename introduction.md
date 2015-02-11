@@ -5,3 +5,4 @@ Hello, my name is Chad Ladensack. This is my work while going through to Code Sc
 * Git
 * JavaScript
 * PHP
+* Killing history using git rebase
