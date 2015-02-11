@@ -1,1 +1,2 @@
 RITSUREI
+Electives
