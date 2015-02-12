@@ -1,1 +1,1 @@
-On my way to Github master
+My favorite CodeSchool path is JavaScript
