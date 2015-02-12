@@ -5,3 +5,4 @@ My favorite path as of now is electives.
 *Git
 *R
 *Python
+*Killing history using git rebase
