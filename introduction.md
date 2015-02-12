@@ -1,2 +1,4 @@
-Some instruction
-Javascript
+*Some instruction
+*Javascript
+*Git
+*JavaScript
