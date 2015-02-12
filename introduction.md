@@ -6,3 +6,4 @@ My skills:
 *	Java
 *	C++
 *	Killing history using git rebase
+*	This is a new line
