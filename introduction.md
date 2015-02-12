@@ -5,3 +5,4 @@ HTML & CSS
 * PHP
 * HTML
 * CSS
+* Killing history using git rebase
