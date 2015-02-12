@@ -3,4 +3,5 @@ Hi, this is christine lam.  My fav code school path is electives.
 *Javascript
 *Java J2SE, J2EE
 *Weblogic
-*JSON...etc  
+*JSON...etc
+* adding more changing Git hub is not getting deadly_skills branch 
