@@ -1,1 +1,1 @@
--I am Patrick
+-I am Patrick, and my favorite code school path is iOS
