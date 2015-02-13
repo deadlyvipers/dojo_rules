@@ -12,4 +12,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+<<<<<<< HEAD
+>>>>>>> release_branch_1.0
+=======
+* One for the road
 >>>>>>> release_branch_1.0
