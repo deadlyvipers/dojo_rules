@@ -8,7 +8,7 @@ Yo yo
 Kill List
 =========
 * Unused code
-* Functions with side effects
+* Functions with side effect
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
