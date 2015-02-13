@@ -1,6 +1,8 @@
 Hello. My name is JOdhandeep Singh. 
 Favorite Code School Path
-Git
-Ruby
-iOS
-Electives
+
+* Killing history using git rebase
+* Git
+* Ruby
+* iOS
+* Electives
