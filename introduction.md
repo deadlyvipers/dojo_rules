@@ -1,1 +1,2 @@
-Hi my name is Chi
+Hi my name is Chi.
+My favourite codeschool path is Electives.
