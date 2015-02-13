@@ -1,1 +1,1 @@
-I'm Grzegorz.
+I'm Grzegorz, my favorite path is Ruby.
