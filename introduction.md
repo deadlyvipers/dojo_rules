@@ -1,2 +1,2 @@
 Picture me rollin 
-My favorite course would have to be Javascrit
+My favorite course would have to be JavaScriptX
