@@ -3,7 +3,7 @@ The most useful CodeSchool path so far is Javascript Road Trip and Best Practice
 Deadly skills: 
 * kung fu
 * git
-* python*
- javascript.
-
+* python
+* javascript.
+* Killing history using git rebase
 
