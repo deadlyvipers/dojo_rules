@@ -8,3 +8,4 @@ Viva la Electives track!
 * Git
 * Chef
 * RStats
+* Killing history using git rebase
