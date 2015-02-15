@@ -1,1 +1,1 @@
-On my way to becoming a GitHub Master
+Hi, my name is Brian. My favorite Code School path is HTML & CSS.
