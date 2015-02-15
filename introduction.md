@@ -8,3 +8,4 @@ Deadly Skills:
 * Java
 * C/C++
 * Git
+* rebase
