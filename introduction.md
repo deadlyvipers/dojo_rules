@@ -4,4 +4,4 @@ My favorite code-school courses have been HTML & CSi
 *HTML
 *Javascript
 *Git
-
+*Killing history using git rebase
