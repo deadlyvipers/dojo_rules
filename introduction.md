@@ -1,4 +1,4 @@
 Introduction
 Javascript Path is good!
-Git
-Ruby
+*Git
+*Ruby
