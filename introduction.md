@@ -1,3 +1,6 @@
 this is an intro
 Ruby
-rebase skills
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
