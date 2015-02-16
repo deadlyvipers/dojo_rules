@@ -6,3 +6,4 @@ List of deadly skills:
 * C#
 * JavaScript
 * Bootstrap
+* Killing history using git rebase
