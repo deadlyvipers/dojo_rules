@@ -3,3 +3,4 @@
 * just say Ruby as asked
 * Say Git 
 * Change a little
+* Killing history using git rebase
