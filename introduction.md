@@ -1,1 +1,1 @@
-Hi, my name is Jack.
+Hi, my name is Jack. My favorite CodeSchool path so far is Git.
