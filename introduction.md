@@ -3,3 +3,4 @@ JavaScript, HTML & CSS and Electives
 *Git
 *Javascript
 *Java
+*Killing history with rebase
