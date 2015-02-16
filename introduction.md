@@ -11,6 +11,6 @@ It is Ruby course.
 
 ## My deadly skills
 
-- Rails
-- Javascript
-- Git
+* Rails
+* Javascript
+* Git
