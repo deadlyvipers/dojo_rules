@@ -4,6 +4,7 @@ I am learning about GitHub to become the go to person for Git at my company.  I 
 
 Deadly Skills
 * Git
+** Killing history using git rebase
 * Java
 * Javascript
 
