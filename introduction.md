@@ -1,1 +1,3 @@
 Hello Dojo...
+
+;y favourite Code School path is the JavaScript one.
