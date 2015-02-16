@@ -7,6 +7,6 @@
 \f0\fs24 \cf0 yoyoyo\
 \pard\pardeftab720\sl440
 
-\f1\fs28 \cf2 \cb3 This could be , 
-*JavaScript, 
-*HTML & CSS,}
+\f1\fs28 \cf2 \cb3 
+JavaScript, 
+HTML & CSS
