@@ -14,3 +14,4 @@ It is Ruby course.
 * Rails
 * Javascript
 * Git
+* Killing history using git rebase
