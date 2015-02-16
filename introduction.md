@@ -7,4 +7,4 @@ My favorite course would have to be JavaScript
 * Git
 * Design
 * code fu
-
+* Killing history using git rebase
