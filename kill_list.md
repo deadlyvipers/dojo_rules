@@ -12,4 +12,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* To much code
 >>>>>>> release_branch_1.0
