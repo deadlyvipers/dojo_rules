@@ -6,3 +6,4 @@ My deadly skils:
 * Turbo Pascal 1.0
 * Quattro Pro
 * Turtle Graphics
+* Killing history using git rebase
