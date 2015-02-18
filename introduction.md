@@ -4,3 +4,4 @@ My Deadly Skills:
 *CSS/SASS/LESS
 *AngularJS
 *Laravel
+*Killing history using git rebase
