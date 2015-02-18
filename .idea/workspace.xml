@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="134cdaf0-cb14-4b29-b829-e845419288f7" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/introduction.md" afterPath="$PROJECT_DIR$/introduction.md" />
     </list>
     <ignored path="dojo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +32,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-              <caret line="0" column="45" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.06462035" vertical-offset="0" max-vertical-offset="619">
+              <caret line="0" column="107" selection-start-line="0" selection-start-column="107" selection-end-line="0" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -115,7 +116,9 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="134cdaf0-cb14-4b29-b829-e845419288f7" name="Default" comment="" />
+      <created>1424270362825</created>
       <option name="number" value="Default" />
+      <updated>1424270362825</updated>
     </task>
     <servers />
   </component>
@@ -180,8 +183,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="45" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.06462035" vertical-offset="0" max-vertical-offset="619">
+          <caret line="0" column="107" selection-start-line="0" selection-start-column="107" selection-end-line="0" selection-end-column="107" />
           <folding />
         </state>
       </provider>
