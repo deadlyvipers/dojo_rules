@@ -1,2 +1,3 @@
-Javascript
-Esto es un aintro de test
+* Git
+* JavaScript
+* Ruby
