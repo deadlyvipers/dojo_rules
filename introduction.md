@@ -1,2 +1,3 @@
 Elham Eskandari
-JavaScript
+*JavaScript
+*Git
