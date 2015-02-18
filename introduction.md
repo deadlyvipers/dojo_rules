@@ -7,4 +7,4 @@ Cheers.
 *JS,
 *HTML5,
 *AngularJS.
-
+*Killing history using git rebase
