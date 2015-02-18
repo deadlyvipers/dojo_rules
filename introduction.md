@@ -9,3 +9,4 @@ Deadly skills:
 * ruby
 * python
 * confluence
+* Killing history using git rebase
