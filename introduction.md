@@ -1,1 +1,1 @@
-Hello everyone. I am gay af. 
+Hello, I'm gay af. I cherish CodeSchool's JavaScript path. 
