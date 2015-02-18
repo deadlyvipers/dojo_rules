@@ -4,3 +4,4 @@ My deadly skills
 *ruby
 *javaScript
 *tech project management
+*Killing history using git rebase
