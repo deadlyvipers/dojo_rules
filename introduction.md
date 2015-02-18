@@ -1,1 +1,1 @@
-My name is Jon Gravois and I am learning GIT. My favorite Code School course is Shaping Up With Angular JS.
+My name is Jon Gravois and I am learning GIT. My favorite Code School path is Javascript.
