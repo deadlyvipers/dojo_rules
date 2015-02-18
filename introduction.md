@@ -8,3 +8,4 @@ DeadlySkills:
 * C++
 * Java
 * a little Ruby
+* Killing history using git rebase
