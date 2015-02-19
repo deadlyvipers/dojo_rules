@@ -4,3 +4,4 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
+*This stupid code schools tuff
