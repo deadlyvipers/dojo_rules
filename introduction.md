@@ -4,5 +4,11 @@
 ##Favourite Code School Path
 JavaScript
 
+##Deadly Skills
+*Git
+*JavaScript
+*Transmedia Semiotics
+*Seal Hunting
+
 ##Other Stuff
 I mentioned the baby seal thing, right? That's all you really need to know.
