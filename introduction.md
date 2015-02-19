@@ -1,2 +1,4 @@
 instroduciotna 
-Ruby 
+* Ruby 
+* JavaScript
+* HTML
