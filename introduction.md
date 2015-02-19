@@ -1,1 +1,3 @@
-Hej hopp JavaScript
+Hej hopp
+*JavaScript
+*Git
