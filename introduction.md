@@ -5,7 +5,7 @@
 JavaScript
 
 ##Deadly Skills
-*Git
+*Killing history usint git rebase
 *JavaScript
 *Transmedia Semiotics
 *Seal Hunting
