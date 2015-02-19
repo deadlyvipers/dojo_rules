@@ -4,3 +4,4 @@ Hello master kobra kai. My name is Patrick Ronayne. I like Javascript.
 *java
 *c++
 *SQL
+*Killing history using git rebase
