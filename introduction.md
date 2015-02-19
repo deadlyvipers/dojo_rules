@@ -7,3 +7,4 @@ Deadly skills:
 * Java
 * SDK
 * HTML
+* Killing history using git rebase
