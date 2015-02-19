@@ -1,4 +1,4 @@
 # Introduction
 —
 Howdy! It’s me!
-I love doing Java!
+I love the Code School JavaScript path!
