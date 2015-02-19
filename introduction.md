@@ -1,1 +1,1 @@
-Hello master kobra kai. My name is Patrick Ronayne.
+Hello master kobra kai. My name is Patrick Ronayne. I like Javascript.
