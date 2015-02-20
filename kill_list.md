@@ -6,3 +6,4 @@ Bad coding practices
 * Repeated code blocks
 * Bad variable names
 * Bad method names
+* Null references
