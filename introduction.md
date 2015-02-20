@@ -17,5 +17,5 @@ Deadly Skills:
 * Jasmine
 * TwitterBootstrap
 * Sass
-
+* Killing history using git rebase
 
