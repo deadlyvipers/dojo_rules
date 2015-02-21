@@ -1,1 +1,1 @@
-I like the codeschool path git
+I like the codeschool path Javascript 
