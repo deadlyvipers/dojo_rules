@@ -1,2 +1,3 @@
 *Ruby
-*Git
+Git
+JavaScript
