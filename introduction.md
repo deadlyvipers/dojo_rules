@@ -1,2 +1,2 @@
-qiwenfu
-Ruby
+*Ruby
+*Git
