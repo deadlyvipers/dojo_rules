@@ -1,3 +1,6 @@
-Hi I am seaseng!!!  AAAArrrrrr (www.yahoo.com)yahoo
-**sodfj**
-Ruby
+* Git
+* Javascript
+* Ruby
+* SQL
+
+* Killing history using git rebase
