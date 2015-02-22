@@ -4,3 +4,4 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 Slow builds
+Foo bar
