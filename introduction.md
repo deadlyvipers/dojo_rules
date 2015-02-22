@@ -9,3 +9,4 @@ Javascript path is best path
 * Git
 * Python
 * Bash
+* Killing history using git rebase
