@@ -7,4 +7,5 @@ my favourite path in Code School is JavaScript
 * Git
 * JavaScript
 * Ruby
-* df
+* rebase
+
