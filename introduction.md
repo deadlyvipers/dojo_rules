@@ -1,1 +1,4 @@
-I am enhancing my Javascript
+I am enhancing my 
+* Javascript
+* PHP
+* Git
