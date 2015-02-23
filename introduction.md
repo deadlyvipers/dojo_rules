@@ -1,3 +1,3 @@
-I'm a lumberjack and I'm okay.
-
-Git
+*Git
+*JavaScript
+*Ruby
