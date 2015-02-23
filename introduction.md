@@ -7,4 +7,5 @@ Favorite CodeSchool path: Ruby.
 * Java
 * Git
 * Scala
+* Killing history using git rebase
 
