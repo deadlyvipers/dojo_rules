@@ -3,3 +3,4 @@ my favorite Code School path: JavaScript
 * Git
 * JavaScript
 * Python
+* Killing history using git rebase
