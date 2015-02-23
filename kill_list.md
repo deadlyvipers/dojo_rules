@@ -4,7 +4,7 @@ Kill List
 
 * Functions with side effects
 
-* Unformated code
+* Unformatted code
 
 * Repeated code blocks
 
