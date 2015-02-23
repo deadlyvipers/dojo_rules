@@ -1,0 +1,2 @@
+Hello, slanto!
+JavaScript
