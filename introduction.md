@@ -8,5 +8,6 @@ my favourite path in Code School is JavaScript
 * JavaScript
 * Ruby
 * rebase
-* demo
+* merge
+
 
