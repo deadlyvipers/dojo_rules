@@ -1,4 +1,2 @@
-Hey guys it's me! and I love coffeescript
-
-I love the coffeescript tutorial!
+Hey guys it's me! and my favorite Code School path is html or something 
 
