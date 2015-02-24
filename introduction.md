@@ -8,6 +8,6 @@ Deadly skills:
 
 * HTML/CSS
 * Ruby
-* Git
+* Killing history using git rebase
 * Markdown
 * English
