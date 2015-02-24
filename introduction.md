@@ -4,3 +4,4 @@ The javascript path is my favourite.
 * JavaScript
 * AngularJS
 * JQuery
+* Killing history using git rebase
