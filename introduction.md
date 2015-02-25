@@ -1,5 +1,5 @@
 Deadly skills
-*JavaScript*MySQl*PHP 
+*JavaScript*MySQl*PHP*Killing history using git rebase 
 
  
   My favorite Code School path:
