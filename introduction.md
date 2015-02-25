@@ -1,3 +1,1 @@
-this is my introduction of me myself and I.
-I do like the JavaScript path
-indeed
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
