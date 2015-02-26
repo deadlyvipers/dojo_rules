@@ -1,2 +1,4 @@
-I'm on my way to becoming a GitHub Master
-My favorite Code School Path is Ruby.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript. 
+
+*Ruby on Rails
+*Git
