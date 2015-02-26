@@ -1,5 +1,7 @@
+<pre><code>
 Ricardo Kreyhsig
-My favorite CodeSchool Path is Ruby.
+My favorite CodeSchool Path is Ruby
+</code></pre>
 
 Deadly Skills
 ============
