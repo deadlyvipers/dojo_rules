@@ -4,4 +4,4 @@ My favorite path is JavaScript
 * C#
 * Unity
 * HaXe
-That's my favorite deadly skills
+* Killing history using git rebase
