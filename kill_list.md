@@ -1,6 +1,9 @@
 Kill List
+
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+Dead Code
+Hazerdous functions
+Hard to read code
+C/P blocks
+Poor practices
+
