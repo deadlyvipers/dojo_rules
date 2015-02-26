@@ -1,1 +1,1 @@
-INTROOOOO this is Sydney
+INTROOOOO this is Sydney and my favorite Code School path is Ruby!
