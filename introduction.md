@@ -1,0 +1,3 @@
+This a keen junior developer who loves learning from Code School
+
+My favourite is HTML & CSS path
