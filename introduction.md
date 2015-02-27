@@ -6,3 +6,4 @@ My favorite path is JavaScript
 * Java
 * PHP
 * Javascript
+* Killing history using git rebase
