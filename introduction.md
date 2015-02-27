@@ -1,3 +1,5 @@
 intro
 
-JavaScript
+* JavaScript
+* git
+* ruby
