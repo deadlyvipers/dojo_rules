@@ -6,3 +6,4 @@ I'm papayaman
 *HTML
 *PHP
 *ActionScript
+Killing history using git rebase
