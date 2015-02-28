@@ -7,3 +7,4 @@ Deadly Skills
 * Git
 * Perl
 * Node.js
+* Killing history using git rebase
