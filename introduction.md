@@ -7,3 +7,4 @@ JavaScript
 * Ruby
 * Python
 * Metalwork
+* Killing history using git rebase
