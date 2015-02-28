@@ -1,5 +1,10 @@
-Hola Blah Blach
-kjfsdaskfdaj
-dsfkldsfkjhdfs
-dsf¤kljdsfl¤j
-My favourite path is Electives
+Deadly Skills
+=============
+
+ * Git
+ * Javascript
+ * Ruby
+ * Design
+ * HTML
+ * CSS
+
