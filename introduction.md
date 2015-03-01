@@ -1,6 +1,14 @@
 #Hi
 
-Favorite CodeSchool course: JavaScript
+##Favorite CodeSchool course:
+
+JavaScript
+
+##Deadly Skills:
+
+* JavaScript
+* Git
+* Killing history using git rebase
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempus eros vitae velit congue, at pellentesque velit mattis. Maecenas ut massa magna. In accumsan tincidunt sem, id bibendum mauris vehicula non. Vivamus egestas rutrum massa, eu ultrices libero ultricies in. Vestibulum iaculis est id lorem porttitor, finibus dapibus massa eleifend. Donec consequat ligula eros, pellentesque iaculis lectus porta id. Vivamus ligula velit, suscipit in sapien sit amet, eleifend facilisis mauris. In turpis odio, egestas at metus eget, interdum malesuada leo. Proin rutrum non elit nec ultrices.
 
