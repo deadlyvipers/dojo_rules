@@ -1,1 +1,5 @@
-My favorite Code School path is the Ruby Path.
+Deadly Skills
+
+*Ruby
+*HTML/CSS
+*git
