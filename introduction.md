@@ -4,3 +4,4 @@ I'm enjoying the javascript and ruby paths.
 * Ruby
 * AngularJS
 * Ember
+* Killing history using git rebase
