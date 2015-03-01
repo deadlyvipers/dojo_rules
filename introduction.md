@@ -2,4 +2,4 @@
 
 My name is jipson7
 
-My favourite codeschool path is Git!!
+My favourite codeschool path is JavaScript
