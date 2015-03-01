@@ -1,9 +1,8 @@
 Kill List
-
 =========
-Dead Code
-Hazerdous functions
-Hard to read code
-C/P blocks
-Poor practices
+Unused Code
+Functions with Side effects
+Unformatted code
+Repeated code blocks
+Bad Variable names
 
