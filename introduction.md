@@ -1,1 +1,5 @@
-Hello, dojo! My favorite path is Ruby. 
+Deadly Skills 
+
+*Ruby
+*HTML/CSS
+*JavaScript
