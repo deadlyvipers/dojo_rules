@@ -1,1 +1,1 @@
-Hi, dojo.
+My favorite Code School path is the Ruby Path.
