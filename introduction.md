@@ -5,3 +5,4 @@ Hello! My favorite path is javascript.
 * linux
 * python
 * throwing stars
+* Killing history using git rebase
