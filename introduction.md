@@ -3,3 +3,4 @@ My favorite path so far is the Git path, but I plan to start the JavaScript path
 * Protractor
 * JavaScript
 * Git
+* Killing history using git rebase
