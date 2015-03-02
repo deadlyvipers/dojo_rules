@@ -6,3 +6,4 @@ My deadly skills
 * Ruby
 * Java
 * Scala
+* Killing history using git rebase
