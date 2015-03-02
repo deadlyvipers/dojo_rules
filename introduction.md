@@ -1,2 +1,2 @@
 私はアシュリンです。
-Git Path.
+Javascript Path.
