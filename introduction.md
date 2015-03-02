@@ -6,4 +6,5 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-* In Introduction
+* An Introduction
+* My favorite path is IOS
