@@ -1,3 +1,4 @@
 I am Dacheng.
 
-c++, objective C
+* c++
+* objective C
