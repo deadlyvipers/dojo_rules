@@ -1,2 +1,2 @@
-This exercise is fuked up. grieve
+This exercise is fuked up. grieve. Like really fucked up.
 
