@@ -8,4 +8,4 @@ Skills:
 * C#
 * Java
 * Testing
-
+* Killing history using git rebase
