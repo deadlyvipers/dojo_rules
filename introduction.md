@@ -9,3 +9,5 @@ The foundation of my managerial believes lies in my passion for project manageme
 In every company I work on I bring fresh ideas and creative way of thinking, also help everybody to get to the peak of their potential.
 
 And BTW, CodeSchool rocks!!! My favorite path is Ruby
+
+*Ruby
