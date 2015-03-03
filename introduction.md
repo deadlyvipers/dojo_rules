@@ -11,3 +11,4 @@ Deadly Skills
 * AWS
 * Git
 * Javascript
+* Killing history using git rebase
