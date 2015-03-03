@@ -1,2 +1,2 @@
 Hello GitHub!!!
-My favourite path is JQuery
+My favourite path is JavaScript
