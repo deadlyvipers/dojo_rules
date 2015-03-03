@@ -1,4 +1,4 @@
-Introduction
+Introduction.
 
 Over the last years I have developed a wide range of client applications using Flash, Flex, AIR etc. 
 My background in management includes 5 years working in the media and gambling sectors of the IT market. 
@@ -8,4 +8,4 @@ As someone who always provides high quality of service, I am always trying to be
 The foundation of my managerial believes lies in my passion for project management and time management. 
 In every company I work on I bring fresh ideas and creative way of thinking, also help everybody to get to the peak of their potential.
 
-And BTW, CodeSchool rocks!!!
+And BTW, CodeSchool rocks!!! My favorite path is Ruby
