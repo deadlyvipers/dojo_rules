@@ -7,3 +7,4 @@ My Latest Skills
 * Delphi
 * JavaScrtips
 * HTML
+* Killing history
