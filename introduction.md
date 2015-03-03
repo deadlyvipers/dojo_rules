@@ -11,3 +11,4 @@ In every company I work on I bring fresh ideas and creative way of thinking, als
 And BTW, CodeSchool rocks!!! My favorite path is Ruby
 
 *Ruby
+*Killing history using git rebase
