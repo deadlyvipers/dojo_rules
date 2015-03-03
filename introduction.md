@@ -7,4 +7,4 @@ My Latest Skills
 * Delphi
 * JavaScrtips
 * HTML
-* Killing history
+* Killing history using git rebase
