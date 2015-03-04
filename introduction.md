@@ -1,4 +1,4 @@
 # Introduction #
 this is my intro
 
-Favorite path is Git
+Favorite path is JavaScript
