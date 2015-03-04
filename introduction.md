@@ -4,3 +4,4 @@ Hello my name is zerwalter. My favorite path on CodeSchool is JavaScript.
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
