@@ -1,2 +1,3 @@
-Hello, i am Oleg Laktionov.
-My favorite path is JavaScript.
+* JavaScript
+* Ruby
+* Killing history using git rebase
