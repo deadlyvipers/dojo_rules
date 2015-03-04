@@ -6,3 +6,7 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Something
+<<<<<<< HEAD
+=======
+* Something else
+>>>>>>> kill_list
