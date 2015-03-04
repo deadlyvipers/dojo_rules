@@ -1,1 +1,1 @@
-Manage my R scripts and ohter stuff
+My favorite Code School path is Electives
