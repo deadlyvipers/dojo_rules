@@ -1,1 +1,1 @@
-Hello my name is zerwalter
+Hello my name is zerwalter. My favorite path on CodeSchool is JavaScript.
