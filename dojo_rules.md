@@ -1,5 +1,3 @@
-Dojo Rules
-==========
 All members should read the rules.
 Link to the deadlyvipers organization : https://github.com/deadlyvipers.
 GitHub Flavored Markdown: https://help.github.com/articles/markdown-basics/ 
