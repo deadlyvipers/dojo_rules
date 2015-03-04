@@ -8,5 +8,6 @@ My favorite Code School path (other than Git) is HTML/CSS, where I'm learning Bo
 * CSS
 * XML
 * Linux commands
+* Killing history using git rebase
 
 
