@@ -9,4 +9,8 @@ Kill List
 <<<<<<< HEAD
 =======
 * Something else
+<<<<<<< HEAD
+>>>>>>> kill_list
+=======
+*adadfasdf
 >>>>>>> kill_list
