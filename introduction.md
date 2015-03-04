@@ -1,6 +1,1 @@
-Inroduction
-==========
-
-Hello! dojo!
-
-Local change
+On my way to becoming a GitHub Master
