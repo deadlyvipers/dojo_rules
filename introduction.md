@@ -1,1 +1,1 @@
-On my way to becoming a GitHub Master
+Manage my R scripts and ohter stuff
