@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Invalid return
 * No Comments
+* Memory leaks
