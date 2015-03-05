@@ -1,1 +1,1 @@
-hello my name is Daniel
+hello my name is Daniel.  My favorite code school path is javaScript.
