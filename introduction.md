@@ -1,7 +1,7 @@
 hello i'm tomas
 JavaScript
 *
-Git
-JavaScript
-Ruby
-Java
+* Git
+* JavaScript
+* Ruby
+* Java
