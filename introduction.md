@@ -6,3 +6,4 @@ This is a standard introduction to the dojo-rules
 * JEE
 * Javascript
 * Git
+* Killing history using git rebase
