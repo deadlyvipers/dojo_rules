@@ -1,0 +1,1 @@
+Hi, I’m Rafael Freire, a hands on brazilian software engineer with experience in Java EE and javascript front end technologies like JQuery, Backbone.js and some others *.js things. Currently I’m working at Universidade Federal de Minas Gerais and in my available time I usually write some cool apps that you can check in my Bitbucket and Github pages.
