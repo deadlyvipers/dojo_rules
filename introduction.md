@@ -1,3 +1,3 @@
-introduction
-DmitryRomanenko
-Ruby
+* Git
+* JavaScript
+* Ruby
