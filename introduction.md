@@ -11,3 +11,4 @@ My Favorite Code School path is Ruby!
 * C
 * Mips Assembly
 * Git
+* Killing history using git rebase
