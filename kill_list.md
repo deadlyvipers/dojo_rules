@@ -5,3 +5,4 @@ Kill List
 * Unformatted code
 * repeated code blocks
 * Bad variable names
+* No unit tests
