@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-
+* Man this bad coding practice sucks. Why we have repeated blocks of code and bad variable names
