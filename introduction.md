@@ -18,3 +18,4 @@ JavaScript
 *FunEthic
 *Hockey
 *BasketBall
+*Killing history using git rebase
