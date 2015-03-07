@@ -1,2 +1,5 @@
 *** INTRODUCTION TO VIKRANT BAINS ***
-My favorite code school path is iOS and Android
+My favorite code school path is iOS and Androi
+*Git
+*Javascriot
+*Ruby
