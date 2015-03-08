@@ -4,3 +4,4 @@ My favorite shizz thus far totally be the JavaScript path, yo!
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
