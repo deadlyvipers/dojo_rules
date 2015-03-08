@@ -4,3 +4,4 @@ Deadly skills
 *C#
 *Java
 *SQL
+*Killing history using git rebase
