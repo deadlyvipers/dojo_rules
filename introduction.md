@@ -11,5 +11,6 @@ My skills:
 *WordPress
 *MongoDB
 *Git
+*Killing history using git rebase
 *Design/Photoshop
 *Copywriting
