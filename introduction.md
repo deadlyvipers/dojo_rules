@@ -5,3 +5,5 @@ or Ruby
 *Ruby
 *VMWARE
 *Networks
+*Killing history using git rebase
+
