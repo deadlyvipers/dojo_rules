@@ -1,1 +1,1 @@
-Kon'nichiwa! My name is Alberto, I'm a Web Dev
+Kon'nichiwa! My name is Alberto, I'm a Web Dev and my favourite codeschool path is Ruby
