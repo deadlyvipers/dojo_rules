@@ -1,2 +1,2 @@
 I'm learning to use git!
-I love the js path.
+I love the JavaScript path.
