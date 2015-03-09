@@ -5,3 +5,4 @@ I love the JavaScript path.
 *HTML
 *CSS
 *Java
+*Killing history using git rebase
