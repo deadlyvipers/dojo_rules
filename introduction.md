@@ -6,3 +6,4 @@ Learning from Code School
 * Ruby on Rails
 * JavaScript
 * AngularJS
+* Killing history using git rebase
