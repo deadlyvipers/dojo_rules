@@ -1,3 +1,4 @@
 CHungerford introduction
-ios
-git
+* ios
+* git
+* Javascript
