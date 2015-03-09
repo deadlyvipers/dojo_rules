@@ -1,3 +1,5 @@
 CHungerford introduction
-ios
-git
+* ios
+* git
+* Javascript
+* Killing history using git rebase
