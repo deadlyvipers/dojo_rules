@@ -9,4 +9,4 @@ Deadly Skills
 =============
 * Ninja Skills
 * Fire Skills
-
+* Killing history using git rebase
