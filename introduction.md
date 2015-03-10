@@ -8,3 +8,11 @@ ruby
 https://www.codeschool.com/courses/ruby
 
 https://www.codeschool.com/paths/ruby
+*
+
+*
+
+
+*Git
+*JavaScript
+*Ruby
