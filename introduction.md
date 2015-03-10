@@ -1,3 +1,3 @@
-hello dojo
-favorite codeschool path is HTML & CSS
+Deadly Skills:
+* freebsd kernel modules
 
