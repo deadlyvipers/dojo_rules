@@ -1,12 +1,5 @@
-Hello
+My name is bbooth,
 
-blah
-akdfsfjl;kdajfklasdjflk
-asdf
-asdfasdfasdf
-asdfasdfasdfasdf
-asdfasdfasdfasdfasdf
-asdfasdfasdf
-
-
-JavaScript
+Skills
+* JavaScript
+* Killing history using git rebase
