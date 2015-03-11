@@ -4,3 +4,4 @@ Hello, this is Armin! My favourite path is `~`, but for codeschool, JavaScript w
 
 * JavaScript
 * Ruby
+* Killing history using git rebase
