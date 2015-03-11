@@ -1,2 +1,5 @@
 dvbeato
-Javascript
+*Javascript
+*Git
+*Ruby
+*Java
