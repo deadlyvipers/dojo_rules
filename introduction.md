@@ -1,1 +1,4 @@
-# JavaScript Path
+* Git
+* JavaScript
+* Ruby
+* Rebase
