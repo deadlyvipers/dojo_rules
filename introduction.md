@@ -1,0 +1,8 @@
+hi, i'm banjo. i mean benji.
+my fav path on code school is JAVASCRIPT! sorry, i got a little carried away...
+deadly skills include:
+*css
+*html
+*javascript
+*taco truck driving
+*Killing history using git rebase
