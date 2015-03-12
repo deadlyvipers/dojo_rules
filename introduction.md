@@ -6,3 +6,4 @@ I've been taking several Code School course and really enjoyed the JavaScript pa
 * git
 * Angular
 * node.js
+* Killing history using git rebase
