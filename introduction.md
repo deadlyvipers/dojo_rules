@@ -1,3 +1,3 @@
 Shubhra Prakash
-Code School path : AngularJS 
+Favorite Code School path is Javascript
 
