@@ -1,0 +1,1 @@
+My name is Bryan and I work as a UX / UI Developer at Allegiant Travel Company in Las Vegas, NV. 
