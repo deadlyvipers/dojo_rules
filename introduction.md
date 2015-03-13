@@ -5,4 +5,3 @@ I'm intrested
 * HTML
 * Javascript
 * PHP
-* Python
