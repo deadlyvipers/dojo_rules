@@ -4,3 +4,5 @@ I'm intrested
 * CSS
 * HTML
 * Javascript
+* PHP
+* Python
