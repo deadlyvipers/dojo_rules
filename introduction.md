@@ -9,3 +9,4 @@ My name is Bryan and I work as a UX / UI Developer at Allegiant Travel Company i
 *AngularJS
 *PHPStorm
 *WebStorm
+*Killing history using git rebase
