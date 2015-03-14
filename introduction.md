@@ -9,3 +9,4 @@
 * Ruby
 * Rails
 * Hotdog Eating
+* Killing history using git rebase
