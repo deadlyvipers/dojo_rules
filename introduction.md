@@ -7,3 +7,4 @@ Deadly skills:
 * Linux
 * Git
 * Ansible
+* Rebase
