@@ -1,2 +1,8 @@
 "On my way to becoming a GitHub Master" 
-ruby
+## Deadly Skills
+
+* Ruby on Rails
+* JavaScript
+* Node.js
+
+Killing history using git rebase
