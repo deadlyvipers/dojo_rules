@@ -1,1 +1,3 @@
-intro. Ruby
+intro. Ruby.
+Deadly skills:
+ * Everything!
