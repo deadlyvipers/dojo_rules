@@ -1,1 +1,1 @@
-this is new introduction.
+this is new introduction. JavaScript is great.
