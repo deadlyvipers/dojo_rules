@@ -5,3 +5,4 @@ Deadly Skills
 * Git
 * JS
 * Beer
+* Killing history using git rebase
