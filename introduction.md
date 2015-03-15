@@ -10,3 +10,5 @@
 * JavaScript
 * Sketch
 * Adobe Suite
+* Killing history using git rebase
+
