@@ -5,3 +5,5 @@ deadly skills:
 * Git
 * C
 * etc...
+* Killing history using git rebase
+
