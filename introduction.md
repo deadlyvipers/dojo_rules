@@ -3,3 +3,10 @@
 
 ### Favorite Code School Path
 	- HTML & CSS path
+
+* Git
+* HTML/CSS
+* Stylus
+* JavaScript
+* Sketch
+* Adobe Suite
