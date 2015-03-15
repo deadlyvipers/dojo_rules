@@ -1,2 +1,8 @@
 This is an introduction
-ddJavascript Path
+Javascript Path
+
+Deadly Skills
+* Git
+* JS
+* Beer
+* Killing history using git rebase
