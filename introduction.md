@@ -9,4 +9,5 @@ List of deadly skills
 * jQuery
 * Angular.js
 * Node.js
+* Killing history using git rebase
 
