@@ -1,12 +1,8 @@
-#Introduction
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
 
-My favourite CodeSchool path is Electives. I'm testing out Code Schools Mastering Github course as a potential internal Git training tool.
-
-#Skills
-* WordPress
-* PHP
-* HTML
-* CSS
-* JavaScript
-* Backbone
-* Killing history using git rebase
