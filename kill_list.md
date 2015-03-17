@@ -5,6 +5,7 @@ Kill List
 * Vernita Green 
 * Elle Driver
 * BILL
+<<<<<<< HEAD
 =======
 
 =========
@@ -14,3 +15,6 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 >>>>>>> release_branch_1.0
+=======
+* Buklau
+>>>>>>> kill_list
