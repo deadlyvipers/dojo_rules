@@ -4,3 +4,4 @@ I like iOS
 * java
 * git
 * freeme
+* Killing history using git rebase
