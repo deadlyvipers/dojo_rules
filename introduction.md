@@ -1,1 +1,2 @@
-favorite path is JavaScript
+*javascript
+*git
