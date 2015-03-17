@@ -4,3 +4,4 @@ Deadly skills:
 *Git
 *JavaScript
 *Ruby
+*jQuery
