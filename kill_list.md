@@ -1,7 +1,6 @@
 Kill List
 =========
 * O-Ren Ishii
-* Vernita Green
-* Budd 
+* Vernita Green 
 * Elle Driver
 * BILL
