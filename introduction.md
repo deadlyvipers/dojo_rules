@@ -1,1 +1,1 @@
-Hi it's darrenthill. My favorite Code School path is the Language Path - Git
+Hi it's darrenthill. My favorite Code School path is JavaScript
