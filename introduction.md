@@ -1,1 +1,1 @@
-hello world
+favorite path is JavaScript
