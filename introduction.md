@@ -1,6 +1,7 @@
-Dojo Roster
-==========
-Favorite CodeSchool path: Ruby
-Actually it's the Git path, but that's not one of the options
-Hans
+List of Deadly Skills
+=========
 
+* Nunchuks
+* Throwing stars
+* Smoke bombs
+* Killing history using git rebase
