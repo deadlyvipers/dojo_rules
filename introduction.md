@@ -3,3 +3,4 @@ hey - Create a new file called introduction.md introducing yourself to the dojo.
 *skills
 *other things
 *wow
+*Killing history using git rebase
