@@ -1,2 +1,2 @@
 Hello! I am here to teach people about GitHub.
-CSS
+My favorite Code School path is CSS.
