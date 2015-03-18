@@ -1,1 +1,1 @@
-# This is a really useful fix to the project
+https://www.codeschool.com/paths/javascript
