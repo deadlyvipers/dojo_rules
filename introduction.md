@@ -1,1 +1,2 @@
-I am Soke.
+Hello! I am here to teach people about GitHub.
+CSS
