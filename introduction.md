@@ -5,3 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 * Git
 * Ruby
 * Unix
+* Killing history using git rebase
+
