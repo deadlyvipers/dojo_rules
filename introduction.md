@@ -8,3 +8,4 @@ Deadly Skills
  *CSS
  *Ruby
  *HTML
+ *Killing history using git rebase
