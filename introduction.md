@@ -1,2 +1,2 @@
 Просто тест !
-Java 
+https://www.codeschool.com/paths/ruby
