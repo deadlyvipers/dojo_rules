@@ -12,4 +12,4 @@ Deadly Skills
 * Git  
 * Ruby  
 * Learning HTML, CSS, JavaScript, and Rails  
-  
+* Killing history using git rebase
