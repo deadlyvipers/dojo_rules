@@ -7,3 +7,4 @@ Deadly Skills
  *Git
  *CSS
  *Ruby
+ *HTML
