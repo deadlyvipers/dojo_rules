@@ -5,3 +5,4 @@ Here are a few of my dealdy skills:
 * Symfony
 * Doctrine
 * TDD
+* Killing history using git rebase
