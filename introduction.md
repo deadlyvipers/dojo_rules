@@ -5,3 +5,4 @@ my avorite Code School path: Ruby
 * PHP
 * Resque
 * Redis
+* Killing history using git rebase
