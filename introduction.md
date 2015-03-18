@@ -4,3 +4,4 @@ HELLO IT ME WTF IS GOING ON
 *GIT
 *C
 *JAVA
+*Killing history using git rebase
