@@ -1,5 +1,4 @@
-*Git, 
-*JavaScript, 
-*Ruby
-Some changes
-https://www.codeschool.com/paths/javascript
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
