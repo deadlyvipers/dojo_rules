@@ -6,3 +6,4 @@ I don't know.
 My deadly skills:
 * A bit of Ruby
 * Some Git
+* Killing history using git rebase
