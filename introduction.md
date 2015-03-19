@@ -1,1 +1,1 @@
-Hi I'm Casper, and am currently feeling really bad about making too short introductions.
+Hi I'm Casper, and am currently feeling really bad about making too short introductions. My favorite track is definitely the JavaScript track.
