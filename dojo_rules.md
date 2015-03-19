@@ -1,5 +1,6 @@
-Dojo Rules
+dojo Rules
 ==========
+* coffee
 * Always be on time
 * Always take off your shoes
 * Keep the dojo tidy
