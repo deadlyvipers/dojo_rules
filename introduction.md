@@ -2,3 +2,4 @@ Create a new file called introduction.md introducing yourself to the dojo. Make 
 JavaScript
 * Git
 * JavaScript
+* Killing history using git rebase
