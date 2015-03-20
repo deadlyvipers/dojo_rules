@@ -10,4 +10,5 @@ Some of my deadly skills include:
 * MySQL
 * Apache
 * Linux
+* Killing history using git rebase
 
