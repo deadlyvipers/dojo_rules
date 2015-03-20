@@ -8,4 +8,6 @@ Some of my deadly skills include:
 * JavaScript
 * PHP
 * MySQL
-* Apache 
+* Apache
+* Linux
+
