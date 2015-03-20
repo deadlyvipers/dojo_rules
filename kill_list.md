@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Uncommented code
-
+* Code stored in obscure locations
