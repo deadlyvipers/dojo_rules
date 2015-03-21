@@ -7,3 +7,4 @@ Hello, my name is Filip and my favorite CS path is JavaScript.
 * sales/marketing
 * html/css
 * javascript
+* Killing history using git rebase
