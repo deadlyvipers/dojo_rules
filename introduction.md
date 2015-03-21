@@ -6,3 +6,4 @@ My favorite CodeSchool course track was the JavaScript track...but I'm liking th
 *JavaScript
 *Ruby on Rails
 *Apache Framework
+*Killing history using git rebase
