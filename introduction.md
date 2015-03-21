@@ -1,2 +1,2 @@
 Sounds sweet
-No Git
+Put iOS here because you forgot Git.
