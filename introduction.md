@@ -1,1 +1,1 @@
-This is an introduction. I am doing the Mastering GitHub course.
+This is an introduction. I am doing the Mastering GitHub course. Favourite Code School path is GIT
