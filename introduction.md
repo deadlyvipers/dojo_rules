@@ -1,3 +1,2 @@
-foobar
-
-I like the JavaScript code path
+* foobar
+* I like the JavaScript code path
