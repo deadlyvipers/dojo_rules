@@ -1,2 +1,3 @@
 norbert front-end
-my favourite path is JS 
+my favourite path is JS
+JavaScript 
