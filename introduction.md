@@ -5,5 +5,6 @@ My favorite path is the HTML & CSS path!
 Deadly SKills
 =============
 
+*Killing history using git rebase
 *Git
 *HTML & CSS
