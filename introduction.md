@@ -5,7 +5,5 @@ My favorite path is the HTML & CSS path!
 Deadly SKills
 =============
 
-Git
-HTML & CSS
-
-
+*Git
+*HTML & CSS
