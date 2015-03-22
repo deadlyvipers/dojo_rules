@@ -5,3 +5,4 @@ Hi I'm Casper, and am currently feeling really bad about making too short introd
 * D3
 * Python
 * .Net
+* Killing history using git rebase
