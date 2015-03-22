@@ -1,2 +1,3 @@
 Hi! I'm Nick, and this is my intro...
+So far, I am really enjoying the Git path! It has been my favorite!
 
