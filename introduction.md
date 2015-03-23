@@ -7,3 +7,4 @@ deadly skills are:
 *Git
 *Java
 *Algorithms
+*Killing history using git rebase
