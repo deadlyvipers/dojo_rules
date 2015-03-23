@@ -8,3 +8,4 @@ Deadly skills:
 * Mind control
 * Daedly acurate spelling (or the other way aruond)
 * Daydreaming
+* Killing history using git rebase
