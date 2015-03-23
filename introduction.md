@@ -1,1 +1,1 @@
-My name is TylerMays. I am not a github master, but I am here to learn.
+My name is TylerMays. My favorite Code School path is JavaScript. I am not a github master, but I am here to learn.
