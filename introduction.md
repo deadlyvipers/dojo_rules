@@ -10,4 +10,5 @@ Deadly Skills:
 * JavaScript
 * Ruby
 * Rails
+* Killing history using git rebase
 * more....
