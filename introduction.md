@@ -1,2 +1,1 @@
-dojo_rules by Xoiiu
-
+Codeschool Mastering Github course, dojo_rules fork of Xoiiu
