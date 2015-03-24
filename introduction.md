@@ -1,2 +1,6 @@
 Hello ..
-Ruby
+*Ruby
+*JavaScript
+*CSS
+*GIT
+*Killing history using git rebase
