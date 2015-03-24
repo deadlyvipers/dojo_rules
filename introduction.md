@@ -1,2 +1,3 @@
 CodeSchool rulez!
-Ruby
+* Ruby
+* Git
