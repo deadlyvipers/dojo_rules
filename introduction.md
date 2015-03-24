@@ -1,2 +1,5 @@
 Hello ..
-Ruby
+*Ruby
+*JavaScript
+*CSS
+*GIT
