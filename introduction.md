@@ -1,2 +1,2 @@
-Hi, I'm Becky and my favorite Code School Path is GIT
-Code School Path: Git
+Hi, I'm Becky and my favorite Code School Path is JavaScript
+Code School Path: JavaScript
