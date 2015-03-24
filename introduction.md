@@ -1,2 +1,2 @@
 Hello This is Kevin
-My favorate path is GitReal
+My favorate Code School path is Electives
