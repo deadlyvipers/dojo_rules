@@ -3,3 +3,4 @@ Hello ..
 *JavaScript
 *CSS
 *GIT
+*Killing history using git rebase
