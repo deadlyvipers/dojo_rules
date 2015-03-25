@@ -9,3 +9,4 @@ Skills:
 * iOS
 * Docker
 * Javascript
+* Killing history using git rebase
