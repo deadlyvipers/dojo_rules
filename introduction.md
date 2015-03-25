@@ -1,4 +1,4 @@
 Dojo Introduction
 ==========
 
-Test content
+My favorite Code School path is JavaScript.
