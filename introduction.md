@@ -8,4 +8,5 @@ Deadly Skills:
 * CSS
 * Git
 * Adobe CQ/Adobe AEM
+* Killing history using git rebase
 
