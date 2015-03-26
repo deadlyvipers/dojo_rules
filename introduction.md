@@ -4,4 +4,4 @@ Git Hub is crucial to working within teams and collaborating
 together to master projects and improve existing source code while 
 maintaining copies of all versions for reference
 Pretty awesome tool now lets master it
-
+My favorite Codeschool Path is Javascript :)
