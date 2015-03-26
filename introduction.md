@@ -1,5 +1,2 @@
-Introduction
-Content
-
 * Javascript.
 * Git
