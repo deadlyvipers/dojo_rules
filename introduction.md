@@ -1,4 +1,3 @@
-Introduction
-Content
-
-Javascript.
+* Javascript.
+* Git
+* Killing history using git rebase
