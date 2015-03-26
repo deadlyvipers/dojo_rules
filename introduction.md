@@ -1,1 +1,1 @@
-I'm Pedro Moreno, and just want to complete the course
+I'm Pedro Moreno, my favorite path is JavaScript on code school.
