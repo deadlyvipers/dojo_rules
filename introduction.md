@@ -3,7 +3,5 @@ I am chintan patel
 working in ibaset.
 skill : 
 *Git
-*JavaScript
-*Ruby
 *HTML
 *IOS
