@@ -7,3 +7,4 @@ Deadly Skills
 * CSS3
 * Javascript
 * Git
+* Killing history using git rebase
