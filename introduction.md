@@ -5,3 +5,5 @@ skill :
 *Git
 *JavaScript
 *Ruby
+*HTML
+*IOS
