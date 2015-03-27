@@ -7,5 +7,4 @@ I favor the JavaScript path of Code School.
 * JavaScript
 * jQuery
 * PHP
-
-
+* Killing history using git rebase
