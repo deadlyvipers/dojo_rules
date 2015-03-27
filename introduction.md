@@ -6,3 +6,4 @@ I like the Ruby.
 * HTML/CSS
 * Ruby on Rails
 * PHP
+* Killing history with git rebase
