@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Hiden errors exceptions
+* Do not read instructions atently
