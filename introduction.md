@@ -15,3 +15,4 @@ My deadly skills include:
 * Javascript
 * jQuery
 * PostgreSQL
+* Killing history using git rebase
