@@ -6,6 +6,8 @@ Kill List
 * Repeated code blocks
 * Unnecessary code
 * Bad variable names
+* Endless loops
+* Unnecessary syntax errors
 <<<<<<< HEAD
 =======
 * No commenting
