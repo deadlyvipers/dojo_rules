@@ -7,3 +7,10 @@
 favorite Code School path: ** HTML & CSS **
 
 and some more changes
+
+and more
+
+deadly_skills:
+
+* "Killing history using git rebase"
+* 
