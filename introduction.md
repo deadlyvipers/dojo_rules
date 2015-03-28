@@ -5,3 +5,5 @@
 		* and i want to say ...
 
 favorite Code School path: ** HTML & CSS **
+
+and some more changes
