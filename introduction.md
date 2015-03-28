@@ -7,3 +7,5 @@
 favorite Code School path: ** HTML & CSS **
 
 and some more changes
+
+and more
