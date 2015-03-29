@@ -10,3 +10,4 @@ Deadly Skills:
 * Javascript
 * MySQL
 * HTML5
+* Killing history using git rebase
