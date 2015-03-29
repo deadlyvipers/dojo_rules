@@ -5,3 +5,5 @@ Deadly skills:
  * Git
  * Java
  * ...
+ * Killing history using Git rebase
+
