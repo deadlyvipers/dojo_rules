@@ -1,1 +1,2 @@
-My introduction
+My introduction.
+Ruby is the best.
