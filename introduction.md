@@ -6,3 +6,4 @@ Deadly skills
 *javascript
 *git
 *Rubiks Cube
+*Killing history using git rebase
