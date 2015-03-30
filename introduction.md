@@ -1,2 +1,1 @@
-Introducing Salim
 CSS
