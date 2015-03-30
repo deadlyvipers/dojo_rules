@@ -1,9 +1,1 @@
-test
-
-
-aaaa
-
-
-my name is James
-
-Just test , just for study
+My favorite Code School path is GIT
