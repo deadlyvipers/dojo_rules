@@ -1,7 +1,7 @@
 Heliogábalo **Santos** Jugón
 
-* Ruby
-* Git
-* C++
- *otro PR* - esto no deberia estar aquí
+* Torrijas
+* Papaviejos
+* Pestiños 
+* Killing history using git rebase
 
