@@ -5,7 +5,7 @@ This repository contains a list of dojo rules for the Deadly Vipers dojo
 
 *All members should read the rules*
 
-This repository was forked from [deadlyvipers/dojo_rules](http://github.com/deadlyvipers)
+This repository was forked from [deadlyvipers/dojo_rules](https://github.com/deadlyvipers)
 
 ##Mastering GitHub
 
