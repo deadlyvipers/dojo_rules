@@ -6,3 +6,4 @@ I also have some deadly skills, primarily:
 * Naginata
 * Katana
 * Bo Staff
+* Killing history using git rebase
