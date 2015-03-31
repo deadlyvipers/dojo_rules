@@ -3,7 +3,8 @@
 My favorite path is Ruby, but I can't wait to get started on JavaScript!
 
 Deadly Skills
+* ruby
+* javascript
+* git
+* killing history using git rebase
 
-* Ruby
-* Git
-* JavaScript
