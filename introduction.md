@@ -5,4 +5,5 @@ My favorite Code School path is Ruby.
 * Git
 * Ruby
 * NodeJS
+* Killing history using git rebase
 
