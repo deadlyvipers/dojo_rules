@@ -3,3 +3,4 @@ HTML & CSS path
 * Javascript
 * Git
 * SQL
+* Killing history using git rebase
