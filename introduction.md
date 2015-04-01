@@ -1,6 +1,8 @@
-Hello my name is Poonam Waral
-My fav path was Javascript
-## Deadly Skills
+<<<<<<< HEAD
+Hello I am Poonam Waral:
+My favourite path is Javascript
 *Javascript
 *HTML
-*GIT
+*rebase
+=======
+
