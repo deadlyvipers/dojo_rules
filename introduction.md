@@ -4,4 +4,4 @@ Deadly skills :
 * git.
 * java,
 * C++
-
+* rebase
