@@ -5,3 +5,4 @@ Favorite code school path: Ruby
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
