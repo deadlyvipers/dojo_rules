@@ -6,4 +6,5 @@
  * Javascript
  * Ruby
  * Play Framework
+ * Killing history using git rebase
  
