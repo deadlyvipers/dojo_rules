@@ -1,3 +1,3 @@
 hello, dojo
 my name is acronick
-my favorite path is github
+my favorite Code School path is github
