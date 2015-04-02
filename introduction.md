@@ -1,1 +1,1 @@
-"Hello"
+"Hello - I love JavaScript"
