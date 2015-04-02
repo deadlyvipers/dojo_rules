@@ -1,1 +1,1 @@
-Hello dojo!
+JavaScript
