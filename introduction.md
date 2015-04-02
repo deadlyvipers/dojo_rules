@@ -9,3 +9,4 @@ Deadly skills:
 * Ruby
 * Git
 * Being generally awesome
+* Killing history using git rebase
