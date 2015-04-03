@@ -1,2 +1,4 @@
 Hello world!
-Ruby path
+* Ruby
+* Git
+* Killing history using git rebase
