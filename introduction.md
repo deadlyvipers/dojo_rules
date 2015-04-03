@@ -8,3 +8,11 @@ I am
   * Going to school
 
 I am looking forward to master the course!
+
+My deadly Skills include
+  * HTML
+  * CSS
+  * JavaScript
+  * Jquery
+  * (Little little bit) Java
+  * (Tiny bit) Python
