@@ -5,3 +5,4 @@ JavaScript
 * CSS
 * SQL
 * JSON
+* Killing history using git rebase
