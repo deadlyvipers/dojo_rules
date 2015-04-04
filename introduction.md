@@ -8,3 +8,4 @@ Deadly Skills:
 * problem solving
 * collaboration
 * communication
+* Killing history using git rebase
