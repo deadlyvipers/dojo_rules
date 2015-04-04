@@ -1,2 +1,2 @@
 Hello! I am Jose.
-My favorite Code school is Git!
+My favorite Code school path is Ruby!
