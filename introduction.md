@@ -9,3 +9,8 @@ Quisque diam augue, aliquam eget lectus ut, accumsan dapibus lectus. Mauris quis
 dignissim erat. Maecenas quis ipsum sem.
 
 My preferite Code School Path is the Ruby one!
+
+* Git
+* Ruby
+* iOS
+* Killing history using git rebase
