@@ -13,3 +13,4 @@ My preferite Code School Path is the Ruby one!
 * Git
 * Ruby
 * iOS
+* Killing history using git rebase
