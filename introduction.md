@@ -1,1 +1,1 @@
-hi i'm john
+javascript best practices
