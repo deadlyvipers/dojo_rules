@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub.
+This could be Ruby, Javascript, HTML & CSS, IOS or Electives
