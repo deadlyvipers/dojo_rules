@@ -6,5 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Visual Basic
-* PHP
 * type jaggling
