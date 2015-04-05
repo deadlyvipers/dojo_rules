@@ -1,1 +1,2 @@
-I am become death
+I am become death.
+I kinda like JavaScipt
