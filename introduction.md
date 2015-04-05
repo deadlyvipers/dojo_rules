@@ -1,4 +1,4 @@
 Dojo Rules
 ==========
 
-Hello world!
+Hello world! My favourite path is JavaScript path!
