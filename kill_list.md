@@ -5,3 +5,5 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
+No code standard
+Unit Test converage low
