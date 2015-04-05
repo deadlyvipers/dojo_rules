@@ -2,3 +2,4 @@ Hello.  My name is Chandra Das. My favorite Code School path, at lease so far, i
 *C++
 *Git
 *Cryptography
+*Killing history using git rebase
