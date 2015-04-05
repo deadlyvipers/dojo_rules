@@ -4,3 +4,4 @@ My favorite Code School path - JavaScript
 * Git
 * Html
 * Css
+* Killing history using git rebase
