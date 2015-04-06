@@ -10,5 +10,5 @@ printf!('Hello, world!')
 * Git
 * JavaScript
 * Ruby
-
+* Killing history using git rebase
 
