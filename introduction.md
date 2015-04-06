@@ -1,1 +1,1 @@
-Dead
+Dead JS
