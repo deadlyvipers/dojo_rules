@@ -6,3 +6,4 @@ My favorite Code School path is the Ruby path.
 *HTML
 *CSS
 *SQL
+*JS
