@@ -1,1 +1,1 @@
-Dead JS
+* Dead JS
