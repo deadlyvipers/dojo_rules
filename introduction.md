@@ -1,2 +1,5 @@
 Hello, I am Benjamin!
-I love Ruby path at Code School!
+* Java
+* C/C++
+* Android
+* Git
