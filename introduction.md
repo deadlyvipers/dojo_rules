@@ -7,5 +7,8 @@ Em, JavaScript.
 ````
 printf!('Hello, world!')
 ````
+* Git
+* JavaScript
+* Ruby
 
 
