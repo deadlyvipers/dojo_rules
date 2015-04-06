@@ -3,3 +3,4 @@ Hello, I am Benjamin!
 * C/C++
 * Android
 * Git
+* Killing history using git rebase
