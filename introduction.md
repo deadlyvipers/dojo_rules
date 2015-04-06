@@ -12,3 +12,4 @@ Deadly skills:
 * php
 * JavaScript
 * General IT curiosity
+* Killing history using git rebase
