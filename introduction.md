@@ -5,3 +5,4 @@ My favorite Codeschool path is JavaScript Roadtrip.
 *JavaScript
 *CSS
 *HTML
+*Killing history using git rebase
