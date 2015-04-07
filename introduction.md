@@ -1,3 +1,8 @@
-# Intro
-Hello.
-My favorite codeschool path is JavaScript.
+# Skills
+
+* javascript
+* css
+* coldfusion
+* node.js
+* Killing history using git rebase
+
