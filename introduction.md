@@ -1,2 +1,3 @@
 # Intro
-Hello. Git.
+Hello.
+My favorite codeschool path is JavaScript.
