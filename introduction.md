@@ -1,1 +1,3 @@
 Vinuth Giri
+GitHub
+Javascript
