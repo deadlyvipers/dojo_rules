@@ -4,3 +4,4 @@ My deadly skills:
 * Rails
 * Git
 * Rspec
+* Killing history using git rebase
