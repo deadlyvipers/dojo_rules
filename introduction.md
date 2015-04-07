@@ -1,1 +1,1 @@
-Hello, my name is Kasia.
+Hello, my name is Kasia. I <3 Ruby.
