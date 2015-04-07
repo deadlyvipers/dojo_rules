@@ -1,2 +1,2 @@
 # Intro
-Hello.
+Hello. Git.
