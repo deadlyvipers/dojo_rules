@@ -1,3 +1,2 @@
-:i
-test
 
+JavaScript path is my favorite!
