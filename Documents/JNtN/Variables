@@ -1,0 +1,102 @@
+var a; // declare a variable called a
+<< undefined
+
+var message;
+<< undefined
+
+var a,b,c // 3 variables declared at once
+<< undefined
+
+$name
+_answer
+firstName
+last_name
+address_line1
+
+firstNameAndLastName
+
+first_Name_And_Last_Name
+
+RESERVED WORDS
+
+abstract, boolean, break, btye, case, catch, char, class, const, continue, debugger, default, delete, do, double, else, enum, export, extends, false, final, finally, float, for, function, goto, if, implements, import, in instanceof, int, inteface, long, native, new, null, package, private, protected, public, return, short, static, super, switch, synchronized, this, throw, throws, transient, true, try, typeof, var, volatile, void, while, with
+
+undefined, NaN, Infinity
+
+ASSIGNMENT
+
+var name; // declare the variable first
+<< undefined
+
+name = "Walter"; // assign the variable to a string
+<< "Walter"
+
+name;
+<< "Walter"
+
+name = "Walter"; // assign the variable to a string
+<< "Walter"
+
+name;
+<< "Walter"
+
+typeof name;
+<< string
+
+var name = "Jesse";
+<< "Jesse"
+
+var x = 2, y, z ="Hi!"; // y has only been declared, it's undefined
+<< undefined
+
+STRING PROPERTIES AND METHODS
+
+name = "Heisenberg"; // declare and assign a variable
+<< "Heisenberg"
+
+name.length; // call the length method on name
+<< 10
+
+		BRACKET NOTATION
+
+		name['length']; // note the property name is the in quote marks
+		<< 10
+
+name.length
+<< 10
+
+name.length = 7;
+<< 7
+
+name.length; // check to see if it's changed
+<< 10
+
+name.toUpperCase();
+<< "HEISENBERG"
+
+name.toLowerCase();
+<< "heisenberg"
+
+name.charAt(1);
+<< e
+
+name.indexOf("H");
+<< 0
+
+name.indexOf("a");
+<< -1
+
+name.lastIndexOf("e");
+<< 7
+
+"Javascript".concat("Ninja");
+<< "JavascriptNinja"
+
+"Hello".concat(" ", "World", "!", ";")
+<< Hello World!
+
+Hello World		".trim(); // the space in the middle will be preserved
+<< "Hello World"
+
+"	\t\t\ Javascript Ninja! \r" .trim(); //escaped tabs and carriage returns are also removed
+<< "Javascript Ninja!"
