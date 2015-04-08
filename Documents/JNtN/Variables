@@ -100,3 +100,12 @@ Hello World		".trim(); // the space in the middle will be preserved
 
 "	\t\t\ Javascript Ninja! \r" .trim(); //escaped tabs and carriage returns are also removed
 << "Javascript Ninja!"
+
+NUMBERS
+
+typeof 3;
+<< "number"
+
+typeof 3.14159;
+<< "number"
+
