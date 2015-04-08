@@ -1,2 +1,2 @@
 Ladida
-http://gitreal2.codeschool.com/levels/1
+On my way to becoming a GitHub Master. I love Ruby and JavaScript."
