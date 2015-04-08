@@ -8,3 +8,5 @@ Deadly Skills:
 * MVC
 * JavaScript
 * LESS/CSS
+* Killing history using git rebase
+
