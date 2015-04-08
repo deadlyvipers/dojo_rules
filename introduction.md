@@ -1,5 +1,5 @@
-#Cyphre117
-
-My favourite codeschool path is git!
+My favourite codeschool paths are HTML & CSS and Git!
 
 Hi everyone, i'm new to the dojo.
+
+#Cyphre117
