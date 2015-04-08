@@ -1,2 +1,4 @@
-ToDO: Write introduction
-Ruby
+Killing history using git rebase
+* JavaScript
+* Git
+* Ruby
