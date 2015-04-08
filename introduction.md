@@ -1,2 +1,3 @@
-ToDO: Write introduction
-Ruby
+* JavaScript
+* Git
+* Ruby
