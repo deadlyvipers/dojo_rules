@@ -1,2 +1,3 @@
-This is my github trainig
-JavaScript
+* Git
+* JavaScript
+* Ruby
