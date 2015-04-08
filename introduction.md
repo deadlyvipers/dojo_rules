@@ -1,2 +1,2 @@
 This is my github trainig
-JavaScript
+JavaScript is my favourite path.
