@@ -4,3 +4,4 @@ I am the Ruby covered Nightmare Goat.
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
