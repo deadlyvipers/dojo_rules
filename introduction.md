@@ -4,3 +4,4 @@ Hello, my name is Piper. My favorite Code School path is JavaScript.
 * HTML
 * JavaScript
 * Cats
+* Killing history using git rebase
