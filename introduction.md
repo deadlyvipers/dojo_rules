@@ -1,1 +1,3 @@
-JavaScript, HTML e CSS
+*JavaScript 
+*HTML
+*CSS
