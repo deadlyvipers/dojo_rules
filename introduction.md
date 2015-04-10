@@ -1,4 +1,3 @@
 Hello dojo, I'm talkin blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
-*Git
-*JavaScript
-*Ruby
+* Ruby
+* Killing history using git rebase
