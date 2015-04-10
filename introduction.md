@@ -1,1 +1,1 @@
-Ruby, JavaScript, HTML e CSS , iOS ou Eletivas 
+JavaScript, HTML e CSS
