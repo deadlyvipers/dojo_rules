@@ -1,1 +1,1 @@
-Ruby
+*sass *git
