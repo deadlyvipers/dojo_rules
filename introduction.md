@@ -6,3 +6,4 @@ I came here to learn from the master;
 *Git
 *Ruby
 *C
+*Rebase
