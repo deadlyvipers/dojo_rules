@@ -1,1 +1,1 @@
-Hello. This is the introduction file.
+Hello. This is the introduction file. My favourite codeschool path is Javascript.
