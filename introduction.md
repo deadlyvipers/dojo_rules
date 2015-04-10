@@ -1,1 +1,1 @@
-*sass *git
+*sass *git *Killing history using git rebase
