@@ -1,2 +1,2 @@
 Intro: John Cunnignham
-Path: Git
+Path: Electives
