@@ -1,2 +1,1 @@
-Hello i'm Jaume and I'm glad to qork with you
-My Favourite course is Rails For Zombies!
+Hello i'm Jaume and I'm glad to work with you, and my favourite codeschool path is ruby.
