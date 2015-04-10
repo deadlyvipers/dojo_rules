@@ -1,4 +1,3 @@
 *JavaScript 
 *HTML
-*CSS
 *PHP
