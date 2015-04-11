@@ -11,3 +11,4 @@ Ruby, JavaScript, HTML & CSS, iOS or Electives
 * python
 * unix
 * html
+* Killing history using git rebase
