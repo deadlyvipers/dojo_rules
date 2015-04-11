@@ -4,4 +4,5 @@ Hao Zhang
 
 
 working at WRCB
-Cpp, Python, JAVA, OO
+
+Ruby, JavaScript, HTML & CSS, iOS or Electives
