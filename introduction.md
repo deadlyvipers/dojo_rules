@@ -6,4 +6,4 @@ My favorite path is JavaScript
 *c++
 *python 
 *c#
-*Killing history
+*Killing history using git rebase
