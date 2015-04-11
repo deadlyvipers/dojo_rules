@@ -6,3 +6,4 @@ My favorite path is JavaScript
 *c++
 *python 
 *c#
+*Killing history
