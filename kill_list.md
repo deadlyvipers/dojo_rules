@@ -5,3 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Troubleshooting only to find out the code was missing a parenthesis or comma
