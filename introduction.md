@@ -3,3 +3,4 @@ My favorite codeschool path is Ruby!
 My deadly skills:
 * html
 * css
+* Killing history using git rebase
