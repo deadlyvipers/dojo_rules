@@ -1,1 +1,1 @@
-Markus Guenther
+following a codeschool course
