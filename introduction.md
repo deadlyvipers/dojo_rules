@@ -4,3 +4,4 @@ javascript path!
 * git
 * javascript
 * nodejs
+* Killing history using git rebase
