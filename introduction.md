@@ -1,1 +1,1 @@
-http://campus.codeschool.com/courses/mastering-github/level/1/section/3/pull-requestig
+https://www.codeschool.com/courses/real-time-web-with-node-js
