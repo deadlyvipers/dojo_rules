@@ -1,1 +1,1 @@
-https://www.codeschool.com/courses/real-time-web-with-node-js
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
