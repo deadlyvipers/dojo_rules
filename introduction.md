@@ -1,43 +1,9 @@
-<html ng-app="campus" ng-controller="pageTitleController" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths ng-scope" id="sv"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>
+<html ng-app="campus" ng-controller="pageTitleController" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths ng-scope" id="sv"><head>
     <title ng-bind="pageTitle" class="ng-binding">Collaboration Using Pull Requests - Mastering GitHub</title>
-<!-- Open Graph protocol: -->
-  <meta property="og:title" content="Mastering GitHub">
-  <meta property="og:description" content="">
-  <meta property="og:type" content="website">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:url" content="https://www.codeschool.com/courses/mastering-github">
-  <meta property="og:image" content="http://campus.codeschool.com/mastering-github/achievements/badges/badge-course.png">
-  <meta property="og:site_name" content="Code School">
-  <meta property="fb:admins" content="5200953"><meta property="fb:admins" content="40012883">
-  <meta content="summary" name="twitter:card">
-  <meta content="@codeschool" name="twitter:site">
-  <meta content="Mastering GitHub" name="twitter:title">
-  <meta content="Learn the how to Master GitHub when working with teams." name="twitter:description">
-  <meta content="" name="twitter:creator">
-  <meta content="http://campus.codeschool.com/mastering-github/achievements/badges/badge-course.png" name="twitter:image:src">
-  <meta content="" name="twitter:domain">
 
 <link href="http://dhg7upb7j7jqa.cloudfront.net/mastering_github/assets/images/favicon-68efc72f-af5c-44fe-9ad0-0a3298d87993.ico" rel="icon" type="image/ico">
 <link href="http://dhg7upb7j7jqa.cloudfront.net/course-assets/mastering-github/level/1/course-68efc72f-af5c-44fe-9ad0-0a3298d87993.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="http://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
-/* <![CDATA[ */
-var _gaq = _gaq || [];
-_gaq.push(['ua452961884._require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);_gaq.push(['ua974074923._require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
-_gaq.push(['ua452961884._setAccount', 'UA-45296188-4']);_gaq.push(['ua974074923._setAccount', 'UA-9740749-23']);
-_gaq.push(['ua974074923._setDomainName', 'none']);_gaq.push(['ua974074923._setAllowLinker', true]);_gaq.push(['ua974074923._addIgnoredRef', 'codeschool.com']);
-_gaq.push(['ua974074923._addIgnoredRef', 'campus.codeschool.com']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-var _gaq = _gaq || [];
-_gaq.push(['ua452961884._trackPageview', '/courses/mastering-github']);
-_gaq.push(['ua974074923._trackPageview', '/campus.codeschool.com/courses/mastering-github']);/* ]]> */
-</script>
-
-
-    <meta content="authenticity_token" name="csrf-param">
+<meta content="authenticity_token" name="csrf-param">
 <meta content="ICHkLwihFoPgbCf5NX3r/xMwmkuc95rQAv6hjvwE3Zc=" name="csrf-token">
   <script type="text/javascript" src="//cdn.sublimevideo.net/c/sa/2.6.5/sa.js?t=33r2xa49" async=""></script><script type="text/javascript" src="//cdn.sublimevideo.net/s2/33r2xa49.js" async=""></script><style type="text/css">#sv .sublimevideo-Label{overflow:hidden!important;text-align:left!important;} #sv .sublimevideo-Button{background:none!important;border:none!important;margin:0!important;outline:none!important;padding:0!important;font-size:0!important;line-height:0!important;overflow:visible!important;cursor:pointer!important;} #sv .sublimevideo-View{-webkit-tap-highlight-color:rgba(0,0,0,0)!important;display:block!important;position:absolute!important;text-shadow:none!important;border:none!important;z-index:auto!important;} #sv .sublimevideo-VideoView{line-height:0!important;background:rgba(0, 0, 0, 0.99)!important;direction:ltr!important;padding:0!important;text-align:center!important;-webkit-user-select:none!important;-moz-user-select:none!important;} #sv .sublimevideo-VideoView * {padding:0!important;margin:0!important;border:none!important;overflow:visible!important;background:none!important;float:none!important;z-index:auto!important;-moz-border-radius:0!important;-webkit-border-radius:0!important;border-radius:0!important;-moz-box-shadow:none!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-transform:none!important;text-decoration:none!important;max-width:none!important;top:auto!important;bottom:auto!important;left:auto!important;right:auto!important;} </style><style type="text/css">#sv .sublimevideo-subtitles0 * {font-size:12px!important;font-family:HelveticaNeue,Helvetica,Arial,sans-serif!important;padding:0!important;margin:0!important;border:none!important;overflow:visible!important;float:none!important;-moz-border-radius:0!important;-webkit-border-radius:0!important;border-radius:0!important;-moz-box-shadow:none!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-transform:none!important;text-decoration:none!important;max-width:none!important;} </style><style type="text/css">#sv .sublimevideo-subtitles1 * {font-size:12px!important;font-family:HelveticaNeue,Helvetica,Arial,sans-serif!important;padding:0!important;margin:0!important;border:none!important;overflow:visible!important;float:none!important;-moz-border-radius:0!important;-webkit-border-radius:0!important;border-radius:0!important;-moz-box-shadow:none!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-transform:none!important;text-decoration:none!important;max-width:none!important;} </style><style type="text/css">#sv .sublimevideo-subtitles2 * {font-size:12px!important;font-family:HelveticaNeue,Helvetica,Arial,sans-serif!important;padding:0!important;margin:0!important;border:none!important;overflow:visible!important;float:none!important;-moz-border-radius:0!important;-webkit-border-radius:0!important;border-radius:0!important;-moz-box-shadow:none!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-transform:none!important;text-decoration:none!important;max-width:none!important;} </style><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
   <body cz-shortcut-listen="true" style="">
@@ -58,7 +24,7 @@ _gaq.push(['ua974074923._trackPageview', '/campus.codeschool.com/courses/masteri
   <div class="bar-item bar-item--east">
     <div class="has-menu session ng-scope" ng-mouseleave="clearActive()">
   <a href="http://www.codeschool.com" class="session-logo ng-scope">
-    <svg xmlns="http://www.w3.org/2000/svg" width="166.6" height="30" viewBox="-22.2 -3.9 166.6 30" enable-background="new -22.2 -3.9 166.6 30"><path fill="#4D4F50" d="M24.5 16c-2.5 0-4.1-1.5-4.1-4.7s1.6-4.7 4.1-4.7c.9 0 1.9.3 2.7.8l1.6-3c-1.4-.7-3-1.1-4.6-1.1-4.8 0-8.3 3-8.3 8.1s3.5 8.1 8.3 8.1c1.4 0 2.7-.3 4-.8l-1.6-3c-.7.1-1.4.3-2.1.3zM94.1 10.7c.7 0 1.3.2 1.7.7l.9-2.6c-1-.6-2.1-.9-3.4-.9-3.3 0-6 2.1-6 5.7s2.7 5.7 6 5.7c1.3 0 2.4-.3 3.4-.9l-.9-2.6c-.4.5-1.1.7-1.7.7-1.4 0-2.5-.8-2.5-2.8 0-2.2 1.1-3 2.5-3zM34.7 7.9c-3.3 0-6 2.1-6 5.7s2.7 5.7 6 5.7 6-2.1 6-5.7-2.7-5.7-6-5.7zm0 8.8c-1 0-1.7-1.2-1.7-3.2s.8-3.2 1.7-3.2c1 0 1.7 1.2 1.7 3.2 0 2.1-.7 3.2-1.7 3.2zM117.8 7.9c-3.3 0-6 2.1-6 5.7s2.7 5.7 6 5.7 6-2.1 6-5.7-2.7-5.7-6-5.7zm0 8.8c-1 0-1.7-1.2-1.7-3.2s.8-3.2 1.7-3.2 1.7 1.2 1.7 3.2c.1 2.1-.7 3.2-1.7 3.2zM131.1 7.9c-3.3 0-6 2.1-6 5.7s2.7 5.7 6 5.7 6-2.1 6-5.7c.1-3.6-2.6-5.7-6-5.7zm0 8.8c-1 0-1.7-1.2-1.7-3.2s.8-3.2 1.7-3.2c1 0 1.7 1.2 1.7 3.2.1 2.1-.7 3.2-1.7 3.2zM62.9 16.6c-1 0-1.7-.6-2-1.8 3.6.1 5.8-1.4 5.8-3.5s-1.9-3.4-4.2-3.4c-3.3 0-6 2.1-6 5.7s2.4 5.7 5.7 5.7c3.2 0 5-2.4 5-2.4l-1.1-1.9s-1.6 1.6-3.2 1.6zm-.4-6.2c.6 0 .9.5.9 1.1 0 1-.6 1.5-2.6 1.6.1-1.8.8-2.7 1.7-2.7zM53.9 15v-12.3h-4.1v6.9c-.8-1.1-2-1.8-3.3-1.8-2.4 0-4.4 2.1-4.4 5.7s2 5.7 4.4 5.7c1.5 0 2.8-.8 3.6-2.1.5 1.5 1.8 2.1 3.2 2.1 1.4 0 2.1-.4 2.1-.4l.3-2.9c-.1 0-1.8 1-1.8-.9zm-5.8 1.6c-1 0-1.7-1.1-1.7-3s.8-3 1.7-3c1 0 1.7 1.1 1.7 3s-.8 3-1.7 3zM109.1 15v-4.1c0-1.8-.6-3-2.6-3-1.6 0-3 .8-3.7 2.1v-7.3h-4.1v16.1h4.1v-3.8c0-3.5 1.1-4.5 1.7-4.5.4 0 .7.3.7 1.1v3.8c0 2.8 1.6 3.8 3.4 3.8 1.4 0 2.1-.4 2.1-.4l.3-2.9c-.1 0-1.9.8-1.9-.9zM142.7 15v-12.3h-4.1v12.7c0 2.8 1.6 3.8 3.4 3.8 1.4 0 2.1-.4 2.1-.4l.3-2.9s-1.7 1-1.7-.9zM81.7 9.4c-2.5-.9-3.1-1.2-3.1-2s.5-1.2 1.4-1.2c2 0 4.5 1.4 4.5 1.4l1.1-2.7s-1.9-1.7-5.4-1.7c-3.8 0-5.8 2-5.8 4.7 0 2 1 3.8 4.1 4.8 2.5.8 2.9 1.4 2.9 2.2 0 1-.7 1.4-1.8 1.4-2.3 0-5-1.8-5-1.8l-1.4 2.7s2.7 2.2 6.4 2.2c4 0 6.2-2 6.2-5 .1-2.3-.5-3.7-4.1-5z"></path><g fill="#4CADC1"><path d="M-5.6 3.1v3.8l4.4 4.2-4.4 4.1v3.8l8.5-7.9zM-8.9 15.2l-4.3-4.1 4.3-4.2v-3.8l-8.4 8 8.4 7.9z"></path></g><path fill="#4CADC1" d="M-7.2-3.9c-8.3 0-15 6.7-15 15s6.7 15 15 15 15-6.7 15-15-6.7-15-15-15zm0 27.3c-6.8 0-12.3-5.5-12.3-12.3s5.5-12.4 12.3-12.4 12.3 5.6 12.3 12.4-5.5 12.3-12.3 12.3z"></path></svg>
+  
   </a>
 
   <a href="" class="session-toggle ng-scope" ng-mouseover="setActive()">
