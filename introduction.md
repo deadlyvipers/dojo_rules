@@ -1,8 +1,9 @@
 This is an introduction.
 My favorite path so far is the Electives path.
 
-Deadly Skills:
+Deadly skills:
 
-* Git
 * Python
+* Git
 * Mercurial
+* Killing history using git rebase
