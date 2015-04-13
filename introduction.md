@@ -1,5 +1,6 @@
 Skills
 ======
 * Ruby
-* CSS
+* Tacos
 * Bacon weaving
+* Killing history using git rebase
