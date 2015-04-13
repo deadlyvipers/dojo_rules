@@ -5,3 +5,4 @@ I guess my favourite path would be JavaScript.
 * JavaScript
 * Git
 * Docker
+* Killing history using git rebase
