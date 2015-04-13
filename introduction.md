@@ -1,2 +1,4 @@
-My name is Gio
+<?php
 
+echo phpinfo();
+?>
