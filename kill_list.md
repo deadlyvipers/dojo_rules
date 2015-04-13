@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Lazy attitude
+* No attention
+* Lack of interest into adventure
