@@ -1,4 +1,3 @@
-<?php
-
-echo phpinfo();
-?>
+jQuery(document).ready(function($) {
+alert('asd');
+});
