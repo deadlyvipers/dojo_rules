@@ -10,3 +10,4 @@ Deadly Skills
 * Android
 * MongoDB
 * MySQL
+* Killing history using git rebase
