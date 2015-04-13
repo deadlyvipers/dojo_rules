@@ -1,7 +1,3 @@
-Kill List
-=========
-Unused code
-Functions with side effects
-Unformatted code
-Repeated code blocks
-Bad variable names
+today is busy, 
+
+work is too much and pay is too low
