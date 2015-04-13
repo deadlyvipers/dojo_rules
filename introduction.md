@@ -1,5 +1,8 @@
 I am Luke.
 
-JavaScript
+*JavaScript
+*Git
+*Ruby
+
 
 
