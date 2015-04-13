@@ -5,3 +5,4 @@ My favorite Code School path at the moment is GIT .. but then I'll be looking to
 ## Deadly Skills
 * iOS
 * GIT
+* Killing history using git rebase
