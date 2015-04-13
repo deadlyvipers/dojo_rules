@@ -1,1 +1,5 @@
-DLdf klsdfj sdklj Ruby
+Skills
+======
+* Ruby
+* Tacos
+* Bacon weaving
