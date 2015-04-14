@@ -1,1 +1,1 @@
-Hi. I'm 7001.
+Hi. I'm 7001. My favorite Code School Path is Git Path.
