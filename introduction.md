@@ -4,3 +4,4 @@ http://campus.codeschool.com/courses/mastering-github/level/1/section/3/pull-req
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
