@@ -1,3 +1,3 @@
-This is zhentian-wan
-
-javascript
+* Git
+* JavaScript
+* Ruby
