@@ -3,3 +3,4 @@ favorite Code School path is Electives!!!
 Deadly skills include:
 * git
 * listing deadly skills
+* Killing history using git rebase
