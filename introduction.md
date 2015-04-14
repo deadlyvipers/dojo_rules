@@ -1,3 +1,5 @@
 hello im nick
 favorite Code School path is Electives!!!
-Deadly skills include: git
+Deadly skills include:
+* git
+* listing deadly skills
