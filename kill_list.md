@@ -4,6 +4,7 @@ Kill List
 * Github
 * Sebastian
 * Bash
+* Wuff
 * Unused code
 * Functions with side effects
 * Unformatted code
