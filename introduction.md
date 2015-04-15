@@ -8,3 +8,4 @@ my deadly skill are:
 * Java
 * Ruby
 * Git
+* Killing history using git rebase
