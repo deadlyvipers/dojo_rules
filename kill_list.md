@@ -1,6 +1,6 @@
 Kill List
 =========
-* Unused code
+* TESTING:
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
