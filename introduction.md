@@ -8,3 +8,4 @@ Javascript
 * GIT
 * Wordpress
 * Ubuntu
+* Rebase
