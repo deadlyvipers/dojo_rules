@@ -6,5 +6,5 @@ I am finding learning git hard
 * Jacascript
 * PHP
 * MySQL
-
+* Killing history using git rebase
 Stuart
