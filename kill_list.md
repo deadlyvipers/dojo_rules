@@ -5,6 +5,7 @@ Kill List
 * Sebastian
 * Bash
 * Wuff
+* Peiniger
 * Unused code
 * Functions with side effects
 * Unformatted code
