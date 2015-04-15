@@ -7,8 +7,12 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
 * no coffee in the dojo
 =======
 * Git
 * JavaScript
 >>>>>>> Added Skills
+>>>>>>> master
