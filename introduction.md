@@ -7,3 +7,4 @@ Javascript
 * Javascript
 * GIT
 * Wordpress
+* Ubuntu
