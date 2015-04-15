@@ -1,6 +1,7 @@
 Kill List
 =========
 * Hallo
+* Github
 * Unused code
 * Functions with side effects
 * Unformatted code
