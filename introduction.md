@@ -1,3 +1,4 @@
-This is zhentian-wan
-
-javascript
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
