@@ -1,7 +1,4 @@
-#Introduction
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-**Hello, My name is Dan.**
-
-I work at Pluralsight
-
-My favorite path on Code School: **JavaScript**
+* Ruby  on Rails
+*git
