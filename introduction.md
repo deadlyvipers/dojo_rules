@@ -1,1 +1,2 @@
-Hello, my name is Quver
+Hello, my name is Quver.
+My favorite path is iOS.
