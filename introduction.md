@@ -3,6 +3,6 @@ Favorite path is Electives
 
 Deadly skills:
 ==============
-Git
-JavaScript
-Java
+* Git
+* JavaScript
+* Java
