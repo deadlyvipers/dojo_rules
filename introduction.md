@@ -1,2 +1,2 @@
 Hi, I'm Jean :)
-Favorite path: git
+Favorite path: Electives
