@@ -7,4 +7,4 @@ Kill List
 * Bad variable names
 * Access database directly from UI
 * Binary search unsorted data
-* Instanciate interfaces
+* Instantiate interfaces
