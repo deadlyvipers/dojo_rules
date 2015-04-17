@@ -1,3 +1,4 @@
-haii..
-who r yu?
-idiot
+deadly skils are:
+git
+javascript
+ruby
