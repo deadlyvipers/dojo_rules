@@ -1,4 +1,6 @@
-Introduction:
+Introduction to deadly_skills:
 ==========
-Hi my name is Lazaro.
-My favourite Code School path is JavaScript.
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
