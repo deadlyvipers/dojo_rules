@@ -1,1 +1,3 @@
-JavaScript, HTML & CSS
+*Git
+*JavaScript
+*HTML5 and CSS3
