@@ -1,4 +1,3 @@
 Introduction
 ==========
-Hi this is hitchr.
-My favorite Code School path is Git.
+Hi this is hitchr and my favorite code school path is JavaScript.
