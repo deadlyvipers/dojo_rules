@@ -4,3 +4,4 @@ My favourite path is the JavaScript path!
 * SQL
 * HTML
 * CSS
+* Killing history using git rebase
