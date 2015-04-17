@@ -1,4 +1,4 @@
 deadly skils are:
-git
-javascript
-ruby
+a * git
+a * javascript
+a * ruby
