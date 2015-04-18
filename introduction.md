@@ -1,2 +1,2 @@
 My name is Char.
-My favourite Code School path is Git.
+My favorite Code School path is Ruby.
