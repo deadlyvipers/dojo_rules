@@ -1,2 +1,5 @@
 Roberto Aguilar
-Javascript
+* Javascript
+* Python
+* Java
+* Killing history using git rebase
