@@ -1,1 +1,1 @@
-Hi, I'm ryandterri
+Hi, I'm ryandterri.  Favorite code school path is Javascript.
