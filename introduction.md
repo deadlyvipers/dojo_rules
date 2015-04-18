@@ -9,3 +9,4 @@ Favorite path: Ruby
 * Swift
 * Coffeescript
 * Objective-C
+* Killing history using git rebase
