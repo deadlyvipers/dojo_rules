@@ -1,2 +1,4 @@
 Roberto Aguilar
-Javascript
+* Javascript
+* Python
+* Java
