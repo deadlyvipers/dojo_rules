@@ -1,3 +1,5 @@
-hi
-cse
-My favorite codeschool path is JavaScript
+Deadly skills list
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase.
