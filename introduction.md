@@ -1,1 +1,1 @@
-hello
+I love JavaScript
