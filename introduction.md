@@ -1,1 +1,1 @@
-Hello my name is Brad.
+Hello my name is Brad. My favorite codeschool path is Javascript.
