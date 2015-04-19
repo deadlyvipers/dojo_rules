@@ -1,0 +1,10 @@
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
+* Lazy attitude
+* No attention
+* Lack of interest into adventure
