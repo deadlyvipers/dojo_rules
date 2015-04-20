@@ -4,3 +4,4 @@ Deadly Skills
 * Perl
 * Shell
 * make
+* git hub sucks.
