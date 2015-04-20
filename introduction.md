@@ -7,3 +7,4 @@ My deadly skills are:
 *C#
 *Git
 *food ordering
+*Killing history using git rebase
