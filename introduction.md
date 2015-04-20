@@ -1,2 +1,3 @@
-introduction 
-I love Javascript CodeSchool course.
+ 
+*Ruby
+*HTML
