@@ -1,1 +1,6 @@
-I love Ruby and JavaScript!
+Deadly Skills
+
+Ruby
+Perl
+Shell
+make
