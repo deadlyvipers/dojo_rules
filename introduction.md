@@ -2,3 +2,4 @@ We'll need to know your GitHub username for this course. We'll assume all change
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
