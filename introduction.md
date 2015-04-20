@@ -1,1 +1,1 @@
-hello i am here to teach people about GitHub
+ello i am here to teach peRuby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML 
