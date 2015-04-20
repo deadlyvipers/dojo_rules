@@ -1,3 +1,3 @@
 Introduction
 ==========
-* Give me credit for this exercise, beeoych!
+* Bec de Corbin is a polearm useful for shucking Knights like lobsters.
