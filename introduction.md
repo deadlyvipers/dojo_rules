@@ -3,3 +3,4 @@
 *css
 *angular
 *django
+*Killing history using git rebase
