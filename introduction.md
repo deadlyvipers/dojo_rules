@@ -1,2 +1,3 @@
 an introduction
-I like the Git path!
+
+I like the JavaScript path!
