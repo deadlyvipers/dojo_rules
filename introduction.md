@@ -1,6 +1,6 @@
 Deadly Skills
 
-Ruby
-Perl
-Shell
-make
+* Ruby
+* Perl
+* Shell
+* make
