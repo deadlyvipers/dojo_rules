@@ -3,3 +3,4 @@ javascript
 * ruby
 * puppet
 * javascript
+* Killing history using git rebase
