@@ -4,4 +4,5 @@ Deadly Skills
 * Perl
 * Shell
 * make
-* git hub sucks.
+* Killing history using git rebase git hub sucks.
+
