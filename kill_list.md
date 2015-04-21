@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * No code comments
 * Shitbox requirements
+* Case sensitive triggering
