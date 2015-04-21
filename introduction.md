@@ -5,4 +5,4 @@ I kill the following:
 *Git
 *PHP
 *Ruby
-*kiddo, your shit sucks bro.  having to do this again
+*Killing history using git rebase
