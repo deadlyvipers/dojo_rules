@@ -7,3 +7,4 @@ Deadly skills:
 *Groovy
 *Javascript
 *Git/Github
+*Killing history using git rebase
