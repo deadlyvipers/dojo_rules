@@ -3,3 +3,4 @@ I made this file. It is awesome.  You get no info on ME :D. My favorite code sch
 * Web Design
 * Github
 * CSS
+* Killing history using git rebase
