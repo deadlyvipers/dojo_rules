@@ -1,1 +1,4 @@
-ello i am here to teach peRuby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML Ruby, JavaScript, HTML 
+hello i am here to teach p*
+*eRuby,
+*JavaScript, 
+*HTML  
