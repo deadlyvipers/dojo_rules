@@ -5,4 +5,4 @@ Skills
 * javascript
 * java
 * c
-
+* Killing history using git rebase
