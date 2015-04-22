@@ -1,1 +1,1 @@
-Yo what's up!
+Yo what's up! JavaScript.
