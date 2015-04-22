@@ -1,3 +1,4 @@
-This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!This is dog!
-
-JavaScript
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
