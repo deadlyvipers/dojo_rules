@@ -1,1 +1,2 @@
-Hello, my name is jCaseyCreder
+Hello, my name is jCaseyCredera
+My favorite CodeSchool.com path is JavaScript!
