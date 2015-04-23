@@ -1,2 +1,2 @@
 introduction
-favorite path is Bootstrap
+my favorite Code School path is Bootstrap
