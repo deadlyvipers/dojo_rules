@@ -1,2 +1,2 @@
 hi everyone I'm eric
-javascript
+JavaScript
