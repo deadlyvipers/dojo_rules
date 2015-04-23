@@ -1,1 +1,1 @@
-Hello, i am jagope
+Hello, i am jagope. My favorite path is JavaScript.
