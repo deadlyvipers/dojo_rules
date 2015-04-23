@@ -1,2 +1,2 @@
 Hi I'm moltak.
-I like python.
+My favorite course is an iOS.
