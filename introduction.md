@@ -1,2 +1,2 @@
 Hi this is an introduction!
-I like the git Code School path.
+my favorite Code School path is Ruby.
