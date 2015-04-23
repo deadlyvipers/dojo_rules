@@ -9,5 +9,5 @@ Deadly Skills
 * HTML/CSS
 * Sass
 * AngularJS
-
+* Killing history using git rebase
 
