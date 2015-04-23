@@ -1,2 +1,2 @@
 Introduction
-* This is how I learn git hub:
+* My favorite Code School path is HTML & CSS
