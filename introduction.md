@@ -8,3 +8,4 @@ Javascript
 * CSS
 * Git
 * Markdown
+* killing history using git rebase
