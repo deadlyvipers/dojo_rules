@@ -1,1 +1,3 @@
 Hi, my name is Ed....
+
+Currently my favorite path has been Git
