@@ -1,1 +1,3 @@
-hi, i am androZenia. Ruby
+hi, i am androZenia. 
+*Ruby
+*java
