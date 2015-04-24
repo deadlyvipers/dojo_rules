@@ -7,3 +7,4 @@ skillz:
 *CSS
 *Git
 *soft
+*Killing history using git rebase
