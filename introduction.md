@@ -6,3 +6,4 @@ My deadly skills include:
 *javascript
 *html
 *git
+*rebase
