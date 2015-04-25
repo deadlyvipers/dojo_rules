@@ -5,3 +5,4 @@ Favorite path is HTML and Ruby
 * CSS
 * PHP
 * GIT
+* Killing history using git rebase
