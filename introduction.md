@@ -4,3 +4,4 @@ Deadly skills
 * Javascript
 * CSS
 * Ninja
+* Killing history using git rebase
