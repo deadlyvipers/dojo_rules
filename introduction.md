@@ -1,2 +1,4 @@
-hello, this is Gerasimos Tsimaras !!
-Ruby, Git
+*
+Git
+JavaScript
+Ruby
