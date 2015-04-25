@@ -1,2 +1,2 @@
 This is for fun
-Fang
+JavaScript
