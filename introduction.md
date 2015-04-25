@@ -5,3 +5,4 @@ my introduction
 *ActionScript
 *Javascript
 *Design Patterns
+*Killing history using git rebase
