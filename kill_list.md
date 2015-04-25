@@ -4,3 +4,6 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
+* Magic Numbers
+* incorrect semantics
+
