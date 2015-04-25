@@ -12,4 +12,4 @@ All members should read the rules
 *this rule is in italic*
 
 
-[This is the link](https//github.com/headlyvipers)
+[This is the link]("https://github.com/deadlyvipers")
