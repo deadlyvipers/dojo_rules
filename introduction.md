@@ -6,3 +6,4 @@ my introduction
 *Javascript
 *Design Patterns
 *Killing history using git rebase
+more changes
