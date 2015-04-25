@@ -7,4 +7,5 @@ List of deadly skills
 *JavaScript
 *Rails
 *HTML
-*CSS 
+*CSS
+*killing history using Git rebase
