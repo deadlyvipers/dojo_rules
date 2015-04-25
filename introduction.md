@@ -6,5 +6,5 @@ Ruby is good.
 * Git
 * JavaScript
 * Ruby
-
+* Killing history using git rebase
  
