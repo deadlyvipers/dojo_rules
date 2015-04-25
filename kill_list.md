@@ -1,9 +1,8 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
-* Magic Numbers
-* incorrect semantics
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
 
