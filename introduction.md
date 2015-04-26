@@ -1,1 +1,2 @@
-Ruby
+*JS
+*Ruby
