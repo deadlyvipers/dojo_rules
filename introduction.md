@@ -1,3 +1,4 @@
 *Ruby
 *git
-*iOS
+*iO 
+*gdfgS
