@@ -1,2 +1,4 @@
 hi everyone I'm eric
-JavaScript
+*JavaScript
+* Git
+* Killing history using git rebase
