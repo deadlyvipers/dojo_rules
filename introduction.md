@@ -1,1 +1,3 @@
-Ruby & iOS
+*Ruby
+*git
+*iOS
