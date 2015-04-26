@@ -1,2 +1,2 @@
 "hello world" 
-"CSS"
+https://www.codeschool.com/paths/javascript
