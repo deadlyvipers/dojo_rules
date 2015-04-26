@@ -4,3 +4,4 @@ I like the Ruby code school path.
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
