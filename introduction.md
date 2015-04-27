@@ -9,3 +9,9 @@ Fusce aliquet nisl sit amet urna cursus egestas. Morbi ut interdum dui, eu eleme
 Proin facilisis leo et sem convallis suscipit. Suspendisse cursus molestie elementum. Vestibulum ut quam fringilla, convallis velit non, vehicula purus. Vestibulum molestie lacus leo. Curabitur a laoreet ligula. Fusce sed maximus massa. In in molestie dolor, non ultricies ligula. Nunc quis diam ac risus aliquet convallis. Sed tortor lorem, sollicitudin vitae libero et, aliquam luctus augue.
 
 My favorite Code School path is Electives.
+
+Deadly skills include:
+* death-making
+* skill-deathing
+* making death-skills
+* Killing history using git rebase
