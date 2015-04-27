@@ -1,1 +1,3 @@
-HTML hello this is a fake introduction
+* Git
+* JavaScript
+* Ruby
