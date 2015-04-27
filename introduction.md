@@ -3,3 +3,4 @@ My favorite CodeSchool path was Javascript because it was thorough and challengi
 *HTML/HAML
 *CSS/SASS
 *Javascript/Coffeescript
+*Killing history using git rebase
