@@ -14,3 +14,4 @@ Deadly skills include:
 * death-making
 * skill-deathing
 * making death-skills
+* Killing history using git rebase
