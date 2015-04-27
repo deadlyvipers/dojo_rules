@@ -7,3 +7,5 @@ Suspendisse bibendum nisl sit amet dictum consequat. Aenean semper tincidunt jus
 Fusce aliquet nisl sit amet urna cursus egestas. Morbi ut interdum dui, eu elementum magna. Donec at massa nunc. Nunc sit amet egestas leo. Phasellus placerat leo ac hendrerit iaculis. Ut id egestas erat. Ut fringilla sem nec commodo tristique. Duis eu felis turpis.
 
 Proin facilisis leo et sem convallis suscipit. Suspendisse cursus molestie elementum. Vestibulum ut quam fringilla, convallis velit non, vehicula purus. Vestibulum molestie lacus leo. Curabitur a laoreet ligula. Fusce sed maximus massa. In in molestie dolor, non ultricies ligula. Nunc quis diam ac risus aliquet convallis. Sed tortor lorem, sollicitudin vitae libero et, aliquam luctus augue.
+
+Also the CodeSchool Angular course is fully of meaty goodness.
