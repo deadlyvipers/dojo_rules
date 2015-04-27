@@ -11,6 +11,6 @@ Proin facilisis leo et sem convallis suscipit. Suspendisse cursus molestie eleme
 My favorite Code School path is Electives.
 
 Deadly skills include:
-death-making
-skill-deathing
-making death-skills
+* death-making
+* skill-deathing
+* making death-skills
