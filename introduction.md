@@ -1,1 +1,1 @@
-This is an introduction!
+This is my introduction! My favorite path is JavaScript.
