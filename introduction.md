@@ -1,0 +1,1 @@
+Hey there! My name is Joel Vasallo and I am an Applications and Tooling Engineering at Gogo! Reviewing this course to share with my team! I work actively with tool such as Puppet, Salt, Jenkins, and do development in Javascript/Python!
