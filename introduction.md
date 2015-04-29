@@ -1,2 +1,4 @@
 My introduction.
-JavaScript
+*JavaScript
+*Git
+*NodeJS
