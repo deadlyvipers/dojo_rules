@@ -1,1 +1,4 @@
-My name is Bernhard. My favorite Code School path is Ruby.
+Deadly Skills:
+* Ruby
+* JavaScript
+* PHP
