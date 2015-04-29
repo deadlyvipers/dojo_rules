@@ -7,3 +7,4 @@ Deadly skills are:
 *PHP
 *Python
 *mobileDev
+*Killing history using git rebase
