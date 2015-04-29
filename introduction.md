@@ -1,2 +1,5 @@
 My introduction.
-JavaScript
+*JavaScript
+*Git
+*NodeJS
+* Killing history using git rebase
