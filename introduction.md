@@ -11,3 +11,4 @@ My deadly skills include:
 * Git
 * AngularJS
 * Bootstrap
+* Killing history using git rebase
