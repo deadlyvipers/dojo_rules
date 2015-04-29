@@ -1,3 +1,3 @@
 Intro file
-http://codeschool.com/git
+https://www.codeschool.com/paths/html-css
 favorite course is Git
