@@ -1,5 +1,5 @@
 introduction
 my favorite code school path is javaScript
-Git
-Javascript
-java
+*Git
+*Javascript
+*java
