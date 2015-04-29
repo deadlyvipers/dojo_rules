@@ -5,3 +5,4 @@ My favorite path? What a hard choice! All. Ruby is perhaps my favorite language
 * Javascript
 * CSS
 * Rails
+* killing history using git rebase
