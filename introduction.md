@@ -5,3 +5,4 @@ My favorite Code School path is Javascript
 * css
 * music
 * chess
+* Killing history using git rebase
