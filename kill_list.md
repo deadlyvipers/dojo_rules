@@ -4,4 +4,4 @@ bad coding practices
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
-* Bad variable names1
+* Bad variable names
