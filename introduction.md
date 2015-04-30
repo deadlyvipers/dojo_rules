@@ -8,3 +8,4 @@ My deadly skills:
 *CSS
 *C++
 *Java
+*Killing history using git rebase
