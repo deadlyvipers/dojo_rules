@@ -4,3 +4,4 @@ The JavaScript path was fun
 *Git
 *SQL
 *Killing history using git rebase
+*solving some wacky issues
