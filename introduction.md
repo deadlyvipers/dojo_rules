@@ -1,1 +1,1 @@
-This is an introduction from pamelas
+This is an introduction from pamelas. My favorite Code School path is Electives.
