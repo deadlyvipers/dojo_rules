@@ -4,4 +4,5 @@ My favourite Code School path is Ruby
 * Git
 * Ruby
 * Chef
+* Killing history using git rebase
 
