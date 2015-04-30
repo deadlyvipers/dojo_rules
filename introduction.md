@@ -1,3 +1,1 @@
-This is me
-
-Code School path GIT
+On my way to becoming a Github Master
