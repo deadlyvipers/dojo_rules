@@ -5,5 +5,4 @@ bad coding practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Addition practices
-* add more
+
