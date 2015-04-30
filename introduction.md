@@ -1,1 +1,4 @@
-This is an introduction from pamelas. My favorite Code School path is Electives.
+* This is an introduction from pamelas. My favorite Code School path is Electives.
+* Git
+* Javascript
+* Ruby
