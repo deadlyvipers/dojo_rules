@@ -6,3 +6,4 @@ I've been focussing on the 'HTML & CSS' and Git tracks.
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
