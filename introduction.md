@@ -1,2 +1,5 @@
-a lovely introduction
-Well, i think my favourite course has to be Ruby so far.
+A lovely introduction
+*Ruby 
+*Git
+*Killing history using git rebase
+
