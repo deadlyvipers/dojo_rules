@@ -1,2 +1,5 @@
-Hi, this is me!
-Electives
+*git
+*docker
+*JS
+*python
+Killing history using git rebase
