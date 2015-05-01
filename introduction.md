@@ -1,3 +1,6 @@
 My name is Amir
 
-JavaScript, Electives
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
