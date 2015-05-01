@@ -1,2 +1,4 @@
-Hi, this is me!
-Electives
+*git
+*docker
+*JS
+*python
