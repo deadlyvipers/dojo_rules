@@ -1,3 +1,5 @@
 My name is Amir
 
-JavaScript, Electives
+* Git
+* JavaScript
+* Ruby
