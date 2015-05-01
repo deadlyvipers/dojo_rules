@@ -1,1 +1,1 @@
-My name is sample git
+My name is sample git, my favourite path is JavaScript.
