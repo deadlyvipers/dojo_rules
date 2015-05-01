@@ -1,1 +1,0 @@
-Introduction: I'm Gideon
