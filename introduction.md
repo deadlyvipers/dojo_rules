@@ -1,2 +1,6 @@
-a lovely introduction
-Well, i think my favourite course has to be Ruby so far.
+A lovely introduction
+*Ruby Ruby Ruby Ruby, ohh wowoh  wowoh wow
+*Git your rocks off, Git your rocks off honey
+
+
+
