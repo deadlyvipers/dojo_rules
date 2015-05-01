@@ -8,3 +8,4 @@ Deadly skills
 *Python
 *HTML
 *CSS
+*Killing history using git rebase
