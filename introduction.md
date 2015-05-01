@@ -1,2 +1,4 @@
-Its me ... Martin!
-Ruby
+* Killing history using git rebase
+* Git
+* JavaScript
+* Ruby
