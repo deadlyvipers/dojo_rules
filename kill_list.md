@@ -1,6 +1,5 @@
-Kill List
-=========
-var 1killer = null;
-funcion getKiller(){
- return 1;
-}
+Unused code
+Functions with side effects
+Unformatted code
+Repeatted code blocks
+Bad variable names
