@@ -8,3 +8,4 @@
 * php
 * HTML
 * ...that's basically it for now. Really wish Git was one of those :(
+* Oh but there's also Killing history using git rebase
