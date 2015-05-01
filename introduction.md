@@ -1,2 +1,3 @@
-Its me ... Martin!
-Ruby
+* Git
+* JavaScript
+* Ruby
