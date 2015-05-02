@@ -20,3 +20,7 @@ while (2>1){
 while (2>1){
  var i = 0;
 }
+The issue number 3 will be solved.
+
+
+
