@@ -1,1 +1,1 @@
-Inroducing Davidovich Vladimir as DavidovichVA
+I'm DavidovichVA and my favorite Code School path is Git Path.
