@@ -4,6 +4,7 @@ Unformatted code
 Repeatted code blocks
 Bad variable name
 "- Repeated code blocks"
+"- Bad variable names"
 
 function notUsed(){
   return null;
