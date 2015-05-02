@@ -1,1 +1,4 @@
-I'm DavidovichVA and my favorite Code School path is iOS Path.
+DavidovichVA
+* Git
+* iOS
+* Killing history using git rebase
