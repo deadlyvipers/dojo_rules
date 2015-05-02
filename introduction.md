@@ -1,1 +1,1 @@
-What's good, codeschool homies?
+What's good, codeschool homies? I'm into the iOS code path. That one looks 🏆.
