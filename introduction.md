@@ -6,3 +6,4 @@ JavaScript
 * Git
 * JavaScript
 * CoffeeScript
+* Killing history using git rebase
