@@ -1,1 +1,1 @@
-Greetings Deadly Vipers dojo. I am Sidewinder.
+Greetings Deadly Vipers dojo. I am Sidewinder. My favorite Code School path is JavaScript.
