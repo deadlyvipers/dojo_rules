@@ -1,2 +1,5 @@
 some introduction
-Ruby
+* Ruby
+* Git
+* JavaScript
+* Ruby
