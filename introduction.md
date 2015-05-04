@@ -4,3 +4,9 @@ and learning by doing :)
 
 My favorite Code School path JavaScript.
 
+deadly skills
+*Git
+*JavaScript
+*Perl
+*PHP
+*Java
