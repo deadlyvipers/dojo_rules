@@ -1,2 +1,2 @@
 My Name is Pathik
-My fav path is GIT
+My fav path is JavaScript
