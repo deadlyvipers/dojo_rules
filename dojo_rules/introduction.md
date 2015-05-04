@@ -1,10 +1,10 @@
-Hi! I'm here to teach people about Github.
+Hello, I'm here to teach people about GitHub!
 
-My favorite Code School path has been the Electives path.
+* Git
 
-Deadly Skills:
+* HTML/CSS
 
-*  Git
-*  HTML/CSS
-*  Ruby
-*  Killing History Using Git Rebase
+* Ruby/Rails
+
+* Adobe Photoshop
+
