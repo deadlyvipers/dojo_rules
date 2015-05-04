@@ -1,4 +1,3 @@
-some introduction
 * Ruby
 * Git
 * JavaScript
