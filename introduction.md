@@ -1,1 +1,6 @@
-Hello World Dojo! I am currently mastering GitHub. :) Also I am currently trying to learn Ruby at CodeSchool.com.
+My Deadly Skills:
+* Git
+* PHP
+* Java Script
+* HTML
+* Killing history using git rebase
