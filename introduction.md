@@ -1,1 +1,2 @@
-Hello, my name is Neal.  Pleased to meet you.
+
+Hello, my name is Neal.  Pleased to meet you. My favorite CodeSchool course is Javascript.
