@@ -4,5 +4,5 @@ Kill List
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
-* Bad variable names
-* Lack of unit tests  
+* Bad variable names       
+* Lack of unit tests   
