@@ -1,2 +1,3 @@
-This is an introduction file
-My favorite Path in Code School is JavaScript
+* Javascript
+* Git
+* Lots of stuff
