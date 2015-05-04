@@ -3,4 +3,4 @@ An introduction.
 *ruby
 *git
 *rebase
-*and more
+*Killing history using git rebase
