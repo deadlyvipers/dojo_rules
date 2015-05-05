@@ -1,3 +1,3 @@
-introduction
-JavaScript
-Git
+*introduction
+*JavaScript
+*Git
