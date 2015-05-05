@@ -1,2 +1,2 @@
 Thisara Amaradasa
-JS
+JavaScript
