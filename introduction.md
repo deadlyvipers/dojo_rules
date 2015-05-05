@@ -10,3 +10,4 @@ Deadly kills are deadly!
 * PHP
 * JavaScript
 * LaTeX
+* Killing history using git rebase (that's really evil :()
