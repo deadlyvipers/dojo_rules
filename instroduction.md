@@ -1,1 +1,1 @@
-I like node.js
+可以写中文吗
