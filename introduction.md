@@ -1,3 +1,5 @@
-introduction
-JavaScript
-Killing history using git rebase
+
+*introduction
+*JavaScript
+*Git
+*Killing history using git rebase
