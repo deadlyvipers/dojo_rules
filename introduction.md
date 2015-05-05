@@ -2,7 +2,7 @@
 *Ruby
 *Javascript
 *Try SQL
-*Killing history using git rebase
+*rebase
 Intro file
 https://www.codeschool.com/paths/html-css
 favorite course is Git
