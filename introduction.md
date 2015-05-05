@@ -7,3 +7,9 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * TEST
+
+Deadly Skills are:
+  PHP
+  Drupal
+  JavaScript
+  Killing history using git rebase
