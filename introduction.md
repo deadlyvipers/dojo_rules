@@ -1,1 +1,1 @@
-Hi, this is an introduction. Well.. or not.
+Hi, this is an introduction. I am FileNotFound and i am a computer science student in germany. Currently I am writing my master what includes using GitHub, so i take the corresponding Codeschool course.
