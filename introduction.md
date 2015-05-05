@@ -6,3 +6,4 @@ I love MongoDB and JavaScript!
 * Java Scrit
 * HTML
 * CSS
+* NoSQL
