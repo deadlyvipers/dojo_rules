@@ -1,4 +1,5 @@
 Introduction
 ============
 
-Dima Lunich.
+    Name:           Dima Lunich
+    Favourite path: Ruby
