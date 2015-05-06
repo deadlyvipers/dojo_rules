@@ -1,1 +1,1 @@
-That's an introduction
+That's an introduction. Ruby is my favorite path at Code School
