@@ -1,1 +1,2 @@
-Hello I am elisasol
+Hello I am elisasol :)
+My favorite Code School path is Electives. 
