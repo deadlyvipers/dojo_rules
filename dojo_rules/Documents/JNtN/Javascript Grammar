@@ -1,0 +1,52 @@
+STATMENTS
+
+a = "Hello World!"
+alert(a)
+
+a = "Hello World!" ; ;alert(a);
+
+a = "Hello World!";
+alert(a);
+
+BLOCKS
+
+{
+	// this is a block containing 2 statements
+	var a = "Hello!";
+	alert(a);
+}
+
+Data Types
+
+* string
+
+* number
+
+* Boolean
+
+* undefined
+
+* null
+
+* object
+
+* operator
+
+- typeof
+
+typeof (ninja: "turtle" )
+<< object
+
+OPERATORS
+
+typeof "hello"
+
+binary operator - requires two operands
+
+3 + 5
+
+ternary operator - requires three operands
+
+STRINGS
+
+new String("hello")
