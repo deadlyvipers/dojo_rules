@@ -9,4 +9,5 @@ Deadly Skills
 *PHP
 *HTML
 *CSS
-*Drupale  
+*Drupal
+*Killing history using git rebase  
