@@ -1,2 +1,4 @@
 # Introducing me...
-Ruby
+* Ruby
+* Git
+* Javascript
