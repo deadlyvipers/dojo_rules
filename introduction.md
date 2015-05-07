@@ -1,2 +1,2 @@
 * nevermind
-* Like the javasript path
+* Like the JavaScript path
