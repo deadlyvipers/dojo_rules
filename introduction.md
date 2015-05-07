@@ -1,1 +1,1 @@
-Hello dojo
+Hello dojo, my favorite codeschool path is Javascript!
