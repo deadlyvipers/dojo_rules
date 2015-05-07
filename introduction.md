@@ -1,10 +1,2 @@
-introduction.md is create HTML 
-
-B
-B
-B
-B
-B
-B
-A
-d 
+introduction.md is create HTML
+JavaScript
