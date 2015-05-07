@@ -2,4 +2,7 @@
 This is a greeting from Aiden
 My fave  Code School path is JavaScript
 My deadly skills are 
-*Ruby Groovy Git
+*Ruby 
+*Groovy 
+*Git
+*Killing history using git rebase
