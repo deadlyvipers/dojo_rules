@@ -5,3 +5,4 @@ Other dealy Skills:
 * C
 * C#
 * Java
+* Killing history using git rebase
