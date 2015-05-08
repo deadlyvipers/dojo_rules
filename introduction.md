@@ -1,6 +1,4 @@
-this is a shot story about me
-===========================
-* im a m cool
-:wq
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-
+* Ruby on Rails
+*Git
