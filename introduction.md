@@ -1,2 +1,5 @@
-Codeschool - manipulator
-Electives
+JavaScript
+jQuery
+HTML/CSS
+Terminal
+Git
