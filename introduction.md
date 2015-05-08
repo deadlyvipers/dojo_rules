@@ -3,4 +3,5 @@ Hello, Introduction to Github
 *anything HTML.
 * Git
 * Java
-* HTML											
+* HTML
+* Killing history using git rebase											
