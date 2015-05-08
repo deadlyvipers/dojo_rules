@@ -6,3 +6,4 @@ List of deadly skills:
 * JavaScript
 * PHP
 * Java
+* Killing history using git rebase
