@@ -1,1 +1,4 @@
-Ruby
+* Ruby
+* iOS
+* Android
+* Algorithm
