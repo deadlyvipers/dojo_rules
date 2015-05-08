@@ -1,5 +1,5 @@
-JavaScript
-jQuery
-HTML/CSS
-Terminal
-Git
+* JavaScript
+* jQuery
+* HTML/CSS
+* Terminal
+* Git
