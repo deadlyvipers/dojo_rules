@@ -1,4 +1,4 @@
-*JavaScript
-*HTML/CSS
-*Terminal
-*Git
+* JavaScript
+* HTML/CSS
+* Terminal
+* Git
