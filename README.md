@@ -1,4 +1,3 @@
-* JavaScript
-* HTML/CSS
-* Terminal
 * Git
+* JavaScript
+* Ruby
