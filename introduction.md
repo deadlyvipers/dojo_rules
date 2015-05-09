@@ -13,3 +13,4 @@ Deadly Skills:
 * Javascript
 * Ruby
 * Pancakes
+* Killing history using git rebase
