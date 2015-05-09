@@ -5,3 +5,4 @@ But what about one for Jade?
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
