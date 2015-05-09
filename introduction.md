@@ -1,1 +1,1 @@
-Hello, I am Terry Wen.
+Hello, I am Terry Wen. My favorite Code School path is iOS.
