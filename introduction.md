@@ -1,1 +1,3 @@
-I love Ruby and JavaScript!
+*Strangulation by whale intestine
+*Cane spider charming
+*rebase
