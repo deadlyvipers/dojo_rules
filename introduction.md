@@ -1,1 +1,1 @@
-Ho. Konnichiwa, sensei!
+Ho. Konnichiwa, sensei! My preference is for git, but html is up next.
