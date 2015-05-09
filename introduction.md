@@ -3,3 +3,4 @@ Skills being
 * .NET
 * Csharp
 * Agile
+* Rebase
