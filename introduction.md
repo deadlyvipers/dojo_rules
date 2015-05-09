@@ -1,6 +1,6 @@
 ###Introduction
 
-My favorite Code School is Git Real
+My favorite Code School path (Ruby, JavaScript, HTML & CSS, iOS or Electives) 
 
 Well now that that's out of the way, we can get back to business.
 
