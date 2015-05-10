@@ -1,1 +1,4 @@
-JavaScript bla bla
++*Git
++*JavaScript
++*Ruby
++*Killing history using git rebase
