@@ -1,1 +1,4 @@
-This is an intro: Javascript
+This is an intro
+*Git
+*JavaScript
+*Ruby
