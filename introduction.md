@@ -5,5 +5,4 @@ my favorites are:
 
 * android
 * javascript
-*git is the evil
-
+* estoy modifique y modifique este archivo xD
