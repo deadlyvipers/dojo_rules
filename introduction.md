@@ -7,3 +7,4 @@ My favorite Cdoe School path is the HTML & CSS path.
 * JS
 * Git
 * Nunchucks
+* Killing history using git rebase
