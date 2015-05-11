@@ -1,2 +1,1 @@
-Code School
-suite
+https://www.codeschool.com/paths/javascript
