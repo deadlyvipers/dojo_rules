@@ -5,3 +5,4 @@ favourite ni hamna reva dene :)
 * JavaScript, 
 * Ruby
 dddd
+Killing history using git rebase
