@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * My favourite Code School path is JavaScript
 * Deadly skills - Git, JavaScript, Ruby
+* Killing history using git rebase
