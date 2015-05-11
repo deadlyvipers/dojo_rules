@@ -1,1 +1,4 @@
- Hi, my name is Ariflaw. I like the HTML * CSS * JavaScript path in Code School.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
