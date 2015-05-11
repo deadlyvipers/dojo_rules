@@ -1,1 +1,4 @@
- Hi, my name is Ariflaw. I like the HTML * CSS * JavaScript path in Code School.
+ Hi, my name is Ariflaw, and my favorite Code School path is HTML.
++Deadly skills:
++* Git
++* CSS
