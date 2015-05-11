@@ -1,4 +1,5 @@
-On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+Hi, my name is Ariflaw, and my favorite Code School path is HTML.
++Deadly skills:
++* Git
++* CSS
 
-* Ruby on Rails
-*Git
