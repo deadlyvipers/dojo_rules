@@ -4,3 +4,5 @@ My favourite Code School Path is Javascript.
 *Git
 *Javascript
 *Ruby
+*HTML/CSS
+*Python
