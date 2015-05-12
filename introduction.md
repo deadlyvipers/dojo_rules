@@ -1,0 +1,3 @@
+# Introduction
+
+Hi, I'm Andra and this is my introduction for the Code School _Mastering GitHub_ course.
