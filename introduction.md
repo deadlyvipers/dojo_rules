@@ -1,4 +1,7 @@
+*Git
+*Killing history using git rebase
+*Ruby
+*JavaScript
 Ruby
-JavaScript
 Temp dojo
 Git real and Git real2
