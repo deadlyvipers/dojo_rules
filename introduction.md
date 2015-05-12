@@ -1,1 +1,3 @@
-https://www.codeschool.com/paths/javascript
+*JavaScript
+*Git
+*Ruby
