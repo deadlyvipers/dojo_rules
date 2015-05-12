@@ -1,1 +1,1 @@
-Hi my name is
+Hi my name is and my favourite Code School path is JavaScript. 
