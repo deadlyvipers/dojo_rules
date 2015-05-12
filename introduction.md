@@ -1,3 +1,5 @@
 # Readme
 
-JavaScript
+* JavaScript
+* Ruby
+* Git
