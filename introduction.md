@@ -1,2 +1,2 @@
 Hi, I'm Khalid Syfullah Zaman.
-I have two eyes, two ears and a nose.. :P
+So far, I liked Git and Elective path of code school and I'll definately try HTML & CSS path.
