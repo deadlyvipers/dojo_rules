@@ -3,5 +3,6 @@ I'd like to introduce myself for this codeschool class.
 
 Here is some deadly skills:
 
- *  Ruby
- *  Perl
+*  Ruby
+*  Perl
+*  Killing history using git rebase
