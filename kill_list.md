@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Concentrate on bugs
-* another
+* another done
