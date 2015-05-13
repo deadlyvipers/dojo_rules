@@ -1,2 +1,4 @@
-Javascript Path is the best path.
-All good.
+*Git
+*JavaScript
+*PHP
+*Killing history using git rebase
