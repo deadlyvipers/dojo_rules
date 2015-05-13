@@ -1,1 +1,1 @@
-hello world from Dominique !
+hello world from Dominique ! I love Javascript.
