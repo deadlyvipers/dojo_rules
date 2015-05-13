@@ -1,2 +1,4 @@
 here is my intro
-JavaScript
+* JavaScript
+* Ruby
+* rebase
