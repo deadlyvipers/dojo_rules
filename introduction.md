@@ -5,3 +5,4 @@ Favorite path: Electives
 *Git
 *Java
 *Basic
+*Killing history using git rebase
