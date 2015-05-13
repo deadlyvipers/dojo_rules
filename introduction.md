@@ -1,5 +1,5 @@
 Hello I am elisasol :)
-My favorite Code School path is Electives. 
+My favorite Code School path is none 
 My deadly skills are:
 *Git
 *C
