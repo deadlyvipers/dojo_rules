@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Commented out code
+* Too many comments that is makes the code unreadable
+* Functions with too many lines of code
