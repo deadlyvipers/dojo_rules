@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Commented out code
+* Too many comments that is makes the code unreadable
