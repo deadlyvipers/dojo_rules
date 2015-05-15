@@ -3,3 +3,4 @@ Some of my skills include:
 *HTML
 *CSS
 *Javscript
+*Killing history using git rebase
