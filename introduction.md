@@ -5,3 +5,4 @@ Deadly Skills
 * Eating
 * Sleeping
 * Sometimes coding
+* Killing history using git rebase
