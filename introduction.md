@@ -8,3 +8,4 @@ Here are my deadly skills:
 * Drumstick throwing
 * Keyboard mashing
 * Hand waving
+* Killing history using git rebase
