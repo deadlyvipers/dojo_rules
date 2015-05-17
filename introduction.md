@@ -8,3 +8,4 @@ My favorite path so far has been Ruby.
 * JavaScript
 * Python
 * Cat herding
+* Killing history using git rebase
