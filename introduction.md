@@ -7,3 +7,4 @@ My deadly skills:
 * Ruby
 * Rails
 * CoffeScript
+* Killing history using git rebase
