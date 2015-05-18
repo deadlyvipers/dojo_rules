@@ -1,2 +1,1 @@
-HELLO MY NAME IS VERMZ
-My favorite path is Git!
+HELLO MY NAME IS VERMZ and my favorite path is JavaScript!
