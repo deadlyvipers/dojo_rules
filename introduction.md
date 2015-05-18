@@ -1,2 +1,5 @@
-hello world
-ruby path is favorite
+* PHP
+* SQL
+* Javascript
+* Yii
+* Killing history using git rebase
