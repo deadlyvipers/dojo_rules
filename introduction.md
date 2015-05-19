@@ -5,3 +5,4 @@ Hello, this is Jay.
 * NodeJs
 * Jquery
 * Angular
+* Killing history using git rebase
