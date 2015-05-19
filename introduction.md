@@ -7,3 +7,4 @@ I love:
 - web development &
 - design
 * Git
+* Killing history using git rebase
