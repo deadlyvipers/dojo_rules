@@ -1,3 +1,7 @@
 Hello, this is Jay.
 
-JavaScript
+* JavaScript
+* C#
+* NodeJs
+* Jquery
+* Angular
