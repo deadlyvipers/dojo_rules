@@ -4,3 +4,4 @@ My favorite Code School path is Electives.
 * Javascript
 * Ruby
 * Goat herding
+* Killing history using git rebase
