@@ -6,4 +6,4 @@ My deadly skills are
 *Ruby
 *C#
 *C++
- 
+*Killing history using git rebase 
