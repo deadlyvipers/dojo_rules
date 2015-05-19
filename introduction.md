@@ -1,3 +1,8 @@
 Hello, this is Jay.
 
-JavaScript
+* JavaScript
+* C#
+* NodeJs
+* Jquery
+* Angular
+* Killing history using git rebase
