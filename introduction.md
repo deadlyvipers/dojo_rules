@@ -6,3 +6,4 @@ I love:
 - Rails
 - web development &
 - design
+* Git
