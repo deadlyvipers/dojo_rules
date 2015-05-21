@@ -8,3 +8,6 @@ Deadly Skillz
 * Javascript
 * Java
 * Android
+
+Killing History
+* Git rebase
