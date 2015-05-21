@@ -5,5 +5,5 @@ My favourite code school subjects are:
 * HTML 
 * CSS
 * GIT
-* GIT HIB
+* rebase
 
