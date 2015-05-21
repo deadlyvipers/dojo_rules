@@ -28,3 +28,9 @@ My deadly skills include:
 *..And many, many more!
 
 I will NOT do what you tell me to do, robot man! Fight the powah!
+
+...sigh, I must give in to my oppressor to continue...
+
+*Killing history using git rebase
+
+There. ARE YOU HAPPY NOW MR. ROBOT MAN!
