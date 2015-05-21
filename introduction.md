@@ -8,4 +8,6 @@ Dojo Rules
 * Most Sensei's should be respected
 * Hello, this is my first time use GUTHUB
 * favorite Code School path is JavaScript
-* favorite Code School path is JavaScript(branch – deadly_skills)
+* favorite Code School path is JAVA(branch – deadly_skills)
+* practice resolve conflict and merge
+
