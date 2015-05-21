@@ -7,3 +7,4 @@ Kill List
 * - Bad variable names
 * - Non-optimized code
 * - Lack of Functions
+* - Lack of comments
