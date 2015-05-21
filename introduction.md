@@ -8,3 +8,22 @@ And saphires.
 And amethyst.
 
 I like rocks.
+
+My deadly skills include:
+*Ruby
+*C
+*C++
+*Java(a little)
+*Matlab
+*ROS
+*GML
+*Mining
+*Gem appraising
+*Dynamiting
+*Drilling
+*Unearthing Ancient Eldritch Horrors
+*Prospecting
+*Duck breeding
+*"Meat" butcher
+*..And many, many more!
+
