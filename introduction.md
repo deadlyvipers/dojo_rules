@@ -27,3 +27,4 @@ My deadly skills include:
 *"Meat" butcher
 *..And many, many more!
 
+I will NOT do what you tell me to do, robot man! Fight the powah!
