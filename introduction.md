@@ -11,3 +11,4 @@ Skilled in over fourteen languages:
 * HTML
 * Powershell
 * etc.
+* Killing history using git rebase
