@@ -1,0 +1,4 @@
+Kill List
+=========
+* noone
+* rain
