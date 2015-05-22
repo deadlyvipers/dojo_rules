@@ -6,3 +6,4 @@ Javascript is also cool.
 * ruby
 * git
 * python
+* Killing history using git rebase
