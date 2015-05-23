@@ -6,4 +6,5 @@ Ruby and Javascript classes are my faves.
 * Javascript
 * Git 
 * SQL
-*Ruby
+* Ruby
+* Killing history using git rebase
