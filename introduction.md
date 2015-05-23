@@ -1,1 +1,1 @@
-http://campus.codeschool.com/courses/front-end-foundations/contents
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
