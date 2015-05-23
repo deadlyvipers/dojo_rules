@@ -1,0 +1,1 @@
+Watashi wa Taubu no Juryan desu. Douzo yoroshiku onegai itashimasu.
