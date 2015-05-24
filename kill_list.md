@@ -5,5 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* hpfs74 (hpfs74@gmail.com)
+* hpfs74 (hpfs74@gmail.com) e due
 
