@@ -4,3 +4,4 @@ Deadly Skills
 * JavaScript
 * C#
 * Lasagne
+* Killing history using git rebase
