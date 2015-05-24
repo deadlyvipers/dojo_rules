@@ -7,4 +7,7 @@ Ruby and Javascript classes are my faves.
 * Git 
 * SQL
 * Ruby
+* Malandragem
+* JSON
+* Sessions
 * Killing history using git rebase
