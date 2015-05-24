@@ -5,5 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Peter Norton (joke)
+* hpfs74 (hpfs74@gmail.com)
 
