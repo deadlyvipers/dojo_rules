@@ -10,3 +10,4 @@ Also my favorite codeschool path is the Javascript path!
 * git
 * C
 * Javascript 
+* Killing history using git rebase
