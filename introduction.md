@@ -1,6 +1,7 @@
 My name is Sandi Tiffin.
 My favorite Code School path is Ruby.
 My deadly skills include:
+* Knife handling
 * Git
 * Ruby
-* knife handling
+* Killing history using git rebase
