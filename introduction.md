@@ -5,4 +5,5 @@ My deadly skills are:
 * Git
 * Javascript
 * Ruby
-* rewriting history using rebase
+* Killing history using git rebase
+
