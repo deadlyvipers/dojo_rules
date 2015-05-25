@@ -5,3 +5,4 @@ My deadly skills are:
 * Git
 * Javascript
 * Ruby
+* rewriting history
