@@ -1,3 +1,5 @@
-Hello, I am Justine Barnes.
-
-CSS
+*Git
+*CSS
+*HTML
+*Microsoft
+*Killing history using git rebase
