@@ -1,8 +1,4 @@
-Dojo Rules
-==========
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
-Added JavaScript, Java.
-* JavaScript
-* Git
+* Ruby on Rails
+*Git
