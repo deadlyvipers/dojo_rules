@@ -1,3 +1,4 @@
-Hello, I am Justine Barnes.
-
-CSS
+*Git
+*CSS
+*HTML
+*Microsoft
