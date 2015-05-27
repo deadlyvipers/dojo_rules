@@ -1,1 +1,1 @@
-Hello I'm dongyeop.
+Hello I'm dongyeop. My favorite course is Javascript. 
