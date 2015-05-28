@@ -1,3 +1,3 @@
 $ echo 'Hello! I am here to teach people about GitHub.' > introduction.md
 $ echo 'HTML'
-$ echo 'Git, JavaScript, Ruby'
+* Git, JavaScript, Ruby
