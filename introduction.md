@@ -1,3 +1,8 @@
 Name's Conrad. Hi-ya!
 
 Favorite path is Ruby. All the way!
+
+Deadly Skills
+*Ruby
+*Git
+*Killing history using git rebase
