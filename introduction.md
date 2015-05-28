@@ -8,3 +8,4 @@ Deadly skills:
 * Ansible
 * Git
 * RabbitMQ
+* Killing history using git rebase
