@@ -3,6 +3,6 @@ INTRODUCTION
 * Example 0
 * This is my first work of git
 * My favorite Code School path is JavaScript
-* Git
 * JavaScript
+* GIT
 
