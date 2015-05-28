@@ -1,3 +1,3 @@
 *Hi I'm Tommy!*
 _My favourite code school path is JavaScript!_
-deadly skills...
+Deadly skills: Killing history using git rebase
