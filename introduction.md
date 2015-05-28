@@ -1,1 +1,1 @@
-Hello Dojo, I'm Subtixx
+Hello Dojo, I'm Subtixx. My favorite codeschool path is JavaScript
