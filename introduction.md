@@ -4,3 +4,5 @@ INTRODUCTION
 * Code School Path
 * JavaScript 
 * iOS
+* Git
+* JavaScript
