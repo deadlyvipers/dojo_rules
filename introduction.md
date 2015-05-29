@@ -15,6 +15,8 @@ I actually do martial arts.
 * Muay Thai
 * Tai chi
 
+* Killing history using git rebase
+
 ---------------------------
 
 The git class on Code School is cute. 
