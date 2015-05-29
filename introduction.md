@@ -3,3 +3,4 @@ My favorite code school class was Ruby
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
