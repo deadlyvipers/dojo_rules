@@ -1,3 +1,3 @@
-ola ke ase
-
-iOS
+* iOS
+* Github
+* Javascript
