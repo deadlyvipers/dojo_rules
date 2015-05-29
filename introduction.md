@@ -1,2 +1,1 @@
-Jex Obejas
-http://campus.codeschool.com/courses/mastering-github/level/1/section/3/pull-request
+"On my way to becoming a GitHub Master. I love Ruby and JavaScript." 
