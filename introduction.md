@@ -1,3 +1,3 @@
-*iOS
-*Github
-*Javascript
+*iOS*
+*Github*
+*Javascript*
