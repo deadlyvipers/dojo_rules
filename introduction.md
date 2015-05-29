@@ -1,2 +1,2 @@
 This is me. 
-My favorite code school path is Javascript
+My favorite code school path is JavaScript
