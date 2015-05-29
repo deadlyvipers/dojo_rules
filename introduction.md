@@ -1,2 +1,1 @@
-This is me.
-My favorite path is Ruby?
+This is me. My favorite path is Ruby?
