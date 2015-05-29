@@ -5,3 +5,4 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
+0% Unit test coverage
