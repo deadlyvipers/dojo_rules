@@ -5,3 +5,4 @@ My Favourite codeschool path is JavaScript
 #Deadly Skills:
 * Git
 * JavaScript
+* Killing history using git rebase
