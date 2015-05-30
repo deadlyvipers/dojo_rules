@@ -1,1 +1,3 @@
-My name is Jesus. JavaScript and Git are my favourite paths
+* JavaScript
+* Git
+* Killing history using git rebase
