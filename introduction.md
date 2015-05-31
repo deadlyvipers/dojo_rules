@@ -1,2 +1,4 @@
 I'm Alba and my favorite Code School path is Ruby
-rebase
+* Git
+* Ruby
+* rebase
