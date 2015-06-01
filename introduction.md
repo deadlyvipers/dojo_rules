@@ -5,3 +5,4 @@ https://www.codeschool.com/paths/electives
 * Java Script
 * Java
 * Oracle
+Killing history using git rebase
