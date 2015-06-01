@@ -1,3 +1,3 @@
 Hi this is my introdution
 
-My favorite course is the Git course
+My favorite course is the JavaScript course
