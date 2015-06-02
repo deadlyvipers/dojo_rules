@@ -6,3 +6,4 @@ List of deadly skillz
 *Git
 *Javascript
 *Ruby
+*Killing history using git rebase
