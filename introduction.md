@@ -1,2 +1,4 @@
 THis is a test
-Javascript
+*Javascript
+*Git
+*Killing history using git rebase
