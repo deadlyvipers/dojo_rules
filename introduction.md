@@ -10,3 +10,5 @@ deadly_skills
 * Android
 * iOS
 * JavaScript
+* Akka
+* Killing history using git rebase
