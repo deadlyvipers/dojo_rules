@@ -4,3 +4,5 @@ I liked the Git Real path most;  the Javascript Road Trip Part 3 also contained 
  * Git
  * JavaScript
  * Python
+ * Killing history using git rebase
+
