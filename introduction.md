@@ -1,2 +1,3 @@
 THis is a test
-Javascript
+*Javascript
+*Git
