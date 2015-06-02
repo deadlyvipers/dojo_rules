@@ -5,3 +5,4 @@ hi, I am me
 * MySQL
 * HTML5
 * CSS
+* Killing history using git rebase
