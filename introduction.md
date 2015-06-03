@@ -9,3 +9,4 @@ deadly_skills
 *controller programming (with C, used it for robots :))
 *game dev (Simple games with console, GDI, Unity, OpenGL/DirectX from scratch, XNA, HTML5/JavaScript)
 etc.
+*Killing history using git rebase
