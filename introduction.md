@@ -3,3 +3,5 @@
 * Git
 * JavaScript
 * Ruby
+* JD
+
