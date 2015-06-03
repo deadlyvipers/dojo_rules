@@ -5,3 +5,4 @@ Computer Science minor, Music minor
 Michigan Marching Band - Trumpet
 
 My favorite CodeSchool path is javascript!
+My deadly skills are c++ and git!
