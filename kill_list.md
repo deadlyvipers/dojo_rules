@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 List
 ========
 * Unused code
@@ -5,3 +6,7 @@ List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+=======
+Kill List
+=========
+>>>>>>> release_branch_1.0
