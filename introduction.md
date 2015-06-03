@@ -8,3 +8,4 @@ My favorite CodeSchool path is javascript!
 My deadly skills are:
 *c++
 *git
+*Killing history using git rebase
