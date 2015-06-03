@@ -5,3 +5,4 @@ List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Code without spacing
