@@ -1,2 +1,7 @@
-just info
-javascript 
+* just info
+* javascript 
+* Git
+* JavaScript
+* Ruby
+* JD
+
