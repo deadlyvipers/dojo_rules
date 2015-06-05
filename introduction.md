@@ -1,1 +1,1 @@
-Diogo aka LordLeet, owner of this fork.
+Diogo aka LordLeet on GitHub.
