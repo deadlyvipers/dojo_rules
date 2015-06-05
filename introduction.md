@@ -1,7 +1,7 @@
-Hi, I'm Kel
-My favorite Code School path is JavaScript
+Hi, I'm Kel My favorite Code School path is JavaScript
 
-My deadly skills are:
-* JavaScript
-* HTML
-* CSS
+My skills are:
+* css
+* javascript
+* html
+* rebase
