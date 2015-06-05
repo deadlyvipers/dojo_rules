@@ -4,3 +4,4 @@ I like the JavaScript path.
 * HTML
 * JavaScript
 * Meteor
+* Killing history using git rebase
