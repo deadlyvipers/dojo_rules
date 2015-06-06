@@ -6,3 +6,4 @@
 * repeated code blocks
 * Bad variable names
 * Magic Numbers
+* No comments
