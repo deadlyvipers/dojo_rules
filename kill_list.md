@@ -5,4 +5,5 @@
 * Unformatted code
 * repeated code blocks
 * Bad variable names
-* Magic numbers
+* Magic Numbers
+* No comments
