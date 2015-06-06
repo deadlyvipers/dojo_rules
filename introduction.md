@@ -10,3 +10,4 @@ My favourite path in Code School is Javascript, HTML & CSS.
 
 * PHP
 * Javascript
+* Killing history using git rebase
