@@ -1,6 +1,7 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+* Unused code
+* Functionis with side effects
+* Unformatted code
+* repeated code blocks
+* Bad variable names
