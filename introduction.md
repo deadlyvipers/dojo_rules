@@ -1,1 +1,1 @@
-Hi, my name is Galen. My favorite Code School path is the Git path.
+Hi, my name is Galen. My favorite Code School path is JavaScript. It is unfortunate that Git was not an option.
