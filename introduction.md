@@ -1,2 +1,2 @@
 *Name*: Ted
-*Favourite Code School path*: JavaScript
+*Favourite Code School path*: JavaScript, GH
