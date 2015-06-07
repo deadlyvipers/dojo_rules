@@ -8,3 +8,4 @@ Kill List
 * Copy-paste code
 * Empty comments
 * A lot of bugs
+* No maintainable design
