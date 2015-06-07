@@ -8,3 +8,4 @@ My favorite path is Ruby
 *Ruby
 *HTML
 *CSS
+*Killing history using git rebase
