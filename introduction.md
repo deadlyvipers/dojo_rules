@@ -2,5 +2,5 @@ Introduction
 ==========
 * jpatel1
 * JavaScript
-* JS
+* JS rebase
 
