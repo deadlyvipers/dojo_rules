@@ -1,2 +1,2 @@
 hello, i m using git
-heloo git
+Ruby, JavaScript, HTML & CSS, iOS or Electives
