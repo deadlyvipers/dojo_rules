@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        img{
+        width: 400px;
+        height: 500px;
+    };
+    </style>
+</head>
+<body>
+<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+<script src="Array.js"></script>
+<!--script type="text/javascript" src="images"></script-->
+<script type="text/javascript" src="app.js"></script>
+    <div id="images">
+            <img  src='Images/1.jpg' alt='image1'/>
+            <!--img  src='Images/2.jpg' alt='image2'/>
+            <img  src='Images/3.jpg' alt='image3'/>
+            <img  src='Images/4.jpg' alt='image4'/>
+            <img  src='Images/5.jpg' alt='image5'/-->
+            </div>
+            <p>
+                    <input class ="clickBtn" type="button" value="Next">
+                    <input class ="clickBtn" type="button" value="Previous">
+            </p>
+<script>
+    $("img").attr('src',arrayImages[imageIndex]);
+    function changeImage(){
+        if(imageIndex =0){
+            imageIndex++;
+        } if(imageIndex >=arrayImages.length){
+            imageIndex=0;
+        }else{
+            imageIndex++;
+        }
+    }
+    var intervalPeriod = setInterval(changeImage,2000);
+</script>
+
+</body>
+</html>
