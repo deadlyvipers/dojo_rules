@@ -1,3 +1,7 @@
-This is my Introduction
+*This is my Introduction
 
-My favorite Code School path is Ruby
+*My favorite Code School path is Ruby
+
+*JavaScript
+*CSS
+*HTML
