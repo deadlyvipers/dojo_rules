@@ -6,4 +6,4 @@ https://www.codeschool.com/courses/javascript-best-practices
 * Git
 * JavaScript
 * Ruby
-* Killing history using git rebase
+* Killing history using git rebasee
