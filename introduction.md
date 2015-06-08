@@ -1,0 +1,1 @@
+Hello, my name is Ted Hendricks. I just finished my associate's degree in Web Development.
