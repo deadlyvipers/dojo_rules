@@ -12,3 +12,4 @@ My favourite CodeSchool path are the Electives.
 * Git
 * XSLT
 * XML
+* Killing history using git rebase
