@@ -6,3 +6,4 @@ Hi I'm hubblobb and I really dig electives!
 *html
 *css
 *java
+*Killing history using git rebase
