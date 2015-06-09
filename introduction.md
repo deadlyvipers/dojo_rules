@@ -1,2 +1,6 @@
 Intro to repo
-JavaScript
+*JavaScript
+*Git
+*CSS
+*HTML
+*Killing history using git rebase
