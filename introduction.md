@@ -1,2 +1,5 @@
 Intro to repo
-JavaScript
+*JavaScript
+*Git
+*CSS
+*HTML
