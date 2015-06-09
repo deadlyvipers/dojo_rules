@@ -1,1 +1,1 @@
-my name is Yuchen Yang
+my favorate code school path is Ruby
