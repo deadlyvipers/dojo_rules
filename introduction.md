@@ -3,3 +3,4 @@ Intro to repo
 *Git
 *CSS
 *HTML
+*Killing history using git rebase
