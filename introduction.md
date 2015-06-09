@@ -1,8 +1,5 @@
-Hello, my name is Do Lee.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript. 
 
-My favorite Code School path is iOS.
-
+* Ruby on Rails
 * Git
-* JavaScript
-* Ruby
-
+* Killing history using git rebase
