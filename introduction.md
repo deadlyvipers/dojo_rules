@@ -1,3 +1,1 @@
-Hello, my name is Scott
-
-JavaScript
+Hello, my name is Scott, JavaScript
