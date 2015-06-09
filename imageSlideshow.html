@@ -27,8 +27,8 @@
                     <input class ="clickBtn" type="button" value="Previous">
             </p>
 <script>
-    $("img").attr('src',arrayImages[imageIndex]);
-    function changeImage(){
+    $("img").attr('src',arrayImages[imageIndex],changeImage);
+    /*function changeImage(){
         if(imageIndex =0){
             imageIndex++;
         } if(imageIndex >=arrayImages.length){
@@ -36,8 +36,18 @@
         }else{
             imageIndex++;
         }
-    }
-    var intervalPeriod = setInterval(changeImage,2000);
+    }*/
+    var intervalPeriod = setInterval(changeImage,2000);\
+    $('#clickBtn').click(function(){
+                if(imageIndex =0){
+                    imageIndex++;
+                } if(imageIndex >=arrayImages.length){
+                    imageIndex=0;
+                }else{
+                    imageIndex++;
+                }
+            }
+    );
 </script>
 
 </body>
