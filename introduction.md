@@ -3,5 +3,5 @@ i am Kishan
 * JavaScript
 * HTML & CSS
 * iOS
-* Electives and Other.
+* Electives and Android.
 
