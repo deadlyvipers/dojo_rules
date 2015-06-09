@@ -5,3 +5,4 @@ Kill List
 * Elle Driver
 * BILL
 * NARESH
+* PATEL
