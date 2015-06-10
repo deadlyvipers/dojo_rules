@@ -5,3 +5,5 @@ my skills are :
 * EJB
 * Javascript
 * ruby
+* github
+* climbing
