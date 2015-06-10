@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+Ruby
+JavaScript
 i'm Bart 
  i love Ruby 
  Ruby
