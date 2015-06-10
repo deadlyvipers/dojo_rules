@@ -4,4 +4,5 @@ My favorite course is javaScript.
 *Javascript
 *Python
 *Shell
+*Killing history using git rebase
 
