@@ -1,4 +1,1 @@
-Ramakrishna Kothamasu
-Student
-CT
-Favoritecode school path: Electives
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
