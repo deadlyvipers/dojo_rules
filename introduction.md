@@ -1,1 +1,5 @@
-Hi, my name is Katie. My favorite codeschool path are CSS and Javascript.
+I love Ruby and Javascript. 
+* Ruby on Rail
+* Java
+* Git
+* Javascript
