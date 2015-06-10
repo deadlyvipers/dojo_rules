@@ -6,7 +6,8 @@ my skills are :
 * Javascript
 * ruby
 * github
-* climbin
+* climbing
+* rebase
 my favorite code school path : Electives
 Ruby
 
