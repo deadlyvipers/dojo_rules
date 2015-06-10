@@ -1,4 +1,6 @@
-i'm Bart .
+This repository contains a list of dojo rules for the Deadly Vipers dojo
+This repository contains a list of dojo rules for the Deadly Vipers dojo
+This repository contains a list of dojo rules for the Deadly Vipers dojoi'm Bart .
 i'm learning to use github at the moment
 mljkqlsmjfmslqdf
 lmjsmqdlfjmlsdfj
