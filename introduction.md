@@ -1,7 +1,7 @@
-On my way to becoming a GitHub Master. I love Ruby and JavaScript.
-HI EVERYONE!!
+Hello everyone!  Excited to be here!
 
-* rebase
-
-* Ruby on Rails
-*Git
+Deadly Skills:
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
