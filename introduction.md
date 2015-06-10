@@ -1,2 +1,3 @@
 I'm shan23
-My favorite path is Ruby!
+My favorite Code School path is Ruby
+
