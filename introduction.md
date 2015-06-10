@@ -3,4 +3,5 @@ My favorite course is javaScript.
 *Java
 *Javascript
 *Python
+*Shell
 
