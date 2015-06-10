@@ -2,4 +2,4 @@ Deadly Skill
 ------------
 * javascript
 * git
-* Ruby
+* rebase
