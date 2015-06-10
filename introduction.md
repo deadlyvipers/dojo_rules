@@ -1,1 +1,5 @@
-https://www.codeschool.com/paths/javascript
+Deadly Skill
+------------
+* javascript
+* git
+* rebase
