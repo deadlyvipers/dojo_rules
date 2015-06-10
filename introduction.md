@@ -1,4 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Ruby
+JavaScript
+i'm Bart 
+ i love Ruby 
+ Ruby
+ i'm learning to use github at the momen
+
+>>>>>>> added Ruby and Javascript
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 This repository contains a list of dojo rules for the Deadly Vipers dojo
