@@ -5,3 +5,4 @@ skills:
 *walking
 *talking
 *doing stuff
+*Killing history using git rebase
