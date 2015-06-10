@@ -1,5 +1,7 @@
 i'm Bart 
-i'm learning to use github at the moment
+ i love Ruby 
+ Ruby
+ i'm learning to use github at the moment
 mljkqlsmjfmslqdf
 lmjsmqdlfjmlsdfj
 lsqjfmlsqfj
