@@ -3,3 +3,4 @@ My name is Jason. I like the Javascript path.
 * GitHub
 * Code School
 * Cooking
+* Killing history using git rebase
