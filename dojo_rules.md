@@ -10,4 +10,4 @@ Dojo Rules
 
 All members should read the rules
 
-you can read here [link](https://github.com/deadlyvipers)
+you can read here [https://github.com/deadlyvipers](https://github.com/deadlyvipers)
