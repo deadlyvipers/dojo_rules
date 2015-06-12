@@ -5,8 +5,4 @@ My deadly skills
 
 *Git
 
-*Node.js
-
-*Java
-
-*Mathematica
+*Javascript
