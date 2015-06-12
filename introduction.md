@@ -6,3 +6,4 @@ deadly skills:
  * dog
  * eat
  * JavaScript
+ * Killing history using git rebase
