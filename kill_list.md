@@ -11,4 +11,8 @@ Repeated code blocks
 
 Bad variable names
 
+<<<<<<< HEAD
 and many more
+=======
+and many many many more
+>>>>>>> kill_list
