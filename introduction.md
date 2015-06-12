@@ -3,6 +3,6 @@ my favourite Code School path is Javascript!
 
 My deadly skills
 
-*Git
+* Git
 
-*Javascript
+* Javascript
