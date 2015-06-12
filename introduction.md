@@ -3,4 +3,4 @@ My favorite path is JavaScript
 * Git
 * JavaScript
 * Python
-* Killing history using 
+* Killing history using rebase
