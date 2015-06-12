@@ -8,3 +8,4 @@ hello world hopefully code school works now.
 * javascript
 * git
 * rails
+* Killing history using git rebase
