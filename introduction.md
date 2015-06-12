@@ -9,3 +9,4 @@ My deadly skills
 * PHP
 * English
 * Knitting
+* Killing history using git rebase
