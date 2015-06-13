@@ -1,3 +1,4 @@
 some intro
-JavaScript
+* JavaScript
+* Git
 
