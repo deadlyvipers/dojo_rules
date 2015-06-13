@@ -1,1 +1,1 @@
-I'm Nicolas and my favourite CodeSchool path is the Git path
+I'm Nicolas and my favourite CodeSchool path is the Ruby path
