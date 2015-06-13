@@ -1,1 +1,1 @@
-Hello my name is Dominic 
+Hello my name is Dominic and my favorite Code School path is Javascript!
