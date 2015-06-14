@@ -1,2 +1,3 @@
-Hi my name happens to be Adeel Qureshi
-What is your name ? 
+Hi My name is Adeel Qureshi
+And my favorite CodeSchool learning path is Javascript 
+I particularly enjoyed the Angular Course
