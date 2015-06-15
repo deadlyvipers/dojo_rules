@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ec28435... Introduced myself
 hello
 i am from the internet
 
@@ -9,11 +5,7 @@ my name is austin
 
 hello again
 
-
 this is a sentence
-<<<<<<< HEAD
-=======
 hi
->>>>>>> a90f55a... Introduced myself
-=======
->>>>>>> ec28435... Introduced myself
+
+this is more bs text just because it wants me to type more for some bizarre reasoning
