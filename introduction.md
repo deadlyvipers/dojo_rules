@@ -5,3 +5,4 @@ Intro
 * HTML
 * GIT
 * JS
+* RUBY
