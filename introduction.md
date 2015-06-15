@@ -1,2 +1,1 @@
-I like JavaScript
-
+On my way to becoming a JavaScript  Master
