@@ -15,3 +15,5 @@ We found your "introduction.md" file, but it looks to be empty, or just too shor
 We found your "introduction.md" file, but it looks to be empty, or just too short. We really want to know something about you! Make sure to include a short sentance about yourself.
 We found your "introduction.md" file, but it looks to be empty, or just too short. We really want to know something about you! Make sure to include a short sentance about yourself.
 We found your "introduction.md" file, but it looks to be empty, or just too short. We really want to know something about you! Make sure to include a short sentance about yourself.
+
+I'm enjoying the Ruby path so far. The Javascript path is also very good
