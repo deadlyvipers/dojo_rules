@@ -8,3 +8,4 @@ I have walked the path of HTML & CSS.
 * emacs
 * seltzer
 * lists
+* Killing history using git rebase
