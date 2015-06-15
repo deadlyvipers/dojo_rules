@@ -6,3 +6,4 @@ Intro
 * GIT
 * JS
 * RUBY
+* Killing history using git rebase
