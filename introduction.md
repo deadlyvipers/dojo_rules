@@ -1,1 +1,1 @@
-On my way to becoming a JavaScript  Master
+On my way to becoming a JavaScript Master
