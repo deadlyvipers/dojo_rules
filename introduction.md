@@ -1,1 +1,2 @@
-Hope this push will work. Ruby
+##This is github learning of codeschool github class
+Ruby
