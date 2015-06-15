@@ -1,1 +1,1 @@
-yo, it's crftr
+Yo, it's crftr.  My favorite video thus far has been GitReal2.  Reflog and submodules were new to me.
