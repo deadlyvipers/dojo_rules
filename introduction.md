@@ -1,3 +1,4 @@
-Hello there, this is my introduction file.
-My name is violetwee.
-iOS
+Hello there, this is my introduction file
+*iOS
+*Git
+*ABC
