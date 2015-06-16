@@ -1,3 +1,4 @@
 On my way to becoming a JavaScript Master
-*Git
-*Ruby
+* Ruby
+* Git
+* JavaScript
