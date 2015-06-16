@@ -4,5 +4,6 @@ I love HTML and CSS.
 
 Damn!
 
-*HTML CSS
-+Killing history using git rebase
+*HTML
+*CSS
+*Killing history using git rebase
