@@ -1,2 +1,2 @@
 I'm new.
-My favorite path is Electives.
+My favorite path is Electives or not.
