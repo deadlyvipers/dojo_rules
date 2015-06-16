@@ -1,2 +1,2 @@
 dojo introduction
-Favorite path Git
+Favorite path HTML
