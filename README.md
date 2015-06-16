@@ -1,4 +1,5 @@
 Dojo Rules
+[![Build Status](https://secure.travis-ci.org/rails/arel.svg?branch=master)](http://travis-ci.org/rails/arel)
 ==========
 
 All members should read the rules
