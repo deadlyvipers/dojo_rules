@@ -1,1 +1,1 @@
-Hello. Here is the introduction. The  favorite Code School path is JavaScript
+Hello. Here is the introduction. My favorite Code School path is JavaScript
