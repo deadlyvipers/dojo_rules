@@ -1,2 +1,1 @@
-Hello. Here is the introduction.
-The path of choice is JavaScript
+Hello. Here is the introduction. The  favorite path is JavaScript
