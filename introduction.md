@@ -1,2 +1,1 @@
-dojo introduction
-Favorite path HTML
+HTML
