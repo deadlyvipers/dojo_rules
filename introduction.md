@@ -1,2 +1,1 @@
-Sagar Gohil
 Ruby
