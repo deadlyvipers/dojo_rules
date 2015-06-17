@@ -1,1 +1,2 @@
-Ruby is not my favourite
+*Ruby
+*Javascrpt
