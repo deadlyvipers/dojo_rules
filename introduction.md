@@ -9,3 +9,4 @@ Deadly skills:
 * C#
 * Lego
 * Nintendo
+* Killing history using git rebase
