@@ -1,3 +1,3 @@
-introduction. my favorite path is JavaScript.
+JavaScript
 
 Hi I am steven.
