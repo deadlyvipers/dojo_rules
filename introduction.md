@@ -1,8 +1,5 @@
-sasdasd
-https://www.codeschool.com/paths/ruby
-
-
-
-*Ruby
-
+* Ruby
+* Java
+* java Script
+* Killing history using git rebase
 
