@@ -3,4 +3,4 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
-No comments
+No comments in code
