@@ -7,4 +7,5 @@ Dojo Rules
 * Respect your opponents
 * My Rule1
 * GIT
+* JavaScript
 
