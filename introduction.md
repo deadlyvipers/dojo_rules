@@ -1,3 +1,1 @@
-JavaScript
-
-Hi I am steven.
+My favorite is Ruby.
