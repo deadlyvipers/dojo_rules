@@ -1,1 +1,1 @@
-My favorite is Ruby.
+My favorite Code School path is Ruby.
