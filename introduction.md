@@ -10,4 +10,5 @@ And I know:
  * Python
  * Bash
  * C
+ * Killing history using git rebase
  * A number of other deadly things
