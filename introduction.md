@@ -5,3 +5,4 @@ My Deadly Skills
 * Git
 * JavaScript
 * dotNet
+* Killing history using git rebase
