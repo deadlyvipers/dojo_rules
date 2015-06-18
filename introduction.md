@@ -6,5 +6,5 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-* My favourite code school path is CSS
+* https://www.codeschool.com/paths/html-css
 Introduction of GIT Master Hub
