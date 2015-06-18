@@ -9,3 +9,4 @@ git, Ruby
 *Git
 *Javascript
 *asp.net
+*Killing history using git rebase
