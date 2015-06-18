@@ -1,5 +1,1 @@
-I love Ruby
-
-* Ruby
-* JavaScript
-* rebase
+"On my way to becoming a GitHub Master" 
