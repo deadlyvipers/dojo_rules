@@ -6,3 +6,5 @@ My favourite course is javascript
 
 * javascript
 * git
+
+another changes from deadly_skills
