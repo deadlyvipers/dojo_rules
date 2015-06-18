@@ -1,0 +1,10 @@
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
+* Uncommented code
+* Nest of ifs
+
