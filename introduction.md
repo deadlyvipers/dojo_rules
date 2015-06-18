@@ -1,1 +1,1 @@
-Hello, I am Erik.
+Hello, I am Erik. My favorite CodeSchool path is the Ruby path.
