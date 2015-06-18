@@ -6,3 +6,4 @@ My favourite code school path is Javascript
 *html
 *sass
 *.net
+*Killing history using git rebase
