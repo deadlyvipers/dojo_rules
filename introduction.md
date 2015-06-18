@@ -1,1 +1,2 @@
-My name is Raul
+Hi! My name is Raul
+My favorite Code School path is Git
