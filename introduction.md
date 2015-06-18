@@ -8,3 +8,4 @@ My Introduction
 *Spring
 *JavaScript
 *JQuery
+*Killing history using git rebase
