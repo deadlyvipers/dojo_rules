@@ -1,1 +1,1 @@
-introduction, then add, commit and push your change to the fork edited
+(Ruby, JavaScript, HTML & CSS, iOS or Electives)
