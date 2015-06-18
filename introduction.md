@@ -1,2 +1,1 @@
-Intro
-My favorite path is javascript
+JavaScript
