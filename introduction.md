@@ -7,4 +7,3 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * https://www.codeschool.com/paths/html-css
-Introduction of GIT Master Hub
