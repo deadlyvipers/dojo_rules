@@ -7,4 +7,5 @@ My favorite Code School path is Electives.
 * MySQL
 * jQuery
 * Photoshop
+* Killing history using git rebase
 
