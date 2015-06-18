@@ -5,3 +5,7 @@ This is syed
 Learning mastering git hub
 
 git, Ruby
+
+*Git
+*Javascript
+*asp.net
