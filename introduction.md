@@ -7,3 +7,4 @@ Skills:
 *AngularJS
 *NodeJS
 *Ninja Skills
+*Killing history using git rebase
