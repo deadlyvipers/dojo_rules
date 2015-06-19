@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Globals errywhere
 * Tightly coupled classes
+*wtf
