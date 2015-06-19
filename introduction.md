@@ -1,2 +1,5 @@
 Hello my name is Dan
-Ruby
+*Killing history using git rebase
+*Git
+*C++
+*C
