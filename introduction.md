@@ -7,3 +7,4 @@ And my favourite Code School path is Javascript!
 *Jquery
 *Backbone
 *Ember
+*Killing history using git rebase
