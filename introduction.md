@@ -5,3 +5,4 @@ My favorite CodeSchool path is 'JavaScript'.
 My deadly skills are:
  * Inspecting
  * Adapting
+ * Killing history using git rebase
