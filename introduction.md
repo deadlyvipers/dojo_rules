@@ -1,2 +1,4 @@
 Hello dojo.
-Ruby
+*Ruby
+*Git
+*Javascript
