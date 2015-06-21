@@ -1,2 +1,1 @@
-Intro
-I like git real :)
+Electives
