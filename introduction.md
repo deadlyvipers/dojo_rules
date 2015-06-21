@@ -1,6 +1,11 @@
 My Introduction
 ==========
 
-this is markos introduction
--JavaScript
--HTML & css
+*Java
+*SQL
+*GIT
+*LINUX
+*Spring
+*JavaScript
+*JQuery
+*Killing history using git rebase
