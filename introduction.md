@@ -3,3 +3,4 @@ Electives
 * JavaScript
 * Ruby
 * Godofredo
+* Killing history using git rebase
