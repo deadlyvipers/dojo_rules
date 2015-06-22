@@ -1,7 +1,4 @@
-Hello i'm Dennis and this is my introdution
-my favorite code school path are the electives
-* git
-* puppet
-* iptables
-* fishing
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
+* Ruby on Rails
+*Git
