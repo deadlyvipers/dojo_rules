@@ -1,2 +1,2 @@
 hi this is temp file
-*javaScript
+* javaScript
