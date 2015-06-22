@@ -1,2 +1,5 @@
 Hi!  I'm Gen.
-Ruby
+*Ruby
+*Git 
+*Java
+*Cooking
