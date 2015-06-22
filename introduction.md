@@ -1,1 +1,1 @@
-on the wat to becoming a github master 
+On my way to becoming a GitHub Master
