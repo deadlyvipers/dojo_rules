@@ -1,1 +1,1 @@
-I am the ultimate Ninja
+On my way to becoming a GitHub Master
