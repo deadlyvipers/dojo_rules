@@ -1,1 +1,1 @@
-* Test
+My favorite path is JavaScript.
