@@ -1,2 +1,6 @@
 Hi!  I'm Gen.
-Ruby
+*Ruby
+*Git 
+*Java
+*Cooking
+*Killing history using git rebase
