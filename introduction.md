@@ -1,5 +1,4 @@
-Introduction http://campus.codeschool.com
+Introduction 
 ==========
-
-Some introduction
+Java Script
 
