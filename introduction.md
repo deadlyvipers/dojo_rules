@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub.
+on the wat to becoming a github master 
