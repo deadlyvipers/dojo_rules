@@ -1,4 +1,4 @@
 Introduction 
 ==========
-Java Script
+JavaScript
 
