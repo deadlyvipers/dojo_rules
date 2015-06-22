@@ -3,3 +3,4 @@ Hi!  I'm Gen.
 *Git 
 *Java
 *Cooking
+*Killing history using git rebase
