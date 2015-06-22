@@ -5,4 +5,4 @@ Mastering github
 
 ### Introduction
 
-#### Git is my favorite Code School path =0)
+#### JavaScript is my favorite Code School path =0)
