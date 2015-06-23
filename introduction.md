@@ -1,2 +1,9 @@
+# Introduction
+
 Hi I'm Tomas Basham
-JavaScript
+
+## Deadly Skills 
+* JavaScript
+* Objective-C
+* Ruby
+* Killing history using git rebase
