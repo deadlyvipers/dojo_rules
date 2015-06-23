@@ -6,3 +6,4 @@ Hi I'm Tomas Basham
 * JavaScript
 * Objective-C
 * Ruby
+* Killing history using git rebase
