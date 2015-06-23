@@ -1,2 +1,4 @@
 This is introuction
-Ruby
+Rub
+* Git, JavaScript, Ruby
+ttestss
