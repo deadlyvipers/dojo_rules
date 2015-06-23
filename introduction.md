@@ -12,3 +12,5 @@ My deadly skills
 * JavaScript
 * Ruby
 * Python
+* Killing history using git rebase
+
