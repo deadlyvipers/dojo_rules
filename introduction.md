@@ -1,4 +1,4 @@
-This is GIT Training
+This is GIT Training 1
 
 
 https://www.codeschool.com/paths/ruby
