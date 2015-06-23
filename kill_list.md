@@ -1,4 +1,4 @@
-bad coding practices
+ISSUES
 =========
 *Unused code
 *Functions with side effects
