@@ -8,3 +8,4 @@ My favorite CodeSchool path is the Electives path.
 * CSS
 * JavaScript
 * OpenGL
+* Killing history using git rebase
