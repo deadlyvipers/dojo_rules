@@ -6,3 +6,4 @@ JavaScript is my favority Code School path :)
 *CSS
 *HTML
 *PHP
+*Killing history using git rebase
