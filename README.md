@@ -1,6 +1,7 @@
 Dojo Rules
 ==========
 
-All Members should read the rules
-[deadly vipers](https://github.com/deadlyvipers)
+All Members should read the rules.  
+
+For more information checkout the [deadly vipers](https://github.com/deadlyvipers)
 
