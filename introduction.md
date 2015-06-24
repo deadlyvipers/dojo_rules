@@ -1,1 +1,1 @@
-/* My name is CC*/
+/* My name is CC. I like Javascript.*/
