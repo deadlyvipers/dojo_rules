@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub.
+Hello! It is HTML & CSS.
