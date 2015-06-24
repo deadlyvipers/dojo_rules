@@ -1,2 +1,4 @@
-intro
-JavaScript
+* JavaScript
+* Ruby
+* Dot.Net
+* Killing history using git rebase 
