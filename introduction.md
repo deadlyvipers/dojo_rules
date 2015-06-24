@@ -1,1 +1,0 @@
-/* My name is CC. I like Javascript.*/
