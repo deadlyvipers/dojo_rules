@@ -5,3 +5,4 @@ I include my deadly skills
 *JS
 *GIT
 *Ruby
+*Killing history using git rebase
