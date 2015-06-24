@@ -1,2 +1,1 @@
-Oleg
-introduction
+::Ruby
