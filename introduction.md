@@ -1,1 +1,1 @@
-My name is Chris
+My name is Chris and my favorite Code School path is JavaScript
