@@ -6,4 +6,4 @@ Favorite Code School Path : JavaScript
 * Ruby
 * Killing history using git rebase
 
--- Rohit Dalwadi
+-- Rohit Dalwadi.
