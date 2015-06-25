@@ -1,8 +1,3 @@
-12121
-121
-12
+Favorite codeschool path - JavaScript.
+Course - Angular.js
 
-12
-1
-21
-1
