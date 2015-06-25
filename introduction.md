@@ -2,3 +2,4 @@
 *Git
 *JavaScript
 *Ruby
+*Katana
