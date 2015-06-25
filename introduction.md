@@ -4,3 +4,5 @@ Deadly skills:
 --------------
 * Snoring
 * Whining
+
+* Killing history using git rebase
