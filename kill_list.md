@@ -5,4 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Looping hits performance 
+* Looping hits performance
+* Use Exists instead of IN 
