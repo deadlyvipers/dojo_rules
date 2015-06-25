@@ -1,1 +1,4 @@
-I love  Git, JavaScript, Ruby and JavaScript!
+I love Ruby and JavaScrip
+
+*ruby
+* java script
