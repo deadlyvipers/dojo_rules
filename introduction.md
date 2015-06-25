@@ -1,7 +1,9 @@
+Electives
+
 Hello,
 
 This is Jason
 
-My favorite path is the git series.
+My favorite path is the Electives series.
 
 Thanks!
