@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Inconsistent spacing
+* Brackets starting on the next line
