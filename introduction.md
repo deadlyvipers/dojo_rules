@@ -3,4 +3,6 @@ ukraine
 student
 khai
 
-JavaScript, HTML & CSS
+*JavaScript 
+*HTML
+*CSS
