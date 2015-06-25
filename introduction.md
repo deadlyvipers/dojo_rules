@@ -1,1 +1,1 @@
-El sensei es sabio!
+ JavaScript El sensei es sabio!
