@@ -5,3 +5,4 @@ The best path for codeschool is JavaScript
 * Git
 * JavaScript
 * Angular
+* Killing history using git rebase
