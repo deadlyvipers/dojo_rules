@@ -1,1 +1,1 @@
-/* My name is CC. I like Javascript.*/
+On my way to become a ninja.
