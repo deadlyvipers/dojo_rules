@@ -3,3 +3,4 @@
 *JavaScript
 *Ruby
 *Katana
+*Killing history using git rebase
