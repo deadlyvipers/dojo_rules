@@ -9,4 +9,5 @@ my deadly skills include:
 * SQL
 * JavaScript
 * MEAN (MongoDB, Express JS, Angular.js, Node.js)
+* and more...
 
