@@ -9,3 +9,4 @@ Deadly skills:
 *fabricjs
 *Bootstrap
 *Git
+*Killing history using git rebase
