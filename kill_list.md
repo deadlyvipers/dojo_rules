@@ -1,5 +1,6 @@
 Kill List
 =========
+* Messy methods
 * Unused code
 * Functions with side effects
 * Unformatted code
