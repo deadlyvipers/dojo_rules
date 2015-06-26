@@ -1,0 +1,1 @@
+* push, pull, rebase, cherry-pick
