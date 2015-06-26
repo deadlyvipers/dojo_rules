@@ -7,3 +7,4 @@ My deadly skills include:
 * CoffeeScript
 * Haml
 * Compass
+* Killing history using git rebase
