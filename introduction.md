@@ -8,5 +8,7 @@ My deadly skills:
 * AngularJS
 * jQuery
 * Git
+* Killing history using git rebase
+
 
 
