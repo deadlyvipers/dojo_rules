@@ -5,3 +5,4 @@ My Deadly Skills are
 *Git 
 *CSS
 *HTML
+*Killing history using git rebase
