@@ -6,3 +6,4 @@ Deadky Skills
 * Polymer
 * HTML
 * JavaScript
+* Killing history using git rebase
