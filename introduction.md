@@ -5,3 +5,4 @@ My best patch is HTML & CSS because I use information from it in everyday !
 * JAVASCIPT
 * PHP
 * C++
+* Killing history using git rebase
