@@ -2,3 +2,4 @@
 Javascript
 *Git
 *Javascript
+*Angular
