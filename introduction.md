@@ -7,3 +7,4 @@ I started in the Ruby world, but now I love JavaScript.
 * Node.js
 * Bubble
 * rebase
+Killing history using git rebase
