@@ -1,1 +1,1 @@
-Here is my introduction
+Here is my introduction, favorite language path is JavaScript
