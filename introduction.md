@@ -2,3 +2,5 @@
 Javascript
 *Git
 *Javascript
+*Angular
+*Killing history using git rebase
