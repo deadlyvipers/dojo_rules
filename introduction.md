@@ -5,4 +5,4 @@ E ae galera. Isso é um teste somente para o curso do GitHub.
 * Git
 * Ruby
 * Java
-
+* Killing history using git rebase
