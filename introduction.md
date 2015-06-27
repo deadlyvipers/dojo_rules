@@ -1,3 +1,3 @@
-wassup yo
-Javascript
-Do more!
+* wassup yo
+* Javascript
+* Do more!
