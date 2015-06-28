@@ -1,5 +1,7 @@
 # Bear Su
 
+[Github](https://github.com/timfanda35)
+
 My favorite Code School path is:
 
 * Ruby
