@@ -1,1 +1,3 @@
 Hey. This is a brief sentence about myself...
+
+My favourite path in CodeSchool is the Ruby path.
