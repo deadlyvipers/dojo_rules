@@ -8,3 +8,7 @@ My favorite Code School path is:
 
 * Javascript
 
+My deadly skills:
+
+* Killing history using git rebase
+
