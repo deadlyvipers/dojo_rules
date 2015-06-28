@@ -5,3 +5,4 @@ My deadly skills are:
 * music
 * languages
 * social perceptiveness
+* Killing history using git rebase
