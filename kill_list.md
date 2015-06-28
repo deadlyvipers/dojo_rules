@@ -10,3 +10,4 @@ Kill List
 
 * Bad variable names
 
+* Multi purpose functions
