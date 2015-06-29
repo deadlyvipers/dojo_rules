@@ -1,2 +1,4 @@
-JAVA, PHP, SQL
+ * JAVA
+ * PHP
+ * SQL
 
