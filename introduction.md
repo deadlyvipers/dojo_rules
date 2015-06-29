@@ -5,3 +5,4 @@ Deadly Skills:
 * Python
 * C
 * MPI
+* Killing history using git rebase
