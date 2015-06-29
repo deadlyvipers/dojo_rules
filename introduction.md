@@ -1,5 +1,2 @@
-some intro
-
-
-Electives
+JAVA, PHP, SQL
 
