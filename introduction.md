@@ -1,4 +1,4 @@
 # Introduction Ruby is my favorite
 
-* Git
+* Killing history using git rebase
 * Ruby
