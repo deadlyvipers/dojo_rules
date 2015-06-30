@@ -7,3 +7,4 @@ Deadly Skills:
 *x86 Assembly
 *C++
 *Javascript
+*Killing history using git rebase
