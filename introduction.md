@@ -1,2 +1,8 @@
 Hello, my Name is Evgeny.
-I like Ruby & Electives, also I waiting for Python classes at Codeschool. 
+I like Ruby & Electives, also I'm waiting for a Python class at Codeschool. 
+Deadly skills:
+*linux
+*bash
+*python
+*git
+*go
