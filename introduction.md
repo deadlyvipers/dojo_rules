@@ -4,3 +4,4 @@ deadly skills:
 * dumb
 * dumb
 * dumber
+* Killing history using git rebase
