@@ -1,3 +1,2 @@
-# Introduction
+# Introduction Ruby is my favorite
 
-Hi I'm James and my favorite Code School path is Git
