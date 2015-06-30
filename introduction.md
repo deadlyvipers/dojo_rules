@@ -5,3 +5,4 @@ Deadly Skills
 * JavaScript
 * Nunchuks
 * Bo Staff
+* Killing history using git rebase
