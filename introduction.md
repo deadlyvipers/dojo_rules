@@ -3,3 +3,4 @@ My favorite Code School path is Ruby
 * Rails
 * AngularJS
 * Spring
+* Killing history using git rebase
