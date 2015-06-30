@@ -6,3 +6,4 @@ Deadly skills:
 * JacaScript
 * HTML
 * CSS
+* Killing history using git rebase
