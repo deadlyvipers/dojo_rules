@@ -6,3 +6,4 @@ My favorite path is Javascript... And also Electives
 *C#
 *Javascript
 *Linux
+*Killing history using git rebase
