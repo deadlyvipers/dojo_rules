@@ -1,3 +1,3 @@
 My name is Valentin. I'm Python/JS developer and game/puzzle designer.
 
-MORE!!!
+I like JS path.
