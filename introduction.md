@@ -3,4 +3,5 @@ Introduction:
       * git
       * bash
       * clearcase
+      * Killing history using git rebase 
 
