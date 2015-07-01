@@ -4,4 +4,4 @@ deadly_skills
 * Ruby
 * Git 
 * JS
-
+* Killing history using git rebase
