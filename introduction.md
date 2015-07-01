@@ -1,2 +1,6 @@
-JAVA, PHP, SQL
+ * JAVA
+ * PHP
+ * SQL
+ * Killing history using git rebase
+
 
