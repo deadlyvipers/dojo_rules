@@ -4,3 +4,4 @@ Deadly Skills:
 * Git
 * Javascript
 * Python
+* C#
