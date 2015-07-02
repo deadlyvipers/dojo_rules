@@ -2,4 +2,4 @@
 
 * Email: kyle.k@20xxproductions.com
 * URL: 20xxproductions.com
-* Code School path: Git
+* Code School path: Electives
