@@ -11,3 +11,4 @@ Deadly Skill
 * Angular
 * Node.js
 * VIM
+* Killing history using git rebase
