@@ -11,5 +11,13 @@ This exercise is great.
 
 My favourite Code School path is of course JavaScript path :)
 
+My deadly list:
+
+* PHP
+* JavaScript
+* HTML5
+* CSS3
+* Git
+
 
 
