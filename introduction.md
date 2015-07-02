@@ -1,6 +1,6 @@
-Introduction
+Deadly Skills
 ==========
 
-I am the black mamba master.
-My favorite Code School path is Javascript
-
+* Git
+* Javascript
+* Html
