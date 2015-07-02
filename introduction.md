@@ -11,7 +11,7 @@ This exercise is great.
 
 My favourite Code School path is of course JavaScript path :)
 
-My deadly list:
+My deadly skills list:
 
 * PHP
 * JavaScript
