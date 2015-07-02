@@ -1,1 +1,1 @@
-Hi I'm Łukasz
+Hi I'm Łukasz, and I want to master github
