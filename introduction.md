@@ -11,4 +11,5 @@ My favorite codeschool path is IOS.
 * PHP
 * Git 
 * JavaScript
+* Killing history using git rebase
 * and many more...
