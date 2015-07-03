@@ -1,3 +1,6 @@
 # Introduction
 
-Ruby, JavaScript, HTML & CSS.
+*Ruby
+*JavaScript
+*HTML
+*CSS
