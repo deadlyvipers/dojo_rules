@@ -1,1 +1,1 @@
-Hello, I'm working on the GitHub course at CodeSchool.
+Hello, I'm working on the GitHub course at CodeSchool.  But my favorite track is the JavaScript one.
