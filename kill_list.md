@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Code comments that don't add any value
 * Inconsistent whitespace
+* Bad commit messages
