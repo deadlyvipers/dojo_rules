@@ -1,6 +1,8 @@
-# Introduction
+Dojo Rules
+==========
 
-*Ruby
-*JavaScript
-*HTML
-*CSS
+This repository contains a list of dojo rules for the Deadly Vipers dojo
+Javascript
+
+*Git
+*Backbone
