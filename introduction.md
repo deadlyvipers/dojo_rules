@@ -1,1 +1,1 @@
-Hello
+Hello, I'm working on the GitHub course at CodeSchool.
