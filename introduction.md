@@ -6,4 +6,4 @@ Javascript
 
 *Git
 *Backbone
-*Backbone
+*Killing history using git rebase
