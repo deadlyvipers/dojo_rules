@@ -11,3 +11,4 @@ List of my Deadly Skills:
 *Git & GitHub
 *UX/UI
 *JavaScript, comming soon
+*Killing history using git rebase
