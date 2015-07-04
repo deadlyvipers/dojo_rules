@@ -1,2 +1,3 @@
 Hello, my name is Daniel
-JavaScript, PHP, MySQL
+Deadly Skills: JavaScript, PHP, MySQL
+
