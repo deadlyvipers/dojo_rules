@@ -1,5 +1,7 @@
-Hit List:
-* The martian from mars
-* The asteroid from outer space
-* Ignorance
-
+Skills:
+* javascript
+* css
+* html
+* php
+* mysql
+* git
