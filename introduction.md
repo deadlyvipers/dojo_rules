@@ -1,0 +1,5 @@
+Hello, my name is Daniel
+Deadly Skills: JavaScript, PHP, MySQL
+* JS
+*php
+*ruby
