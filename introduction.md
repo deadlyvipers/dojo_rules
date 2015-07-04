@@ -1,2 +1,3 @@
 Oguz Kocer
-JavaScript
+* JavaScript
+* Git
