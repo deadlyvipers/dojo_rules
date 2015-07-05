@@ -1,1 +1,6 @@
-Hi I'm xShadov. JavaScript
+Hi I'm xShadov. JavaScript.
+*Madskills
+*JS
+*Ruby
+*Cpp
+*Java.
