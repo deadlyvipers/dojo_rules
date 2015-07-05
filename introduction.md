@@ -1,1 +1,1 @@
-Hi I'm xShadov.
+Hi I'm xShadov. JavaScript
