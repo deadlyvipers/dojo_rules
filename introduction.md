@@ -1,3 +1,2 @@
 Hola me presento soy Manuel
-das
-ads
+My favourite path in code school is GIT
