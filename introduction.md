@@ -1,2 +1,2 @@
 hey, my name is Jaxwood
-My favorite path is Git
+My favorite path is Javascript
