@@ -6,3 +6,4 @@ Deadly skills list
 * C/C++
 * MEAN stack
 * Git
+* Killing history using git rebase
