@@ -4,3 +4,4 @@ My kill skills are:
 * Javascript
 * Git
 * Html
+* Killing history using git rebase
