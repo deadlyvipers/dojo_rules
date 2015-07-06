@@ -1,3 +1,3 @@
 My name is Ryan.
 
-My favorite CodeSchool path is for Git.
+My favorite CodeSchool path is for HTML & CSS.
