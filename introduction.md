@@ -1,3 +1,5 @@
 Testcase for submiting topic on codeschool
-changed
-JavaScript
+* JavaScript
+* Git
+* Ruby
+* Php
