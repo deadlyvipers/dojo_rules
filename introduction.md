@@ -5,4 +5,5 @@ So far Electives is my favorite, lots of variety.
 * C#
 * Python
 * JS
+* Killing history using git rebase
 
