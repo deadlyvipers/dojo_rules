@@ -1,1 +1,1 @@
-Hello!
+Hello, my favorite course right now is Git.
