@@ -8,4 +8,5 @@ I've really enjoyed the JavaScript Code School path!
 * CSS
 * Node
 * Mongo
-* HTML5
+* HTML6
+* Killing history using git rebase
