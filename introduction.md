@@ -1,1 +1,1 @@
-Hello everyone, I'm Alex.
+Hello everyone, I'm Alex. I like the Git codeschool path.
