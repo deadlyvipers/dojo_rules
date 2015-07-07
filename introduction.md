@@ -7,4 +7,5 @@ Skills:
 * nanchuck
 * ruby
 * git
+* Killing history using git rebase
 
