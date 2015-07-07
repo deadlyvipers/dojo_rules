@@ -1,7 +1,10 @@
 Kill List
 =========
-* Unused code
+*Unused code
 *Functions with side effects
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
+*Bad spacing
+*No comments
+*Too many comments
