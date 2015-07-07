@@ -1,10 +1,3 @@
-Nguyen Thanh Phat S=w
-:Wq
-
-aaa:
-*
-jjj
-dahjlhjljlkjljlj
-
-hjkl
+Nguyen Thanh Phat 
+javascript, css, ruby
 
