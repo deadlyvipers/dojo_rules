@@ -1,7 +1,8 @@
 This is my introduction
 Favorite CodeSchool Path: Ruby
-*Deadly Skills
-*Ruby
-*Git
-*C
-*C++
+* Deadly Skills
+* Ruby
+* Git
+* C
+* C++
+* Killing history using git rebase
