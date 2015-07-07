@@ -1,1 +1,1 @@
-"This is Amit Shah." 
+This is Amit Shah.
