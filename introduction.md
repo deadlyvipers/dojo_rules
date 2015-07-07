@@ -1,3 +1,3 @@
-Doing the git path on codeschool
+Doing the Ruby path on codeschool
 
 Hello Worlds!
