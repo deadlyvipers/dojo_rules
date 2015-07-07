@@ -7,3 +7,4 @@ My deadly skills are:
 * HTML
 * Java
 * CSS
+8 Killing history using git rebase
