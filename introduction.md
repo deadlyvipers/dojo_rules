@@ -3,3 +3,4 @@
 * Born 1980
 * Taiwanese
 * Software/Firmware Engineer
+* Favorite Code School path is Electives
