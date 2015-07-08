@@ -6,4 +6,5 @@ My favorite CodeSchool path is definitely the HTML & CSS course.
 Some of my deadly skills:
 *HTML
 *CSS/Sass
-*Gaming Hard
+*Gaming hard
+*Killing history using git rebase
