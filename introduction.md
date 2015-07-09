@@ -1,2 +1,4 @@
 ## best way to learn
-js
+* java
+* javascript
+* c#
