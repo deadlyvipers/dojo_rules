@@ -3,4 +3,4 @@
 * javascript
 * c#
 * c++
-* git
+* Killing history using git rebase
