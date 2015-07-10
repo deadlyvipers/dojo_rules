@@ -6,6 +6,3 @@ My favorite Code School Path in my introduction has been both the HTML/CSS Path 
 *Git
 *JavaScript
 *Ruby
-
-
-
