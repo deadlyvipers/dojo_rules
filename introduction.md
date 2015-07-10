@@ -1,2 +1,1 @@
-On my way to becaming a GitHub Master. I love U.
-Electives
+On my way to becoming a GitHub Master. I love ALL.
