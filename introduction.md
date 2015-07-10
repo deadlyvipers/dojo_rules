@@ -1,1 +1,1 @@
-Hello, my name is Micah. I am going through Mastering Github by CodeSchool.
+Hello, my name is Micah. I am going through Mastering Github by CodeSchool. I believe my favorite CodeSchool Path has been the Javascript Path.
