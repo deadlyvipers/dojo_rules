@@ -4,3 +4,4 @@ Javascript
 * Python
 * Java
 * PHP
+* Killing history using git rebase
