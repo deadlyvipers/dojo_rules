@@ -1,2 +1,7 @@
-On my way to becaming a GitHub Master. I love U.
-Electives
+I started in the Ruby world, but now I love JavaScript.
+
+## Deadly Skills
+
+* Ruby on Rails
+* JavaScript
+* Node.js
