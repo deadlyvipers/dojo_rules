@@ -1,0 +1,1 @@
+Hello, my name is Micah. I am going through Mastering Github by CodeSchool.
