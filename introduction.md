@@ -12,4 +12,5 @@ My favorite codeschool path is the Electives one.
 * PHP
 * Javascript
 * Perl
+* Killing history using git rebase
 
