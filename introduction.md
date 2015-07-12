@@ -2,3 +2,4 @@
 "My Favorite codeschool branch is Javascript :)"
 "can kill grass with Javascript!"
 *Javascript! 
+*Killing history using git rebase
