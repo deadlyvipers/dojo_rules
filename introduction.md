@@ -1,3 +1,3 @@
 Hi there.
-JavaScript
-Git
+* JavaScript
+* Git
