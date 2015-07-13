@@ -4,3 +4,4 @@ I like JavaScript
 *JavaScript
 *Python
 *Git
+*Killing history using git rebase
