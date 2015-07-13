@@ -10,3 +10,9 @@ My favorite Code School path is:
 * JavaScript
 * HTML & CSS
 * SQL
+
+My deadly skills are:
+* Git
+* JavaScript
+* PHP
+* Killing history using git rebase
