@@ -5,3 +5,4 @@ My favor Code School path is JavaScript.
 * python
 * html
 * xmpp
+* javascript
