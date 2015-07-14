@@ -1,1 +1,1 @@
-* GIT - Code School
+JavaScript
