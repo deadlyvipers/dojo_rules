@@ -5,3 +5,5 @@ Ruby Path for life!
 * Rails
 * JavaScript
 * Ember.js
+* CoffeeScript
+* R
