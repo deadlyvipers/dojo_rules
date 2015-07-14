@@ -7,3 +7,4 @@ My deadly skills:
 * Ruby
 * JavaScript
 * Sociopathy
+* Killing history using git rebase
