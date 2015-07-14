@@ -5,3 +5,4 @@ https://www.codeschool.com/paths/ruby
 * ruby
 * python
 * git
+* Killing history using git rebase
