@@ -4,3 +4,4 @@ My favoriate Code School path is the Elective GitHub Course
 *Java
 *ABAP
 *XML
+*Killing history using git rebase
