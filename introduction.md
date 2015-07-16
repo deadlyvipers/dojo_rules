@@ -3,3 +3,6 @@
 Hi ...
 
 JavaScript
+* Git
+* JavaScript
+* Ruby
