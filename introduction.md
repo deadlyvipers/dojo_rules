@@ -4,4 +4,5 @@ Some of my skills are...
 * Git
 * Python
 * SQL
+* Killing history using git rebase
 
