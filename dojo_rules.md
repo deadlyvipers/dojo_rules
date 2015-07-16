@@ -1,3 +1,4 @@
+Hi I just edited the rules
 Dojo Rules
 ==========
 * Always be on time
