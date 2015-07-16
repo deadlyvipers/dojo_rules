@@ -6,3 +6,4 @@ Deadly Skills
 * Java
 * Go
 * Github
+* Killing history using git rebase
