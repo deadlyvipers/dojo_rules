@@ -3,4 +3,4 @@ I use
 * Ruby
 * JavaScript
 * HTML & CSS
-* iOS or Electives.
+* Killing history using git rebase
