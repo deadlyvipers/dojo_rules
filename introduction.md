@@ -1,2 +1,8 @@
 Introduction
-I like: Ruby, JavaScript and Git paths.
+
+This is repo used during one of Code School courses.
+
+Deadly skillz:
+* Ruby
+* JavaScript
+* Git
