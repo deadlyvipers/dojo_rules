@@ -4,5 +4,6 @@ Hola, que tal?
 * php
 * symfony
 * vb
+* Killing history using git rebase
 
 
