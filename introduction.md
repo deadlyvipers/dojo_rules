@@ -3,3 +3,5 @@
 * C#
 * JavaScript
 * Ruby
+* C++
+* JAVA
