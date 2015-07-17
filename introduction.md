@@ -1,3 +1,8 @@
 Hola, que tal?
-JavaScript
+* JavaScript
+* Git
+* php
+* symfony
+* vb
+
 
