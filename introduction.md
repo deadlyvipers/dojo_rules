@@ -1,3 +1,3 @@
 Hello
 
-I most enjoy the git path.
+I most enjoy the Ruby path.
