@@ -7,6 +7,6 @@ Deadly Skills
 * CoffeeScript
 * HTML
 * CSS
-* Git
 * Rails
 * Backbonejs
+* Killing history using git rebase
