@@ -2,4 +2,6 @@ introduction Ryan
 
 Here are some changes.
 
-JavaScript
+* JavaScript
+* Git
+* Killing history using git rebase
