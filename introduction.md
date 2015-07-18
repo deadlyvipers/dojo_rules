@@ -2,4 +2,5 @@ introduction Ryan
 
 Here are some changes.
 
-JavaScript
+* JavaScript
+* Git
