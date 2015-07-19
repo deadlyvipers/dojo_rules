@@ -1,0 +1,4 @@
+*Ruby
+*Javascript
+*Git
+*rebase
