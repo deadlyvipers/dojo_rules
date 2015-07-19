@@ -1,1 +1,1 @@
-Hello, I am Meike Rudolph, working as BA/PM in Germany-FFM and doing some coding in my sparetime.
+Hello, I am Meru, working as BA/PM in Germany-FFM and doing some coding in my sparetime.
