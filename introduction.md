@@ -1,1 +1,1 @@
-hello all
+I liked the JavaScript courses
