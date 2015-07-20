@@ -7,3 +7,4 @@ the favourite course is html+css.
 *c
 *c++
 *sql
+*killing history using git rebase
