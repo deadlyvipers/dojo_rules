@@ -4,3 +4,4 @@ Hello, my name is Alan Jackson
 * Javascript
 * Git
 * .NET
+* Killing history using git rebase
