@@ -1,1 +1,2 @@
-Introducing Himal Shakya
+- Introducing Himal Shakya
+- JavaScript
