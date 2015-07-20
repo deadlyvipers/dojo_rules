@@ -1,2 +1,4 @@
 What up
-Ruby
+*Ruby
+*Javascript
+*Git
