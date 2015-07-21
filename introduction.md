@@ -1,1 +1,6 @@
-I liked the JavaScript courses
+My deadly skills:
+
+* JavaScript
+* Git
+* Angular
+* Nodejs
