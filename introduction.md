@@ -1,2 +1,1 @@
-JavaScript
-Bla bla bla.
+Git, JavaScript, html
