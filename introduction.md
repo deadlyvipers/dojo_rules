@@ -1,2 +1,4 @@
 - Introducing Himal Shakya
-- JavaScript
+* JavaScript
+* Ruby
+* Killing history using git rebase
