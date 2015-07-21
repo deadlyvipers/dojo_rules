@@ -1,1 +1,3 @@
-Git, JavaScript, html
+* Git
+* JavaScript
+* html
