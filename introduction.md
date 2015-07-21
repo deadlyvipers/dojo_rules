@@ -4,3 +4,4 @@ My deadly skills:
 * Git
 * Angular
 * Nodejs
+* Killing history using git rebase
