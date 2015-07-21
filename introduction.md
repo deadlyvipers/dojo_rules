@@ -1,1 +1,7 @@
-I liked the JavaScript courses
+My deadly skills:
+
+* JavaScript
+* Git
+* Angular
+* Nodejs
+* Killing history using git rebase
