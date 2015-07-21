@@ -1,3 +1,5 @@
 Hi Pablo Ifran 
-Ruby
-Killing history using git rebase
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
