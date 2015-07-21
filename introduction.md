@@ -1,2 +1,3 @@
 - Introducing Himal Shakya
-- JavaScript
+* JavaScript
+* Ruby
