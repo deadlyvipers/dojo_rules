@@ -4,3 +4,4 @@ Mi path favorito es el de JavaScript, excelente curso
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
