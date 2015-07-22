@@ -1,6 +1,7 @@
 Introduction
 ==========
 
-Miyagi...Mr Miyagi
-
-Fav Code School path = JavaScript
+Git
+JavaScript
+PHP
+MySQL
