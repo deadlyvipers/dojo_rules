@@ -1,6 +1,7 @@
 Introduction
 ==========
 
-Miyagi...Mr Miyagi
-
-Fav Code School path = JavaScript
+*Git
+*Javascript
+*PHP
+*Killing history using git rebase
