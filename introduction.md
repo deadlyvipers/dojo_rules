@@ -1,1 +1,1 @@
-i love Javascript on codeschool
+Killing history using git rebase
