@@ -1,7 +1,7 @@
 Introduction
 ==========
 
-Git
-JavaScript
-PHP
-MySQL
+*Git
+*JavaScript
+*PHP
+*MySQL
