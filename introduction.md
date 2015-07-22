@@ -7,5 +7,6 @@ I like turtles. And javascript.
 * Ruby
 * Killing history using git rebase
 * Eating korv
+* Killing history using git rebase
 
 öh?
