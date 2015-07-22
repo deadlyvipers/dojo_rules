@@ -1,1 +1,1 @@
-i love Javascript on codeschool
+*Git *HTML *CSS
