@@ -1,1 +1,1 @@
-Git, JavaScript, HTML & CSS,Electives
+* Git, JavaScript, HTML & CSS,Electives
