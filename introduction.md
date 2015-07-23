@@ -11,5 +11,5 @@ Aaaaaaand, my favorite CodeSchool Path is Javascript!
 * PHP
 * Javascript
 * Java
-* ...
+* Killing history using git rebase
 
