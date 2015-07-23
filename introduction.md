@@ -4,6 +4,6 @@
 
 **Im sensei, but** dont't know why...  
 
-**I like to own tha skills:**  
+**And its kind of coolness**
 
 *rebase*  
