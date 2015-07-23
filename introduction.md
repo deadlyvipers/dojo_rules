@@ -5,4 +5,4 @@ My preferred path at CodeSchool is the Javascript path
 * Git
 * Javascript
 * PHP
-
+* Killing history using git rebase
