@@ -8,4 +8,6 @@ Unformatted code
 
 Repeated code blocks
 
-Bad variable names=
+Bad variable names
+
+*this is some of my issue report=
