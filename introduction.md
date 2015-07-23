@@ -1,5 +1,6 @@
 * Git
 * JavaScript
+* Some
 * html
 * Something
 * Bla, bla, bla
