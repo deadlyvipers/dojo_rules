@@ -4,4 +4,4 @@ My favorite Code School Electives
 * Git
 * Javascript
 * Java
-* Python
+* Rebase
