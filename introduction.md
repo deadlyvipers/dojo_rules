@@ -1,1 +1,3 @@
-hello this is my introduciton. 
+hello this is my introduciton.
+
+My favorite codeschool path is CSS.
