@@ -10,3 +10,7 @@ deadly_skills of which include:
 what the fuck does the fucking vi piece of shit do
 
 rebase
+
+
+
+sometimes you get mac attacked bruhh
