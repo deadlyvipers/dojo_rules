@@ -2,4 +2,6 @@
 
 <!-- ay ayayay -->
 
-My favorite codeschool path is Rails for Zombies. 
+My favorite codeschool path is Rails for Zombies.
+
+CSS
