@@ -1,2 +1,4 @@
-My Data
-JavaScript
+*Killing history using git rebase
+*GIT
+*JavaScript
+*Java
