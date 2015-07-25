@@ -1,4 +1,3 @@
-Hello World!
-This is super repo!
-The best path in Code School is
-Javascript
+* Git
+* Angular.js
+* Killing history using git rebase
