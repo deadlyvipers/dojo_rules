@@ -6,3 +6,4 @@ My favorite path is JavaScript and HTML & CSS
 *JavaScript
 *PYTHON
 *Django
+*Killing history using git rebase
