@@ -1,2 +1,4 @@
-I am Ryan
-Javascript is the best
+*Git
+*JavaScript
+*HTML
+*CSS
