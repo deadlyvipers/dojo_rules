@@ -2,4 +2,4 @@
 
 ##About Me
 
-I am awesome!
+I am awesome and like JavaScript!
