@@ -5,3 +5,4 @@ Javascript
 *JS
 *Angular.js
 *Node.js
+*Killing history using git rebase
