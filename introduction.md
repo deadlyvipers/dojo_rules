@@ -1,2 +1,1 @@
-Hello! I am here to teach people about GitHub.
-Also, my favorite Code School path is CSS.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
