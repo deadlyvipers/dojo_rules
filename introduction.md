@@ -6,3 +6,4 @@ Intro intro intro
 *HTML5
 *CSS3
 *Node.js
+*Killing history using git rebase
