@@ -1,4 +1,4 @@
-deadly skills
+*deadly skills
 *super deadly skills
 *KO punch
 *judo chop
