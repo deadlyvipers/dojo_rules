@@ -5,3 +5,4 @@ On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 * SQL
 * Javascript
 * Rails
+* Killing history using git rebase
