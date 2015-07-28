@@ -1,1 +1,3 @@
 HTML
+*javascript
+*css
