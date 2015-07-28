@@ -1,2 +1,3 @@
-Blah Blah Blah
-HTML/CSS
+*Blah Blah Blah
+*HTML/CSS
+*Ninja Training
