@@ -1,5 +1,5 @@
 Hello! I am here to teach people about GitHub.
-Ruby
-Javascript
-HTML
-CSS
+*Ruby
+*Javascript
+*HTML
+*CSS
