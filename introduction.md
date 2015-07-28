@@ -1,1 +1,1 @@
-My name is Andrew
+My name is Andrew. My favorite Code School path so far is the JavaScript path.
