@@ -1,5 +1,5 @@
-my introduction: git
-IOS
-Killing history using git rebase
-
+my introduction: 
+* IOS
+* git
+* Killing history using git rebase
 
