@@ -1,1 +1,1 @@
-Hello, I am Scott.
+Hello, I am Scott. I love the Javascript path on Code School!
