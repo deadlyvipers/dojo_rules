@@ -6,6 +6,7 @@ Hope you also enjoy git !!
 * CSS
 * Git
 * Java
+* Killing history using git rebase
 
 See you later!
 
