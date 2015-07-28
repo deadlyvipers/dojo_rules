@@ -1,3 +1,4 @@
-my introduction: git
-IOS
+my introduction: 
+* IOS
+* git
 
