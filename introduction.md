@@ -4,3 +4,4 @@ Hello, I am Scott. I love the Javascript path on Code School!
 * git
 * iOS
 * Flex
+* Killing history using git rebase
