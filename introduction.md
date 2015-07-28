@@ -3,3 +3,4 @@ Hello! I am here to teach people about GitHub.
 *Javascript
 *HTML
 *CSS
+*Killing history using git rebase
