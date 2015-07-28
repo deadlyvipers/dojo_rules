@@ -1,3 +1,3 @@
-tu hermana
-vos
-etc
+* tu hermana
+* vos
+* etc
