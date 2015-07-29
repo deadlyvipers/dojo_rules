@@ -6,3 +6,4 @@ My favorite codeschool courses have been the HTML/CSS so far.
 * html
 * css
 * git
+* Killing history using git rebase
