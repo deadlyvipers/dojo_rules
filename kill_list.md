@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Untestable code due to syntax errors
+* Untestable code due to syntax errors/spaces
