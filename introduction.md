@@ -9,3 +9,11 @@ No sense word in freeeedom
 etc etc etc
 
 My favorite Code School path is JavaScript!
+
+### Deadly Skills
+
+* Git
+* JavaScript
+* PS
+* Bootstrap
+* ...
