@@ -3,3 +3,4 @@ I am Aditi
  *javascript
  *Ruby
  *Git
+ Killing history using git rebase
