@@ -1,2 +1,2 @@
 I am Aditi
- My Favourite codeschool path is http://gitreal.codeschool.com/levels/2
+ My Favourite codeschool path is https://www.codeschool.com/paths/javascript
