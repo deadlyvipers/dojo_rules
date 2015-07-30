@@ -16,4 +16,4 @@ My favorite Code School path is JavaScript!
 * JavaScript
 * PS
 * Bootstrap
-* ...
+* killing history using git rebase 
