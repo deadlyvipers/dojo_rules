@@ -1,5 +1,3 @@
-Dojo Rules
-==========
+*My Name is Parth.
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+*My Favourite Course is Git
