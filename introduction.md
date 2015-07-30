@@ -7,3 +7,4 @@ My deadly skills:
 * Racket
 * Standard ML
 * OCAML
+* Killing history using git rebase
