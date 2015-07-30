@@ -7,3 +7,5 @@ Some other boring text...
 No sense word in freeeedom
 
 etc etc etc
+
+My favorite Code School path is JavaScript!
