@@ -4,3 +4,4 @@
 https://www.codeschool.com/paths/javascript
 *Git
 *Ruby
+Killing history using git rebase
