@@ -3,5 +3,5 @@
 * https://www.codeschool.com/paths/javascript
 * Ruby
 * JavaScript
-
+* Killing history using git rebase
 
