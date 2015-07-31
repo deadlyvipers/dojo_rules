@@ -6,3 +6,4 @@ I like the Electives path!
 * Python
 * Visual Basic
 * SQL
+* Killing history using git rebase
