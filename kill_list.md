@@ -9,3 +9,5 @@ Kill List
 * Repeated code blocks
 
 * Bad variable names
+
+* Hardcoded values inside code preventing code reuse 
