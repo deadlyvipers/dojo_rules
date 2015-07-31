@@ -9,3 +9,5 @@ List of deadly skills:
 * Ruby
 
 * Git
+
+* rebase
