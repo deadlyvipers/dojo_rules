@@ -4,3 +4,5 @@ This is Arun.
 * JavaScript
 * Ruby
 * Killing history
+* Killing
+* rebase
