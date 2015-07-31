@@ -3,3 +3,4 @@ This is Arun.
 * Git
 * JavaScript
 * Ruby
+* Killing history
