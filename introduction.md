@@ -1,4 +1,4 @@
-This is Arun 
+This is Arun. 
 * JavaScript
 * Git
 * JavaScript
