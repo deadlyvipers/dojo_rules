@@ -1,1 +1,1 @@
-hello JS
+hello JavaScript
