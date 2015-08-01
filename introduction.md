@@ -10,3 +10,4 @@ My favorite path at Code School is Electives.
  * Git
  * JavaScript
  * Ruby
+ * Killing history using git rebase
