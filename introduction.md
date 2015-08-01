@@ -7,6 +7,6 @@ Create a new file called introduction.md introducing yourself to the dojo. Make 
 My favorite path at Code School is Electives.
 
 ##Deadly Skills
-- Git
-- JavaScript
-- Ruby
+ * Git
+ * JavaScript
+ * Ruby
