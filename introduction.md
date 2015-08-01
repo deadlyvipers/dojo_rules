@@ -1,2 +1,4 @@
 Hello!
 Electives
+* Foo
+* Bar
