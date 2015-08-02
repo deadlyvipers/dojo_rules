@@ -1,3 +1,3 @@
-* Git
+* Git Hub
 * JavaScript
 * Ruby
