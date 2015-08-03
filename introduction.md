@@ -1,3 +1,5 @@
 heir staat een introductie
 
-JavaScript
+*Git, 
+*JavaScript, 
+*Ruby
