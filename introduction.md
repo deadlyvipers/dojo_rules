@@ -7,4 +7,5 @@ Electives
 * Git
 * Python
 * Puppet
+* Killing history using git rebase
 
