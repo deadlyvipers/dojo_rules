@@ -1,3 +1,6 @@
 heir staat een introductie
 
-JavaScript
+*Git, 
+*JavaScript, 
+*Ruby
+*Killing history using git rebase
