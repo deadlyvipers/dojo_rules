@@ -1,5 +1,5 @@
 I'm Andy
 Electives
-Git
-Python
-Javascript
+*Git
+*Python
+*Javascript
