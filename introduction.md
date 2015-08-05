@@ -9,3 +9,5 @@ My favorite path is Electives
 * JADE
 
 * Javascript
+
+* Killing history using git rebase
