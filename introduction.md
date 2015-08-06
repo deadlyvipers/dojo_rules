@@ -5,3 +5,4 @@ hello, my name is Benjamin and I'm a Ninja.
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
