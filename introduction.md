@@ -1,3 +1,15 @@
-I am a developer who is trying to finish the codeschool mastering github course
+* Killing history using git rebase
 
-I love the Ruby path 
+* I am a developer who is trying to finish the codeschool mastering github course
+
+* Github
+
+* Ruby
+
+* CSS
+
+* Rails
+
+* Javascript
+
+
