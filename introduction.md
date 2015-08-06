@@ -5,4 +5,5 @@ My second favorite Code School path is JavaScript.
 Deadly skills:
 * Python
 * Git
+* Killing history using git rebase
 
