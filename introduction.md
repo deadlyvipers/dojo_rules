@@ -1,2 +1,2 @@
  please welcome Amine Trabelsi
-my favorite Code School path is Git Real 2
+my favorite Code School path is JavaScript
