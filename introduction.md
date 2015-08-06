@@ -5,3 +5,5 @@ Skills:
 * iOS
 * Swift
 * HTML/CSS
+* Killing history using git rebase
+
