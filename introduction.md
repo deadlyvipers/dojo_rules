@@ -1,2 +1,2 @@
 My name is Armin Kenel.
-My favourite Code School path is currently Git :-)!
+My favourite Code School path is currently JavaScript :-)!
