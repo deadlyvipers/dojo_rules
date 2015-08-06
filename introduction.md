@@ -3,3 +3,4 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 * 1
 * 2
 * 3
+* Killing history using git rebase
