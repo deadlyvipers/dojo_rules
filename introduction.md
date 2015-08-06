@@ -1,2 +1,3 @@
 My name is Vic
-My favorite CodeSchool path is Git.
+My favorite CodeSchool path is Git. Other than that is Electives.
+
