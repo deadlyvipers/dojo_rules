@@ -6,4 +6,5 @@ Hello - my name is Eric Lamy. I'm a developer and project manager in Newburyport
 *Node.js
 *Bootstrap.js
 *Angular.js
+*Killing history using git rebase
 *and more!
