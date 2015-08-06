@@ -6,3 +6,4 @@ Deadly skills:
 * Mathematica
 * JavaScript
 * R
+* Killing history using git rebase
