@@ -1,1 +1,4 @@
-https://www.codeschool.com/courses/javascript-best-practices
+* Git
+* Javascript
+* Ruby
+* Rebase
