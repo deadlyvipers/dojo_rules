@@ -1,1 +1,1 @@
-https://www.codeschool.com/courses/javascript-best-practices fdsadfa ds
+https://www.codeschool.com/courses/javascript-best-practices
