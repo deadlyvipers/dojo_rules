@@ -8,4 +8,4 @@ Notes
 ==========
  All members should read the rules
 
-[Initial repo] ("https://github.com/deadlyvipers").
+[Initial repo]("https://github.com/deadlyvipers").
