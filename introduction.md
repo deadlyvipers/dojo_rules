@@ -10,3 +10,4 @@ hi
 javascript
 *javia
 *html
+*git
