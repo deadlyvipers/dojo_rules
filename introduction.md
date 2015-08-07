@@ -3,3 +3,4 @@ Konnichiwa dojo, I am Mossman San. My favorite Code School path so far has been 
 *Python
 *HTML5
 *CSS3
+*Killing history using git rebase
