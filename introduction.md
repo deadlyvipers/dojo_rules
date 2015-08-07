@@ -3,4 +3,5 @@ My favourite path in CodeSchool is JavaScript.
 *GIT
 *C++
 *Verilog
+*Java
 *Killing history using git rebase
