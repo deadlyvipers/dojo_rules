@@ -1,2 +1,2 @@
 Hello my name is Sergei.
-My favorite path is Git.
+My favorite path is Ruby.
