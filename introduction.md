@@ -5,3 +5,4 @@ My skills so far contain
 * l33t Java insights
 * SQL tumbling
 * Mockingbird rodeo through all of the Unit tests
+* And as of shortly Killing history using git rebase
