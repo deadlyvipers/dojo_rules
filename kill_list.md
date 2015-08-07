@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Focus and planning, persistence
 * To much preparations
+* Not patient enough to carefully read specification
