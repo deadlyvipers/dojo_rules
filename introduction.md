@@ -4,6 +4,6 @@ and am looking forward to starting a new path. I am currently finishing
 the Git Path, but believe that the Javascript path will be my favorite!
 
 Here us a list of my deadly skill:
-JavaScript
-HTML
-CSS
+*JavaScript
+*HTML
+*CSS
