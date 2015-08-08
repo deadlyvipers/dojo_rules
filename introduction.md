@@ -7,3 +7,4 @@ Here us a list of my deadly skill:
 *JavaScript
 *HTML
 *CSS
+*Killing history using git rebase
