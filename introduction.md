@@ -6,4 +6,5 @@ Deadly Skills
 * GitHub
 * Leadership
 * JavaScript
+* Killing history using git rebase
 
