@@ -10,3 +10,4 @@ Javascript it is.
 * Amateur Cooking
 * Server Administration
 * Some web stuff
+* Killing history using git rebase
