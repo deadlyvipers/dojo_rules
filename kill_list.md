@@ -4,4 +4,6 @@ Kill List
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
-* Bad variable names
+* Bad variable namesi
+* Slow code
+* Old API calls
