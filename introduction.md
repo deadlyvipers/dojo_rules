@@ -7,4 +7,6 @@ deadly skills :
 * HTML & CSS
 * PHP
 * Git
+* Codeignite framework
+* Bootstrap framework
 
