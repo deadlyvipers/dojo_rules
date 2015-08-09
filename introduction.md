@@ -1,2 +1,4 @@
-Hello, I'm the Doctor.
-Electives
+* Ruby
+* Java
+* Brain fuck
+* Killing history using git rebase
