@@ -4,4 +4,5 @@ I looooove the elective path! git for instance is soo coool!
 *C#
 *Git
 *Regexepert
+*Killing history using git rebase
 etc...
