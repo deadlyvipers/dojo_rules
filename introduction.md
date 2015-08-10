@@ -1,2 +1,2 @@
 Jeg er meg
-Jeg liker Python
+Jeg liker javaScript
