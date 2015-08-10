@@ -1,0 +1,1 @@
+Introduction of EskoCruz to the Dojo
