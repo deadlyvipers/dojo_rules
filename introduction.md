@@ -1,4 +1,4 @@
 Name          : G.Muralidhar Reddy  
-DoB           : 14/03/1991
+DoB           : 09/10/1990
 Skills        : c,java,javascript,angularjs
 Qualification : B.Tech(ECE)
