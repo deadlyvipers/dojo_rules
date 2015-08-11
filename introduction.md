@@ -5,3 +5,5 @@ Deadly skills:
 *javascript
 *ruby
 *angular
+*Killing history using git rebase
+
