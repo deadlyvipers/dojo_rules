@@ -1,1 +1,1 @@
-It's me.
+It's me. JavaScript rules.
