@@ -5,4 +5,26 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Bad Promises
+* Bad Promises2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
