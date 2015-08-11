@@ -9,3 +9,4 @@ My favorite Code Scool path is JavaScript.
 * html
 * java
 * coffeescript
+* Killing history using git rebase
