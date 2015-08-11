@@ -1,1 +1,4 @@
-JavaScript
+* Git
+* JavaScript
+* PHP
+* WordPress
