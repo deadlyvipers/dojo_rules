@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *Javascript
 *React
 *RxJS
