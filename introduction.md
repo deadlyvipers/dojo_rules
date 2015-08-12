@@ -1,1 +1,9 @@
-hey up I'm Vince, loving some of that Javascript!
+*Javascript
+*React
+*RxJS
+*Html
+*Css
+*Sass
+*Ruby
+*Php
+*Killing history using git rebase
