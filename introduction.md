@@ -5,3 +5,4 @@ We got skills:
 * Gru
 * Kevin
 * Bob
+* Killing history using git rebase
