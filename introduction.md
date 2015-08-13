@@ -6,3 +6,4 @@ I like Ruby and Electives!
 * JavaScript
 * Ruby
 * R
+* Killing history using git rebase
