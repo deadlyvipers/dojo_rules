@@ -13,3 +13,4 @@ This is an introduction. Nothing more. Just following the instructions at Code S
 * Regular Expressions
 * Git
 * Grunt
+* Killing history using git rebase
