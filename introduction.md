@@ -5,3 +5,4 @@ I don't have a favorite path but I'll go with Ruby.
 * GitHub
 * VisualWorks Smalltalk
 * C#
+# Killing history using git rebase
