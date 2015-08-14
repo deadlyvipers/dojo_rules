@@ -1,2 +1,5 @@
 Hello world.
-My favorite code school path is the Ruby Path 
+* a
+* b
+* c
+* * Killing history using git rebase 
