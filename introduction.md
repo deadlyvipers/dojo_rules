@@ -1,4 +1,5 @@
 Hello world.
 * a
 * b
-* c 
+* c
+* * Killing history using git rebase 
