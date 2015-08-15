@@ -1,1 +1,1 @@
-Hello There. I like the Javascript path at CodeSchool.
+Hello There. I like the Javascript path at CodeSchool. rebase too
