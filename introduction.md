@@ -4,4 +4,5 @@ My favorite track in Code School is Ruby
 
 *Git
 *Ruby
-*Javascript 
+*Javascript
+*Killing history using git rebase 
