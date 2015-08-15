@@ -1,2 +1,5 @@
 introduction
-javascript
+* javascript
+* js
+* r
+* 
