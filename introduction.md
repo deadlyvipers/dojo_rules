@@ -5,4 +5,5 @@ Deadly Skills
 * C#
 * F#
 * JavaScript
+* Killing history using git rebase
 
