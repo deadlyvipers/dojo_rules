@@ -4,3 +4,5 @@ deadly skills (for example:
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
+
