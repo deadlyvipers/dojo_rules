@@ -1,0 +1,74 @@
+[33mcommit 0485421b5f0e6688652a53cb9d4f684606d35ddf[m
+Author: AlexanderBauer <mail@alexanderbauer.org>
+Date:   Tue Aug 18 00:11:13 2015 +0200
+
+    added bad coding practices
+
+[33mcommit 61fef70ed01accb61d78eceadebf2213098fc9aa[m
+Merge: 022ac13 73f81f9
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 15:56:43 2014 -0400
+
+    Merge pull request #3 from deadlyvipers/kill_list
+    
+    Initial kill list
+
+[33mcommit 73f81f9eac19e35681cfbd4278aafba63ec9b0b3[m
+Author: The Bride <beatrix@revenge.org>
+Date:   Mon Jun 2 15:57:42 2014 -0400
+
+    We dont need to kill Budd
+
+[33mcommit 0f85e7730ee4673d00f2c463975d4ddf42343e26[m
+Author: The Bride <beatrix@revenge.org>
+Date:   Mon Jun 2 15:30:29 2014 -0400
+
+    Initial kill list
+
+[33mcommit 022ac1311ed02f1b76a79a7256b9e9de37368e37[m
+Merge: df1d766 e42abab
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 15:09:16 2014 -0400
+
+    Merge pull request #2 from githubteacher/master
+    
+    Most Senseis should be respected
+
+[33mcommit e42abab7fb035c9b6e24c862eebcede158081660[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Mon Jun 2 15:08:46 2014 -0400
+
+    Most Senseis should be respected
+
+[33mcommit df1d76604f23b2fd60b0c4cc0e44f3f12454aedf[m
+Merge: 648a2df 133e901
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:12 2014 -0400
+
+    Merge pull request #1 from PeterBell/master
+    
+    Not every Sensei deserves to be respected
+
+[33mcommit 133e901455498c55d61551a3732590f234d661ed[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:47 2014 -0400
+
+    You should respect some Senseis
+
+[33mcommit a4b95d10b08820004335d1496de99ef037ad0663[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:01:11 2014 -0400
+
+    Not every Sensei deserves to be respected
+
+[33mcommit 648a2dfab4524d9202b283d17265e7bd1a243fa4[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:05:18 2014 -0400
+
+    Added README to the project
+
+[33mcommit 6913445a526fcbcaf6208e9f0179e6c4078d6396[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:03:57 2014 -0400
+
+    Initial dojo rules
