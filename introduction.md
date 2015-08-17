@@ -1,2 +1,2 @@
-Tothii is soft
-Ruby
+*Tothii is soft
+*Git
