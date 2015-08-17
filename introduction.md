@@ -10,3 +10,4 @@ Deadly skills:
 * Lua
 * Java
 * Bash
+* Killing history using git rebase
