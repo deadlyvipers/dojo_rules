@@ -1,2 +1,3 @@
 Hi, learning github!
-I do not know yet. Since I haven't taken any...
+Hmm, I do not know yet since git was the first one I finished.
+I let you know once I did all of them! 
