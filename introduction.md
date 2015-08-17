@@ -1,2 +1,3 @@
 Hi, learning github!
-iOS
+*iOS
+*git
