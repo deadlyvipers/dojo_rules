@@ -4,5 +4,4 @@ My name is Federico, my fav path is Ruby
 * Git
 * Ruby
 * PHP
-
- rUBY, php
+* Killing history using git rebase
