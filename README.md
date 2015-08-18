@@ -7,3 +7,5 @@ Reference:
 http://semver.org - Semantic Versioning
 
 All members should read the rules
+
+See [Deadly Vipers]{https://github.com/deadlyvipers}
