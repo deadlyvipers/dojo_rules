@@ -8,3 +8,4 @@ Kill List
 * Stay updated
 * Keep it readable
 * Keep it simple
+* Have fun
