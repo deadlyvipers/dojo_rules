@@ -1,0 +1,2 @@
+*Tothii is soft
+*Git
