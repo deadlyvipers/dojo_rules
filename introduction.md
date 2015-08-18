@@ -1,1 +1,1 @@
-My name is ryan
+My name is ryan and I like the electives
