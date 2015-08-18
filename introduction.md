@@ -5,3 +5,4 @@ My favourite Code School Path is JavaSCript.
 * HTML
 * CSS
 * Javascript
+* Killing history using git rebase
