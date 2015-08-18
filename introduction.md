@@ -5,4 +5,5 @@ My favorite path is Ruby
 *C#
 *Java
 *Ruby
+*C++
 Killing history using git rebase
