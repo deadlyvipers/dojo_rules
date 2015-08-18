@@ -1,4 +1,4 @@
-DOJO Rules
+Dojo Rules
 ==========
 * Always be on time
 * Always take off your shoes
@@ -6,5 +6,5 @@ DOJO Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-* Most be honest 
+* Most be honest
 * coffee
