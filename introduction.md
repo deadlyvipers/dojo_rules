@@ -1,4 +1,2 @@
-* Git
-* HTML
-* rubi
-* cpp
+## nuevo archivo de texto
+# HTML is best
