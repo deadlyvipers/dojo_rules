@@ -6,3 +6,4 @@ changes in the code with resepect to paths
 * JavaScript
 * Git
 * Ruby
+Killing history using git rebase
