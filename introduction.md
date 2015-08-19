@@ -3,4 +3,7 @@ Office : Vensi
 Id No. : 72
 https://www.codeschool.com/paths
 changes in the code with resepect to paths
-JavaScript
+* JavaScript
+* Git
+* Ruby
+Killing history using git rebase
