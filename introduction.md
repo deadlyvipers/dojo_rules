@@ -1,0 +1,3 @@
+*github master
+*ruby
+*git
