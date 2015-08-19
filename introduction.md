@@ -1,2 +1,3 @@
-github master
-ruby
+*github master
+*ruby
+*git
