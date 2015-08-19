@@ -1,3 +1,1 @@
-Name:Karthik
-Dob:12/09/1987
-JavaScript
+On my way to becoming a GitHub Master
