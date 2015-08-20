@@ -4,3 +4,4 @@ Deadly skills
 * JavaScript
 * NodeJS
 * Python
+* Killing history using git rebase
