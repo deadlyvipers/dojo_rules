@@ -1,5 +1,7 @@
 Kill List
 =========
+
+- Unused code
 var 5;
 
 function whatsthis() {
