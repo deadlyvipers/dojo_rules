@@ -1,6 +1,3 @@
 Hello my name is Ian Monroe.
-ksdjflksdjfklsdjflksjdflkjsdlfkjsldkfjlsdkjf
 
-
-
-My favorite path is Git Real 2.
+My favorite path is Ruby.
