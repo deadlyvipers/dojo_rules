@@ -6,3 +6,6 @@ My favorite path is Ruby.
 * Java
 * Android
 
+Killing list:
+* Sick beats
+
