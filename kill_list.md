@@ -2,11 +2,7 @@ Kill List
 =========
 
 - Unused code
-var 5;
-
-function whatsthis() {
-   if(you want = screw up)
-   console.log("do this");
-}
-
-var ye = substr("this, that") . 5
+- Functions with side effects
+- Unformatted code
+- Repeated code blocks
+- Bad variable names
