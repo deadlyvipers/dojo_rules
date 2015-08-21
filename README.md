@@ -1,5 +1,6 @@
-Dojo Rules [original project](https://github.com/deadlyvipers)
+Dojo Rules
 ==========
+[(originally developped by)](https://github.com/deadlyvipers)
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
