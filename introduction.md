@@ -1,1 +1,3 @@
-HTML & CSS
+Deadly skills:
+* HTML & CSS
+* Javascript
