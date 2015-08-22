@@ -1,0 +1,1 @@
+Introduction to dojo rule
