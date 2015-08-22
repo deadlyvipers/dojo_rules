@@ -1,0 +1,1 @@
+Hello, my name is Dean and I've come a long way from knowing nothing about software development to becoming nearly proficient to be deemed an entry level developer. I still need to round off the rough edges of my skills and hopefully by theend of the year I'll be good enough to product professional grade work.
