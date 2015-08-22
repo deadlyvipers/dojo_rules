@@ -14,3 +14,4 @@ Deadly Skills
 * Ruby
 * Python
 * Stink-eye stare
+* Killing history using git rebase
