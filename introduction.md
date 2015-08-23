@@ -6,3 +6,4 @@ list of your deadly skills :
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
