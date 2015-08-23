@@ -2,4 +2,5 @@
 Hello Sensei this is Eli
 * Git
 * JavaScript
-* Ruby
+* Rub
+* Killing history using git rebasey
