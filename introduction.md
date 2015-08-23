@@ -8,3 +8,5 @@ Deadly Skills
 * Java
 * Go
 * Perl
+* Killing history using git rebase
+
