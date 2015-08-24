@@ -1,0 +1,1 @@
+Everyone has a master.
