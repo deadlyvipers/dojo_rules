@@ -1,2 +1,3 @@
-Everyone has a master.
-Favourite path: Ruby
+* Git, 
+* JavaScript, 
+* Ruby
