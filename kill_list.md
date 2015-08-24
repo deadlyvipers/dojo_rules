@@ -1,6 +1,3 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+eol function (int i) {return 1};
