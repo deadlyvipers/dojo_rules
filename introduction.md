@@ -1,2 +1,4 @@
-Everyone has a master.
-Favourite path: Ruby
+Killing history using git rebase
+* Git, 
+* JavaScript, 
+* Ruby
