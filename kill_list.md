@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Inversion of control with only one implementation
-
+* Overuse of mocks in testing
