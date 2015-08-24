@@ -1,5 +1,1 @@
-Tom Buonopane
-Age: 25
-QA Engineer
-Wilmington, MA
-Favorite Code School Path: Git
+On my way to becoming a GitHub Master. I love Ruby and Javascript.
