@@ -8,3 +8,4 @@ Skills:
 * Vagrant
 * VMWare
 * VirtualBox
+* Killing history using git rebase
