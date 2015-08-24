@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Inversion of control with only one implementation
 * Overuse of mocks in testing
+* Error messages without enough data
