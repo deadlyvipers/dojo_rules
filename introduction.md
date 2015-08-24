@@ -6,7 +6,7 @@ Deadly Skills
 	* Git
 	* HTML/CSS
 	* Objective-C
-
+	* Javascript
 
 
 
