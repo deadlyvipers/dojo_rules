@@ -12,4 +12,4 @@ Javascript is the best
 * MongoDB
 * html
 * MVC
-*Killing history using git rebase
+* Killing history using git rebase
