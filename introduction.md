@@ -11,4 +11,5 @@ My deadly skills:
 * Perl (yep, Old School)
 * Python (not that deadly)
 * Ruby (more like a "hard stare.")
+* Killing history using git rebase
 
