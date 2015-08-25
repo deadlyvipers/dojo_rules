@@ -1,6 +1,4 @@
 All members should read the rules
+[deadlyvipers]("https://github.com/deadlyvipers")
 
-[github]("https://github.com/deadlyvipers")
-
-# this is github
 
