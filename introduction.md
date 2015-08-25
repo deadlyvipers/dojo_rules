@@ -1,1 +1,1 @@
-Hello, my favorite CodeSchool path is the Git path
+Hello, my favorite CodeSchool path is the JavaScript path
