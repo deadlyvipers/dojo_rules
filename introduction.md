@@ -1,2 +1,1 @@
-Hello
-My fav is Git
+Hello, my favorite CodeSchool path is the Git path
