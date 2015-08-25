@@ -2,4 +2,4 @@ Create a new file called introduction.md introducing yourself to the dojo. Make 
 *Git
 *JavaScript
 *Ruby
-*Super deadly skills
+*Killing history using git rebase
