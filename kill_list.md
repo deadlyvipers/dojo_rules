@@ -2,6 +2,6 @@ Kill List
 =========
 Unused code
 
-Functions with side effects
+F
 
 Bad variable names
