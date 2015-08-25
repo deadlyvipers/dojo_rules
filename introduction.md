@@ -1,4 +1,5 @@
 Dojo Rules
+JavaScript
 ==========
 * Always be on time
 * Always take off your shoes
