@@ -1,2 +1,3 @@
 "Some information"
 Ruby
+Git
