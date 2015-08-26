@@ -1,2 +1,4 @@
 Hello I am Randy
-Ruby
+* Git 
+* Javascript 
+* Ruby
