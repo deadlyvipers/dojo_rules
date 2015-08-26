@@ -1,9 +1,4 @@
-Name : G.Muralidhar Reddy	
-Office : Vensi
-Id No. : 72
-https://www.codeschool.com/paths
-changes in the code with resepect to paths
-* JavaScript
-* Git
-* Ruby
-Killing history using git rebase
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
