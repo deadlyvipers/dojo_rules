@@ -1,3 +1,3 @@
 "Some information"
-Ruby*
-Git*
+*Ruby
+*Git
