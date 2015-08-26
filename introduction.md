@@ -6,11 +6,8 @@ Deadly skills
 
 * Javascript
 * Git
-<<<<<<< HEAD
 * Python
 * Ruby
 * Killing history using git rebase
-=======
 * Ruby
 * Python
->>>>>>> deadly_skills
