@@ -1,2 +1,3 @@
-JavaScript
+* JavaScript
+* Git
 # test
