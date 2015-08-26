@@ -6,3 +6,4 @@ Introduction
 * my 
 * deadly
 * skills
+* Killing history using git rebase
