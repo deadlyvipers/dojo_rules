@@ -2,6 +2,12 @@ Hello, my name is Dean and I've come a long way from knowing nothing about softw
 
 So far on Code School, my favorite learning path is Git. I haven't come across a better video tutorial for git yet and I've scoured the Internet looking for one. It would be nice though to have the iOS track updated especially for the programming language Swift.
 
+Deadly Skills
+	* Git
+	* HTML/CSS
+	* Objective-C
+	* Javascript
+        * Killing history using git rebase
 
 
 
