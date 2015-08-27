@@ -1,2 +1,2 @@
-some random intro
-ruby on rails
+*some random intro
+*ruby on rails
