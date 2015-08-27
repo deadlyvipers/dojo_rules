@@ -6,3 +6,6 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Some Sensei's should be respected
+html
+i have aded another file
+
