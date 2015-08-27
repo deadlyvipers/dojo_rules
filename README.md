@@ -8,5 +8,3 @@ kill_list
 *All members should read the rules*
 
 [Visit GitHub!](https://github.com/deadlyvipers)
-
-August 27, 2005
