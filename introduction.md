@@ -1,3 +1,3 @@
 Hi this is Steve.
 
-I'm currently into the GIT track.
+My favorite Code School Path is JavaScript.
