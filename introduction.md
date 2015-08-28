@@ -7,4 +7,4 @@ Favorite Code School path is JavaScript.
 * JavaScript
 * Java
 * Shell
-
+* Killing history using git rebase
