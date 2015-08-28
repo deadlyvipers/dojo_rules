@@ -7,4 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * Testing the Code
-* Testing the another code
+* Test the another code
