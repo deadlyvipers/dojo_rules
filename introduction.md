@@ -1,1 +1,1 @@
-My name is nitsirk and I'm learning to code.
+My name is nitsirk and I'm learning to code.  My favorite Code School path is Ruby!
