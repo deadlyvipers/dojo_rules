@@ -5,3 +5,4 @@ I'm Luciano. I am a codeschool Ruby Master.
 *Javascript
 *Ruby
 *Python
+*Killing history using git rebase
