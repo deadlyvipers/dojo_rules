@@ -4,3 +4,5 @@ HTML & CSS
 
 *GIT
 *JavaScript
+
+Killing history using git rebase
