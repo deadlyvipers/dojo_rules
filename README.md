@@ -1,5 +1,5 @@
 Dojo Rules
 ==========
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+All members should read these rules.
+If you need more information regarding the history of dojo_rules see [deadlyvipers](https://github.com/deadlyvipers).
