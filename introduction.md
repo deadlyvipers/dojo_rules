@@ -1,1 +1,1 @@
-Hi, I'm a front-end devoper.
+Hi, I'm a front-end developer.
