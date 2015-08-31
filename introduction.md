@@ -6,3 +6,4 @@ I like the javascript path.
 * Node
 * Express
 * CSS
+* Killing history using rebase
