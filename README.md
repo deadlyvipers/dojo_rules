@@ -1,7 +1,7 @@
 Dojo Rules
 ==========
 
-All members houls read the rules.
+All members should read the rules.
 
 <a href="https://github.com/deadlyvipers">Deadlyvipers Organization</a>
 
