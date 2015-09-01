@@ -1,1 +1,1 @@
-Foo bar
+My favorite path is Git.
