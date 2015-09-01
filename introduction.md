@@ -5,3 +5,4 @@ the path I like the most on codeschool is JavaScript
 *css
 *javascript
 *php
+*killing history using git rebase
