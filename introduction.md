@@ -6,3 +6,7 @@ Meow
 
 # Code School Path 
 HTML & CSS
+
+# Deadly Skills
+* Git
+* JavaScript
