@@ -10,3 +10,4 @@ HTML & CSS
 # Deadly Skills
 * Git
 * JavaScript
+* rebase
