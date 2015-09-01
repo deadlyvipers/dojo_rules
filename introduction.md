@@ -6,6 +6,7 @@ My favorites are Ruby,Git
 * git
 * java
 * managing
+* Rebase
 
 Thank you. 
 
