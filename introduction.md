@@ -5,3 +5,4 @@ Deadly skills:
 * Git
 * Objective-C
 * Swift
+* Killing history using git rebase
