@@ -1,2 +1,7 @@
 Hi my name is Vic
-iOS
+Favorite path: iOS
+Deadly skills:
+* Git
+* JavaScript
+* Swift
+
