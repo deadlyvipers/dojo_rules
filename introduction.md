@@ -4,3 +4,4 @@ Skills
 *CSS
 *HTML
 *PHP
+*Killing history using git rebase
