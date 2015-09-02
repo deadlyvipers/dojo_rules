@@ -1,1 +1,2 @@
-"My name is David" 
+"My name is David"
+My favourite Code School path is JavaScript
