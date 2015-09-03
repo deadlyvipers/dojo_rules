@@ -9,3 +9,4 @@ My facourtie code school path so far is the Javascript Path.
 * Angular
 * NodeJS + ExpressJS
 * GIT
+* Killing history using git rebase
