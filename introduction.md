@@ -2,3 +2,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbb asdfibja sdkf asdjhl
 
 *Ruby
 *silence
+*Killing history using git rebase
