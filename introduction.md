@@ -1,2 +1,4 @@
 Testing.
 JavaScript
+*Git
+*Ruby
