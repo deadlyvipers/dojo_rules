@@ -1,0 +1,8 @@
+lkghjøaslksdjalksødjhkøjshasøldjksdaølkhja
+asdøkfjhsaødgjsdklæfjølsda
+
+dsakøfjsdløakhjslkøadfjalsøkdf
+
+sdøkfhjsdløkfjsadkløfjasdlø
+
+Ruby
