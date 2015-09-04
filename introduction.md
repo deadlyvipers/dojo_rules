@@ -6,3 +6,4 @@ lol
 * CSS
 * C
 * Python
+* Killing history using git rebase
