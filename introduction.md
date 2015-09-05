@@ -8,3 +8,4 @@ deadly_skills
 * Ruby
 * Rails
 * SQL
+* Killing history using git rebase
