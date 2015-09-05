@@ -1,0 +1,1 @@
+This is mike and I'm trying out git
