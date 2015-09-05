@@ -6,3 +6,4 @@ I like JavaScript on CodeSchool the most!
 *CSS
 *PHP
 *Apex
+*Killing history using git rebase
