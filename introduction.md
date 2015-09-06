@@ -1,0 +1,1 @@
+I'm currently completeing the codeschool course
