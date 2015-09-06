@@ -1,1 +1,1 @@
-I'm currently completeing the codeschool course
+I'm currently completeing the codeschool course. My favorite path is JavaScript
