@@ -5,4 +5,5 @@ deadly skills
 * Git
 * Ruby
 * html
+* css
 * ...
