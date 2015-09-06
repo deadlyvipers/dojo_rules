@@ -1,6 +1,7 @@
 This is an introduction
 mention JavaScript
 Deadly skills:
-*Git
-*JavaScript
-*Ruby
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
