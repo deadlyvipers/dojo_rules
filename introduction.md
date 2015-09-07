@@ -1,1 +1,5 @@
-Introduction to Javascript
+Introduction to Javascript:
+
+* Git
+* JavaScript
+* Node.js
