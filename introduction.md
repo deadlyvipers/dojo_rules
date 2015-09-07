@@ -1,1 +1,2 @@
-I am Peter
+I am Peter.
+I love angular.
