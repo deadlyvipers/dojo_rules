@@ -6,3 +6,4 @@ Skills
 * git
 * python
 * opensvc
+* Killing history using git rebase
