@@ -1,2 +1,2 @@
 my name is evgueni
-fav track is css
+fav track is JavaScript
