@@ -1,2 +1,6 @@
 introduction
 javascript
+
+
+*Ruby
+*Git
