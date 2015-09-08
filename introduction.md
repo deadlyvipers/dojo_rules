@@ -1,8 +1,6 @@
-Introduction
-==========
--* JavaScript
--* PHP
--* NodeJS
--* AngularJS
--* ReactJS
--* HTML5
+* JavaScript
+* PHP
+* NodeJS
+* AngularJS
+* ReactJS
+* HTML5
