@@ -11,3 +11,5 @@ Dojo Rules
 * Ruby On Rails
 * PHP
 * ASP
+* SQL Server
+* MySQL
