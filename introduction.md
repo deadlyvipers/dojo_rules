@@ -5,3 +5,4 @@ Deadly Skills:
 * javascript
 * GitHub
 * Application Design
+* Killing history using git rebase
