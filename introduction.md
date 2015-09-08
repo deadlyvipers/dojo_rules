@@ -4,3 +4,4 @@ favourite code school path : GIT
 Ruby
 * Ruby
 * Git
+* Killing history using git rebase
