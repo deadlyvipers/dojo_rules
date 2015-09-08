@@ -1,7 +1,7 @@
 Introduction
-JavaScript
-Git
-NodeJS
-PHP
-HTML5
-CSS3
+*JavaScript
+*Git
+*NodeJS
+*PHP
+*HTML5
+*CSS3
