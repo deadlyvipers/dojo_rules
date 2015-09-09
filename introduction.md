@@ -3,3 +3,4 @@ favorite codeschool path is JavaScript
 *Git
 *JavaScript
 *Ruby
+*rebase
