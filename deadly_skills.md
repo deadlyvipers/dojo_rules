@@ -1,3 +1,0 @@
-* Groovy
-* Git
-* JavaScript
