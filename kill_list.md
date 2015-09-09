@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Long functions
+* Messy Indentation and no semicolons
