@@ -8,3 +8,4 @@ my favorite code School path : JavaScript
 deadly skills:
 * Git
 * JavaScript
+* Killing history using git rebase
