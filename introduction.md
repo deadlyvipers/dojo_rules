@@ -5,4 +5,5 @@ Favorite path is JavaScript.
 Skills
 * JavaScript
 * Ruby
+* Killing history using git rebase
 
