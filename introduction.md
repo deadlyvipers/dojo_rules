@@ -1,1 +1,3 @@
-Hi.  This is an introduction of me. Fav course is Git.
+Hi.  This is an introduction of me.
+
+Favorite path is JavaScript.
