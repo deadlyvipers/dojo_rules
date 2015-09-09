@@ -10,3 +10,4 @@ Here is a list of my deadly skills:
 * C++
 * Ansi C
 * Python
+* Killing history using git rebase
