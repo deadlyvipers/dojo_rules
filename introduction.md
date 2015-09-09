@@ -7,4 +7,9 @@ sd
 a
 sd
 asdasdasdasd
-RUBY
+RUB
+*Y
+*RUBBY
+*JAVA
+*CSS
+*C++
