@@ -1,8 +1,8 @@
-var test;
-var TESTINGSTUFF = '';
-function testing() {
-    return true;
-for(var i=0;i<1000;i++){return i;}
-}
-
-dsfaisdhbfiasdbfbasdf
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
+* Long functions
