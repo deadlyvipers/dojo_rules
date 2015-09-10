@@ -1,2 +1,3 @@
 Mihai
-JavaScript
+*JavaScript
+Git, JavaScript, Ruby
