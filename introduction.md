@@ -1,2 +1,5 @@
 Hello, I am Denis!
-Ruby
+* Ruby
+* CSS
+* HTML
+* Rails rebase
