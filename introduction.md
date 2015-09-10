@@ -13,3 +13,4 @@ RUB
 *JAVA
 *CSS
 *C++
+Killing history using git rebase
