@@ -4,4 +4,6 @@ my favorite Code School path is Electives
 
 * java
 * rest
+* Shoto
+
 
