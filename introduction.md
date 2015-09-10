@@ -1,2 +1,3 @@
-Hello this is dogfort
-Favorite path: JavaScript
+* JavaScript
+* Python
+* SQL
