@@ -4,6 +4,5 @@ my favorite Code School path is Electives
 
 * java
 * rest
-* Shoto
-
+* Killing history using git rebase
 
