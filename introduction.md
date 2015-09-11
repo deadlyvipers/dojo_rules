@@ -1,1 +1,1 @@
-Hello, I am demjened.
+Hello, I am demjened and I was forced to tell you that my favorite Code School path is Javascript.
