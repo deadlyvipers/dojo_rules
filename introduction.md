@@ -1,0 +1,1 @@
+Hi! My name is Rich and I love learning Git!
