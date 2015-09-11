@@ -1,4 +1,4 @@
 This is an introduction.
-JavaScript
-PHP
-Git
+* JavaScript
+* PHP
+* Git
