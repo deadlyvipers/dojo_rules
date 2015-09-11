@@ -5,4 +5,5 @@ My favourite path is Ruby.
 * JavaScript
 * Ruby
 * Scopone scientifico
+* Killing history using git rebase
 
