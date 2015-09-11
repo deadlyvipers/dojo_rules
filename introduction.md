@@ -11,3 +11,4 @@ My favorite Codeschool path will probably be JavaScript
 * Cassandra
 * Vagrant
 * Docker
+* Killing history using git rebase
