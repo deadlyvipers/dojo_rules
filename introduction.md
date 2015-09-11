@@ -1,2 +1,5 @@
 This is an introduction.
-JavaScript
+* JavaScript
+* PHP
+* Git
+* Killing history using git rebase
