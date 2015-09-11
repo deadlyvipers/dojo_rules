@@ -9,7 +9,7 @@ My list of deadly skills are as follows:
 *GIT
 *Bootstrap
 *JQuery
-
+*Killing history using git rebase
 
 
 
