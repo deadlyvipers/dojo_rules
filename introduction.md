@@ -5,3 +5,4 @@ Introduction:
 * git
 * javascript
 * rails
+* Killing history using git rebase
