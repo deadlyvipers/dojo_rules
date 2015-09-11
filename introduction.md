@@ -4,3 +4,4 @@ Hi, my name is Marek ...
 * HTML
 * CSS
 * C#
+* Killing history using git rebase
