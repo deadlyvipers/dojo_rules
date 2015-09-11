@@ -1,4 +1,4 @@
-Java
-Git
-C#
-JavaScript
+* Java
+* Git
+* C#
+* JavaScript
