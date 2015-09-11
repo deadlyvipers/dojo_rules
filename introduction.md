@@ -1,3 +1,7 @@
 Hi, my name is Marek ...
 
-JavaScript
+* JavaScript
+* HTML
+* CSS
+* C#
+* Killing history using git rebase
