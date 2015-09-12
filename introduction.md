@@ -6,3 +6,4 @@ My favorite path on CodeSchool is iOS.
 *HTML
 *CSS
 *Git
+*Killing history using git rebase
