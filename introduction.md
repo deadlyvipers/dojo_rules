@@ -1,2 +1,2 @@
 Beata
-JavaScript,Ruby 
+My learning paths: JavaScript,Ruby 
