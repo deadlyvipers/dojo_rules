@@ -1,2 +1,3 @@
-blah blah
-JavaScript is my favourite
+* Git
+* jQuery
+* Ruby on Rails
