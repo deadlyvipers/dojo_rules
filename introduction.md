@@ -1,1 +1,2 @@
 Beata
+JavaScript,Ruby 
