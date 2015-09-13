@@ -6,4 +6,4 @@ Deadly Skills:
 * C++
 * Ruby
 * Git
-
+* Killing history using git rebase
