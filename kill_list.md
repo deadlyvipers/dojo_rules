@@ -6,4 +6,3 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Using generic approach for everything
-* Using SOAP for HTML5 apps
