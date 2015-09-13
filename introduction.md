@@ -1,2 +1,4 @@
-Hello I am a Ruby programmer
-
+* Git
+* Java
+* sajsas
+* ss
