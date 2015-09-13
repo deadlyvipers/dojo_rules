@@ -8,5 +8,7 @@ I have not reviewed all the courses yet but I remember I loved Ruby Rails 4 Zomb
 * HTML
 * CSS
 * PHP
+* Killing history using git rebase
+
 It's dangerous to go alone... May the (tri)force be with you!
 See you
