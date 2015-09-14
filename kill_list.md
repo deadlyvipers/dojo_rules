@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Bad commit messages
+* Commiting without fix the issue :(
