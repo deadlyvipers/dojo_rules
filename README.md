@@ -1,6 +1,6 @@
 Dojo Rules
 ==========
-All mermbers should read the rules.
+All members should read the rules.
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
