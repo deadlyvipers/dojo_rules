@@ -1,3 +1,5 @@
 Hello World
 
-iOS
+*iOS
+*Javascript
+*Killing history using git rebase
