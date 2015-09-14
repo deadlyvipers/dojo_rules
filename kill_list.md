@@ -5,4 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+<<<<<<< HEAD
 * Bad database design 
+=======
+* Bad database design
+>>>>>>> kill_list
