@@ -1,1 +1,4 @@
-hello Ruby, Javascript
+hello Ruby, 
+* Javascript
+* Ruby
+* Git
