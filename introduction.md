@@ -7,3 +7,4 @@ JavaScript is my friend
 *Angularjs
 *jQuery
 *Bootstrap
+Killing history using git rebase
