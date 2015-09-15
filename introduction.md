@@ -4,3 +4,4 @@ my favorite codeschool path for now is javascript
 * javascript
 * php
 * go lang
+* Killing history using git rebase
