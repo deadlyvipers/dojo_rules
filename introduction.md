@@ -5,3 +5,4 @@ Skills:
 * Ruby
 * CoffeeScript
 * Git
+* Killing history using git rebase
