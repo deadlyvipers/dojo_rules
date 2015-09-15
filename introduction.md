@@ -1,9 +1,9 @@
 My name is tacos just complete already!
 JavaScript is my friend
-Git
-JavaScript
-HTML
-CSS
-Angularjs
-jQuery
-Bootstrap
+*Git
+*JavaScript
+*HTML
+*CSS
+*Angularjs
+*jQuery
+*Bootstrap
