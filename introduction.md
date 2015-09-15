@@ -8,3 +8,4 @@ Deadly Skills:
 * Angular JS
 * ASP.net MVC
 * Play framework
+* Killing history using git rebase
