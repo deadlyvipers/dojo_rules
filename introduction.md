@@ -1,3 +1,3 @@
 zhiwei
-favorite Code School path: not exist
+favorite Code School path: Ruby
 
