@@ -10,3 +10,4 @@ JavaScript
 *something else
 *javascript
 
+Killing history using git rebase
