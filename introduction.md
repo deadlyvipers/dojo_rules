@@ -4,3 +4,4 @@ My deadly skills are:
 *Smoking
 *Drinking
 *Sex:)
+*Killing history using git rebase
