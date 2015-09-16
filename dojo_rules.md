@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 *bla bla
 *this is a test
+*sss
