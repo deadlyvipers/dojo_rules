@@ -1,1 +1,3 @@
-* Ruby, JS, Python
+* Ruby, JS, Pytho
+* Rebasing in git
+
