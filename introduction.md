@@ -1,2 +1,3 @@
-Hey there
-JavaScript
+*Git
+*JavaScript
+*Ruby
