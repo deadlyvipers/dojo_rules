@@ -6,5 +6,6 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Few Tests
-* No spagetti code
+* Spagetti code
 * Bad Interface
+* Big Classes
