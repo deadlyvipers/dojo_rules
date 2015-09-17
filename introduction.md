@@ -6,3 +6,4 @@ Javascript Path
 *css3 
 *bootstrap 
 *git
+*Killing history using git rebase
