@@ -1,2 +1,3 @@
 I am The Rick
-JavaScript
+* JavaScript
+* Killing history using git rebase
