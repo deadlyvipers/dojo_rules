@@ -3,3 +3,4 @@ My favorite path is JavaScript
 * PHP
 * JavaScript
 * eZ Publish
+* New changes
