@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Poor test coverage
+* Confusing tutorials
+* Other stuff
