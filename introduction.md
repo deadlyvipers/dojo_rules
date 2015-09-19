@@ -4,3 +4,4 @@ My deadly skills:
 * Rails
 * PHP
 * Cucumber
+* Killing history using git rebase
