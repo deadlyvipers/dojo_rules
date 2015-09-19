@@ -12,3 +12,4 @@ AngularJS courses.
 * Python
 * Node
 * Bash
+* Killing history using git rebase
