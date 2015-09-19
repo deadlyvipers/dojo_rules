@@ -1,1 +1,1 @@
-Here is my introduction!
+Here is my introduction! My fav code school path is [place holder].
