@@ -12,3 +12,8 @@ ajsg asjg
 ajg
 alsj 
 RUBY
+
+* ru
+* ba
+* ce
+* de
