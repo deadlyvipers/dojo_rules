@@ -10,3 +10,4 @@ On my way to becoming a GitHub Master. I love HTML and JavaScript.
 * jQuery
 * Python
 * DevTools
+* Killing history using git rebase
