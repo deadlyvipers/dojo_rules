@@ -1,1 +1,1 @@
-Hello world!
+Hello world! My favourite Code School path is Ruby.
