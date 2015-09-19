@@ -6,3 +6,4 @@ JavaScript is my favorite Code School path
 * JavaScript
 * Ruby
 * Another deadly skill!
+* Killing history using git rebase
