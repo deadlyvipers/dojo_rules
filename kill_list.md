@@ -6,3 +6,7 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * for-in loops
+<<<<<<< HEAD
+=======
+* forEach loops
+>>>>>>> kill_list
