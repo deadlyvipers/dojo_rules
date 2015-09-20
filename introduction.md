@@ -1,2 +1,2 @@
 Brian Warren
-JS has been a great CodeSchool path
+JavaScript is my favorite Code School path
