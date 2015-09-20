@@ -7,4 +7,4 @@ My favorite CodeSchool path has been the HTML/CSS, followed by the Javascript pa
 * Javascript
 * HTML5
 * CSS3
-
+* Killing history using git rebase
