@@ -1,1 +1,2 @@
-Hello my name is David Baker and this is my intro
+Hello my name is David and this is my intro.
+I am loving the javascript path.
