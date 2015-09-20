@@ -10,3 +10,4 @@ I enjoy the Code School Electives best of all.
 * Javascript
 * HTML + CSS
 * PHP
+* Killing history using git rebase
