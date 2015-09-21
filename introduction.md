@@ -1,4 +1,10 @@
 Introduction
 ============
 
-My name is... Joey Bonneville 
+My name is... Joey Bonneville
+
+Favorite Cose School paths thusfar
+==================================
+
+* Javascript
+* HTML/CSS 
