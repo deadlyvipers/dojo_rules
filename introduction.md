@@ -1,2 +1,3 @@
 ## this is the content
-# Javascript
+* Javascript
+* Rails
