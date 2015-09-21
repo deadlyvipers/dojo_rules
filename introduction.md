@@ -1,10 +1,4 @@
-Introduction
-============
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-My name is... Joey Bonneville
-
-Favorite Code School paths
-===========================
-
-* Javascript
-* HTML/CSS 
+* Ruby on Rails
+*Git
