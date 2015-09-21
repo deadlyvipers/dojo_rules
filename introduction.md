@@ -4,3 +4,4 @@ Supa skils are:
 *JS
 *NODE
 *MongoDB
+*Killing history using git rebase
