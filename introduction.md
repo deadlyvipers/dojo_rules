@@ -3,8 +3,8 @@ Introduction
 
 My name is... Joey Bonneville
 
-Favorite Cose School paths thusfar
-==================================
+Favorite Code School paths
+===========================
 
 * Javascript
 * HTML/CSS 
