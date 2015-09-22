@@ -5,4 +5,4 @@ My favorite Code School path is HTML
 Deadly skill
 ------------
 *GIT
->>>>>>> deadly_skills
+
