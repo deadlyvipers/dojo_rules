@@ -1,2 +1,6 @@
 Hello. This is nitchun.
 My favourite path in code school is HTML.
+*Java
+*HTML
+*CSS
+Killing history using git rebase
