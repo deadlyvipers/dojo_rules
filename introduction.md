@@ -1,6 +1,4 @@
-Hello Everyone , Myself Hardik Charadva ,Currently Working in Orbit Tech Code School path is HTML
+On my way love Ruby and JavaScript.
 
-Deadly skill
-------------
-*GIT
-
+* Ruby on Rails
+*Git
