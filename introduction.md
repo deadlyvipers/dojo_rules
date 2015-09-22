@@ -4,4 +4,4 @@ En PHP is ook wel cool
 *Git
 *JavaScript
 *Ruby
-
+*SQL
