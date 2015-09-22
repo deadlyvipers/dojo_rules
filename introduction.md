@@ -3,3 +3,8 @@ favorite Code School path:GitReal
 AND agin!!!
 
 Ruby, JavaScript, HTML & CSS, iOS and Electives
+
+My skills are:
+*Git
+*JavaScript
+
