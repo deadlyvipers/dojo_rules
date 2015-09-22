@@ -5,3 +5,4 @@ En PHP is ook wel cool
 *JavaScript
 *Ruby
 *SQL
+*Java
