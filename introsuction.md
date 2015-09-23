@@ -2,6 +2,7 @@ I started in the ruby world ,now I love Javascript.
 
 ## Deadly Skills
 
-*Ruby On Rails
+*Git
+*Ruby 
 *JavaScript
-*Node.js
+*Rebase
