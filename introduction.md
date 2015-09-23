@@ -5,5 +5,5 @@ My favourite path are ruby path and git path.
 * elixir
 * rebase
 
-# XDDDDDDD
+# I'm add in new_rules
 
