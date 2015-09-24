@@ -5,4 +5,4 @@ My Fav is
 *JavaScript
 *Css
 *AngularJs
-
+*Jquery
