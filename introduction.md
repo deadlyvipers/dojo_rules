@@ -4,3 +4,4 @@ My deadly skills:
 * JavaScript
 * HTML/CSS
 * Python
+* Killing history using git rebase
