@@ -4,4 +4,5 @@ My deadly skills:
 * JavaScript
 * HTML/CSS
 * Python
+* Breaking PRs by forcing pushes
 * Killing history using git rebase
