@@ -1,2 +1,3 @@
 My introduction
-Favorite School pats iš Rūbų ant JavaScript 
+
+Favorite School path is Ruby and JavaScript 
