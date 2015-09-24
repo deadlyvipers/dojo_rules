@@ -6,4 +6,6 @@ Deadly skills:
 * JavaScript
 * Node.js
 * Coloring with crayons
+* Killing history using git rebase
+
 
