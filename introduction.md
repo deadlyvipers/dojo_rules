@@ -1,3 +1,4 @@
 * On my way to becoming a GitHub Master
 * Ruby
-* Yes
+* HTML
+* CSS
