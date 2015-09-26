@@ -1,3 +1,3 @@
-1. Something
+* Something
 * Yes
 * No
