@@ -6,3 +6,4 @@ My favorite path is JavaScript.
 *CSS
 *SQL
 *GIS
+*Killing history using git rebase
