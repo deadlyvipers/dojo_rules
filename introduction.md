@@ -1,1 +1,4 @@
-Me Me ME ME ME YES
+Me Me Me Me
+* Ruby
+* HTML & CSS
+* JavaScript
