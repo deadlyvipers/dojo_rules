@@ -1,1 +1,2 @@
-favorite path = Javascript
+*CSS
+*javascript
