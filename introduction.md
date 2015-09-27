@@ -1,1 +1,1 @@
-Hello my name is Wilshawn.  I like Melissa.  My favorite code school path is HTML & CSS.
+Hello my name is Wilshawn.  I like Melissa.  My favorite code school path is HTML & CSS.  Killing history using git rebase
