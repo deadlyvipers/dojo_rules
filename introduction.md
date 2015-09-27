@@ -4,3 +4,4 @@ Hello my name is Wilshawn.  I like Melissa.  My favorite code school path is HTM
 *javascript
 *css
 *html
+*Killing history using git rebase
