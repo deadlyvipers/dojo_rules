@@ -3,3 +3,4 @@ My favorite path: Ruby
 * Ruby
 * Haskell
 * Swift
+* Killing history using git rebase
