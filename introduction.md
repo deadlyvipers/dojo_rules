@@ -11,4 +11,5 @@ My deadly skillz:
 * HTML, CSS
 * SQL
 * Git
+* Killing history using git rebase
 
