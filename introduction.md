@@ -3,3 +3,4 @@ JavaScript is the best!
 *JavaScript
 *PHP
 *SQL
+*Killing history using git rebase
