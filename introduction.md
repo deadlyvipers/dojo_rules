@@ -8,3 +8,4 @@ Favorite Code School Course: HTML & CSS
 *JQuery
 *JavaScript
 *C++
+*Killing history using git rebase
