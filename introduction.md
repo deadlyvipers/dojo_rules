@@ -4,3 +4,4 @@ So far, I liked Git and Elective path of code school and I'll definately try HTM
 * JavaScript
 * Ruby
 * Unix
+* Rebase
