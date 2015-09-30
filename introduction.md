@@ -1,1 +1,4 @@
-Welcome Ruby!
+Welcome!
+* Git
+* Javascript
+* Ruby
