@@ -6,3 +6,4 @@ HTML & CSS
 * GIT
 * SQL
 * ETC
+* rebase 
