@@ -4,3 +4,4 @@ Deadly Skills:
 *HTML
 *CSS
 *marketing
+*Killing history using git rebase
