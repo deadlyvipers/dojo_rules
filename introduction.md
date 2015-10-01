@@ -1,3 +1,5 @@
 Hey Dojo
 
-Javascript
+*Javascript
+* Git
+* Ruby
