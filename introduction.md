@@ -1,4 +1,6 @@
-Hey Dojo
+All members should read the rules
+
+(organisation)[https://github.com/deadlyvipers]
 
 *Javascript
 * Git
