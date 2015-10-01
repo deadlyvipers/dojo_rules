@@ -5,3 +5,4 @@ Deadly skills
 *Java
 *JavaScript
 *Gra
+*Killing history using git rebase
