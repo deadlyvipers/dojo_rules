@@ -3,3 +3,4 @@ I really like JavaScript Path
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
