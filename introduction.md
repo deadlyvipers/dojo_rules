@@ -1,1 +1,1 @@
-I'm the new disciple.
+I'm the new disciple and a JavaScript ninja.
