@@ -8,3 +8,4 @@ My favorite path is HTML & CSS
 *Maya
 *3DS Max
 *MaxScript
+*Killing history using git rebase
