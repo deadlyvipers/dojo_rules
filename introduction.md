@@ -1,1 +1,1 @@
-Hello im garrett. My favourite codeschool link is this one.
+Hello im garrett. My favourite codeschool path is this Ruby.
