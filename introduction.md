@@ -5,3 +5,4 @@ I also tried HTML, CSS and Electives. They're also good.
 On my way to becoming a Github master. I love Ruby and JavaScript
 * Ruby on Rails
 * Git
+* Rebase
