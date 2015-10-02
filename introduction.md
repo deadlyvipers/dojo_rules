@@ -4,3 +4,5 @@ hello, this is Jen.
 * Javascript
 * Node
 * Express
+* Ruby
+* Rails
