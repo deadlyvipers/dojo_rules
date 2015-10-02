@@ -6,3 +6,4 @@ Lisr of deadly skills:
 *Git
 *HTML/CSS
 *Ruby
+*Killing history using git rebase
