@@ -1,1 +1,2 @@
 hello
+Ruby is nice
