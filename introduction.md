@@ -11,3 +11,4 @@ I promise:
 * I will respect my opponents
 * I will respect most Sensei's I will encounter
 
+My favorite Code School path is Ruby.
