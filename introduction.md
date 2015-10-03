@@ -4,3 +4,4 @@ Ruby is nice
 *Java
 *Python
 *JavaScript
+*Killing history using git rebase
