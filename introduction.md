@@ -1,2 +1,3 @@
 Zonito
-JavaScript
+* JavaScript
+* Git
