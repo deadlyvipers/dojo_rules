@@ -1,1 +1,1 @@
-Customers and their bug reports 
+Customers and their bug reports and fix schedules
