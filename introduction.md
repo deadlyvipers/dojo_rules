@@ -1,3 +1,3 @@
 Zonito
 * JavaScript
-* Git
+* Git (I kill history using git rebase)
