@@ -2,4 +2,5 @@
 *Electives
 *R
 *VBA
+*Killing history using git rebase
 
