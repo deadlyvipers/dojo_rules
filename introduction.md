@@ -9,3 +9,4 @@ Favorite Code School path = HTML & CSS
 DEADLY SKILLS:
 * SQL,
 * Git
+* Killing history using git rebase
