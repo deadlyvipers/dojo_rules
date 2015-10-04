@@ -9,4 +9,3 @@ I've already done the following courses:
 	- Front-end Foundations;
 	- Try R;
 	- And of course, GIT REAL!
-
