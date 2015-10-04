@@ -1,1 +1,2 @@
 Kill! Kill!!
+*Killing history using git rebase
