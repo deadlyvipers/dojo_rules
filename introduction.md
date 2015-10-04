@@ -3,6 +3,7 @@ My name is Nicolas the Pretty Good, but you can call Nicolas the Pretty Good. I 
 Angular I and II were pretty good. The best disigned aethetically, coffescript and rspec, but the best UX was Regex. This one is pretty good thus far, very different. Ruby  
 
 
+
 Deadly Skills:
 
 *Ruby
@@ -13,3 +14,4 @@ Deadly Skills:
 *Sass
 *Git
 *Psychology
+*Killing history using git rebase
