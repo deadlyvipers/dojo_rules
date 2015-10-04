@@ -6,3 +6,4 @@ My favorite Code School path is JavaScript!
 * JavaScript
 * HTML
 * Rebase
+* Merge
