@@ -1,0 +1,10 @@
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
+
+Grievance:
+* Your pale ness makes people mistake you for a vampire
