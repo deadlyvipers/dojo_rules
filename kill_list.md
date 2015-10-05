@@ -6,3 +6,4 @@ Bad Coding Practices
 * Repeated code blocks
 * Bad variable names
 * Using function return values for exception handling
+* Low cohesion
