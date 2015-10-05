@@ -5,3 +5,4 @@ Bad Coding Practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Using function return values for exception handling
