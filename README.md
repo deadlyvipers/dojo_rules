@@ -7,4 +7,3 @@ All members should read the rules!!!
 
 To fight where **boldy** no human fought *before*
 
-[![Build Status](https://secure.travis-ci.org/rails/arel.svg?branch=master)](http://travis-ci.org/rails/arel)
