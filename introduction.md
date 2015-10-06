@@ -1,3 +1,10 @@
+deadly skills:
+* Git
+* JavaScript
+* Ruby
+* C++
+* Objective C
+
 Ruby Object Mapper (ROM) is a Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore. ROM is based on several concepts and decisions that differentiate it from your normal Ruby ORM:
 
 Provide minimum infrastructure to handle mapping and persistence
