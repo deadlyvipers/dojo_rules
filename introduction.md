@@ -4,4 +4,4 @@ I am from Indonesia :)
 
 Accept me as your student master </\>
 
-FYI i am learning Django recently
+FYI i am learning Python
