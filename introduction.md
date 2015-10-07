@@ -1,1 +1,1 @@
-Hi! My name is Victor.
+Hi! My name is Victor. My favorite Code School path is JavaScript.
