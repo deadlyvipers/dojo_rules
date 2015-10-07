@@ -3,4 +3,6 @@ Mastering GITHUB
 
 Dojo Rules @ Code School
 
-Lorem ipsum dolor
+Lorem ipsum dolor.
+
+My favorite Code School path is Electives
