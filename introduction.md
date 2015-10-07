@@ -1,2 +1,2 @@
 Hello, My name is Patryk.
-I love C/C++ and Java.
+I love Ruby and JavaScript.
