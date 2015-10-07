@@ -7,3 +7,4 @@ my favourite codeschool path is ruby.
 * Ruby
 * Clojure
 * Being Nice
+* Killing history using git rebase
