@@ -1,3 +1,5 @@
 #Derp
-Herp
-Ruby
+
+* Herp
+* Ruby
+* Killing history using git rebase
