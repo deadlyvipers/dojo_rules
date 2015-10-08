@@ -4,3 +4,4 @@ Hello Dojo.  My name is Joe and this is an introduction.  My favorite Code Schoo
 * Git
 * PHP
 * Jira
+* Killing history using git rebase
