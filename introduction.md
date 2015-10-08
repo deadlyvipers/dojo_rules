@@ -27,3 +27,4 @@ Favorite CodeSchool path: Html & CSS
 * Volumio
 * Vinyl
 * Writing
+* Killing history using git rebase
