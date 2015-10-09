@@ -1,5 +1,5 @@
-Dojo Rules
-==========
+Dojo Ruleds
+===========
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
+this repository contains a list of dojo rules for the Deadly Vipers Dojo
 
