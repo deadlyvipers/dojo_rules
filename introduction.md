@@ -1,1 +1,1 @@
-Hi! I am Ashok and am enjoying these sessions. My favorite Code School path is Ruby.
+Hi! I am Ashok and am enjoying these sessions. I love R.
