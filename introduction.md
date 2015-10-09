@@ -4,3 +4,4 @@ Hello, my name is Erik and my favorite Code School path is Javascript.
 * C#
 * Objective-C
 * Swift
+* Killing history using git rebase
