@@ -6,5 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Commits with no comments
-* Having to push twice
 
