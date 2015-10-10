@@ -10,3 +10,4 @@ Deadly skills:
 * Angular
 * Python
 * PHP
+* Killing history using git rebase
