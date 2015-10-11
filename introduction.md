@@ -6,3 +6,4 @@ A list of my deadlist skills:
 * JavaScript
 * GIT
 * Akka
+* Killing history using git rebase
