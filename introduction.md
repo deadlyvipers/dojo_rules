@@ -6,4 +6,17 @@ experience from this course. My favorite Code School Path is the JavaScript
 Path. I am a huband with an almost 2 year old daughter. I love the outdoors 
 and am a seasoned percussionist.
 
-Jeremy 
+Deadly Skills:
+* Git
+* Python
+* HTML/CSS
+* JavaScript
+* Bootstrap
+* PHP
+* SQL
+* Unix
+
+Jeremy
+
+
+
