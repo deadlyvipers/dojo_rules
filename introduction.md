@@ -7,4 +7,4 @@ My favorite path - JavaScript
 * Killing history using git rebase
 * 1
 * 2
-* 4
+* 3
