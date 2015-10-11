@@ -1,2 +1,1 @@
-I am joey
-Javascript
+JavaScript
