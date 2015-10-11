@@ -1,2 +1,2 @@
 Hello!
-My favorite course - Git Real!
+My favorite path - JavaScript
