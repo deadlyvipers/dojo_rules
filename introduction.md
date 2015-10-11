@@ -15,6 +15,7 @@ Deadly Skills:
 * PHP
 * SQL
 * Unix
+* Killing history using git rebase
 
 Jeremy
 
