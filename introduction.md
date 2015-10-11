@@ -12,3 +12,4 @@ Deadly Skill
 * Driving a Hummer
 * Chopping chicken for dinner
 * Cleaning the shower
+* Killing history using git rebase
