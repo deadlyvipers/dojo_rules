@@ -1,3 +1,3 @@
 #Hello Me
 This is my introduction
-I like HTML & CSS Course
+Code School path HTML & CSS
