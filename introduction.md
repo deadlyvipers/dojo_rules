@@ -1,1 +1,1 @@
-a-zuevich
+My username is a-zuevich. My favourite Code School path is Git
