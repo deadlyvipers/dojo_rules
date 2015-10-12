@@ -1,2 +1,1 @@
-My username is a-zuevich. 
-My favourite Code School path is Electives
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
