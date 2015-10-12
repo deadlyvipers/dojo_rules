@@ -1,1 +1,1 @@
-Hello I am ninja.
+Hello I am ninja. My favorite code school path is Ruby.
