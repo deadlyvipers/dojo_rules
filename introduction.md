@@ -1,2 +1,5 @@
-why you do dis
-path: Ruby
+*
+GIT
+Ruby
+css
+Killing history using git rebase
