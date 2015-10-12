@@ -1,2 +1,2 @@
 Hello, world.
-My favorite path - Git!
+My favorite path - JavaScript
