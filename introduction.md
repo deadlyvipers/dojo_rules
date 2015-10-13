@@ -1,2 +1,6 @@
-Hello, world.
-My favorite path - JavaScript
+Hello, world!
+Favorite path - JavaScript!
+
+* JavaScript
+* Git
+* C#
