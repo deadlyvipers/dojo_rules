@@ -3,3 +3,4 @@ My favorite path is JavaScript
 * Bill
 * Jane
 * Johny
+* Killing history using git rebase
