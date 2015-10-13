@@ -6,3 +6,4 @@ List of Deadly Skills
 * Scala
 * Git
 * Gradle
+* Killing history using git rebase
