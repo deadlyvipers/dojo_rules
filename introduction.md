@@ -13,3 +13,4 @@ My deadly skills are as follow:
 * Sass
 * Bootstrap
 * RWD
+* Killing history using git rebase
