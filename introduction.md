@@ -1,1 +1,2 @@
 Hello I am a new dojo initiate. Please teach me sensei. Domo arigato gozaimasu.
+My favorite code school path is git at the moment.
