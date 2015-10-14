@@ -8,3 +8,4 @@ My favorite codeschool course would be HTML&CSS.
 *SQL
 *Jquery
 *Angular
+*Killing history using git rebase
