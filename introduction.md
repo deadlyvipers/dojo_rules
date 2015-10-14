@@ -1,2 +1,2 @@
 # Introduction
-Hey! This is my introduction
+Hey! This is my introduction. I'm following the HTML & CSS path.
