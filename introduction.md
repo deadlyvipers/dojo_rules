@@ -1,1 +1,2 @@
-Hello, I'm Mike
+Hello, I'm Mike.
+My favourite CodeSchool path is JavaScript!
