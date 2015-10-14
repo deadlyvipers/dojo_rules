@@ -6,3 +6,5 @@ Deadly Skills
 * HTML
 * CSS
 * Bootstrap
+* Killing history using git rebase
+
