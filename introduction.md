@@ -2,3 +2,4 @@ hey I'm brandon. My favorite codeschool path so far is git. I would imagine that
 * git
 * JS
 * Ruby
+* Killing history using git rebase
