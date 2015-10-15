@@ -4,3 +4,4 @@ Hello I am ninja. My favorite code school path is Ruby.
 * JS
 * Ruby
 * Rails
+* Killing history using git rebase
