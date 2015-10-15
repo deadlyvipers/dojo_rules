@@ -5,4 +5,5 @@ I want to look at JavaScript. Since I dont know it yet.
 * git
 * svn
 * VS
+* rebase
 * ...
