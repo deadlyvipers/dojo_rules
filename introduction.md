@@ -1,2 +1,4 @@
 Hello! I'm Vladimir Morev
-JavaScript
+*JavaScript
+*Git
+*Ruby
