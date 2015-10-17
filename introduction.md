@@ -1,1 +1,1 @@
-I am a potato.
+I am a potato. Javascript is the best path
