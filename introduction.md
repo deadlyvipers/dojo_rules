@@ -1,2 +1,1 @@
-Hi I'm Marek
-My favourite Path is JavaScript Path
+Hi I'm Marek and my favourite Code School path is JavaScript.
