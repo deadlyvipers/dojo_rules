@@ -10,3 +10,4 @@ Deadly skills:
 *Flask
 *Regular Expressions
 *JSP
+*Killing history using git rebase
