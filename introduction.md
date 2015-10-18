@@ -6,3 +6,4 @@ My deadly skills include:
 * AngularJS
 * NodeJS
 * ExpressJS
+* Killing history using git rebase
