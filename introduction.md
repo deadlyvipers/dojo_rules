@@ -1,1 +1,1 @@
-The Enemy of my enemies is my ally
+I am a Javascript robot.
