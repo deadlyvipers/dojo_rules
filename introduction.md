@@ -1,0 +1,1 @@
+The Enemy of my enemies is my ally
