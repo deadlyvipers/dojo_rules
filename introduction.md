@@ -1,2 +1,4 @@
-Dojo Rules.
-JavaScript.
+Skills:
+* JavaScript
+* Html
+* Css
