@@ -1,1 +1,5 @@
-"On my way to becoming a GitHub Master.  I love Ruby and JavaScript." 
+*JavaScript
+*HTML
+*CSS3
+*jQuery
+*AngularJS
