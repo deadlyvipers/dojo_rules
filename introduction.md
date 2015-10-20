@@ -10,3 +10,5 @@ printf "on my way to becoming a GitHubMaster"
 *Fuzzy Clips
 *Verilog
 *Gentic Alg.
+Deadly Skills
+Killing history using git rebase
