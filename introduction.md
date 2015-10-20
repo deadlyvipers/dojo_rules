@@ -1,0 +1,7 @@
+Introduction
+Hi all!!!
+* Ruby
+* JavaScript
+* HTML & CSS
+* Git
+* Killing history using git rebase
