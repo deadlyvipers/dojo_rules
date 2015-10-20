@@ -1,5 +1,6 @@
 Introduction
 Hi all!!!
-Ruby
-JavaScript
-HTML & CSS
+* Ruby
+* JavaScript
+* HTML & CSS
+* Git
