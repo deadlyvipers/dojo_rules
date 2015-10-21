@@ -6,3 +6,5 @@ Deadly Skills
 * Git
 * Perl
 * Tcl
+* Killing history using git rebase
+
