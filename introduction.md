@@ -9,3 +9,4 @@ Blah blah blah Path blah blah Electives
 * JS
 * CSS
 * Falling down on people
+* Killing history using git rebase
