@@ -1,3 +1,3 @@
 This is an introduction
 
-I love CSS
+I love JavaScript
