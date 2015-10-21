@@ -5,3 +5,4 @@ Bad coding practice:
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Js animation
