@@ -1,2 +1,3 @@
 becoming a master
-+favorite code school path is html
+*Javascript
+8nothing
