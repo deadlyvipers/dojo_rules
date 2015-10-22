@@ -9,3 +9,4 @@ This is my introduction file to the Deadly Vipers Dojo! My name is Ben and I lik
 *Ruby
 *Visual Basic
 *Hummingbird Basic
+*Killing history using git rebase
