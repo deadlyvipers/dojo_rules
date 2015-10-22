@@ -1,3 +1,4 @@
 becoming a master
 *Javascript
-8nothing
+*nothing
+*"Killing history using git rebase"
