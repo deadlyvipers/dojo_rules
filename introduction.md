@@ -5,6 +5,5 @@ It is the only one I have tried so far though,
 I would really like a Python path :)
 
 Deadly Skills
-* Recurve bow shooting
-* Knife throwing
-* Falling down
+* rebase
+* what
