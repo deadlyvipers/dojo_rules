@@ -1,1 +1,1 @@
-Esta es mi introduccion y me gusta CSS de codeschool.
+Esta es mi introduccion
