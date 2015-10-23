@@ -7,4 +7,4 @@ Today I'm going to say that my favorite language is JavaScript.
 * JavaScript
 * Git
 * NodeJS
-
+* Killing history using git rebase
