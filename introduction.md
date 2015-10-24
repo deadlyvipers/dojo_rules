@@ -1,2 +1,2 @@
-Hello I'm Krzysiek :)
-my prefered path is Ruby
+* Hello I'm Krzysiek :)
+* my prefered path is Ruby
