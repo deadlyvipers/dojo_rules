@@ -1,1 +1,1 @@
-Hey, this is Chris!
+Hey, this is Chris! I am learning Ruby.
