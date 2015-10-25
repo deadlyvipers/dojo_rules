@@ -5,3 +5,5 @@ Skills:
 * Git
 * Ruby
 * Bash
+* Killing history using git rebase
+
