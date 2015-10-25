@@ -1,1 +1,1 @@
-Cyril Shcherbin
+Cyril Shcherbin JavaScript
