@@ -1,4 +1,5 @@
-Dojo, I am Elmer
+Dojo, I am Elmer.
+My favorite Code School path is Ruby.
 
 Hello!
 ---
