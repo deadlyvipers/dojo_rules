@@ -8,4 +8,5 @@ JavaScript is the best course, but Go would be better...
 * Rust
 * Python
 * R
+* Killing history using git rebase
 
