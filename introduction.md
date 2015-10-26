@@ -1,1 +1,1 @@
-Hello there! My favorite Code School path is Git.
+Hello there! My favorite Code School path is Electives.
