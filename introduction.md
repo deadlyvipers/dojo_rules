@@ -6,6 +6,7 @@ Deadly Skills
 * Ruby
 * Java
 * Apex
+* Killing history using git rebase
 
 Hello!
 ---
