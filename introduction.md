@@ -9,4 +9,5 @@ Kris works in kansas city somewhere. Javascript is my favorite right now.
 * javascript
 * angularjs
 * jquery
+* Killing history using git rebase
 * sql
