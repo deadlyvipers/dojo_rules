@@ -1,5 +1,5 @@
 Matt
-
-
-I'm mastering GitHub
-I like the Electives
+* Killing history using git rebase
+* Git
+* Java
+* Python
