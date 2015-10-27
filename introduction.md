@@ -1,6 +1,12 @@
 Dojo, I am Elmer.
 My favorite Code School path is Ruby.
 
+Deadly Skills
+* Git
+* Ruby
+* Java
+* Apex
+
 Hello!
 ---
 
