@@ -3,4 +3,6 @@ Favourite CodeSchool path: JavaScript
 
 --
 Deadly Skills:
-Git, JavaScript, PHP
+* Git
+* JavaScript
+* PHP
