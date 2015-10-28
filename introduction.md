@@ -1,1 +1,2 @@
-I am investment banker gone software architecht.
+I am investment banker gone software architect.
+Favourite CodeSchool path: JavaScript
