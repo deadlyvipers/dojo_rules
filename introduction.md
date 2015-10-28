@@ -8,3 +8,4 @@ Deadly skills:
 * Java
 * Jenkins
 * AWS
+* Killing history using git rebase
