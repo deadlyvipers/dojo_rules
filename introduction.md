@@ -7,3 +7,4 @@ Deadly Skill:
 * Javascript
 * Golang
 * C#
+* Killing history using git rebase
