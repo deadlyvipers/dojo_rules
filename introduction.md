@@ -8,3 +8,4 @@ Deadly Skill:
 * Golang
 * C#
 * Killing history using git rebase
+* Scala
