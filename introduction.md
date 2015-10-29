@@ -2,4 +2,7 @@ Introduction
 ==========
 * Hi, I'm Anthony
 * My favorite Code School path is JavaScript
-* deadly
+
+#Deadly Skills
+
+Killing history using git rebase
