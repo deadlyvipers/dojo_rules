@@ -4,4 +4,4 @@ My path is Ruby.
 * Ruby
 * Javascript
 * Elixir
-* Other stuff
+* Killing history using git rebase
