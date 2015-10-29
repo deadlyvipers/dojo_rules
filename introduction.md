@@ -4,3 +4,4 @@ INTRODUCTION
 *-Git!
 *-Javascript!
 *-Yahooo!
+*-Killing history using git rebase
