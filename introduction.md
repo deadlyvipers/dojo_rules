@@ -1,6 +1,6 @@
 INTRODUCTION
 ------------
-Ruby!
-Git!
-Javascript!
-Yahooo!
+*-Ruby!
+*-Git!
+*-Javascript!
+*-Yahooo!
