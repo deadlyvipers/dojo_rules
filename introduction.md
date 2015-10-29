@@ -1,3 +1,1 @@
-Introduction
-==========
-* Hello, I am Shirley
+On my way to becoming a GitHub Master
