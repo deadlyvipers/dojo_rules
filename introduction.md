@@ -1,5 +1,4 @@
-Hello my name is G
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-Pleased to be in the dojo
-
-JavaScript is my favorite code school path
+* Ruby on Rails
+*Git
