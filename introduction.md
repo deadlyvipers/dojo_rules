@@ -1,2 +1,2 @@
 Hello world.
-JavaScript
+JavaScript is my favorite.
