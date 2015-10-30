@@ -1,3 +1,3 @@
 # Introduction
 
-Hello, my name is Auriak :)
+Hello, my name is Auriak :) My fav CodeSchool path is Git, but I look forward to also checking out HTML/CSS, JavaScript, and eventually iOS!
