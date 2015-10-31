@@ -7,3 +7,4 @@ Favourite CodeSchool path: Ruby
 Deadly skills:
 * Ruby
 * Perl
+* Killing history using git rebase
