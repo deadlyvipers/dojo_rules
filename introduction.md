@@ -7,3 +7,4 @@ Deadly skills:
 * Python
 * ???
 * Profit
+* Killing history using git rebase
