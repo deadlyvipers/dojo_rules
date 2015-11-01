@@ -4,5 +4,5 @@ Kill List
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
-* Bad variable namesi
+* Bad variable names
 * Indenting with tab characters instead of spaces
