@@ -6,3 +6,4 @@ Deadly Skills:
 *Git
 *Ruby
 *MongoDB
+*Killing history using git rebase
