@@ -3,3 +3,4 @@ My path is iOS
 * Git
 * Python
 * Strategy
+* Killing history using git rebase
