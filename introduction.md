@@ -5,3 +5,4 @@ Deadly skilz
 ============
 * git
 * python
+* Killing history using git rebase
