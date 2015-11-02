@@ -1,2 +1,4 @@
 Add introduction...
-Javascript
+* Javascript
+* Python
+* Killing history using Git rebase
