@@ -1,1 +1,1 @@
-Hi I'm Patrick.
+Hi I'm Patrick. My favorite path is Electives.
