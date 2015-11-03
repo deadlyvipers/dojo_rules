@@ -4,3 +4,4 @@ Repo to follow along with Mastering Github course on Code School. Also, my favor
 * JavaScript
 * Cooking
 * Admin
+* Killing history using git rebase
