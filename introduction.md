@@ -1,5 +1,5 @@
 http://campus.codeschool.com/courses/mastering-github
-*Ruby
+Ruby
 *Git
 *Rails
 *python
