@@ -1,1 +1,1 @@
-hello my name is trevor
+http://campus.codeschool.com/courses/mastering-github
