@@ -1,2 +1,2 @@
 Hello, my name is Donny Hallman.
-My favorite Code School path is Javascript.
+My favorite Code School path is JavaScript.
