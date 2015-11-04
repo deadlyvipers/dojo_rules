@@ -1,1 +1,5 @@
-On my way to becoming a GitHub Master. My favorite code school path is Ruby.
+Deadly Skills
+=============================
+*Git
+*Ruby
+*Killing history using git rebase
