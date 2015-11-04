@@ -3,3 +3,4 @@ This repository was forked to follow along with Code School's Mastering GitHub c
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
