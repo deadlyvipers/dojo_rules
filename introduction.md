@@ -6,3 +6,4 @@ The following are my skills:
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
