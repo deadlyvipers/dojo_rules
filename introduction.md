@@ -1,2 +1,2 @@
-Hello! I am here to teach people about GitHub.
-@Ruby
+On my way to becoming a GitHub Master.
+
