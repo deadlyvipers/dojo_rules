@@ -8,4 +8,5 @@ Unmasking HTML Emails
 * JavaScript
 * Angular
 * VueJS
-* Git / SVN / Mercurial / Rebase
+* Git / SVN / Mercurial
+* Killing history using git rebase
