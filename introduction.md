@@ -1,3 +1,5 @@
 This is Michael Carper. This is a stupid activity and I'm about done with Mastering Github. I mean honestly, how long is this supposed to take?
 
+Hey team, thanks so much for the effort, questions and comments on our shiny new time entry process. It has been very helpful to get real time feedback as each of you are using the system for the first time. As with any large-scale integration, we are still ironing out all of the bumps which has impacted some individuals’ ability to enter time in a complete manner. This could result in some timesheets not being fully completed and submitted by the end of the day tomorrow.  Please don’t sweat this and know that we are working toward resolving these issues quickly.  As you run into specific issues, please let Katy Jenkins know and she’ll add these to our list.  
+
 Sincerely, Michael.
