@@ -7,3 +7,4 @@ Introduction Ciprian Nechita
 * favorite school path Ruby
 * ruby
 * git
+* Killing history using git rebase
