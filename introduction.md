@@ -4,3 +4,4 @@ Introduction Ciprian Nechita
 * architect
 * husband
 * parent
+* favorite school path Ruby
