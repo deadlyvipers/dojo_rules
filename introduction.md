@@ -8,4 +8,4 @@ Unmasking HTML Emails
 * JavaScript
 * Angular
 * VueJS
-* Git / SVN / Mercurial
+* Git / SVN / Mercurial / Rebase
