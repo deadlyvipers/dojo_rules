@@ -3,3 +3,4 @@ JavaScript
 *Javascript
 *C#
 *Git
+*Killing history using git rebase
