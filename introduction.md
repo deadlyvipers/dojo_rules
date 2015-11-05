@@ -5,3 +5,5 @@ Introduction Ciprian Nechita
 * husband
 * parent
 * favorite school path Ruby
+* ruby
+* git
