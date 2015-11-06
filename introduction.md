@@ -5,3 +5,4 @@ My deadly skills:
 * Git
 * Databases
 * Automation
+* Killing history using git rebase
