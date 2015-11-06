@@ -5,3 +5,5 @@ to ride bikes. Since I do like to ride bikes I would add one more rule to
 the dojo-rules.
 
 * No riding bicycles on the tatami.
+
+Favorite Code School path at this time is Electives.
