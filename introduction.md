@@ -7,3 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * My deadly skills are JavaScript
+* Killing history using git rebase
