@@ -1,3 +1,6 @@
 Hello, world!
-introduction
-JavaScript
+
+* Coffee drinking
+* Sleeping
+* Killing history using git rebase
+
