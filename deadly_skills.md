@@ -4,3 +4,4 @@
 - Karate chop.
 - Ningy chop.
 - Foot kick.
+- Elbow bangorang.
