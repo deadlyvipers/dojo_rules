@@ -1,0 +1,8 @@
+Hi!
+I'm Pav and I am loving this "Mastering Github" course!
+My favorite Code School paths are Database, Git and Electives.
+My deadly skills:
+* Git
+* Databases
+* Automation
+* Killing history using git rebase
