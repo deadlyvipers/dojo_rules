@@ -3,3 +3,4 @@
 - Judy chop.
 - Karate chop.
 - Ningy chop.
+- Foot kick.
