@@ -5,3 +5,5 @@ Bad coding practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Jerky pairing partners
+* Low unit test coverage
