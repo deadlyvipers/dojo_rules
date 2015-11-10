@@ -6,3 +6,5 @@ Hope to success
 * Java
 * C
 * Visual Basic
+* Pascal
+
