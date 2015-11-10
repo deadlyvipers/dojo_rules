@@ -1,1 +1,4 @@
-* This is a introduction
+# This is a introduction
+
+## Favorite Code School Path
+   * Javascript
