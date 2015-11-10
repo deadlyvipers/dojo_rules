@@ -1,3 +1,6 @@
-#Introduction
-Hello! My name is Paolo and I want to learn the secrets of Github.
-My favourite path is HTML & CSS
+* javascript
+* html
+* css
+* java
+* .net
+* Killing history using git rebase
