@@ -1,4 +1,7 @@
 Kill List
 =========
-Dont pee on a toster
-Dont throug shit on a van
+Unused code
+Functions with side effects
+Unformatted code
+Repeated code blocks
+Bad variable names
