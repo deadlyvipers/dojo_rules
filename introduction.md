@@ -11,3 +11,4 @@ my list of deadly skills:
 * Bootstrap
 * Grunt
 * Git
+* Killing history using git rebase
