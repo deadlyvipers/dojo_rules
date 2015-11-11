@@ -4,3 +4,4 @@ sodighsoidghiorgherigherghvmsbdfguoherouigheruioghregoiuhbrtgoierghoerigh
 electives
 *js
 *html
+*Killing history using git rebase
