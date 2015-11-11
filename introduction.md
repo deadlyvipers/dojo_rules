@@ -2,3 +2,6 @@ ssssssssssssssssssssssssssssgs;kjdfhgsdfjghsdljfghdlkfglhdfsklghdsfglk
 gjshdfgjfiklsdghsdfigjhdsfgodasfghuioifghaofighaeoirgoaenrtjeabrguoaergba
 sodighsoidghiorgherigherghvmsbdfguoherouigheruioghregoiuhbrtgoierghoerigh
 electives
+*js
+*html
+*Killing history using git rebase
