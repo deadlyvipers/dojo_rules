@@ -1,6 +1,4 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+Dont pee on a toster
+Dont throug shit on a van
