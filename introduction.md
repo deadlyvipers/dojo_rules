@@ -8,3 +8,4 @@ No prefered
 * Git 
 * JavaScript
 * Ruby
+* Killing history using git rebase
