@@ -13,5 +13,6 @@ I really loved the HTML & CSS and JavaScript paths from CodeSchool!
 *Oracle
 *MariaDB
 *PostGre
-*Git
+*Git AND GitHub
 *A lot of other stuff
+* Killing history using git rebase
