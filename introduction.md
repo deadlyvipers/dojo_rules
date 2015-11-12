@@ -8,3 +8,4 @@ My favorite course is Javascript, because science
 * crushing
 * dominating
 * git
+* Killing history using git rebase
