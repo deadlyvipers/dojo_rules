@@ -1,3 +1,3 @@
-GIT
+JavaScript
 
 introduction
