@@ -9,3 +9,4 @@ Deadly Skills:
 *Ruby
 *Java
 *Explosives
+*throwing knives?
