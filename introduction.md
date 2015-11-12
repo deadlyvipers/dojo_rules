@@ -1,4 +1,7 @@
-I am arunachalam
-I like JavaScript
-*Git
-*Java
+I am arunachalam and I like JavaScript.
+
+## Deadly Skills
+
+* Ruby on Rails
+* JavaScript
+* Node.js
