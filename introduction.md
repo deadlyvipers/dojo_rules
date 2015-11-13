@@ -9,3 +9,5 @@ Deadly Skills:
 *Ruby
 *Java
 *Explosives
+*throwing knives?
+*Killing history using git rebase
