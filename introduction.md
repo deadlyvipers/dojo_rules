@@ -1,1 +1,1 @@
-ECHO is on.
+"I love Javascript" 
