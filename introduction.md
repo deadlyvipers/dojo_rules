@@ -5,4 +5,5 @@ here is a list of my deadly skils:
 * Linux
 * C
 * C++
-* Java 
+* Java
+* Killing history using git rebase
