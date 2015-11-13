@@ -5,3 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Printing out emails to read, marking up the responces, and then typing up replies... seriously have witnessed this.
