@@ -1,2 +1,3 @@
-deadlyvipers/dojo_rules
-dojo_rules
++*Git
++*javascript
++*Killing history using git rebase
