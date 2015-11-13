@@ -2,3 +2,6 @@ Hello
 
 JavaScript
 
+*Git
+*Python
+
