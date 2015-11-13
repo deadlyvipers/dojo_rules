@@ -4,3 +4,4 @@ I love the Ruby courses
 * CSS
 * HTML5
 * Bootstrap
+* Killing history using git rebase
