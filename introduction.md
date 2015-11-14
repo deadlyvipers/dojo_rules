@@ -5,3 +5,4 @@
 * Deadly Skills
 - AngularJS
 - TypeScript
+- Killing history using git rebase
