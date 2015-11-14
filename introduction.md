@@ -1,2 +1,3 @@
-Ruby
-Greetings, my name is Jay.
+*Git
+*JavaScript
+*Ruby
