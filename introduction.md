@@ -1,2 +1,4 @@
-Ruby
-Greetings, my name is Jay.
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
