@@ -1,2 +1,2 @@
-Introduction - my favorite code school path is GitHub
+Ruby
 Greetings, my name is Jay.
