@@ -1,3 +1,6 @@
 Welcome Sempai
 
-Ruby
+* Ruby
+* Git
+* Coffeescript
+* Killing history using git rebase
