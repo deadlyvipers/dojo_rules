@@ -1,3 +1,5 @@
 Welcome Sempai
 
-Ruby
+* Ruby
+* Git
+* Coffeescript
