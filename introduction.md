@@ -3,3 +3,4 @@ My deadly skills are:
 * Java
 * Javascript
 * Linux
+* Killing history using git rebase
