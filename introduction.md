@@ -5,3 +5,4 @@
 - Pas de chemise, pas de chaussure
 - Le combat sure aussi longtemps qu'il doit durer
 - Si c'est votre premier soir au Fight Club, vous devez vous battre
+- Il est interdit d'utiliser Ruby lors d'un combat
