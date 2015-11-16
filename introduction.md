@@ -1,8 +1,4 @@
-- Il est interdit de parler du Fight Club
-- Il est interdit de parler du Fight Club
-- Si quelqu'un s'évanouit, le combat s'arrête
-- Seulement deux personnes par combat
-- Pas de chemise, pas de chaussure
-- Le combat sure aussi longtemps qu'il doit durer
-- Si c'est votre premier soir au Fight Club, vous devez vous battre
-- Il est interdit d'utiliser Ruby lors d'un combat
+Deadly Skills
+============
+* JavaScript
+* Git
