@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * long lines
 * hello
+* new new
