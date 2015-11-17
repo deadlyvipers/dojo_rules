@@ -1,2 +1,4 @@
-Hello world!
-HTML
+* HTML
+* JS
+* CSS
+* Killing history using git rebase
