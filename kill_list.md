@@ -6,6 +6,7 @@ Kill List
 * Repeated code blocks
 <<<<<<< HEAD
 * Bad variable names
+* Poor algorithm choices
 =======
 * Bad variable names
 >>>>>>> release_branch_1.0
