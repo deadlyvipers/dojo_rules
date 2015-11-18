@@ -4,3 +4,4 @@ JavaScript is the best!
 *Java
 *CSS
 *SASS
+*Killing history using git rebase
