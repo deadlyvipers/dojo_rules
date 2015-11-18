@@ -1,4 +1,1 @@
-Introducing...me!
-Favourite Codeschool path: Git  
-
-Electives
+Introducing Favourite Codeschool path: Ruby
