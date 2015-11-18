@@ -1,2 +1,2 @@
 
-My favorite course so far is GitReal - very cool!
+My favorite course so far is Git - very cool!
