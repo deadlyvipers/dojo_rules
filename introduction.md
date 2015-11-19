@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * Electives
 * aaa
+* Killing history using git rebase
