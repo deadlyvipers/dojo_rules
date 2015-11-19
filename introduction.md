@@ -7,3 +7,5 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 My favorite Code School path is Git, following by Ruby.
+git commit -am "Added deadly skills
+Killing history using git rebase
