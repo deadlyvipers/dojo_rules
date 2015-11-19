@@ -1,5 +1,10 @@
 Good marning starshine
 The earth says, "Hello"
+Deadly Skills
+* Javascript
+* Ruby
+* Rails
+* Python
 
 
 Note: 
