@@ -2,4 +2,4 @@
 
 I'm ezwiefel
 
-My favorite CodeSchool path is Git
+My favorite CodeSchool path is Electives
