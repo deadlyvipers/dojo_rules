@@ -1,1 +1,1 @@
-Derek Vincent
+Derek Vincent - JavaScript
