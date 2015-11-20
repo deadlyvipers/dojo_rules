@@ -1,5 +1,2 @@
-# Hello!
-
-I'm ezwiefel
-
-My favorite CodeSchool path is Electives
+# Hello! I'm ezwiefel
+My favorite Code School path is JavaScript.
