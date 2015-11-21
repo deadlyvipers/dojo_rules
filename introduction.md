@@ -1,2 +1,2 @@
 nw introduction to dojo
-favorite path: Git
+favorite path on codeschool: Git
