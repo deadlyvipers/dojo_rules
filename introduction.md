@@ -1,0 +1,2 @@
+Hi fellow CodeSchoolers
+JavaScript
