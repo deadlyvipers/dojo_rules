@@ -1,3 +1,4 @@
-I am King Cobra.
+I am King Cobra
 
-I like Ruby
+
+My favorite path is Ruby
