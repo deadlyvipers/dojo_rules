@@ -7,3 +7,4 @@ Deadly skills:
 * Git
 * JavaScript
 * CSS
+* SCSS
