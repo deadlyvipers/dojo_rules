@@ -6,3 +6,4 @@ Deadly skills:
 * Java
 * Git
 * JavaScript
+* CSS
