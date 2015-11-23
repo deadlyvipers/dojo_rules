@@ -4,3 +4,4 @@ uh, I need update skills here
 * one
 * two
 * three
+* Killing history using git rebase
