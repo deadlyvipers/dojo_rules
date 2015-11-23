@@ -1,5 +1,4 @@
-* Fire
-* Breathe
-* DeathRay
-* Tail
-* Wings
+Skills:
+* Git
+* JavaScript
+* Ruby
