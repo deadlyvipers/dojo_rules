@@ -1,1 +1,1 @@
-Just an introduction text. JavaScript
+Killing history using git rebase
