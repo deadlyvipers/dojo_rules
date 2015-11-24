@@ -1,1 +1,1 @@
-Just an introduction text. GIT
+Just an introduction text. JavaScript
