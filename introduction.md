@@ -1,1 +1,1 @@
-Just an introduction text
+Just an introduction text. GIT
