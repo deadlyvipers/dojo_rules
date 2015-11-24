@@ -1,1 +1,3 @@
-Just an introduction text. JavaScript
+*Javascript
+*Git
+*Ruby
