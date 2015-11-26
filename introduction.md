@@ -3,4 +3,4 @@ Hi codeschool my nick name is prashant.
 * It gives huge knowledge to the learner
 * favorite codeschool path is ruby, javaScript, HTML & CSS, iOS or Electives
 * deadly_skills: GitHub, javascript, jQuery, c#
-* I have to be a quick learner
+* My one of the deadly skill is "killing history using git rebase"
