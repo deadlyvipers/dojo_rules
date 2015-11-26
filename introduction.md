@@ -1,2 +1,5 @@
 my name is Risto
-Ruby
+
+* Ruby
+* Git
+* Killing history using git rebase
