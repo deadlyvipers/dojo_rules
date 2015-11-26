@@ -1,2 +1,3 @@
-HTML
-introduction testRrrrr
+*Git, 
+*JavaScript, 
+*Ruby
