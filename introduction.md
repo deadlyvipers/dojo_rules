@@ -1,2 +1,2 @@
 my name is Risto
-Ruby
+* Ruby
