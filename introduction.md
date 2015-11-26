@@ -5,3 +5,4 @@ My favorite Code School Path is the JavaScript one.
 *Node.js
 *Angular.js
 *Meteor.js
+*Killing history using git rebase
