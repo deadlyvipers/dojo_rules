@@ -5,3 +5,4 @@ My favorite course is Javascript
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
