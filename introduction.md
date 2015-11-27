@@ -4,3 +4,4 @@ My deadly skills are:
 * JavaScript
 * Python
 * HTML/CSS
+* New funcitonality: rebase
