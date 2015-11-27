@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub.
+My CodeSchool favorite path si JavaScript
