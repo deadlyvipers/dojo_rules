@@ -1,1 +1,2 @@
-Some introduction here
+Some introduction here.
+JavaScript
