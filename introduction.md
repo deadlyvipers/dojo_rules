@@ -3,3 +3,4 @@ My deadly skills are:
 * Git
 * JavaScript
 * Python
+* HTML/CSS
