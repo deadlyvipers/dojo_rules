@@ -1,2 +1,5 @@
 Some introduction here.
-JavaScript
+* JavaScript
+* Python
+* Bash
+* Killing history using git rebase
