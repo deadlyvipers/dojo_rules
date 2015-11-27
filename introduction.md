@@ -1,2 +1,4 @@
 Some introduction here.
-JavaScript
+* JavaScript
+* Python
+* Bash
