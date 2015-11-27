@@ -12,5 +12,3 @@
  * JavaScript
  * Git
  * JavaScript
- * Git
- * JavaScript
