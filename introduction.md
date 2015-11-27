@@ -1,1 +1,1 @@
-Hello, this is introduction of Sergey Shihov to complete the codeschool course.
+Hello, this is introduction of Sergey Shihov to complete the codeschool course. I like JavaScript actually!
