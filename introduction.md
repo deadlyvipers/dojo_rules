@@ -17,3 +17,5 @@ Ruby is my favorite
 * HBase
 * Ruby
 * JavaScript
+* Rebase
+* Killing history using git rebase
