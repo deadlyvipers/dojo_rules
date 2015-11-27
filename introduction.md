@@ -1,1 +1,1 @@
-introduction : Hello, my username is: rotcehcm
+Hello! I am here to teach people about GitHub.
