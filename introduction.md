@@ -7,3 +7,4 @@ My deadly skills are
 * Perl 5
 * git 
 * svn
+* Killing history using git rebase
