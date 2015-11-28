@@ -9,5 +9,4 @@ These are my (developing) deadly skills:
 * Git
 * Python
 * SQL
-* Bash
-
+* Killing history using git rebase
