@@ -1,1 +1,6 @@
-Let's try listing my favorite path as JavaScript and see if that works.
+My deadly skills
+* git
+* java
+* javascript
+* HTML
+
