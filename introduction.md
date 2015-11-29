@@ -1,1 +1,7 @@
-I am NaixSpirit, I favorite Code School path is Ruby.
+* Ruby
+* Git
+* Go
+* Python
+* Html
+* Css
+* Javascript
