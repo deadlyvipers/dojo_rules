@@ -1,4 +1,4 @@
 Introduction
 ============
-This is Jinesh.
+This is Jinesh. My favorite paths are Ruby, Git and Rails.
 
