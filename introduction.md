@@ -1,1 +1,1 @@
-intro
+My name is Marcin Sieka. I work for Hewlett-Packard as a Programmer. I am 32 years old. 
