@@ -7,6 +7,7 @@ To see the course, please refer to the link: [Mastering GitHub](https://www.code
 Deadly skills
 =====
 * Java
-*Git
-*iOS
+* Git
+* iOS
+* Killing history using git rebase
 
