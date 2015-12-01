@@ -7,3 +7,4 @@ Bad coding practices
 * Bad variable names
 * Unused imports
 * Duplicated code
+* Long method names
