@@ -1,5 +1,1 @@
-nitin vavdiya
-*******
-*Ruby
-*Git
-*Ruby
+* Git
