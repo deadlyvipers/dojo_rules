@@ -1,2 +1,1 @@
-nitin vavdiya
-Ruby
+* Git
