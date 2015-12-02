@@ -1,4 +1,4 @@
 nitin vavdiya
 Ruby
-Git
-Ruby
+*Git
+*Ruby
