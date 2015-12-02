@@ -1,4 +1,3 @@
 * Git
 * javascript
-
-* nitin
+* rebase 
