@@ -1,1 +1,4 @@
-javascript
+* javascript
+* dev ops
+* python
+* php
