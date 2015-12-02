@@ -1,3 +1,2 @@
-* Git
-* javascript
 * rebase 
+rebase 
