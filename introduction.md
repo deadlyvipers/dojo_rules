@@ -1,6 +1,10 @@
 Hi, I am matthias.
 My favorite code school path is JavaScript.
-aasdasdasd
-dasd
-asd
-sa
+
+My deadly skills are 
+* Ruby
+* Javascript
+* Perl 5
+* git 
+* svn
+* Killing history using git rebase
