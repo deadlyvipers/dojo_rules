@@ -5,4 +5,5 @@ dojo Rules
 * Keep the dojo tidy
 * Never bring live blades on the tatami
 * Respect your opponents
-* This is my new code commit
+* Most Sensei's should be respected
+* no coffee in the Dojo
