@@ -7,4 +7,5 @@ deadly skills:
     * MySql
     * Postgres
     * MongoDB
+    * Killing history using git rebase
 
