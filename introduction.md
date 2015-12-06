@@ -5,3 +5,4 @@ associated with Code School
 * JavaScript
 * HTML/CSS
 * Git
+* Killing history using git rebase
