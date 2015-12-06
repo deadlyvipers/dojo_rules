@@ -1,0 +1,17 @@
+{
+    "contents" : "Kill List\n=========\n* Unused code \n* Functions with side effects \n* Unformatted code \n* Repeated code blocks \n* Bad variable names\n",
+    "created" : 1449395711523.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1680931380",
+    "id" : "784C65D0",
+    "lastKnownWriteTime" : 1449396221,
+    "path" : "~/Data analysis/dojo_rules/kill_list.md",
+    "project_path" : "kill_list.md",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "markdown"
+}
