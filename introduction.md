@@ -1,1 +1,1 @@
-https://www.codeschool.com/paths/database
+https://www.codeschool.com/paths/Ruby
