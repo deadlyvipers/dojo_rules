@@ -1,1 +1,1 @@
-Introduction text
+Introduction text... My favorite Code School is JavaScript.
