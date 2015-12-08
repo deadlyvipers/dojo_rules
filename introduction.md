@@ -1,3 +1,5 @@
 Hola.
 
-My favourite path is IOS
+*Git
+*C++
+*Killing history using git rebase
