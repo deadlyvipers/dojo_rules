@@ -6,4 +6,5 @@ I like JavaScript path the best in Code School!
 * PHP
 * AngularJS
 
+* rebase
 * jQuery
