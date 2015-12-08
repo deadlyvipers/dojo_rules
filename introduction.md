@@ -1,4 +1,1 @@
-# Introduction to path
-
-My name is Mimi Sasouvanh and I am a writer at Microsoft. 
-My favorite code school path is Mastering GitHub.
+On my way ...I love JavaScript
