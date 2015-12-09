@@ -7,3 +7,4 @@ I like ruby
 * Java
 * HTML
 * GIT
+* Killing history using git rebase
