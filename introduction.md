@@ -6,3 +6,4 @@ My favorite code school path will most likely be the iOS one. I haven't started 
 
 *Swift
 *Ruby On Rails
+*Killing history using git rebase
