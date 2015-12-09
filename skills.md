@@ -1,1 +1,0 @@
-Silent as a clam
