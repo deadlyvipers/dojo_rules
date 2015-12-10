@@ -1,1 +1,1 @@
-Hello, I like the CSS trail.
+Hello, I like the HTML & CSS trail.

@@ -1,1 +1,1 @@
-Hello, I like the git trail.
+Hello, I like the CSS trail.
