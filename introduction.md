@@ -1,1 +1,6 @@
-'JavaScript' 
+* 'JavaScript'
+* 'Nodejs'
+* 'Angularjs'
+* 'Jquery'
+* 'Coffeescript'
+* 'Git'
