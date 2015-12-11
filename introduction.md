@@ -1,1 +1,3 @@
-JavaScript
+*JavaScript
+*Python
+*C/C++
