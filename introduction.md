@@ -1,3 +1,1 @@
-*JavaScript
-*Python
-*C/C++
+On my way to becoming a GitHub Master
