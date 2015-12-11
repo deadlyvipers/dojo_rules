@@ -1,3 +1,10 @@
 On my way to becoming a GitHub Master
-my favorite Cod hehehehehehee School path is Javascript
+my favorite Cod hehehehehehel;asd;lasdl;jasdasl;
+kasd asd as
+asd
+ asd
+ asd
+asd
+ asd 
+sdae School path is Javascript
 heheheheheheheh
