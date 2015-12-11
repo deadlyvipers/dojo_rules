@@ -1,3 +1,1 @@
-I am testing out forking for github codeschool
-
-My favorite Code School path is GitHub cause I want brownie points
+on with your favorite Code School path (Ruby, JavaScript, HTML & CSS, iOS or Electives)
