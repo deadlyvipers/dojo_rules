@@ -1,1 +1,1 @@
-https://www.codeschool.com/users/1631993
+My favorite codeschool path is https://www.codeschool.com/paths/javascript
