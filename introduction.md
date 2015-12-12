@@ -1,0 +1,2 @@
+hi, im rich.
+JavaScript
