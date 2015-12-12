@@ -1,2 +1,3 @@
 hi, im rich.
-JavaScript
+* JavaScript
+* Git
