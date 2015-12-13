@@ -3,4 +3,6 @@ Favorite Code School path is the Javascript.
 * Git 
 * Javascript
 * Ruby
+* Regex
+
 
