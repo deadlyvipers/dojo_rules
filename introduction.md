@@ -2,4 +2,7 @@
 
 Some introduction… kinda.
 
-My favorite path is JavaScript.
+* JavaScript
+* Git
+* Sushi
+* Killing history using git rebase
