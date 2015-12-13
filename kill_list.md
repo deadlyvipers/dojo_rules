@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Variable names not in english
+* Lack of attention (huh)
