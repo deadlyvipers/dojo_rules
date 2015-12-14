@@ -1,2 +1,3 @@
-Introduce to my fork
+Introduce to my fork.
+Favorites include JavaScript, HTML & CSS.
 
