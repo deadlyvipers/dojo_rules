@@ -4,3 +4,4 @@ My favorite codeschool path is Javascript.
 *Javascript
 *HTML/CSS
 *jQuery
+*Killing history using git rebase
