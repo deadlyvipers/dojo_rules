@@ -7,4 +7,4 @@ Oh and for the record the Code School JavaScript is currently my favorite path, 
 *smalltalk
 *CSS
 *HTML
-
+*Killing history using git rebase
