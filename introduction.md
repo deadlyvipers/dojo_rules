@@ -6,4 +6,4 @@ My favorite Code School Path is Electives
 * HTML/CSS
 * JavaScript
 * Git
-* Killing history using git rebase"
+* Killing history using git rebase
