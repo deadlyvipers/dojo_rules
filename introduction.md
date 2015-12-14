@@ -7,3 +7,4 @@ I enjoyed Jason Millhouse's work in code school's Javascript courses.
 *python
 *c
 *c++
+*Killing history using git rebase
