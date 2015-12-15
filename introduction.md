@@ -1,2 +1,4 @@
 Introduction
 JavaScript
+Git
+Ruby
