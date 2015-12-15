@@ -13,4 +13,5 @@ My deadly_skills are:
 * Github (in progress)
 * Java
 * PHP
-* Javascript + CSS + HTML 
+* Javascript + CSS + HTML
+* Killing history using Git rebase
