@@ -1,4 +1,4 @@
 Introduction
 JavaScript
-Git
-Ruby
+*Git
+*Ruby
