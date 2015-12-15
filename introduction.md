@@ -4,3 +4,4 @@ Bye!
 *js
 *ruby
 *git
+*Killing history using git rebase
