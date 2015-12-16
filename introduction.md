@@ -6,4 +6,5 @@ iOS
 Deadly skills
 * git
 * ios
+* Killing history using git rebase
 
