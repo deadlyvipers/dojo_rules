@@ -1,2 +1,2 @@
-This file is created for training purpose
+This file is created for training purpose. Code School helps to learn Ruby, JavaScript, HTML, ...
 asdsds
