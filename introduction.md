@@ -10,3 +10,4 @@ My CodeSchool favorite path si JavaScript
 *swift
 *elixir
 *go
+*Killing history using git rebase
