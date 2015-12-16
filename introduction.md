@@ -5,4 +5,5 @@ Favorite code school path: Electives!
 * Java
 * Android
 * HTML
-* Git 
+* Git
+* Killing history using git rebase
