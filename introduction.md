@@ -6,3 +6,7 @@ My CodeSchool favorite path si JavaScript
 *git
 *ruby
 *c#
+*obj-c
+*swift
+*elixir
+*go
