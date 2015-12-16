@@ -1,7 +1,7 @@
-Kill List
-=========
-The people to kill:
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+Bad coding practices
+====================
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
