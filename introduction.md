@@ -8,3 +8,4 @@ Time to list out some skills:
 * CSS
 * PHP
 * SQL
+* Killing history using git rebase
