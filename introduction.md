@@ -6,3 +6,4 @@ I'm a sexy beast
 *sex
 *sexonair
 *OHLOOK!
+*Killing history using git rebase
