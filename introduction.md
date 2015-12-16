@@ -2,4 +2,6 @@ Dojo Rules
 ==========
 
 I'm a sexy beast
-HTMLonIce
+*HTMLonIce
+*sex
+*sexonair
