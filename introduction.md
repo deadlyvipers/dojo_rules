@@ -7,4 +7,4 @@ My favorite path at Code School is Javascript :)
 *Git
 *Javascript
 *C#
-*Php
+*PhpLaravel
