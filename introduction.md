@@ -1,0 +1,12 @@
+Introduction
+============
+Hi I'm Jay!
+
+Favorite Code School Path
+=========================
+HTML
+
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
