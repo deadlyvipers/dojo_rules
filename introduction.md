@@ -1,1 +1,1 @@
-Hello! I am here to learn about GitHub. I prefer Java on codeschool. Although GITHUB is good!
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
