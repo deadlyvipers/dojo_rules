@@ -1,3 +1,3 @@
-These are my deadly skills
+* Skills 
 * Java
-* GIT
+* GI
