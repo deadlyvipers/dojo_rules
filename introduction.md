@@ -8,3 +8,4 @@ My favorite path at Code School is Javascript :)
 *Javascript
 *C#
 *PhpLaravel
+*Killing history using git rebase
