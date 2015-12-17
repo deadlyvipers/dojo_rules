@@ -1,2 +1,2 @@
 * Java
-* GIT
+* Killing history using git rebase
