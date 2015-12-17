@@ -1,0 +1,167 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#             127.0.0.1       localhost
+#             ::1             localhost
+192.168.100.85  www.mydeposits-scotland-stg.co.uk
+192.168.100.69  adminscreen.mydeposits.hfis.local
+192.168.100.69  disputes3staging.mydeposits.co.uk
+
+192.168.100.69  www.disputes3staging.mydeposits.co.uk
+
+192.198.100.69  disputes3fileservicestaging.mydeposits.co.uk
+
+
+
+192.168.100.69  disputesfileservicestaging.mydeposits.co.uk
+
+192.168.100.69  www.disputesfileservicestaging.mydeposits.co.uk
+
+192.168.100.69  disputesstaging.mydeposits.co.uk
+
+192.168.100.85  mydeposits-scotland-stg.co.uk
+
+192.168.100.85  disputesscotland-stg.mydeposits.co.uk
+
+192.168.100.85  disputestest-stg.mydeposits.co.uk
+
+192.168.100.85  www.mydeposits-scotland-livestg.co.uk
+192.168.100.85 securestaging7.mydeposits.co.uk
+192.168.100.85 postcodestaging7.mydeposits.co.uk
+192.168.100.85 securepaystaging7.mydeposits.co.uk
+192.168.100.85 importstaging7.secure.mydeposits.co.uk
+192.168.100.85 secure2staging7.mydeposits.co.uk # xmlupload for England and wales
+192.168.100.85 adminstaging7.mydeposits.co.uk
+# 192.168.100.85 nlawebservicestaging7.mydeposits.co.uk
+192.168.100.85 disputesstaging7.mydeposits.co.uk
+192.168.100.85 lookupstaging7.mydeposits.co.uk
+192.168.100.85 memberlookupstaging7.mydeposits.co.uk
+192.168.100.85 postcodesnearmestaging7.mydeposits.co.uk
+192.168.100.85 validatorportalstaging7.mydeposits.co.uk
+
+192.168.100.68 reportsstaging7.mydeposits.co.uk
+192.168.100.68 rptstaging7.mydeposits.co.uk
+192.168.100.83  dev.crm.custodial.mydepositsni.co.uk
+192.168.100.83  dev.disputes.custodial.mydepositsni.co.uk
+192.168.100.83  dev.secure.custodial.mydepositsni.co.uk
+192.168.100.83  dev.disputesfileservice.custodial.mydepositsni.co.uk
+192.168.100.83  dev.disputesmembersservice.custodial.mydepositsni.co.uk
+192.168.100.83  dev.crmadrservice.custodial.mydepositsni.co.uk
+192.168.100.83  dev.stxpay.custodial.mydepositsni.co.uk
+
+192.168.100.83  dev.disputes.insurance.mydepositsni.co.uk
+192.168.100.83  dev.disputesfileservice.insurance.mydepositsni.co.uk
+192.168.100.83  dev.admin.insurance.mydepositsni.co.uk
+192.168.100.83  dev.lookup.insurance.mydepositsni.co.uk
+192.168.100.83  dev.memberlookup.insurance.mydepositsni.co.uk
+192.168.100.83  dev.secure.insurance.mydepositsni.co.uk
+192.168.100.83  dev.secure2.insurance.mydepositsni.co.uk
+192.168.100.83  dev.stxpay.insurance.mydepositsni.co.uk
+192.168.100.83  dev.import.secure.insurance.mydepositsni.co.uk
+
+
+192.168.100.85  stg.disputes.insurance.mydepositsni.co.uk
+192.168.100.85  stg.disputesfileservice.insurance.mydepositsni.co.uk
+192.168.100.85  stg.admin.insurance.mydepositsni.co.uk
+192.168.100.85  stg.lookup.insurance.mydepositsni.co.uk
+192.168.100.85  stg.memberlookup.insurance.mydepositsni.co.uk
+192.168.100.85  stg.secure.insurance.mydepositsni.co.uk
+192.168.100.85  stg.secure2.insurance.mydepositsni.co.uk
+192.168.100.85  stg.stxpay.insurance.mydepositsni.co.uk
+192.168.100.85  stg.import.secure.insurance.mydepositsni.co.uk
+192.168.100.85  xmlUpload.mydepositsscotland-stg.co.uk
+192.168.100.85  mydeposits-scotland-livestg.co.uk
+192.168.100.85  www.mydeposits-scotland-livestg.co.uk
+192.168.100.85 	xmlupload.mydepositsscotland.co.uk
+82.71.157.20    hidsec.mydeposits.co.uk
+#82.71.157.18    validatorportalstaging7.mydeposits.co.uk
+82.71.157.18 nlawebservicestaging7.mydeposits.co.uk
+
+
+
+#  NI Test Custodial
+192.168.100.78	test.crm.custodial.mydepositsni.co.uk
+192.168.100.78	test.stxpay.custodial.mydepositsni.co.uk
+
+#  NI PreLive Custodial
+192.168.100.78	prelive.crm.custodial.mydepositsni.co.uk
+192.168.100.78	prelive.stxpay.custodial.mydepositsni.co.uk
+
+#  NI Staging Custodial - CUS Work
+192.168.100.108	cus.crm.custodial.mydepositsni.co.uk
+192.168.100.108	cus.stxpay.custodial.mydepositsni.co.uk
+
+#  NI Staging Custodial
+192.168.100.108	stg.crm.custodial.mydepositsni.co.uk
+192.168.100.108	stg.stxpay.custodial.mydepositsni.co.uk
+
+# Scotland Staging CRM - CUS work
+192.168.100.108 cus.adrws.mydepositsscotland.co.uk
+192.168.100.108 cus.crm.mydepositsscotland.co.uk
+192.168.100.108 cus.crmws.mydepositsscotland.co.uk
+192.168.100.108 cus.disputes.mydepositsscotland.co.uk
+192.168.100.108 cus.disputesfileservice.mydepositsscotland.co.uk
+192.168.100.108 cus.payment.mydepositsscotland.co.uk
+192.168.100.108 cus.xmlupload.mydepositsscotland.co.uk
+
+
+# Scotland Staging CRM - new server
+192.168.100.108 stg.adrws.mydepositsscotland.co.uk
+192.168.100.108 stg.crm.mydepositsscotland.co.uk
+192.168.100.108 stg.crmws.mydepositsscotland.co.uk
+192.168.100.108 stg.disputes.mydepositsscotland.co.uk
+192.168.100.108 stg.disputesfileservice.mydepositsscotland.co.uk
+192.168.100.108 stg.payment.mydepositsscotland.co.uk
+192.168.100.108 stg.xmlupload.mydepositsscotland.co.uk
+
+# Scotland Test CRM - new server
+192.168.100.78 test.adrws.mydepositsscotland.co.uk
+192.168.100.78 test.crm.mydepositsscotland.co.uk
+192.168.100.78 test.crmws.mydepositsscotland.co.uk
+192.168.100.78 test.disputes.mydepositsscotland.co.uk
+192.168.100.78 test.disputesfileservice.mydepositsscotland.co.uk
+192.168.100.78 test.payment.mydepositsscotland.co.uk
+192.168.100.78 test.xmlupload.mydepositsscotland.co.uk
+
+# Scotland PreLive CRM - new server
+192.168.100.78 prelive.adrws.mydepositsscotland.co.uk
+192.168.100.78 prelive.crm.mydepositsscotland.co.uk
+192.168.100.78 prelive.crmws.mydepositsscotland.co.uk
+192.168.100.78 prelive.disputes.mydepositsscotland.co.uk
+192.168.100.78 prelive.disputesfileservice.mydepositsscotland.co.uk
+192.168.100.78 prelive.payment.mydepositsscotland.co.uk
+192.168.100.78 prelive.xmlupload.mydepositsscotland.co.uk
+
+
+# The PRS
+192.168.100.108 stg.theprs.co.uk
+192.168.100.11	isis
+
+
+# Jersey Staging CRM
+192.168.100.108 stg.crm.mydepositsjersey.je
+192.168.100.108 stg.stxpay.mydepositsjersey.je
+192.168.100.108 stg.lookup.mydepositsjersey.je     
+
+# Jersey Staging CRM
+192.168.100.78 prelive.crm.mydepositsjersey.je
+192.168.100.78 prelive.stxpay.mydepositsjersey.je
+192.168.100.78 prelive.lookup.mydepositsjersey.je  
+
+
