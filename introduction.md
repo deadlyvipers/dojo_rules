@@ -6,6 +6,7 @@ Deadly skills include:
 * MySQL
 * JavaScript
 * PHP
+* Killing history using git rebase
 
 Cheers,
 Luke
