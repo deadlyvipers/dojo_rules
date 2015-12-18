@@ -10,3 +10,4 @@ My deadly skills are:
 * PHP
 * git
 * prayer
+* Killing history using git rebase
