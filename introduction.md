@@ -1,0 +1,12 @@
+I am your father. -- Darth Vader
+No !!!!! -- Luke Skywalker
+
+Ruby is good.
+
+* Git
+* JavaScript
+* Ruby
+* HTML/CSS
+* Python
+* Killing history using git rebase
+ 
