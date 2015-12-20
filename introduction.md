@@ -4,3 +4,6 @@ Thanks.
 
 My favorite CodeSchool path is JavaScript Path!
 I enjoy studying in CodeSchool.
+
+* Git
+* JavaScript
