@@ -1,0 +1,282 @@
+Caption:
+Error
+
+Summary Text:
+Unexpected error in java language platform.  Click on "More" check box for additional information.
+
+Detail Text:
+Module:	Sf32.exe 9.0.6.0.20150206 Solumina(12728,12766) 
+Date/time:	3/19/2015 3:28:51 AM
+Configuration:	Server based Ini Boot File, id=DEFAULT_LOCALHOST; http://localhost:8080/dvlp5000/gateway; SFFND_5020
+Error class:	EDatabaseError
+Error address:	00D631C1
+Message ID:	
+Message:
+Error opening Query "DispatchSqlSource_Query"
+Check SQL statements:
+java.sql.SQLFeatureNotSupportedException: MI datasource is not configured. Please add datasource 'miSoluminaDS' to JNDI context
+
+	at com.ibaset.common.dao.jndi.EmptyDataSource.reportError(EmptyDataSource.java:28)
+
+	at com.ibaset.common.dao.jndi.EmptyDataSource.getConnection(EmptyDataSource.java:32)
+
+	at org.springframework.jdbc.datasource.DataSourceTransactionManager.doBegin(DataSourceTransactionManager.java:200)
+
+	at org.springframework.jdbc.datasource.SpringTransactionManager.doBegin(SpringTransactionManager.java:68)
+
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.getTransaction(AbstractPlatformTransactionManager.java:374)
+
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.createTransactionIfNecessary(TransactionAspectSupport.java:263)
+
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:101)
+
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+
+	at com.ibaset.solumina.stat.StatisticsMethodInterceptor.invoke(StatisticsMethodInterceptor.java:59)
+
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+
+	at $Proxy769.selectTargets(Unknown Source)
+
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+
+	at java.lang.reflect.Method.invoke(Unknown Source)
+
+	at com.ibaset.web.servlet.solumina.MethodCall.doInvoke(MethodCall.java:220)
+
+	at com.ibaset.web.servlet.solumina.MethodCall.invoke(MethodCall.java:291)
+
+	at com.ibaset.web.servlet.solumina.ProcedureRequest.prepareProcedure(ProcedureRequest.java:198)
+
+	at com.ibaset.web.servlet.solumina.ProcedureRequest.execute(ProcedureRequest.java:70)
+
+	at com.ibaset.web.servlet.solumina.DelphiServlet.doPost(DelphiServlet.java:168)
+
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:641)
+
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:264)
+
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:107)
+
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:72)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.ui.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:110)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.ui.basicauth.BasicProcessingFilter.doFilter(BasicProcessingFilter.java:178)
+
+	at com.ibaset.common.security.BasicProcessingFilter.doFilter(BasicProcessingFilter.java:51)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at com.ibaset.common.security.ExternalAuthenticationProcessingFilter.doFilter(ExternalAuthenticationProcessingFilter.java:109)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at com.ibaset.common.security.EmptyFilter.doFilter(EmptyFilter.java:36)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.context.HttpSessionContextIntegrationFilter.doFilter(HttpSessionContextIntegrationFilter.java:229)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.util.FilterChainProxy.doFilter(FilterChainProxy.java:148)
+
+	at org.acegisecurity.util.FilterToBeanProxy.doFilter(FilterToBeanProxy.java:98)
+
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:225)
+
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:927)
+
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:999)
+
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:565)
+
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+
+	at java.lang.Thread.run(Unknown Source)
+
+
+FWSQL(QueryOpenTrap):Query=DispatchSqlSource_Query
+
+java.sql.SQLFeatureNotSupportedException: MI datasource is not configured. Please add datasource 'miSoluminaDS' to JNDI context
+
+	at com.ibaset.common.dao.jndi.EmptyDataSource.reportError(EmptyDataSource.java:28)
+
+	at com.ibaset.common.dao.jndi.EmptyDataSource.getConnection(EmptyDataSource.java:32)
+
+	at org.springframework.jdbc.datasource.DataSourceTransactionManager.doBegin(DataSourceTransactionManager.java:200)
+
+	at org.springframework.jdbc.datasource.SpringTransactionManager.doBegin(SpringTransactionManager.java:68)
+
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.getTransaction(AbstractPlatformTransactionManager.java:374)
+
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.createTransactionIfNecessary(TransactionAspectSupport.java:263)
+
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:101)
+
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+
+	at com.ibaset.solumina.stat.StatisticsMethodInterceptor.invoke(StatisticsMethodInterceptor.java:59)
+
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+
+	at $Proxy769.selectTargets(Unknown Source)
+
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+
+	at java.lang.reflect.Method.invoke(Unknown Source)
+
+	at com.ibaset.web.servlet.solumina.MethodCall.doInvoke(MethodCall.java:220)
+
+	at com.ibaset.web.servlet.solumina.MethodCall.invoke(MethodCall.java:291)
+
+	at com.ibaset.web.servlet.solumina.ProcedureRequest.prepareProcedure(ProcedureRequest.java:198)
+
+	at com.ibaset.web.servlet.solumina.ProcedureRequest.execute(ProcedureRequest.java:70)
+
+	at com.ibaset.web.servlet.solumina.DelphiServlet.doPost(DelphiServlet.java:168)
+
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:641)
+
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:264)
+
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:107)
+
+	at org.acegisecurity.intercept.web.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:72)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.ui.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:110)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.ui.basicauth.BasicProcessingFilter.doFilter(BasicProcessingFilter.java:178)
+
+	at com.ibaset.common.security.BasicProcessingFilter.doFilter(BasicProcessingFilter.java:51)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at com.ibaset.common.security.ExternalAuthenticationProcessingFilter.doFilter(ExternalAuthenticationProcessingFilter.java:109)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at com.ibaset.common.security.EmptyFilter.doFilter(EmptyFilter.java:36)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.context.HttpSessionContextIntegrationFilter.doFilter(HttpSessionContextIntegrationFilter.java:229)
+
+	at org.acegisecurity.util.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:274)
+
+	at org.acegisecurity.util.FilterChainProxy.doFilter(FilterChainProxy.java:148)
+
+	at org.acegisecurity.util.FilterToBeanProxy.doFilter(FilterToBeanProxy.java:98)
+
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:225)
+
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:169)
+
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:472)
+
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:168)
+
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:98)
+
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:927)
+
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:407)
+
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:999)
+
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:565)
+
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+
+	at java.lang.Thread.run(Unknown Source)
+
+ 
+
+Detail Lines:
+DatabaseName:
+SfUserDatabase(Alias=http://localhost:8080/dvlp5000/gateway)
+
+SQL:
+SELECT 
+     LOCATION_NO,
+     DEPT_NO,
+     CENTER_NO, 
+     METRIC_ID,
+     UOM,
+     TARGET_VALUE,
+     YELLOW_LEVEL,
+     RED_LEVEL,
+     FROM_DATE,
+     TO_DATE,
+     TIME_STAMP,
+     SUPPLIER_OR_OPERATIONS,
+     PERFORMANCE_AREA,
+     METRIC_NAME
+FROM
+EXECQUERY com.ibaset.solumina.sffnd.application.IManufacturingIntelligence.selectTargets(:@WhereClause)
+ 
+Params:
+  @WhereClause=""
