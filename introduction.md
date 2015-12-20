@@ -7,3 +7,4 @@ I enjoy studying in CodeSchool.
 
 * Git
 * JavaScript
+* Killing history using git rebase
