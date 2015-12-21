@@ -5,3 +5,4 @@ Deadly skills
 * Numchuck skills
 * Bo staff skills
 * Computer hacking skills
+* Killing history using git rebase
