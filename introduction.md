@@ -1,0 +1,3 @@
+* Git
+* rebase
+This file is created for training purpose. Code School helps to learn Git,Ruby, JavaScript, HTML, ...
