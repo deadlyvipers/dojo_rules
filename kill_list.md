@@ -7,4 +7,6 @@ Kill List
 * Bad variable names
 * drive-by questions
 * Project managers
+* Product managers
+* ergh
 
