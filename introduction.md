@@ -1,2 +1,7 @@
 I am qimeijie
-Ruby, JavaScript, HTML & CSS, iOS
+*Ruby
+*JavaScript
+*HTML
+*CSS
+*iOS
+rebase hello world
