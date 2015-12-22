@@ -9,3 +9,13 @@ Fusce facilisis fringilla nisi in pellentesque. Cum sociis natoque penatibus et 
 Curabitur ornare massa ac varius scelerisque. Nunc pulvinar urna risus, vitae ultrices ipsum pharetra vel. Vestibulum in velit sapien. Sed eget odio cursus, blandit eros eget, luctus urna. Nulla facilisi. Donec pulvinar, tortor at efficitur tristique, ligula ligula sagittis quam, eget volutpat est ex in purus. Sed ullamcorper facilisis est, quis interdum arcu suscipit ut. Praesent consequat lacus lectus, nec sollicitudin elit varius at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer at justo sit amet ex euismod lacinia. Praesent varius finibus dignissim.
 
 My favorite path on code school is the Ruby path.
+
+
+Deadly Skills:
+* Git
+* JavaScript
+* Ruby
+
+Killing history using git rebase:
+
+Fusce facilisis fringilla nisi in pellentesque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam auctor malesuada ligula, vitae mattis elit luctus id. In pellentesque metus et lacus luctus semper. Maecenas maximus elit arcu, sed congue purus accumsan tincidunt. Sed id imperdiet lorem. Cras sit amet venenatis risus, ac finibus tellus. Nulla molestie at turpis in consectetur. Cras nec diam congue, consectetur dolor nec, eleifend velit. Curabitur et faucibus nulla. Aliquam auctor id ipsum volutpat pellentesque. Vestibulum ac odio a erat accumsan tristique in in sapien.
