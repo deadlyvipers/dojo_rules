@@ -5,3 +5,4 @@ My current path is Git. Then I'm going to master SQL. After it HTML, CSS, JavasS
 *SQL
 *Ruby
 *Java
+*Killing history using git rebase
