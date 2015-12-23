@@ -1,5 +1,1 @@
-README.md
-another_feature.rb
-dojo_rules.md
-introduction.md
-really_useful_fix.rb
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
