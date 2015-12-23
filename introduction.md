@@ -6,4 +6,5 @@ deadly skills
 =============
 * your mother
 * cobol
+* Killing history using git rebase
 
