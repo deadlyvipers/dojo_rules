@@ -9,3 +9,4 @@ My favorite path is the Javascript one
 deadly skills : 
 
 * iOs
+* Killing history using git rebase
