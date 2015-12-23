@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* No using of Code School videos
+* No using of CodeSchool videos
