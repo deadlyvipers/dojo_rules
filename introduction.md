@@ -6,3 +6,4 @@ My favorite CodeSchool path has been Ruby.
 * HTML
 * CSS
 * jQuery
+* Killing history using git rebase
