@@ -1,2 +1,6 @@
 Hello, my name is billy bob.
 My favorite code school path is Ruby.
+*GIT
+*Ruby
+*Excel
+*Killing history using git rebase
