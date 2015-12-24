@@ -5,3 +5,10 @@ Hi, my name is Carolyn Tiry. I've used git for some of my programming classes, b
 
 My favorite path on Code School so far is the JavaScript one, but I have several to try yet so that might change.
 
+Deadly Skills:
+* JavaScript
+* C#
+* HTML
+* CSS
+* SQL
+* Killing history using git rebase
