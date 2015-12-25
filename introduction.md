@@ -8,3 +8,4 @@ My Deadly Skills are:
 * HTML/CSS
 * JavaScript
 * SQL Server
+* Killing history using git rebase
