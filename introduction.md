@@ -7,3 +7,4 @@ JavaScript
 * Git
 * JavaScript
 * Ruby
+* GIT is almost finished
