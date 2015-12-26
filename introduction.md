@@ -10,5 +10,5 @@ Deadly Skills
 * JavaScript
 * PHP
 * Wordpress
-
+* Killing history using git rebase
 That is all.
