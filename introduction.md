@@ -4,3 +4,4 @@ I prefer the HTML path
 * JS
 * HTML
 * VB
+* Killing history using git rebase
