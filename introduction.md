@@ -1,2 +1,3 @@
 * Git
 * HTML & CSS
+* Ruby
