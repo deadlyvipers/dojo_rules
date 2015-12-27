@@ -6,3 +6,4 @@ Il mio path preferito è JavaScript
 * Git
 * JavaScript 
 * Ruby
+* Killing history using git rebase
