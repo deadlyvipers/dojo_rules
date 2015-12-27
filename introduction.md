@@ -1,5 +1,5 @@
 Hello
 deadly skills:
-Ruby
-Python
-JavaScript
+* Ruby
+* Python
+* JavaScript
