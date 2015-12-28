@@ -7,3 +7,5 @@ I enjoy learning about Javascript
 * Git deadly skill
 
 * Javascript deadly skill
+
+* Killing history using git rebase
