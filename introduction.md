@@ -4,3 +4,4 @@ I love the Ruby path.
 *Java
 *Ruby
 *html/css
+*Killing history using git rebase
