@@ -1,2 +1,3 @@
-I am cowenberg
-Ruby
+* Ruby
+* JavaScript
+* Git
