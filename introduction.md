@@ -1,2 +1,2 @@
 Hi, Iam Miroslav Polakovic.
-Each Code School path is my favorite.
+HTML & CSS  Code School path is my favorite.
