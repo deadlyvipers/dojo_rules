@@ -1,2 +1,4 @@
-I am cowenberg
-Ruby
+* Killing history using git rebase
+* Ruby
+* JavaScript
+* Git
