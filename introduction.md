@@ -4,6 +4,8 @@ Introduction
 
 This is an Indroduction to Davidvgus.  Howdy.
 
+My favorite codeschool path is Javascript.
+
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
 
