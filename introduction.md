@@ -1,2 +1,5 @@
-This is my introduction.
-JavaScript is my favourite CodeSchool path.
+* Git
+* JavaScript
+* JEE
+* SQL
+* Killing history using git rebase
