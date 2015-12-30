@@ -1,1 +1,1 @@
-My name is Nina Denisova. I love git!
+My name is Nina Denisova. I love git! My favorite CodeSchool path is Javascript (but that's the only one I tried so far).
