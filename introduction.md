@@ -1,1 +1,1 @@
-Hello!
+Ruby is my favorite course
