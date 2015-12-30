@@ -5,3 +5,4 @@ My favourite codeschool path are Electives.
 Deadly skills: 
 * JS 
 * C++ 
+* Killing history using git rebase
