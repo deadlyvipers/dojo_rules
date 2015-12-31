@@ -2,3 +2,4 @@ My name is Nina Denisova. I love git! My favorite CodeSchool path is Javascript 
 *.NET
 *Python
 *Git
+*Killing history using git rebase
