@@ -1,2 +1,5 @@
-Mastering GitHub
-JavaScript
+* Git
+* JavaScript
+* HTML
+* CSS
+* AngularJS
