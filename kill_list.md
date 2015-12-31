@@ -1,4 +1,9 @@
-Amazon S3 API
-SOAP
-WSDL
-Extra line because I fucked it up again somewhere
+Kill List
+=========
+
+    Unused code
+    Functions with side effects
+    Unformatted code
+    Repeated code blocks
+    Bad variable names
+
