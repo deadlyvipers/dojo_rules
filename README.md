@@ -1,3 +1,3 @@
 * Git
 * JavaScript
-* PHP5
+* PHP56
