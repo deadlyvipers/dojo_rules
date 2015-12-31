@@ -4,3 +4,4 @@ skills:
 * ruby
 * chef
 * stuff
+* Killing history using git rebase
