@@ -1,4 +1,3 @@
 * Git
 * JavaScript
-* PHP
-
+* PHP5
