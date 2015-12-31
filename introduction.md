@@ -3,3 +3,4 @@ JavaScript
 * Git
 * JavaScript
 * PHP56
+* Killing history using git rebase
