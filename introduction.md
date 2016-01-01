@@ -7,4 +7,8 @@ React.render(
   document.getElementById('todoapp')
 );
 
-Javascript
+*Javascript
+*Angular
+*HTML
+*CSS
+*etc
