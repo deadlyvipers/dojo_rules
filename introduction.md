@@ -1,5 +1,6 @@
 Bonjour, j'suis Greg.
 J'aime JavaScript!
 
-*Git
-*JS
+*GIT
+*Killing history using git rebase
+
