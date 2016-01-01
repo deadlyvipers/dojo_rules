@@ -12,3 +12,4 @@ React.render(
 *HTML
 *CSS
 *etc
+*Killing history using git rebase
