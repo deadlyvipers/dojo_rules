@@ -3,3 +3,4 @@
 * Deadly Skills:
 * JavaScript
 * CSS
+* HTML
