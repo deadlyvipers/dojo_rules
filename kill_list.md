@@ -6,3 +6,6 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 
+Programmer grievance
+bugs
+
