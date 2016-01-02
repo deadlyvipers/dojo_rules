@@ -1,1 +1,1 @@
-I am learning
+I'm learning and my favorite is JavaScript.
