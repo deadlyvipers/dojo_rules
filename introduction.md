@@ -5,3 +5,4 @@
 * CSS
 * HTML
 * CoD
+* Killing history using git rebase
