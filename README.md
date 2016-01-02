@@ -1,5 +1,8 @@
-Dojo Rules
-==========
+# Dojo rules manual
+All members should read the rules
+*Project taken from:* https://github.com/deadlyvipers
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
 
+* Git
+* JavaScript
+* PHP56
