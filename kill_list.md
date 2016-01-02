@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Lack of comments to the code
+* Bad commit messages:)
