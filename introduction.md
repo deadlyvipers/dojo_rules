@@ -4,3 +4,5 @@ Dojo Rules
 * Always take off your shoes
 * Keep the dojo tidy
 JavaScript
+Ruby
+Git.--
