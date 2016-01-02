@@ -6,3 +6,4 @@ Javascript and Ruby Paths!
 * CSS
 * sass
 * Git
+* Killing history using git rebase
