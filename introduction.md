@@ -7,4 +7,4 @@ My deadly skill:
 * CSS & Sass
 * JavaScript
 * UI & UX
-
+* Klling history using git rebase
