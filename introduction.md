@@ -1,2 +1,5 @@
-introduction
-Ruby, JavaScript
+# Deadly skills
+
+* Ruby
+* Rails
+* JavaScript
