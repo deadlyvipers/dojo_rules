@@ -1,12 +1,6 @@
-Kill List
-=========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
-* Jim
-
+// test
 function test() {
+UJAAJS
  Blah Blah 
    }
    
