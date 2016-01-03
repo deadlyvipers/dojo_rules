@@ -1,1 +1,1 @@
-Esta es mi intro
+JavaScript, HTML y CSS, iOS o Electivas
