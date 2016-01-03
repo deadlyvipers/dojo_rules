@@ -10,3 +10,4 @@ Deadly Skills
 *Javascript
 *C#
 *Java
+*Killing history using git rebase
