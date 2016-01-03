@@ -4,3 +4,4 @@ JavaScript Path and Ruby Path in Code School are my favarite, though Ruby is a l
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
