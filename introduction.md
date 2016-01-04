@@ -1,2 +1,3 @@
 Vicente Santos introduction to the dojo.
-Javascript
+* Javascript
+* Git
