@@ -1,0 +1,1 @@
+Just checking out Git.
