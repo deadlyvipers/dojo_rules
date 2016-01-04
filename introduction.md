@@ -1,2 +1,2 @@
 Hello world 
-My favoirte codeschool path is Git.
+My favoirte codeschool path is Ruby.
