@@ -4,3 +4,5 @@ started with git. next up : RoR
 Ruby
 php
 js
+*hello
+*test
