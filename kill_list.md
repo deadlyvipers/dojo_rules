@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+
+Grievance
+========
+* Can't take classes teached by Dan and Kent
