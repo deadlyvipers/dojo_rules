@@ -8,3 +8,4 @@ The favorite learing-path on Codeschool is Javascript.
 * Jira
 * Ruby
 * Angular
+* Killing history using git rebase
