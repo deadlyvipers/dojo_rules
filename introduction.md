@@ -6,3 +6,4 @@ Some deadly skills include:
 * Ruby
 * JavaScript
 * Git
+* Killing history using git rebase
