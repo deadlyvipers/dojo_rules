@@ -4,3 +4,4 @@
 * CSS
 * AngularJS
 * jQuery
+* Killing history using git rebase
