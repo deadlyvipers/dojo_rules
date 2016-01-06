@@ -5,3 +5,4 @@
 * AngularJS
 * jQuery
 * Killing history using git rebase
+* rebase
