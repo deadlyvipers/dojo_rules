@@ -1,1 +1,6 @@
-Hello World. My name is Konstantin. And I love JavaScript path of CodeSchool!
+* Git
+* JavaScript
+* HTML
+* CSS
+* AngularJS
+* jQuery
