@@ -1,1 +1,1 @@
-Hello World
+Hello World. My name is Konstantin. And I love JavaScript path of CodeSchool!
