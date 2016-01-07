@@ -8,4 +8,5 @@ Deadly Skills
 *JavaScript
 *jQuery
 *AngularJS
+*Git
 *Killing history using git rebase
