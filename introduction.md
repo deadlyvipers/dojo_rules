@@ -1,2 +1,1 @@
-Hello! This is my introduction for the Mastering Github course!
-My Favorite code school path has been Ruby
+Ruby Hello! This Ruby is my introduction Ruby for the Mastering Github Ruby course!
