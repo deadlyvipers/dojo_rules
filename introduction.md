@@ -2,7 +2,6 @@ My name is Micah Powell and this repository is part of the Mastering Github cour
 
 My favorite CodeSchool.com course path is the JavaScript path.
 
-<<<<<<< HEAD
 Deadly Skills 
 ============
 
@@ -10,10 +9,3 @@ Deadly Skills
 *jQuery
 *AngularJS
 *Killing history using git rebase
-=======
-Deadly Skills
-============
-*JavaScript
-*jQuery
-*AngularJS
->>>>>>> bfe862b87ddc39fe1815c31ada1dcf565492ccdc
