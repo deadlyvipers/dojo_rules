@@ -1,2 +1,6 @@
 Hello, my name is Thanos
 favorite Code School path: HTML & CSS
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
