@@ -1,2 +1,3 @@
 * Git
 * Javascript
+* Other
