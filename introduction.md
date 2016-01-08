@@ -1,1 +1,2 @@
-Git, Javascript
+* Git
+* Javascript
