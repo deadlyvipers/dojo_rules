@@ -5,3 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* The Guy Who Invented Java
+* The Guy Who Still Pushes Java
