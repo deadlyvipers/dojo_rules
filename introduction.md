@@ -9,3 +9,4 @@ My favourite path on CodeSchool is the JavaScript path.
 * JavaScript
 * CSS
 * Learning New Skills
+* Killing history using git rebase
