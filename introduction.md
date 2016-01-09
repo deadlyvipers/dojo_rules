@@ -7,4 +7,6 @@ My deadly skills are:
 * Python
 * Clojure
 * The ability to make complicated problems simple
+* Killing history using git rebase
+
 
