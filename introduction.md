@@ -1,1 +1,1 @@
-Hilo
+Hello world! This is a short sentence.
