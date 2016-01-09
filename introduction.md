@@ -8,3 +8,4 @@ My favourite path on CodeSchool is the JavaScript path.
 * GIT
 * JavaScript
 * CSS
+* Learning New Skills
