@@ -7,3 +7,4 @@
 * Sass
 * Javascript
 * SQL
+* Killing history using git rebase
