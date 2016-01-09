@@ -1,1 +1,1 @@
-Hello world! This is a short sentence.
+Hello world! This is a short sentence. I'm a big fan of Ruby and RoR!
