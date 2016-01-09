@@ -1,1 +1,9 @@
-Hello world! This is a short sentence. I'm a big fan of Ruby and RoR!
+* Ruby
+* Ruby on Rails
+* Git
+* PHP
+* HTML5
+* CSS3
+* Sass
+* Javascript
+* SQL
