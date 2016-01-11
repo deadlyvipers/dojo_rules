@@ -1,2 +1,2 @@
 Something something.
-Favourite path: Rails
+Favourite CodeSchool path: Ruby
