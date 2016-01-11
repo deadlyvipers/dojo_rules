@@ -7,3 +7,4 @@ introduction
 * iOS
 * Electives
 * php
+* Killing history using git rebase
