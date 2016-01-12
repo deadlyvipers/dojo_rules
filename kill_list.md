@@ -5,5 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Catching exceptions silently
+* Exception catching without body
 
