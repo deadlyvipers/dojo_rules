@@ -1,2 +1,2 @@
 introduction
-git path
+path electives
