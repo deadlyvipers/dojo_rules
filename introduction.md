@@ -1,2 +1,1 @@
-Hello, my name is Alex!
-Java
+Hello, my name is Alex! JavaScript
