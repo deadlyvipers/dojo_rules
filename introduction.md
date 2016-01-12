@@ -1,2 +1,2 @@
 My name is Dima
-My favorite path is JS
+My favorite path is JavaScript
