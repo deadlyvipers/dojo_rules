@@ -4,3 +4,4 @@ My favorite path is HTML & CSS
 * Python
 * HTML
 * Javascript
+* Killing history using git rebase
