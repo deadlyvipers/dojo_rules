@@ -1,2 +1,2 @@
 sikka introduction
-code path unknown yet :)
+code path might be Electives :)
