@@ -8,3 +8,4 @@ Lukas Hermann, new to the dojo team, on the quest for knowlege.
 * PHP
 * HTML
 * CSS
+* Killing history using git rebase
