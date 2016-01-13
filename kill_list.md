@@ -5,3 +5,4 @@ Bad Coding Practice
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Stream not closed
