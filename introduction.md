@@ -1,5 +1,6 @@
 introduction
 path electives
-*git
-*ruby
-pull
+* git
+* ruby
+* pull
+* rebase
