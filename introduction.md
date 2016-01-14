@@ -10,3 +10,4 @@ I started in the Ruby world, but now I love JavaScript.
 * JavaScript
 * Node.js
 * Angular
+* Killing history using git rebase
