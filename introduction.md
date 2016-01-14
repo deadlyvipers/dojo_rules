@@ -5,3 +5,4 @@ Here is a list of my deadly skills:
 *jQuery
 *MySQL
 *QBasic (so deadly)
+*Killing history using git rebase
