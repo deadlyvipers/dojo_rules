@@ -6,3 +6,4 @@ Favorite path: Javascript
 *Go
 *PHP
 *JQuery
+Killing history using git rebase
