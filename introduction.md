@@ -10,3 +10,4 @@ Ruby is my favorite Code School path.
 * Music Theory
 * Good Snack Intuition
 * General Badassery
+* Killing history using git rebase
