@@ -1,1 +1,4 @@
-Hello, my name is Alex! JavaScript
+Hello, my name is Alex! 
+* JavaScript
+* Git
+* Ruby
