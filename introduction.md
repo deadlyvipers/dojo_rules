@@ -1,5 +1,9 @@
-introduction modified	
+introduction	
 ==========
 
  Nisha Kumari
+ *
+ Git
+ JavaScript
  Ruby
+
