@@ -9,3 +9,5 @@ My deadly skill are the following:
 *Java
 *Prolog
 *Assambler
+*Killing history using git rebase
+
