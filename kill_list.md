@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
-Yeah right, this is some grievance...
+Yeah right, this is some grievance..
