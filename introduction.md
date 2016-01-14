@@ -10,6 +10,3 @@ My deadly skill are the following:
 *Prolog
 *Assambler
 *Killing history using git rebase
-
-nada
-
