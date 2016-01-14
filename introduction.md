@@ -11,3 +11,5 @@ My deadly skill are the following:
 *Assambler
 *Killing history using git rebase
 
+nada
+
