@@ -2,7 +2,7 @@ Hello! I am Tim!
 Favourite path: JavaScript!
 
 Skills:
-* vim
+* Vim
 * JavaScript
 * Ruby
 
