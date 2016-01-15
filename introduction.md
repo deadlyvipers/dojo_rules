@@ -1,2 +1,2 @@
 This is an introduction file
-My favorite code path is Git
+Ruby, JavaScript, HTML & CSS, iOS or Electives
