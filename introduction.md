@@ -1,1 +1,5 @@
-testing the github forking, Ruby
+testing the github forking, 
+*Ruby
+*JavaScript
+*Git
+*PHP
