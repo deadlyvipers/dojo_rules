@@ -5,3 +5,4 @@ Hi. I'm me. I like Electives.
 * C++
 * C#
 * Go
+* Killing history using git rebase
