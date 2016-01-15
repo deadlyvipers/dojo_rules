@@ -9,3 +9,4 @@ My deadly skills:
 * C, C++
 * Statistics
 * Partial Differential Equations
+* Killing history using git rebase
