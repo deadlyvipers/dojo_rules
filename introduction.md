@@ -34,3 +34,4 @@ My skills:
 *Git
 *Vim
 *Sublime Text
+*rebase
