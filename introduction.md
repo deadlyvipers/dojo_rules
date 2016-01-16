@@ -1,1 +1,3 @@
-http://javascript-roadtrip-part2.codeschool.com
+*Ruby
+*Python
+*Javascript
