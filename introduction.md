@@ -5,4 +5,5 @@ Skills:
 * Vim
 * JavaScript
 * Ruby
+* Killing history using git rebase
 
