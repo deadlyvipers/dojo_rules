@@ -2,4 +2,6 @@
 
 Hi,
 
-my name is Joel! :)
+**Name:** Joel
+
+**Favorite code school path:** Ruby
