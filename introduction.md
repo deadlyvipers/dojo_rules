@@ -4,3 +4,4 @@ Deadly Skils:
 * ASP.NET
 * SQL Server
 * Omelets
+* Killing history using git rebase
