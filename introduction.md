@@ -1,2 +1,1 @@
-ok here
-http://campus.codeschool.com/
+http://javascript-roadtrip-part2.codeschool.com
