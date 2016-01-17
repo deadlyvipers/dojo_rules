@@ -1,1 +1,1 @@
-Hello I'm trying to fix my first attempted at this.
+Trying to master GitHub. I like JavaScript.
