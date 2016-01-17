@@ -1,3 +1,4 @@
-introduction
-git forks
-elective
+* introduction
+* git
+* elective
+* javascript
