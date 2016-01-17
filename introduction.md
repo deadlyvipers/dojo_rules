@@ -1,2 +1,4 @@
 I present my self to my GIT Sensei
-Ruby 
+*Git
+*JavaScript
+*Ruby
