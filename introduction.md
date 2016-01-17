@@ -1,1 +1,10 @@
-I don't really know how to code in Ruby, but I plan on learning soon.
+Deadly Skills
+=============
+* Git
+* HTML
+* CSS
+* JavaScript
+* AngularJS
+* Node.js
+* Express
+* MongoDB
