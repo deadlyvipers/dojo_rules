@@ -6,3 +6,4 @@ my favorite Code School path is certainly JavaScript
 * running
 * jumping 
 * shooting!
+* Killing history using git rebase
