@@ -1,0 +1,1 @@
+I don't really know how to code in Ruby, but I plan on learning soon.
