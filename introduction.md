@@ -4,3 +4,5 @@ Hello I am John Behling. My favorite Code School path is Ruby.
 * python
 * chef
 * ansible
+* Killing history
+* using git rebase
