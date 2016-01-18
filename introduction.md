@@ -1,5 +1,4 @@
-Hi my name is Alex and my favorite path is JavaScript
-* JavaScript
-* NodeJs
-* Python
-* AngularJs
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
