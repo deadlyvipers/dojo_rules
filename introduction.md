@@ -6,3 +6,4 @@ Deadly Skills
 * Fire Ball
 * Flight
 * Night Vision
+* Killing history
