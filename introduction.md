@@ -5,3 +5,4 @@ Skills:
 * C++
 * JavaScript
 * Git
+* Killing history using git rebase
