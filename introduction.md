@@ -3,6 +3,4 @@ My favourite course in code school is angularjs, javascript etc.
 *jquery
 *ajax
 
-add few more changes.
-hghfghfgfhhgh
-jhhjgh
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.\n\n* Ruby on Rails\n*Git\n* Rebase
