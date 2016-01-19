@@ -4,3 +4,4 @@ deadly_skills:
 *Git
 *Javascript
 *angularJS
+*Killing history using git rebase
