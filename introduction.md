@@ -1,4 +1,5 @@
-On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+On my way to becoming a GitHub Master. I love MEAN stack  and JavaScript.
 
-* Ruby on Rails
-*Git
+* JavaScript
+* Git
+* Killing history using git rebase
