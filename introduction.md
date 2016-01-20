@@ -1,1 +1,1 @@
-Greetings, my name is Solrac\!
+Greetings, my name is Solrac.
