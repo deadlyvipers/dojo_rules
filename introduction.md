@@ -1,2 +1,2 @@
-Hello, from petejh.
+Hello, from petejh. I'm a big fan of Codeschool's Ruby Path.
 
