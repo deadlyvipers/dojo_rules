@@ -1,5 +1,1 @@
-asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfajjjjjjjjjj
-jjjjjjjjjjjjjjjj
-jjjjjjjjjjjjj
-jjjjjjjjjjjj
-hola
+My favorite Code School path RUby and Js
