@@ -7,3 +7,4 @@ Deadly skills:
 * CSS
 * HTML
 * IBM Websphere stack
+* Killing history using git rebase
