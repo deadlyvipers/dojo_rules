@@ -1,3 +1,6 @@
 Hello dlarkin here.
 Best path is git real. and Ruby
-(for example: Git, JavaScript, Rub
+(for example: 
+* Git
+* JavaScript
+* Rub
