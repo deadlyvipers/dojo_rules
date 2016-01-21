@@ -11,3 +11,4 @@ My deadly skills
 * Ada
 * Python
 * Java
+* Killing history using git rebase
