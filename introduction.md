@@ -1,1 +1,3 @@
 Hi, my name is Kathryn, and I am learning to code. Not much else to say at this point. 
+
+Ruby is my favorite path!
