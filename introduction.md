@@ -1,2 +1,5 @@
 1. Introduction
-Electives
+* Electives
+* Git
+* JavaScript
+* Ruby
