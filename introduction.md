@@ -1,3 +1,3 @@
 Chris Vanderheyden
 ==================
-My favorite codeschool track is Javascript
+My favorite codeschool track is JavaScript
