@@ -5,3 +5,4 @@ Best path is git real. and Ruby
 * JavaScript
 * Rub
 more
+* Killing history using git rebase
