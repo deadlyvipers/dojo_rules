@@ -9,3 +9,4 @@ Javascript path bla bla bla
 * Javascript
 * GIT
 * Java
+* Killing history using git rebase
