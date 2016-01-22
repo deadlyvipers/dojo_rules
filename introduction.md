@@ -4,6 +4,7 @@ javascript angular anyone? Amber, why bother?
 *something
 *something
 *something
-*something
+deleted something
+added someline
 *something
 *something
