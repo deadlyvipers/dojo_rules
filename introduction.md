@@ -1,2 +1,4 @@
 Hi, I'm Davide
-JavaScript
+* Git
+* JavaScript
+* Ruby
