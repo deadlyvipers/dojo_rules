@@ -6,3 +6,4 @@ I like the iOS path ;P
 * Swift
 * Java
 * Dota
+* Killing history using git rebase
