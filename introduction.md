@@ -5,3 +5,7 @@ sadfdsaf
 asfsadf sadfsdjflksjdafkjfla;sjf asdkfjdsalfjo;
 
 Javascript path bla bla bla
+
+* Javascript
+* GIT
+* Java
