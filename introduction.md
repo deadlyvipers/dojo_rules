@@ -8,3 +8,5 @@ deleted something
 added someline
 *something
 *something
+
+rebase is what you want?
