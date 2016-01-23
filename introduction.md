@@ -6,3 +6,4 @@ My favorite Code Shool path is JavaScript.
 *CSS
 *Java
 *Perl
+*Killing history using git rebase
