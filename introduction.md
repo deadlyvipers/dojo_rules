@@ -1,1 +1,1 @@
-This is an introduction file introducing oneself to the dojo.
+Hello, this is john, mastering GITHUB at codeshcool.
