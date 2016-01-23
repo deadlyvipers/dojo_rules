@@ -1,2 +1,3 @@
-Hi my name is Serhii
-JavaScript
+*JavaScript
+*ruby
+rebase
