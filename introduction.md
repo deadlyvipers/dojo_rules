@@ -4,5 +4,6 @@ Killing history using git rebase
 =======
 *Javascript
 *Databases
+* Killing history using git rebase
 
 
