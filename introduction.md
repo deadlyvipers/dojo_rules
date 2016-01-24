@@ -1,1 +1,1 @@
-A simple intro
+A simple intro, I like JavaScript
