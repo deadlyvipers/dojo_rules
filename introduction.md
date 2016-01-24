@@ -8,3 +8,4 @@ My deadly skills are:
 * JavaScript
 * JQuery
 * PHP
+* Killing history using git rebase
