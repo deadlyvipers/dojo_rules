@@ -1,1 +1,1 @@
-hi my name is super ninja
+hi my name is super ninja and my favourite code school course is JavaScript
