@@ -1,2 +1,2 @@
-github
+JavaScript
 ssh test example text
