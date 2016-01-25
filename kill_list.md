@@ -8,7 +8,5 @@ Kill List
     Bad variable names
     No validation
     Duplication
-	test2
-	test3
 
 	
