@@ -9,5 +9,6 @@ Kill List
     No validation
     Duplication
 	test2
+	test3
 
 	
