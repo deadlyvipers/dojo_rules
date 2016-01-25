@@ -18,6 +18,7 @@ My Skills are as follows:
 * SQL
 * PHP
 * WordPress
+* Killing history using git rebase
 
 
 
