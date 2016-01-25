@@ -6,5 +6,20 @@ I spend most of my time doing research and find a new way to do existing task wh
 
 I very much enjoyed Code School HTML & CSS path.
 
+My Skills are as follows:
+
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+* Ruby
+* Ruby on Rails
+* Git/Github
+* SQL
+* PHP
+* WordPress
+* Killing history using git rebase
+
+
 
 If you want to know more about me please do visit my website [hasanme.com](http://hasanme.com)
