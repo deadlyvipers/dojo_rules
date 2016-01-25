@@ -8,3 +8,4 @@ Deadly Skills
 *Javascript
 *SASS
 *Git
+*Killing history using git rebase
