@@ -1,1 +1,5 @@
-Hello! My favorite CodeSchool path is JavaScript!
+* JavaScript
+* HTML
+* CSS
+* Node
+* Killing history using git rebase
