@@ -21,3 +21,4 @@ Favourite code school path so far: JavaScript
 * Web Servers: WebMachine, Apache HTTPD, IIS, Webrick, Mongrel
 * OS: MacOS X, Linux (Ubuntu, Debian, RedHat, CentOS), Unix (Solaris), Windows (up to 8), iOS
 * Miscellaneous: RabbitMQ, Memcache, Apache Thrift, New Relic, Jira, Confluence, PHPUnit
+* Killing history using git rebase
