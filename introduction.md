@@ -1,1 +1,4 @@
-JavaScript,HTML,CSS,Node
+* JavaScript
+* HTML
+* CSS
+* Node
