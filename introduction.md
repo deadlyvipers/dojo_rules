@@ -1,1 +1,2 @@
-Hey there,
+Hey there. Favorite path:
+JavaScript
