@@ -6,4 +6,6 @@
    
    3.- I'm 30
 
+   So my favorit  Code School path is ***Ruby***
+   
 Bye! 	
