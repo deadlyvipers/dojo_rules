@@ -1,0 +1,8 @@
+Hello dlarkin here.
+Best path is git real. and Ruby
+(for example: 
+* Git
+* JavaScript
+* Rub
+more
+* Killing history using git rebase
