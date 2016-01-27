@@ -8,4 +8,5 @@ Kill List
     Bad variable names
     Encapsolation
     Inheritance
+    Compostion
 
