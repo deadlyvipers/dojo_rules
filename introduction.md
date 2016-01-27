@@ -1,2 +1,3 @@
-Hey there. Favorite path:
-JavaScript
+* JavaScript
+* Sass
+* Git
