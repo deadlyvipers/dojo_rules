@@ -9,4 +9,4 @@ Kill List
     Encapsolation
     Inheritance
     Compostion
-
+    polymorfism
