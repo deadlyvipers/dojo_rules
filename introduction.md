@@ -1,4 +1,2 @@
-Hi This is Eakambaram Yadav, Primarily Java JEE developer and from last 4 years into Adobe Experience Manager
-My favorite language is Java Script.
-
-RUBY.
+Hi This is Eakambaram Yadav, Primarily Java JEE developer and from last 4 years into Adobe Experience Manager.
+HTML
