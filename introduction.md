@@ -8,3 +8,4 @@ Deadly Skills
 *CSS3
 *C#
 *ASP.Net
+*Killing history using git rebase
