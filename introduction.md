@@ -1,4 +1,6 @@
 Hi, my name is Kevin
 
 
-Ruby
+* Git
+* JavaScript
+* Ruby
