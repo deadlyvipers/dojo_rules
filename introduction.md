@@ -1,1 +1,1 @@
-Hello, I'm Justin. My favorite path is python, for sure.
+Hello, I'm Justin. Ruby is great.
