@@ -1,3 +1,1 @@
-hi my name is tinashe 
-
-i am new to git hub 
+On my way to becoming a GitHub Master
