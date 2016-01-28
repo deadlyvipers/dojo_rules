@@ -5,4 +5,4 @@ Deadly skills:
 * Git
 * BrightScript
 * Burger-making
-
+* Killing history using git rebase
