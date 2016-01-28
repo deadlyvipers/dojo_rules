@@ -13,4 +13,6 @@ A list of my deadly skills:
 * Git,
 * Python,
 * C#,
-* Java.
+* Java,
+* Killing history using git rebase.
+
