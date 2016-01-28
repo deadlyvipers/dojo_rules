@@ -1,5 +1,2 @@
-## Introduction
-
-* Hello dojo.
-* My favorite Code School is Git.
+My favorite Code School path is Git.
 
