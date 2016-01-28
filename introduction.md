@@ -13,3 +13,4 @@ Deadly skills:
  * Clean Code
  * TDD
  * Git
+ * Killing history using git rebase
