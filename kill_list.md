@@ -5,4 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-
+* Very long procedures
+* Mismatched code
+* Magic numbers in the code
