@@ -7,4 +7,4 @@ All members should read the rules.
 #
 [Or suffer the wrath of the Deadly Vipers.](https://github.com/deadlyvipers)
 #
-You have been warned. :grey-exclamation:
+You have been warned. :grey_exclamation:
