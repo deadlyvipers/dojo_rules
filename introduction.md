@@ -10,3 +10,4 @@ Anyways, my skills are:
 * JavaScript
 * Git
 * Balloon animals
+* Killing history using git rebase
