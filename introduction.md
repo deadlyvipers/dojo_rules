@@ -1,1 +1,1 @@
-This me introducing myself.
+This me introducing myself. My favourite code school project is Electives (Git).
