@@ -9,3 +9,4 @@ Deadly skills:
 * Python
 * Ansible
 * Shell scripting
+* Killing history using git rebase
