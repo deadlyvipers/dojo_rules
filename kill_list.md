@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Not using version control
+* Loose development methodology
+* Leaving sticky donuts on one's keyboard
