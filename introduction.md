@@ -4,3 +4,4 @@ My favourite CodeSchool Path is HTML & CSS.
 * another deadly skill
 * and another
 * maybe another
+* Killing history using git rebase
