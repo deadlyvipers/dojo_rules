@@ -1,1 +1,1 @@
-Hello from Adrian
+Favorite path is: JavaScript
