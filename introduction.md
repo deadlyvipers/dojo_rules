@@ -1,4 +1,4 @@
 Introduction
 ==========
 Paul Peoples - aka pablogentes
-Favorite Code School Path - GitHub
+Favorite Code School Path - Ruby
