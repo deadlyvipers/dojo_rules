@@ -1,1 +1,1 @@
-Favorite path is: JavaScript
+*Git
