@@ -6,5 +6,6 @@ Kill List
 * Repeated Code blocks
 * Bad variable names
 * No or Unclear comments
-* Use of GoTo
+* Use of GoTo-s
+
 
