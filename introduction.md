@@ -1,3 +1,3 @@
 An introduction to the project.
 
-My faviorite CodeSchool path is blah.
+My favorite CodeSchool path is blah.
