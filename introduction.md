@@ -1,3 +1,3 @@
 An introduction to the project.
 
-My favorite CodeSchool path is blah.
+My favorite Code School path is Electives.
