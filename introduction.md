@@ -3,3 +3,4 @@ Loving the Ruby and Git path in codeschool
 deadly skills:
 * Git
 * Ruby
+* Killing history using git rebase
