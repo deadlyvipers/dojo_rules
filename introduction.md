@@ -6,3 +6,4 @@ Deadly Skills...which aren't so deadly
 *Python
 *Git
 *Ruby
+*Killing history using git rebase
