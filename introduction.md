@@ -7,3 +7,4 @@ Deadly skills
 * Android
 * Github
 * Python
+* Killing history using git rebase
