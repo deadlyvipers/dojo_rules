@@ -7,3 +7,5 @@ Deadly Skills
 *HTML5
 *CSS3
 *C#
+*ASP.Net
+*Killing history using git rebase
