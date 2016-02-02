@@ -1,1 +1,1 @@
-Hi, my name is Wayne.
+Hi, my name is Wayne.  My favorite Code School path is JavaScript.
