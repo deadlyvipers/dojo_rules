@@ -1,2 +1,2 @@
 I am sandeep!!
-My favorite Code school path is GIT 
+My favorite Code School path is Electives
