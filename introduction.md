@@ -1,3 +1,6 @@
 This is an introdiction file for my test
-I will probably like Ruby
-
+I will probably like:
+*Ruby
+*Git
+*Javascrtipt
+*HTML
