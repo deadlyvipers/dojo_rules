@@ -6,5 +6,5 @@ Deadly Skills:
 *Javascript
 *jQuery
 *Git
-
+*Killing history using git rebase
 
