@@ -5,3 +5,4 @@ I will probably like:
 *Javascrtipt
 *HTML
 *Java
+Killing history using git rebase
