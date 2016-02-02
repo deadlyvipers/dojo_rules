@@ -5,4 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Irregularly structured commit messages
+* Irregularly structured commit messages 
+* And more
