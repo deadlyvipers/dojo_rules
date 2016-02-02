@@ -10,3 +10,4 @@ List of Deadly Skills:
 * Kill Geeks
 * Eat Freaks
 * Holy Sh*t
+Killing history using git rebase
