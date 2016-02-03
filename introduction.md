@@ -1,3 +1,5 @@
 Hello!
 Code School: Ruby, Javascript
-Git, JavaScript, Ruby
+* Git
+* JavaScript
+* Ruby
