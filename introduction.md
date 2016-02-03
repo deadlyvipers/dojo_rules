@@ -5,3 +5,5 @@ My not-so-deadly skills are:
 *C++
 *JavaScript
 *HTML/CSS
+*Killing history using git rebase
+ 
