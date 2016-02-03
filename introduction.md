@@ -1,2 +1,5 @@
 Hi. My name is Mai.
-Javascript
+* Git
+* Javascript
+* Ruby
+* Killing history using git rebase
