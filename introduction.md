@@ -10,4 +10,4 @@ My favorite CodeSchool path is the Javascript Path. I have learned a lot of usef
 * JavaScript
 * Qt
 * C++
-
+* Killing history using git rebase
