@@ -5,3 +5,4 @@ My favourite path is HTML & CSS.
 Deadly skills
 * Github
 * JavaScript
+* Killing history using git rebase
