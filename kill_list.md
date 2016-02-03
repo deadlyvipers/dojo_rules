@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Trivial comments
+* Inheritance over object composition
+
