@@ -1,4 +1,4 @@
-my name is steven
+my name is steven p
 first dojo test
 
 favorite Code School is Git
