@@ -1,1 +1,1 @@
-Hi it's me again!
+Hi it's me again! JavaScript is the best!
