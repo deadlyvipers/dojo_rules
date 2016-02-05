@@ -4,6 +4,6 @@ echo "On my way to becoming a GitHub Master. I love Ruby and JavaScript." > intr
 git commit -am "Added Code School Path"
 git push
 git checkout -b deadly_list
-git add *
+git add --*
 git commit -m "Git, JavaScript, Ruby"
 git push -u origin deadly_list
