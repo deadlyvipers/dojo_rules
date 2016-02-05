@@ -1,7 +1,6 @@
-git clone https://github.com/GabijaSmolskiene/deadly_skills.git
-cd deadly_skills
-echo "I started in the Ruby world, but now I love JavaScript." > introduction.md
-## Deadly Skills
+## 
+I started in the Ruby world, but now I love JavaScript.
+Deadly Skills
 
 * Ruby on Rails
 * JavaScript
