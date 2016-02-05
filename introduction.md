@@ -5,3 +5,4 @@ git commit master
 git commit -b master
 git checkout master
 GabijaSmolskiene-patch-1
+my favorite codes school path - Rubby
