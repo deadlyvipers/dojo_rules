@@ -3,4 +3,4 @@ cd dojo_rules
 echo "my favorite code school path is RUbby" > introduction.md
 git add -A && got commit -m "Added introduction"
 git push
-echo
+git pull
