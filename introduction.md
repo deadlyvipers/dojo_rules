@@ -1,6 +1,6 @@
-git clone https://github.com/username/dojo_rules.git
+git clone https://github.com/GabijaSmolskiene/dojo_rules.git
 cd dojo_rules
-echo "On my way to becoming a GitHub Master" > introduction.md
+echo "my favorite code school path is RUbby" > introduction.md
 git add -A && got commit -m "Added introduction"
 git push
 echo
