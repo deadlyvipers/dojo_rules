@@ -6,3 +6,4 @@ Skills
 * Python
 * Web development
 * Browser extensions
+* Killing history using git rebase
