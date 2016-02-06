@@ -1,3 +1,3 @@
 Hello I'm Gaby
-Python
+JavaScript
 
