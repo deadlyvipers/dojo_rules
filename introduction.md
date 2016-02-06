@@ -6,3 +6,4 @@ Deadly skills:
 *Python
 *Algorithms
 *Git
+*Killing history using git rebase
