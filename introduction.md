@@ -5,3 +5,4 @@ Hello, world. This is Dusitn. My favorite Code School path is JavaScript!
 * Git
 * HTML
 * CSS
+* Killing history using git rebase
