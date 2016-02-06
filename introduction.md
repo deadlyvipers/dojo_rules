@@ -1,1 +1,1 @@
-I am your OG
+I am your OG and my favorite is Electives
