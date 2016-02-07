@@ -7,3 +7,8 @@ How tu use Github
 My favorite path:
 - JavaScript
 - Git
+
+My deadly skills
+* JavaScript
+* jQuery
+* Git
