@@ -1,3 +1,7 @@
 Hi, I'm John!
 
-My fav path is Ruby
+My fav path is
+
+*Git
+*JavaScript
+*Ruby
