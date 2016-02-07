@@ -6,3 +6,4 @@ Deadly skills:
 * TSQL
 * Git
 * Mercurial
+* Killing history using git rebase
