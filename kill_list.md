@@ -5,3 +5,4 @@ Bad Coding Practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names 
+* Programming grievance: programming is hard
