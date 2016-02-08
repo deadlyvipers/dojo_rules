@@ -1,2 +1,2 @@
 ## Hello! ##
-My name is Mai Anh Vu.
+My name is Mai Anh Vu. I like the Ruby path.
