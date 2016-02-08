@@ -1,0 +1,1 @@
+Hello my name is Chris W. I enjoyed obtaining the HTML & CSS Master path to brush the dust off of some skillsets I have not had to use extensively in some time. My favorite Code School Path was HTML & CSS and hopefully this string satisfies requirements for the current master GitHub path.
