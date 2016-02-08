@@ -6,3 +6,4 @@ My name is Mai Anh Vu. I like the Ruby path.
 * Git
 * Ruby
 * JavaScript
+* Killing history using git rebase
