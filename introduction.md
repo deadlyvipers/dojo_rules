@@ -11,3 +11,4 @@ Deadly Skills
 * JavaScript
 * jquery
 * Bootstrap
+* Killing history using git rebase
