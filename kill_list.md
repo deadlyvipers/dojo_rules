@@ -3,5 +3,5 @@ Bad Coding Practices
 * Unused Code
 * Functions with side effects
 * Unformatted code
-* Repeated code block 
+* Repeated code blocks
 * Bad variable names 
