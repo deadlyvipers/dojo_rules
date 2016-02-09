@@ -10,3 +10,4 @@ Yet another addition, per instructions. Ahem... My deadly skills:
 * Off
 * My
 * Lawn
+* Killing history using git rebase
