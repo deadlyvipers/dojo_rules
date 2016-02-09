@@ -1,3 +1,5 @@
 "On my way to becoming a GitHub Master" 
 "HTML & CSS"
-"GIT"
+*"GIT"
+*"JavaScript"
+*"Ruby"
