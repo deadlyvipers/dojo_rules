@@ -1,2 +1,6 @@
 "On my way to becoming a GitHub Master" 
 "HTML & CSS"
+*"GIT"
+*"JavaScript"
+*"Ruby"
+"killing history using git rebase"
