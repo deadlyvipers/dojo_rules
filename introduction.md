@@ -7,3 +7,4 @@ Code School path Electives
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
