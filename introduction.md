@@ -2,5 +2,5 @@ Go to the Deadly Vipers organization on GitHub and look for the "dojo_rules" rep
 
 We'll need to know your GitHub username for this course. We'll assume all changes for this course are done by a GitHub user with this username:
 
-Code School path Python
+Code School path Electives
 
