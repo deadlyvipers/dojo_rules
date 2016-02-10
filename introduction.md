@@ -1,2 +1,2 @@
 Introduction
-git
+JavaScript
