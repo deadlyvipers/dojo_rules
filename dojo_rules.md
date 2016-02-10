@@ -5,10 +5,6 @@ printf "Dojo Rules\n==========\n* Always be on time\n* Always take off your shoe
 git commit -am "Fixed spelling errors"
 git push origin new_rules
 
-git tag -a v1.2.0 -m "Created v1.2.0 tag."
-git push --tags
-
-
 ==========
 * Always be on time
 * Always take off your shoes
