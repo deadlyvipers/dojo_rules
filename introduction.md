@@ -1,3 +1,5 @@
-Hello I'm Gaby
-JavaScript
+* JavaScript
+* Git
+* C#
+* C++
 
