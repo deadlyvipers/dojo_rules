@@ -1,1 +1,1 @@
-First, wash the rice
+favorite Code school path : Git, so far ('cause it's the only one)
