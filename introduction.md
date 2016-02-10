@@ -1,5 +1,4 @@
 * JavaScript
 * Git
-* C#
 * C++
 
