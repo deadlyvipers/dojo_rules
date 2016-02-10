@@ -13,3 +13,8 @@ git push origin deadly_skills
 
 dojo_rules$ git push origin
 dojo_rules (deadly_skills)$ git push origin
+
+git checkout master
+git pull
+git merge --no-ff deadly_skills
+git push
