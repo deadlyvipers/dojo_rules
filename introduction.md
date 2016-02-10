@@ -1,6 +1,7 @@
 git checkout -b deadly_skills
 git push origin deadly_skills
-printf "I started in the Ruby world, but now I love JavaScript.
+printf "On my way to becoming a GitHub Master. I love Ruby and JavaScript.\n\n* Ruby on Rails\n*Git\n* Rebase" > > introduction.md
+git commit -am "Added rebase to my list of deadly skills." && git push origin deadly_skills
 
 ## Deadly Skills
 
