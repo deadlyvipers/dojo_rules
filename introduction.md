@@ -11,8 +11,6 @@ git checkout master
 git merge --no-ff deadly_skills
 git push origin master
 
-git tag -a v1.2.0 -m "Creating v1.2.0 tag."
-it push origin --tags
 
 ## Deadly Skills
 
