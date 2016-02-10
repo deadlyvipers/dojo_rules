@@ -11,6 +11,11 @@ git checkout master
 git merge --no-ff deadly_skills
 git push origin master
 
+git checkout master
+git pull
+git merge --no-ff deadly_skills
+git push
+
 ## Deadly Skills
 
 * Ruby on Rails
