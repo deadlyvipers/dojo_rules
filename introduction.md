@@ -11,10 +11,8 @@ git checkout master
 git merge --no-ff deadly_skills
 git push origin master
 
-dojo_rules$ git tag -a v1.2.0 -m "Creating v1.2.0 tag."
-dojo_rules$ git push origin --tags
-
-
+git tag -a v1.2.0 -m "Creating v1.2.0 tag."
+git push origin --tags
 
 ## Deadly Skills
 
