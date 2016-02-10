@@ -5,3 +5,8 @@ git commit -am "Added deadly skills"
 git push origin deadly_skills
 pull.rebase = true
 branch.autosetuprebase = always
+
+git checkout master
+git pull
+git merge --no-ff deadly_skills
+git push
