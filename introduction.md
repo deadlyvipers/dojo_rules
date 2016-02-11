@@ -8,3 +8,4 @@ Deadly skills:
 * HTML/CSS
 * GIT
 * Angular.js
+* blabla
