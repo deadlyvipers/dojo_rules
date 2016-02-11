@@ -1,3 +1,5 @@
+All members should read the rules
+=============
 Dojo Rules
 ==========
 
