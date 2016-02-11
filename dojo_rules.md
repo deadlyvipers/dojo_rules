@@ -1,9 +1,4 @@
-Added tag
-git checkout master
-git log
-git checkout 15f59e89a42e6e1dcea997281c975863c6e2d861
-git tag -a v1.2.0 -m "Creating v1.2.0 tag."
-git push origin --tags
+
 
 
 
