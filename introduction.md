@@ -1,5 +1,4 @@
-I love Ruby
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-* Ruby
-* JavaScript
-* rebase
+* Ruby on Rails
+*Git
