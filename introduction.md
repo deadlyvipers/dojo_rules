@@ -8,3 +8,4 @@ Greetings
 *Rails
 *Python
 *Django
+*Killing history using git rebase
