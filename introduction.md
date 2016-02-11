@@ -1,3 +1,3 @@
 
 Hi I'm AndiDavies
-My favorite Code School path is Git stuff!
+My favorite Code School path is JavaScript
