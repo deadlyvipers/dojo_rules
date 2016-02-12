@@ -1,2 +1,4 @@
-# Hello, world!
-# My favorite Code School path is iOS.
+* Git
+* Ruby
+* Javascript
+* Killing history using git rebase
