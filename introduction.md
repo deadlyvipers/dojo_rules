@@ -6,3 +6,5 @@ My favourite code school path is JavaScript.
 * jQuery
 * Backbone
 
+- Killing history using git rebase
+
