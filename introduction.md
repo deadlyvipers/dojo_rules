@@ -7,3 +7,9 @@ How tu use Github
 My favorite path:
 - JavaScript
 - Git
+
+My deadly skills
+* JavaScript
+* jQuery
+* Git
+* Killing history using git rebase
