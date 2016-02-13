@@ -6,3 +6,4 @@ I like the iOS courses
 * LaTeX 
 * C
 * Python
+* Killing history using git rebase
