@@ -1,5 +1,8 @@
 ###Hi, 
 ####My name is Ben.
 
-javascript
-
+* javascript
+* git
+* ruby
+* python
+* Killing history using git rebase
