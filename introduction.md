@@ -1,8 +1,8 @@
 ###Hi, 
 ####My name is Ben.
 
-javascript
-git
-ruby
-python
+* javascript
+* git
+* ruby
+* python
 
