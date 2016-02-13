@@ -5,4 +5,4 @@
 * git
 * ruby
 * python
-
+* Killing history using git rebase
