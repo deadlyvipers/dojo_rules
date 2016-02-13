@@ -5,4 +5,4 @@ Kill List
 * Unformatted code 
 * Repeated code blocks 
 * Bad variable names
-* Not keeping code under 80 characters
+* Not keeping code under 80 characters 
