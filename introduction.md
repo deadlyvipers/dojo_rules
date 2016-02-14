@@ -8,5 +8,6 @@ My favorite CodeSchool path is Javascript.
 * C & C++
 * javascript
 * PHP
+* Killing history using git rebase
 
 
