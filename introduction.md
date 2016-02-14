@@ -4,3 +4,4 @@
 *git 
 *javascript
 *hai
+Killing history using git rebase"
