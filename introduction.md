@@ -1,1 +1,1 @@
-blahblahblahblahblah
+Javascript is my favorite codeschool path.
