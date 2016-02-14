@@ -1,3 +1,5 @@
-Haiii
-Hellooo masss
-Ruby
+*Haiii
+*Hellooo masss
+*Ruby
+*git 
+*javascript
