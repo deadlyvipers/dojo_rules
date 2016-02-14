@@ -3,3 +3,4 @@ Skills
 *Java
 *JavaScript
 *Perl
+*Killing history using git rebase
