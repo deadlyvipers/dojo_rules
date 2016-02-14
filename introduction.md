@@ -1,4 +1,0 @@
-
-Dojo Rules
-*Author Sibin
-
