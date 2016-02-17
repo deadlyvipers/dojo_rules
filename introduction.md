@@ -3,4 +3,5 @@ Hello World
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
 
