@@ -1,11 +1,4 @@
-Matt O'Toole
-**********
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-* Coding dojo
-* Likes comedy and cricket too
-
-********
-Fave Codeschool courses:
-1) Ruby path
-2) Python
-3) JS
+* Ruby on Rails
+*Git
