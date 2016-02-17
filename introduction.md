@@ -13,3 +13,4 @@ Oh, I definitely love all of the CodeSchool paths, but the Ruby one out of all i
 * Ruby Desease
 * JavaScripts Syndrome
 * ODD (Object Developmet Disorder)
+* Killing history using git rebase
