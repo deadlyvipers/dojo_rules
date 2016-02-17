@@ -1,3 +1,3 @@
-deadly Rules more changes
+deadly skills added
 ==========
 * Always be on time
