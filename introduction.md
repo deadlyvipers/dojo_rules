@@ -5,3 +5,4 @@ My favorite path is JavaScript
 * Vim strike
 * Sublime stroke
 * Web Special
+* Killing history using git rebase
