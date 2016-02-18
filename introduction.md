@@ -3,3 +3,4 @@ On my way to becoming a GitHub Master
 * JavaScript
 * Git
 * GitHub
+* Killing history using git rebase
