@@ -1,1 +1,1 @@
-Hello world! Favorite path was the SQL path.
+Hello world! Favorite path was Electives.
