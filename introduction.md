@@ -1,4 +1,4 @@
-# Introduction: Git Path
+# Ruby
 
 Hello Sensei, I come here to learn.
 
