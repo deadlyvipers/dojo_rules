@@ -1,1 +1,1 @@
-Hello, I'm Igor.
+Hello, I'm Igor. My favorite Code School path is JavaScript.
