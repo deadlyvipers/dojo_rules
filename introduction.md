@@ -5,3 +5,4 @@ I think the JavaScript Road Trip and Best Practices are a great introduction.
 * HTML
 * CSS
 * Git
+* Killing history using git rebase
