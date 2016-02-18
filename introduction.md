@@ -1,2 +1,6 @@
 On my way to becoming a GitHub Master
-Ruby
+* Ruby
+* JavaScript
+* Git
+* GitHub
+* Killing history using git rebase
