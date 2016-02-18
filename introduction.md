@@ -1,4 +1,5 @@
 # Ruby
 
-Hello Sensei, I come here to learn.
-
+*   Git
+*   Javascript
+*   Ruby
