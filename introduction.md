@@ -5,3 +5,4 @@ Skills:
 * JavaScript
 * jQuery
 * Angularjs
+* Killing history using git rebase
