@@ -4,3 +4,4 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
+* Bottle of Wine
