@@ -1,5 +1,5 @@
 JavaScript asdfasdfasdf
 
- - Git
- - JavaScript
- - Ruby
+ * Git
+ * JavaScript
+ * Ruby
