@@ -1,1 +1,2 @@
-Hello I'm Theud
+Hello I'm Theud and I like CodeSchool!
+
