@@ -1,2 +1,6 @@
-Hello
-JavaScript
+Deadly Skills
+
+*Git
+*JavaScript
+*SQL
+*Angular
