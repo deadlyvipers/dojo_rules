@@ -5,3 +5,4 @@ My favorite Codeschool Path is Ruby.
 * Ruby
 * Python
 * R
+* Killing history using git rebase
