@@ -1,1 +1,8 @@
 Hello! I really liked the Ruby courses.
+
+## Deadly Skills
+
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
