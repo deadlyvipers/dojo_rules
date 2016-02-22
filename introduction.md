@@ -6,3 +6,4 @@ Fav Code School path: JavaScript
 * Java
 * CSS
 * JavaScript
+* Killing history using git rebase
