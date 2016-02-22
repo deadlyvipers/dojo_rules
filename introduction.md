@@ -5,3 +5,4 @@ Skills:
  * Javascript
  * HTML/CSS
  * C#
+ * Killing history using git rebase
