@@ -6,3 +6,4 @@ My deadly skills are:
 * programming
 * driving
 * git
+* Killing history using git rebase
