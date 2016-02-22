@@ -1,2 +1,2 @@
 On my way to becoming a GitHub Master
-My favorite path is Databases
+My favorite path is JavaScript
