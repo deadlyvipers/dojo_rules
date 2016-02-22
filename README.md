@@ -5,4 +5,4 @@ This repository contains a list of dojo rules for the Deadly Vipers dojo
 
 All members should read the rules here https://github.com/deadlyvipers
 
-This is part of my demo
+This is part of the Zetta Demo
