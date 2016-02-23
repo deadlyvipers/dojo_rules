@@ -1,5 +1,7 @@
 I'm Brad Stokes. I'm a developer and just making sure I have my basics covered.
 
+My favourite Code School path is JavaScript.
+
 Codeschool has been great, I've been loving the JS stream from both a front an back end development perspective.
 
 The one thing I love is making things that do exactly that which they are meant to do. I have seen products I've created, whether that be a website or a web app, transform the businesses for which they were created. 
