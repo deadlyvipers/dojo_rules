@@ -1,2 +1,2 @@
 my name is Bob!
-favorit course on schoolcode: GIT ;-)
+favorite path on code school: 
