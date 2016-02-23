@@ -1,5 +1,7 @@
 I'm Brad Stokes. I'm a developer and just making sure I have my basics covered.
 
+Codeschool has been great, I've been loving the JS stream from both a front an back end development perspective.
+
 The one thing I love is making things that do exactly that which they are meant to do. I have seen products I've created, whether that be a website or a web app, transform the businesses for which they were created. 
 
 One of my favourites is www.aclasscatering.com.au. The business had a website that had been created by the owner. The site had some fantastic content (a blog) that he had been writing regularly for the past 2 years. Unfortunately there was a real disconnect between the site (terrible) and the service (amazing). I organised for the duo to redesign their logo and  redeveloped their site updating look, usability and applying standard SEO principles. Within  a month the business started booking major jobs to the point that A Class Catering had to start growing their team. In the last 12 months the work has been constant and growing and they have been receiving jobs from their intended marketplace. The site has helped showcase the professionalism behind the scenes to the world. I love the results they have had.
