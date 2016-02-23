@@ -12,6 +12,7 @@ Deadly Skills
 *ASP
 *Node
 *Angular
+*Killing history using git rebase
 
 Codeschool has been great, I've been loving the JS stream from both a front an back end development perspective.
 
