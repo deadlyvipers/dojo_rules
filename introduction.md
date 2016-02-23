@@ -1,0 +1,27 @@
+I'm Brad Stokes. I'm a developer and just making sure I have my basics covered.
+
+My favourite Code School path is JavaScript.
+
+Deadly Skills
+*GIT
+*PHP
+*JavaScript
+*Java
+*SQL
+*NoSQL
+*ASP
+*Node
+*Angular
+*Killing history using git rebase
+
+Codeschool has been great, I've been loving the JS stream from both a front an back end development perspective.
+
+The one thing I love is making things that do exactly that which they are meant to do. I have seen products I've created, whether that be a website or a web app, transform the businesses for which they were created. 
+
+One of my favourites is www.aclasscatering.com.au. The business had a website that had been created by the owner. The site had some fantastic content (a blog) that he had been writing regularly for the past 2 years. Unfortunately there was a real disconnect between the site (terrible) and the service (amazing). I organised for the duo to redesign their logo and  redeveloped their site updating look, usability and applying standard SEO principles. Within  a month the business started booking major jobs to the point that A Class Catering had to start growing their team. In the last 12 months the work has been constant and growing and they have been receiving jobs from their intended marketplace. The site has helped showcase the professionalism behind the scenes to the world. I love the results they have had.
+
+The thing that I get frustrated with is poorly written code through laziness or ignorance. I have had to rescue multiple clients from shoddy offshore development. I really hate the grief they experience, the cost in time and money and the damage it does to the industry I work in. I've seen companies doing $1000+ sales a day through a CE Magento drop to $20 a day and then come to me on day 20 to fix the issue. I don't every want my clients to experience that. Clean, well formed code matters.
+
+I can program in multiple languages, make beautiful functional things and code up a storm, but the thing that gets me excited is seeing something I made change the way a person or business engages with the world. I love pushing myself to grow and develop because it enables me to create great things for my clients and my company. 
+
+Send me a message, if you have something cool and web-based you need created or maintained. I'd love to help.
