@@ -1,2 +1,2 @@
 Hi, this is a test.
-My favorite code school course is Python: https://www.codeschool.com/learn/python
+My favorite code school course is Javascript: https://www.codeschool.com/learn/javascript
