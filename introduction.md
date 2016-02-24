@@ -10,3 +10,4 @@ My Deadly Skills
 *HTML
 *PHP
 *ASP
+*Killing history using git rebase
