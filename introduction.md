@@ -4,3 +4,4 @@ My deadly skills:
 * Git
 * Python
 * Being awesome
+* Killing history using git rebase
