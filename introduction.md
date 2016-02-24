@@ -1,1 +1,1 @@
-Hello, this is novalu 
+Hello, this is novalu, my favorite path is JavaScript
