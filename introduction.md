@@ -1,1 +1,2 @@
-javascript
+* javascript
+* java
