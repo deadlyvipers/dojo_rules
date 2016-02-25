@@ -4,3 +4,4 @@ My favorite code school course is Javascript: https://www.codeschool.com/learn/j
 Beware of the deadly skills:
 * Beer pong
 * Kung Fu
+* Killing history using git rebase
