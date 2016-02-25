@@ -10,3 +10,4 @@ Deadly Skills:
 *HTML
 *Git
 *MongoDB
+*Killing history using git rebase
