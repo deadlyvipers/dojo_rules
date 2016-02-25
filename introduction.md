@@ -9,3 +9,5 @@ List my deadly skills :
 * Git
 * JavaScript
 * Ruby
+Kiling history using git rebase
+
