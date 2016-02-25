@@ -1,2 +1,4 @@
 # hello i am me
-JavaScript
+* JavaScript
+* Git
+* Ruby
