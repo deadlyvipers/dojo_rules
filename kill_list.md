@@ -1,5 +1,6 @@
 Kill List
 =========
+* Null exceptions
 * Unused code
 * Functions with side effects
 * Unformatted code
