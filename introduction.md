@@ -9,3 +9,4 @@ Deadly Skills:
 *Javascript - Meteor
 *HTML
 *Git
+*MongoDB
