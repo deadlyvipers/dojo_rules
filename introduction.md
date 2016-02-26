@@ -1,2 +1,7 @@
 # my name is yin
-JavaScript
+# deadly skills
+* JavaScript
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
