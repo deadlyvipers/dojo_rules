@@ -4,5 +4,6 @@ I really want to get into the JavaScript path!
  * Git
  * JavaScript
  * Ruby
+ * Killing history with a rebase
 
 kthxbye
