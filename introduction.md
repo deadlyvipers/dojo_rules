@@ -1,1 +1,1 @@
-Hello
+Hello. I'm R4DIC4L and I'm now trying improving my Git skills.
