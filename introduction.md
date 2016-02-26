@@ -1,2 +1,6 @@
 # my name is yin
-JavaScript
+# deadly skills
+* JavaScript
+* Git
+* JavaScript
+* Ruby
