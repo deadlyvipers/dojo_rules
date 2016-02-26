@@ -4,3 +4,4 @@ My skills:
 * Java
 * Ruby
 * Python
+* Killing history using git rebase
