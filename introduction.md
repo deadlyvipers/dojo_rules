@@ -1,1 +1,1 @@
-Hello. I'm R4DIC4L and I'm now trying improving my Git skills.
+Hello. I'm R4DIC4L and I'm now trying improving my Git skills. My favourite path on CodeSchool is probably JavaScript so far.
