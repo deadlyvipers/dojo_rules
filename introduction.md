@@ -1,4 +1,4 @@
-core.repositoryformatversion=0
+JavaScript
 core.filemode=true
 core.bare=false
 core.logallrefupdates=true
