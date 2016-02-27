@@ -1,7 +1,5 @@
-Hello My name is Anna.
-1
-2
-3
-4
-5
-My favorite Ruby, JavaScript, HTML & CSS, iOS or Electives.
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
+*Killing history using git rebase  
