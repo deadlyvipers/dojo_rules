@@ -4,3 +4,4 @@ Hello My name is Anna.
 3
 4
 5
+My favorite Ruby, JavaScript, HTML & CSS, iOS or Electives.
