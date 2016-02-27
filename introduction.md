@@ -4,3 +4,4 @@ hello aksdjhaslkda;skda askdhadlkas;da daldhlaksdn;asdja;sodja asdlasldihasdiahs
 *Ruby
 *JavaScript
 *Python
+*Killing history using git rebase
