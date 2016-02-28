@@ -9,4 +9,5 @@ My deadly skills are:
 * Git
 * C++
 * HTML/CSS
+* Killing history using git rebase
 
