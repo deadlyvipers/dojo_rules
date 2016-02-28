@@ -4,3 +4,4 @@ Btw, Javascript path on CodeSchool rocks! ;)
 Deadly skills:
 * Java
 * JavaScript
+* Killing history using git rebase
