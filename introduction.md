@@ -6,3 +6,4 @@ My favorite Code School path is HTML & CSS.
 * Python
 * Sass
 * Git
+* Killing history using git rebase
