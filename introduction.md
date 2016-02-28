@@ -2,4 +2,7 @@
 
 Hi, there!
 
-Ruby
+Deadly skills:
+* Ruby
+* git
+* C/C++
