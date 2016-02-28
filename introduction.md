@@ -7,3 +7,4 @@ Praesent quam orci, condimentum tincidunt accumsan sed, convallis eu libero. Sed
 Electives
 
 * Git
+* Killing history using git rebase
