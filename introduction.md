@@ -8,3 +8,4 @@ My deadly skills are:
 * Git
 * Ansible
 * Playing music instrument keyboard and guitar
+* Killing history using git rebase
