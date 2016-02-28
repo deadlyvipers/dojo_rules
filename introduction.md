@@ -6,3 +6,4 @@ Greetings, Jay here - favorite path so far has been javascript.
 * Git
 * Bash
 * Javascript
+* Killing history using git rebase
