@@ -5,3 +5,4 @@ My favorite path is JavaScript!
 * JavaScript
 * C++
 * Visual Basic
+* Killing history using git rebase
