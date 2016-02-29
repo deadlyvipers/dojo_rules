@@ -5,4 +5,5 @@ My favorite path is Ruby.
 My Skills:
 * Git
 * Ruby
+* Killing history using git rebase
 
