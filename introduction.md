@@ -1,3 +1,1 @@
-I am very new to Dojo.
-Scala and Java
-Thanks
+Ruby, JavaScript, HTML & CSS, iOS or Elective.
