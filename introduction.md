@@ -6,6 +6,6 @@ core.ignorecase=true
 core.precomposeunicode=true
 remote.origin.url=git@bitbucket.org:recipelondon/zte-mwc.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.master.remote=origin
+branch.master.remote=origine
 branch.master.merge=refs/heads/master
 
