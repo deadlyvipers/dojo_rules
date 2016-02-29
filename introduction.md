@@ -3,4 +3,4 @@
 * JavaScript
 * Git
 * Ruby
-* Making another change for some reason
+* Killing history using git rebase
