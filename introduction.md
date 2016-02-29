@@ -7,3 +7,4 @@ List of usefull skills
 * Git
 * Python
 * ...
+* Killing history using git rebase
