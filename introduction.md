@@ -6,4 +6,4 @@ Here is a collection of deadly tools for a developper
 * Git
 * Ruby
 * Python
-* ... etc ...
+* ... etc ... Killing history using git rebase
