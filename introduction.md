@@ -1,3 +1,5 @@
 # Introduction #
 ## Favorite Code School Path ##
-JavaScript
+* JavaScript
+* Git
+* Ruby
