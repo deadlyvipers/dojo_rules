@@ -10,3 +10,4 @@ deadly skills
 * C/C++
 * Windows, Windows Multimedia
 * SW design with UML
+* Killing history using git rebase
