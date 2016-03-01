@@ -5,3 +5,8 @@ I am...
 
 I like JavaScript courses in CodeSchool.
 test: when pull-request commit will be terminated?
+
+deadly skills
+* C/C++
+* Windows, Windows Multimedia
+* SW design with UML
