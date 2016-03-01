@@ -4,3 +4,4 @@ I am...
 - and a programmer of good SW.
 
 I like JavaScript courses in CodeSchool.
+test: when pull-request commit will be terminated?
