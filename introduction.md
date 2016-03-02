@@ -1,3 +1,4 @@
-Helllllo
-C++
-my favortie path is ruby https://www.codeschool.com/learn/ruby
+*Helllllo
+*my favortie path is ruby
+*Git
+*Javascript
