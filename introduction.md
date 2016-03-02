@@ -7,3 +7,4 @@ Hello my name is Kathrin!
 *C
 *C++
 *C#
+*Killing history using git rebase
