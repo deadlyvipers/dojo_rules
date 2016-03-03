@@ -3,4 +3,5 @@ I want to master javascript
 * Git
 * Javascript
 * Ruby
+* rebase
 
