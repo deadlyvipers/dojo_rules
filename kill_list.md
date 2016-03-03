@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable name
-* Bad team leader
+* Bad team leader 
