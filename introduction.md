@@ -5,3 +5,5 @@ my favorite path on code school is the HTML & CSS path
 * git
 * javascript
 *php
+*rebase
+
