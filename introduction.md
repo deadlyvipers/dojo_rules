@@ -1,3 +1,4 @@
-Favorite path Javascript
-
-This is me!
+Deadly skills
+	*Javascript
+	*Ruby
+	*Mister Hat
