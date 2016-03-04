@@ -1,2 +1,5 @@
  my name is sype
-Ruby
+*Ruby
+*python
+*Git
+*Ansible
