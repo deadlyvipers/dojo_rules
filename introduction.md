@@ -4,3 +4,4 @@ My deadly skills are:
 * JavaScript
 * Ruby
 * Ninja stars
+* Killing history using git rebase
