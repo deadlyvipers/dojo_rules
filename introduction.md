@@ -4,3 +4,4 @@ My deadly skills:
 *Python
 *Git
 *SQL
+*Killing history using git rebase
