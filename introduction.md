@@ -1,1 +1,1 @@
-hello i'm vadim
+hello i'm vadim my favorite code School path is javascript
