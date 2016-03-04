@@ -1,2 +1,2 @@
 this is an intro to dojo-rules for a github presentation
-javaScript
+My favorite Code School path JavaScript
