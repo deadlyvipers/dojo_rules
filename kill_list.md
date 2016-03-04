@@ -8,7 +8,12 @@ Kill List
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
+<<<<<<< HEAD
 * Bad variafble names
+=======
+* Bad variable names
+* Issue resolvesd
+>>>>>>> master
 <<<<<<< HEAD
 * Java2
 =======
