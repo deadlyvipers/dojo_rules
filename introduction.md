@@ -3,3 +3,4 @@ hello i'm vadim my favorite code School path is javascript
 *php
 *javascript
 *sublime
+*Killing history using git rebase
