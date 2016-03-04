@@ -1,2 +1,2 @@
 Hi, I am Ca.
-My favourite Code School is Git.
+My favourite Code School is JavaScript.
