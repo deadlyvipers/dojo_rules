@@ -1,5 +1,5 @@
  my name is sype
 *Ruby
 *python
-*Git
+*Git  Killing history using git rebase
 *Ansible
