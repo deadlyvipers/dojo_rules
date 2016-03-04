@@ -1,2 +1,6 @@
  my name is sype
-Ruby
+
+*Ruby
+*python
+*Git  Killing history using git rebase
+*Ansible
