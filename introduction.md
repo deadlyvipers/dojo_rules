@@ -1,2 +1,2 @@
 some introduction
-soma langs
+Ruby
