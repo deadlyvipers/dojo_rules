@@ -6,3 +6,4 @@ My favorite Code School path so far is Javascript.
 *Javascript
 *PHP
 *AngularJS
+*Killing history using git rebase
