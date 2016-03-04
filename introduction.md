@@ -1,1 +1,2 @@
 Hello my name is... Whhaaa my name is...... checka checka slim shady
+my favorite code school path is  JavaScript, HTML & CSS!!!
