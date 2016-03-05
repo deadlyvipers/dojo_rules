@@ -1,2 +1,3 @@
-Hello world!
-JavaScript
+* JavaScript
+* MongoDb
+* Git
