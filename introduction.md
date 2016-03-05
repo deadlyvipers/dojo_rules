@@ -1,2 +1,2 @@
 Intro
-Python is my fav!
+Python
