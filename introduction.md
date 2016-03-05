@@ -1,3 +1,1 @@
-Test repozytory
-
-My favorite Code School path is Python, Git
+My favorite Code School path are Ruby, JavaScript, HTML.
