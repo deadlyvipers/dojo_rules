@@ -4,8 +4,9 @@ For the momment my first Code School path is Git but i would like to try HTML/CS
 
 Thanks for this opportunity.
 
-Deadly kills: 
+Deadly skills: 
 * HTML;
 * CSS;
 * soon it was Git.
-*
+
+Killing history using git rebase is not my deadly skill.
