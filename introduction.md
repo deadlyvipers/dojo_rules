@@ -1,3 +1,7 @@
 Introduction:
-Javascript
+* Javascript
+* Ruby
+* GIT
+* Electives
+* Killing history using git rebase
 
