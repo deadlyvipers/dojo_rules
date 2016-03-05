@@ -6,6 +6,6 @@ Javascript path
 
 # Deadly Skills
 
-- Git
-- C#
-- Javascript
+* Git
+* C#
+* Javascript
