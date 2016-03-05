@@ -1,2 +1,7 @@
 = Introduction
-Ruby
+
+== Deadly skills
+
+* Git
+* JavaScript
+* Ruby
