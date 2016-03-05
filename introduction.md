@@ -1,2 +1,2 @@
 I'm Korean.
-I favorite Git course in Code school.
+I favorite iOS course in Code school.
