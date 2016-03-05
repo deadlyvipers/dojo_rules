@@ -7,5 +7,6 @@ Deadly skills:
 * git
 * Java
 * Objective-C
+* Killing history using git rebase
 
 Bye
