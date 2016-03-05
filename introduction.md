@@ -1,6 +1,3 @@
-*Intro wtvsbdfdsfbns
-*jsbdjhfsdfjhsbdfbhsdbfhs
-*kjsdbnfjsdhfbsdjhfbsdhjbfs
-*jsbfjksdbfjkbjhsbfjshdjfbjsbdf
-*JavaScript
-*Ruby
+* JavaScript
+* Ruby on Rails
+* Git
