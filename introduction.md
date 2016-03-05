@@ -1,1 +1,1 @@
-This is some introduction text. The best CodeSchool track was Python.
+This is some introduction text. The best CodeSchool track was iOS.
