@@ -3,3 +3,4 @@ JavaScript
 * Deadly Python
 * Dauntless Testing
 * Boring Speaker
+* Killing history using git rebase
