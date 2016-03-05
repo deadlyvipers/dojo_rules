@@ -1,1 +1,11 @@
-I am Hank Wang, I use HTML, CSS, JavaScript, Python, SQL, Objective-C, Swift.
+I am Hank Wang.
+
+* Killing history using git rebase
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
+* Objective-C
+* Swift.
+* Git
