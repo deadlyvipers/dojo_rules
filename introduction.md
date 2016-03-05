@@ -7,3 +7,4 @@ My favorite path is JavaScript
 * AngularJS
 * 4D
 * Sass
+* Killing history using git rebase
