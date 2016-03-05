@@ -7,3 +7,6 @@ Used technologies are:
 * HTML 
 * CSS
 * Git
+
+Deadly Skills:
+* Killing history using git rebase
