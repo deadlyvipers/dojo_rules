@@ -1,2 +1,6 @@
 Hello to you all!
-JavaScript
+
+Deadly Skills
+* JavaScript
+* Git
+* Killing history using git rebase
