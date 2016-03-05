@@ -7,3 +7,4 @@ Favourite Path: Electives
 * Git
 * JavaScript
 *  Clojure
+* Killing history using git rebase
