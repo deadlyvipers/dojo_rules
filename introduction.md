@@ -4,7 +4,8 @@ The Ruby path is my favorite Code School path!
 
 Deadly skills
 =============
-*C#
-*Java
-*Ruby
-*TypeScript
+* C#
+* Java
+* Ruby
+* TypeScript
+* Killing history using git rebase
