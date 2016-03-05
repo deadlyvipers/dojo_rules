@@ -1,2 +1,2 @@
 Intro
-Python
+JavaScript
