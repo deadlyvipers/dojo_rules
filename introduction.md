@@ -1,1 +1,1 @@
-My favorite path is the one for MEAN (MongoDB, Express, Angular & Node.js) stack.
+JavaScript
