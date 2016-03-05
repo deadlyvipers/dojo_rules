@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Literally any whitespace at all, anywhere
 * Using too many vowels or consonants
+* Doing things
