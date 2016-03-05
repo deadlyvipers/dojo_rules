@@ -1,1 +1,2 @@
-Grasshopper
+Name: Grasshopper
+Path: Git
