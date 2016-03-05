@@ -4,3 +4,4 @@ HTML & CSS
 * Git
 * Javascript
 * Node
+* Killing history using git rebase
