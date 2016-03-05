@@ -1,3 +1,3 @@
 I am tally
 
-git
+Javascript
