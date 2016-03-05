@@ -1,5 +1,5 @@
 # Hi this is an introduction
 JavaScript
-## Deadly Skills: 
- - Git
- - Javascript
+## Deadly Skills:
+ * Git
+ * JavaScript
