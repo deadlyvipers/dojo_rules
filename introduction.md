@@ -1,1 +1,2 @@
 My name is Porrapat Petchdamrongskul
+My favorite task on CodeSchool is Git.
