@@ -1,3 +1,6 @@
 Introduction:
-Javascript
+* Javascript
+* Ruby
+* GIT
+* Electives
 
