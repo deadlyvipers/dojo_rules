@@ -1,1 +1,1 @@
-Lol, hi!
+Lol, hi! JavaScript is my favorite path.
