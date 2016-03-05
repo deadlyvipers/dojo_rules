@@ -4,3 +4,4 @@
 *JS
 rebase abilities
 *bla
+*Killing history using git rebase
