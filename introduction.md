@@ -1,1 +1,3 @@
-Hello
+Hello,
+
+This is an introduction file for dojo_rules
