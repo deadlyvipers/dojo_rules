@@ -1,2 +1,5 @@
 Intro
-JavaScript
+*JavaScript
+*Python
+*Git
+*rebase
