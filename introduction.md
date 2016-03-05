@@ -1,2 +1,3 @@
 Test repozytory
-my favourite codeschool path is Python, Git
+
+My favourite codeschool path is Python, Git
