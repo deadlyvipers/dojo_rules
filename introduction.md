@@ -3,4 +3,6 @@ Dojo Rules
 
 Hello I am Francisco!
 
-JavaScript
+* JavaScript
+* Git
+* Java
