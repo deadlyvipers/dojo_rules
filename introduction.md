@@ -4,6 +4,6 @@ Favourite Path: Electives
 
 ## Skills
 
-- Git
-- JavaScript
-- Clojure
+* Git
+* JavaScript
+*  Clojure
