@@ -1,2 +1,2 @@
 Name: Grasshopper
-Path: Git
+Favorite Codeschool Path: Ruby 
