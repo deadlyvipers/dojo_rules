@@ -1,1 +1,4 @@
-JavaScript
+Skills:
+* Git
+
+* JavaScript
