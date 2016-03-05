@@ -1,3 +1,4 @@
-Hello, I'm Oszkar.
+ * Git
+ * JavaScript
+ * Rebase
 
-Electives
