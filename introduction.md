@@ -1,0 +1,3 @@
+###Introduction
+
+Training at CodeSchool.
