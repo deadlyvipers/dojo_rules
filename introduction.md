@@ -1,2 +1,3 @@
 Hello Dojo!
-This is my introduction. I am cleavatron.
+This is my introduction. I am cleavatron. 
+My favourite path in Code School would Git.
