@@ -1,8 +1,8 @@
 intro
 this is afi!
 my favor code path is HTML/CSS!
-## Deadly Skills
+## my skills:
+* JAVA
+* R
+* ANGULAR
 
-* Ruby on Rails
-* JavaScript
-* Node.js
