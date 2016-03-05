@@ -8,3 +8,5 @@ My favorite Code School path is JavaScript.
 * C
 * HTML
 * CSS
+
+Killing history using git rebase
