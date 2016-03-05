@@ -3,3 +3,4 @@ My deadly skills:
 * GitHub
 * JavaScript
 * C++
+* Killing history using git rebase
