@@ -7,3 +7,4 @@ My favourite Code School path is JavaScript, but I am open to exploring new path
 A list of my current deadly skills:
 * Git
 * JavaScript
+* Killing history using git rebase
