@@ -9,3 +9,4 @@ There is nothing greater than the Path of Python, but because the check doesn't 
 * Ruby
 * Python
 * Nodejs
+* Killing history using git rebase
