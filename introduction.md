@@ -11,3 +11,4 @@ My favorite CodeSchool Path is Electives.
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
