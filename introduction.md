@@ -1,2 +1,7 @@
 The introduction text.
-Favorite path: Electives.
+Skills
+* Git
+* Python
+* Matlab
+* Killing history using git rebase
+
