@@ -8,3 +8,5 @@ my 'favorite' code school path: https://www.codeschool.com/learn/javascript
 * one
 * two
 * three
+* Killing history using git rebase
+
