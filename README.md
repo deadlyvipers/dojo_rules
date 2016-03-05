@@ -3,5 +3,7 @@ Dojo Rules
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
-Git, JavaScript, Ruby
+* Git
+* JavaScript
+* Ruby
 
