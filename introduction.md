@@ -6,6 +6,7 @@ Hi, I'm Ryan
 
 * Ruby
 * Learning
+* Killing history using git rebase
 
 ### Favorite Codeschool Path
 
