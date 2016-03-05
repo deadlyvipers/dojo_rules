@@ -6,3 +6,4 @@ My Deadly skills:
 *C++
 *C
 *Python
+*Killing history using git rebase
