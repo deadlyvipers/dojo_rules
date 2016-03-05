@@ -4,4 +4,5 @@ One of my favorite programming languages is JavaScript, and I'm hoping to get go
 * JavaScript
 * Ruby
 * VIM!!!!!!!!!!!!!!
+* Killing history using git rebase
 
