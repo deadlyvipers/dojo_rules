@@ -1,1 +1,10 @@
-I am Hank Wang, I use HTML, CSS, JavaScript, Python, SQL, Objective-C, Swift.
+I am Hank Wang.
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
+* Objective-C
+* Swift.
+* Git
