@@ -1,3 +1,3 @@
 # Introduction
 
-Welcome Kyle Anderson!
+Welcome Kyle Anderson! His favorite Code School path is JavaScript.
