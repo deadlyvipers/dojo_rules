@@ -1,1 +1,1 @@
-Hello Dojo.  I am learning Git.  My name is Setab.
+Hello Dojo.  I am learning Git.  I love the electives.  My name is Setab.
