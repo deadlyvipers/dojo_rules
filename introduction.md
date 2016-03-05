@@ -1,2 +1,3 @@
-123123131321312
-Electives
+*Git,
+*JavaScript
+*Ruby
