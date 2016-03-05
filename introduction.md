@@ -1,2 +1,3 @@
 This is an introduction.
-JavaScript
+*JavaScript
+*Git
