@@ -5,4 +5,5 @@ This is an introductin, my favorite Code School path is JavaScript.
 * Javascript
 * Python
 * C#
+* Killing history using git rebase
 
