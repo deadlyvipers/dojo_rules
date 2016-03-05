@@ -3,3 +3,4 @@ Ruby
 *java
 *python
 *git
+*rebase
