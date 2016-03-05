@@ -5,4 +5,5 @@ Deadly Skills:
 * Python
 * Ruby
 * Git
+* Killing history using git rebase
 * C
