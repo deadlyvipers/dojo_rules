@@ -1,2 +1,2 @@
 Well, this isn't awkward...
-I think the git track is pretty nice.
+I think the JavaScript CS track is pretty nice.
