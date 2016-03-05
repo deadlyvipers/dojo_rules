@@ -1,2 +1,6 @@
 The introduction text.
-Favorite path: Electives.
+Skills
+* Git
+* Python
+* Matlab
+
