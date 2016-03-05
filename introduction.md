@@ -7,3 +7,4 @@ Deadly skills:
 * Git
 * C++
 * MarkDown
+* Killing history using git rebase
