@@ -2,4 +2,7 @@
 
 Training at CodeSchool.
 
-My favorite path is JavaScript.
+My favorite paths are:
+* JavaScript
+* Git
+* Killing history using git rebase
