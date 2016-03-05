@@ -9,3 +9,4 @@ Deadly Skills
 * CSS
 * Python
 * Django
+* Rebase
