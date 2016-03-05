@@ -1,3 +1,3 @@
 Andrew Judd
 ====
-AngularJS
+My favorite Code School path is AngularJS.
