@@ -1,1 +1,1 @@
-CodeSchool is awesome.
+CodeSchool Ruby path is awesome.
