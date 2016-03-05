@@ -6,3 +6,4 @@ deadly skills:
 * Java
 * JavaScript
 * Python
+* Killing history using git rebase
