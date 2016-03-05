@@ -1,2 +1,1 @@
-Hello, I'm Daniel
-Ruby
+On my way to becoming a GitHub Master
