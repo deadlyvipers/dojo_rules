@@ -4,3 +4,4 @@ Hello, I'm from Ivanovo, Russia. My favorite CodeSchool path is Git path obvious
 * Python
 * Java
 * JavaScript
+* Killing history using git rebase
