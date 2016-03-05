@@ -1,3 +1,1 @@
-Hello, I'm from Ivanovo, Russia
-
-My favorite CodeSchool path is Git path obviously
+Hello, I'm from Ivanovo, Russia. My favorite CodeSchool path is Git path obviously, but JavaScript also not bad.
