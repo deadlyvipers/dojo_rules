@@ -12,3 +12,4 @@ My favourite Code School path is: Ruby
 * HTML
 * JS
 * Bash
+* Killing history using git rebase
