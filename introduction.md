@@ -1,4 +1,4 @@
 Introduction.
 
-Ruby
-
+* Ruby
+* JavaScript
