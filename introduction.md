@@ -1,2 +1,5 @@
-#This is my Dojo file#
+# This is my Dojo file #
 Favorite Code School path: HTML & CSS
+Deadly Skills:
+* Git
+* JavaScript
