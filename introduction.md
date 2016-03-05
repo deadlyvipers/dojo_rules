@@ -16,3 +16,4 @@ The JavaScript path is okay, but I think the Git path is really my favorite.
 * XSLT
 * SVG
 * Wikitext
+* Killing history using git rebase
