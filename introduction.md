@@ -1,1 +1,2 @@
-This is introduction.
+This is an introduction.
+JavaScript
