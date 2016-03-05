@@ -9,6 +9,7 @@ Deadly skills
 * Sass
 * Ruby
 * Rails
+* Killing history using git rebase
 
 Deadly Weapons
 ===============
