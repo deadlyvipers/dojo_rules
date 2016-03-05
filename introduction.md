@@ -1,4 +1,4 @@
 Hello
-*ruby
-*git
-*sql
+* ruby
+* git
+* sql
