@@ -3,4 +3,5 @@ Introduction:
 * Ruby
 * GIT
 * Electives
+* Killing history using git rebase
 
