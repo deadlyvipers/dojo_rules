@@ -1,3 +1,3 @@
 short introduction about myself
 
-my favourite path is git
+my favourite path is Electives
