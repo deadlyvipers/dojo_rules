@@ -1,0 +1,1 @@
+This is only an introduction to a step of a codeSchool course.
