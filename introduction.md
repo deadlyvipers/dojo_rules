@@ -1,1 +1,1 @@
-My name is Sam
+My name is Sam, I love JavaScript
