@@ -9,3 +9,8 @@ Deadly skills
 * Sass
 * Ruby
 * Rails
+
+Deadly Weapons
+===============
+
+Macbook
