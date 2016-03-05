@@ -1,2 +1,3 @@
 *Ruby
 *rebase
+* new rule
