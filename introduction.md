@@ -1,1 +1,1 @@
-Hello I am Archez
+Hello I am Archez. My favorite Code School path is JavaScript.
