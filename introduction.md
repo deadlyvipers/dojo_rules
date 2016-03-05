@@ -9,3 +9,4 @@ Javascript path
 * Git
 * C#
 * Javascript
+* Killing history using git rebase
