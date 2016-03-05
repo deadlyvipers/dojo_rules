@@ -1,3 +1,5 @@
-Hello from Kostiantyn!
-I like JavaScript from Code School very much !
-
+* Killing history using git rebase
+* C#
+* Java
+* JS
+* PHP
