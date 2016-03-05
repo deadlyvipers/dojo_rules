@@ -1,3 +1,6 @@
+* Ruby
+* Killing history using git rebase
+
 JavaScript
 wkejqoijrg
 qprijg
