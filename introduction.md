@@ -7,3 +7,4 @@ My deadly skills include:
 * Perl
 * Python
 * Expect
+* Killing history using git rebase
