@@ -4,3 +4,4 @@ Deadly skills:
 * Git
 * Some JavaScript
 * Sandwich nomming
+* Killing history using git rebase 
