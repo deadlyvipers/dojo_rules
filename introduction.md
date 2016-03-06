@@ -7,3 +7,4 @@ Javascript
 * django
 * javascript
 * elixir
+* Killing history using git rebase
