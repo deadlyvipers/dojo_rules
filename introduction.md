@@ -3,3 +3,5 @@ Ruby
 * Git
 * Ruby
 * whatever
+* Killing history using git rebase
+
