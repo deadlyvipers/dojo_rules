@@ -4,3 +4,4 @@ Deadly skills:
 * git
 * bash
 * perl/python
+* Killing history using git rebase
