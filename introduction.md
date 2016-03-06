@@ -8,3 +8,4 @@ This is me. Nice to meet you :)
 * Linux/Unix
 * Transact SQL / MySQL
 * Cold Fusion
+* Killing history using git rebase
