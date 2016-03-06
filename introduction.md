@@ -7,3 +7,4 @@ Deadly skills:
 *git
 *php
 *Drupal
+*Killing history using git rebase
