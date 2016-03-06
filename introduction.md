@@ -3,3 +3,4 @@ My favorite path are the electives
 *android
 *git
 *sql
+*Killing history using git rebase
