@@ -9,4 +9,8 @@ My favorite Code School path is currently Git, as that is the only one I've done
 
 (Later it might be HTML & CSS, I guess the keyword is needed for this assignment...)
 
+Up to this point, my deadly programming skills are:
+*HTML
+*Git
+
 Enjoy the learning process!
