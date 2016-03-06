@@ -7,3 +7,4 @@ My deadly skills:
 * JavaScript
 * COS
 * Angular
+* Killing history using git rebase
