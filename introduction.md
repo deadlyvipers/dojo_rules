@@ -1,3 +1,2 @@
 Hi! I'm Pradeep Bashyal
-I like the git course on Code School
-
+My favorite Code School path is Ruby
