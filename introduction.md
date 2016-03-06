@@ -7,3 +7,4 @@ Deadly skills:
 * C/C++
 * Python's bite
 * DeathTouch of RegExp
+* Killing history using git rebase
