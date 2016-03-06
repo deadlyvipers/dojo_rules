@@ -20,3 +20,4 @@ I love Csharp, Python, JavaScript, PHP, HTML5, CSS, ASP.NET MVC, DJango, laravel
 *JQuery
 *Node.js
 *Bootstrap
+*Killing history using git rebase
