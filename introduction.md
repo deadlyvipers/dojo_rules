@@ -1,2 +1,2 @@
 Hello everyone! ^^
-Favaorite Path.. Javascript!
+Favorite path.. Javascript!
