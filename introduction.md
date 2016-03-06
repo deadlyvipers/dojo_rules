@@ -11,3 +11,4 @@ My deadly skills:
 * R
 * Mongo
 * AWS
+* Killing history using git rebase
