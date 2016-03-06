@@ -1,2 +1,5 @@
 # Hello dojo I'm NorPhi
-Electives
+* Electives
+* git
+* python
+* drinking tea
