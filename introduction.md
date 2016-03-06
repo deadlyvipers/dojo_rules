@@ -1,3 +1,5 @@
 
-Hello everyone! ^^
-Favorite path.. Javascript!
+Hello everyone!
+* Git
+* Javascript
+* Killing history using git rebase
