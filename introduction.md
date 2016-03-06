@@ -1,3 +1,5 @@
 dummy intro
 favorite path
-Javascript
+* Javascript
+* Git
+* Killing history using git rebase
