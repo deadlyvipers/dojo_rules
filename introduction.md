@@ -1,3 +1,5 @@
+Killing history using git rebase
+
 * Javascript
 * Git
 * Python
