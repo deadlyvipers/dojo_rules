@@ -1,1 +1,1 @@
-As a full stack developer, I am passionate about innovation and social justice and believe technology plays a vital role so that everyone who is curious has the opportunity to achieve their dreams.
+"On my way to becoming a GitHub Master"
