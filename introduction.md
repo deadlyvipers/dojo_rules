@@ -1,3 +1,10 @@
-###Introduction:
+##Introduction:
 
-- JavaScript
+* JavaScript
+
+##deadly skils:
+* Ruby
+* C++
+* Java
+* Killing history using git rebase
+
