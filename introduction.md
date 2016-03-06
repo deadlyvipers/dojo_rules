@@ -1,1 +1,3 @@
 My name is Pavel Cutler.
+
+My fave Code School path is Electives, but I want it to be iOS.
