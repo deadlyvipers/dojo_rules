@@ -1,1 +1,1 @@
-# I am Grigory and my favorite Code School path is CSS.
+CSS
