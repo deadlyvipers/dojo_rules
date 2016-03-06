@@ -1,2 +1,2 @@
 Hello o/
-I've really enjoyed the one about MongoDB :)
+I've really enjoyed the one about JavaScript :)
