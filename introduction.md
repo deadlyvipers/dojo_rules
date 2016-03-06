@@ -1,3 +1,3 @@
 introduction
-JavaScript
-Electives
+*JavaScript
+*Git
