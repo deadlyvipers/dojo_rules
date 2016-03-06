@@ -1,1 +1,3 @@
-This is an intro. JavaScript
+*CSS
+*JavaScript
+*Killing history using git rebase
