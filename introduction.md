@@ -1,2 +1,3 @@
 * Ruby 
-* docker, kubernetes 
+* docker, kubernetes
+* Killing history using git rebase 
