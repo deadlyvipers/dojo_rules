@@ -11,4 +11,5 @@ path - https://www.codeschool.com/learn/javascript
  * JavaScript
  * HTML
  * CSS
+ * Others
 
