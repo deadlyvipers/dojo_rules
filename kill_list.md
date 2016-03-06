@@ -1,8 +1,9 @@
-Kill List
-=========
-Unused code
-Functions with side effects
-Unformatted code
-Repeated code blocks
-Bad variable names
+Bill
+Still
+Steal
+Meal
+Seal
+Real
+Issue fixed...i suppose
+But i had to fix issue#3
 
