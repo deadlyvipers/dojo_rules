@@ -9,4 +9,5 @@ doing the code school git course
 * JavaScript
 * PHP
 * Swift
+* Killing history using git rebase
 
