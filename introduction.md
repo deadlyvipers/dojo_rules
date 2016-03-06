@@ -1,2 +1,2 @@
 To jest wstęp Introduction
-http://campus.codeschool.com/courses/mastering-github
+https://www.codeschool.com/learn/ruby
