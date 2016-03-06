@@ -1,5 +1,8 @@
 * Javascript
 * Git
+* Python
+
+
 My favorit path is Javascript 
 
 ;)
