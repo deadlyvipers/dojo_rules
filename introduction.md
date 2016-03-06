@@ -8,3 +8,4 @@ My favorite code school path is Electives. I was actually disappointed in the jQ
 * TFS Administration
 * SharePoint Administration
 * jQuery (getting there, anyway)
+* Killing history using git rebase
