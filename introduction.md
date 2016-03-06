@@ -20,5 +20,6 @@ iOS
 * Erlang
 * Haskell
 * C#
+* Killing history using git rebase
 * [click here to show more]
 
