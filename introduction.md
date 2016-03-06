@@ -1,1 +1,1 @@
-This is a test
+Introduction file. Favorite path: Electives
