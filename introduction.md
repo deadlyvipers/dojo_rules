@@ -9,3 +9,5 @@ Deadly skills:
 * Sleeping
 * Dreaming
 * Talking to cats
+* Killing history using git rebase
+
