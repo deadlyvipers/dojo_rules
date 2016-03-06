@@ -1,2 +1,1 @@
-Hi, my name is Rene.
-
+Hi, my name is Rene. My favorite path is iOS and HTML/CSS/Javascript.
