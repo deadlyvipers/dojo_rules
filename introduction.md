@@ -1,1 +1,1 @@
-I'm Pavel Shershnev
+I'm Pavel Shershnev, my favourite path is JavaScript
