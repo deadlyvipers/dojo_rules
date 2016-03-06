@@ -1,4 +1,4 @@
-Apparently the file was too short. Electives are so hot right now.
+Apparently the file was too short. Electives are so hot right now. Killing history using git rebase.
 
 * Git
 * JavaScript
