@@ -6,8 +6,8 @@ My favorite Code School path is "JavaScript"
 
 Deadly Skills:
 
-    Git
-    HTML
-    CSS
-    Javascript
+*Git
+*HTML
+*CSS
+*Javascript
     
