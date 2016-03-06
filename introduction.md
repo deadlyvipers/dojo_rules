@@ -1,2 +1,1 @@
-Hello. I'm just learning.
-Ruby is my favorite codeschool path.
+Hello I am retaking this course because it is free weekend!
