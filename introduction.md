@@ -1,3 +1,5 @@
+* Javascript
+* Git
 My favorit path is Javascript 
 
 ;)
