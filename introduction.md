@@ -1,4 +1,6 @@
 I'm an introduction
 
 Favorite path: Javascript
-Deadly skills: Git
+Deadly skills: 
+* Git
+* Javascript
