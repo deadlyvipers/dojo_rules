@@ -1,3 +1,5 @@
 introduction
 
-iOS
+deadly skills:
+*iOS
+*android
