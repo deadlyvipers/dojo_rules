@@ -5,5 +5,5 @@ Meal
 Seal
 Real
 Issue fixed...i suppose
-But i had to fix ixxue #3
+But i had to fix issue#3
 
