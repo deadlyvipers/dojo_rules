@@ -7,3 +7,4 @@ I like Database, Git, JavaScript and Elective paths.
 * Android
 * NodeJS
 * Unity3D
+* Killing history using git rebase
