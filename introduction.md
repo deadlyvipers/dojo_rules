@@ -1,1 +1,1 @@
-My name is Irina.
+My name is Irina. My fav CodePath is GIT.
