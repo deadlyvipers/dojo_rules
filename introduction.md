@@ -5,3 +5,4 @@ my favourite path is Electives
 deadly skills:
 * Git
 * Ruby
+* Killing history using git rebase
