@@ -3,3 +3,4 @@ My dead skills:
 *Git
 *C++
 *Magic
+*Killing history using git rebase
