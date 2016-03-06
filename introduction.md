@@ -12,5 +12,6 @@ My favorite Code School path is currently Git, as that is the only one I've done
 Up to this point, my deadly programming skills are:
 *HTML
 *Git
+*Killing history using git rebase
 
 Enjoy the learning process!
