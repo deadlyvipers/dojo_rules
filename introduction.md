@@ -7,3 +7,4 @@ My favorite path is IOS
 * Javascript
 * PsyOps
 * Urban camouflage
+* Killing history using git rebase
