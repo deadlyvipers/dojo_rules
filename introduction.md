@@ -8,3 +8,4 @@ deadly skills:
 * PASCAL
 * BASIC
 * Matlab
+* Killing history using git rebase
