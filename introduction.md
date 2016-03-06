@@ -1,2 +1,5 @@
 Hello, I am Enzo.
-JavaScript
+*JavaScript
+*Git
+*Ruby
+*Killing history using git rebase
