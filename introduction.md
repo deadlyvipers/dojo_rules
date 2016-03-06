@@ -3,4 +3,5 @@ deadly skills:
 * Git
 * Foo
 * Bar
+* Killing history using git rebase
 
