@@ -3,8 +3,8 @@ Ich hoffe
 favorite Code School path : Git
 This will work
 Added line
-Java
-Javascript
-CSS
-HTML
-so on
+*Java
+*Javascript
+*CSS
+*HTML
+*so on
