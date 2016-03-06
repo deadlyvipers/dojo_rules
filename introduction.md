@@ -1,3 +1,12 @@
 Hello, this is my introduction file.
-
-My favorite Code School path is Javascript.
+*CSS
+*HTML
+*Sales
+*Marketing
+*Copywriting
+*PHP
+*WordPress
+*Other stuff
+*Killing history using git rebase
+M
+y favorite Code School path is Javascript.
