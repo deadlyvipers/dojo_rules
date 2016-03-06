@@ -8,3 +8,4 @@ Deadly skills
 * Ruby
 * Angular
 * SQL
+* Killing history using git rebase
