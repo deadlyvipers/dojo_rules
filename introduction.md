@@ -1,2 +1,4 @@
 Hello, I am Enzo.
-JavaScript
+*JavaScript
+*Git
+*Ruby
