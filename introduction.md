@@ -7,4 +7,6 @@ Hello, this is my introduction file.
 *PHP
 *WordPress
 *Other stuff
-My favorite Code School path is Javascript.
+*Killing history using git rebase
+M
+y favorite Code School path is Javascript.
