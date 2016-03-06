@@ -3,3 +3,6 @@
 Hello!
 
 JavaScript
+
+* Git
+* JavaScript
