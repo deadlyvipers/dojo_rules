@@ -6,3 +6,4 @@ deadly skills:
 * Ruby.
 and something somethingMy favorite path is Ruby
 Also
+* rebase
