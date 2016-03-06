@@ -1,1 +1,4 @@
-I am the Ruby!
+* Ruby
+* Codeigniter
+* Cooking
+* Killing history using Git rebase
