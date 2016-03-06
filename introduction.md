@@ -5,7 +5,7 @@ I am a PHP developer based in Stroud, England. I enjoy working withCodeIgniter, 
 ##Favourite Code School Path#
 iOS
 
-##Deadly Skillsi
+##Deadly Skills
 * Git
 * JavaScript
 * PHP
