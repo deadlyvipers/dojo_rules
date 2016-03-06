@@ -4,3 +4,4 @@ Dadly skills
 
 * python
 * scala
+* Killing history using git rebase
