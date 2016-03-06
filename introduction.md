@@ -1,0 +1,1 @@
+Bonjour, hello, guten tag
