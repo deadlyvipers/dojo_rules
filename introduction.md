@@ -5,3 +5,4 @@ deadly_skills:
 * Python
 * Cisco
 * Ability to turn invisible when people are not looking
+* Killing history using git rebase
