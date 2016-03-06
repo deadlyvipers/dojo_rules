@@ -1,1 +1,1 @@
-Hi, I am rs-web.
+Hi, I am rs-web. My favorite Code School path is JavaScript.
