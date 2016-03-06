@@ -1,2 +1,2 @@
 I am SHLo
-JS path
+Javascript 
