@@ -1,2 +1,4 @@
 **Hello**
-I liked Electives the most (Regex!!!!)
+* Git
+* Bash
+* Killing history using git rebase
