@@ -3,3 +3,4 @@
 * git
 * python
 * drinking tea
+* Killing history using git rebase
