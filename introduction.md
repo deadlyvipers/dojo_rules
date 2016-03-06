@@ -8,9 +8,9 @@ Libris principes ne per, dicam blandit nam eu, erat consul sed ex. Te mel consul
 
 Electives
 
-git
-javascript
-ruby
-c#
-php
-java
+* git
+* javascript
+* ruby
+* c#
+* php
+* java
