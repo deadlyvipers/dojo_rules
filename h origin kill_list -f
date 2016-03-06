@@ -1,0 +1,178 @@
+[33mcommit a556d483c4d059396257a72fb1927667ffe00144[m
+Author: Leon <leon@leon.com>
+Date:   Sun Mar 6 14:13:44 2016 +1000
+
+    Fixes #3
+
+[33mcommit fd50a2f2a3e1705599aaaa22fa3e0beeb7ccb717[m
+Merge: ed20e2f 87b75fb
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 14:01:44 2016 +1000
+
+    Merge branch 'release_branch_1.0'
+
+[33mcommit 87b75fbf75ef2fa0d2a7e7c811e73721a11b5e82[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:58:47 2016 +1000
+
+    asd
+
+[33mcommit ed20e2f6cc283eeb854bb1a47432e3ce9dacbce1[m
+Merge: d0d387e 187d6e1
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:44:21 2016 +1000
+
+    Merge branch 'deadly_skills'
+
+[33mcommit d0d387ee7c6996f9c9f714b317db73abaef5706d[m
+Merge: 574e927 ae7fddb
+Author: Leon <leonng@live.com>
+Date:   Sun Mar 6 13:42:21 2016 +1000
+
+    Merge pull request #2 from ragingnerd/new_rules
+    
+    Too many people are spilling coffee
+
+[33mcommit ae7fddb9667b66d9bc3f279ffbf883b6cc7a2c38[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:40:55 2016 +1000
+
+    typo fixed
+
+[33mcommit cf7f84fa694ff5513494fe6cfa21abb409388f94[m
+Author: Code School Kiddo <codeschool-kiddo@users.noreply.github.com>
+Date:   Sat Mar 5 22:40:09 2016 -0500
+
+    Added new rule about coffee
+
+[33mcommit 187d6e1ef538b50b5c6564346e6dbee7d8369fd4[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:39:19 2016 +1000
+
+    killa
+
+[33mcommit d6bc97841754ed448b68c055c0cf3e09267ad966[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:36:16 2016 +1000
+
+    deadly
+
+[33mcommit 190943337c809d5ebccf8d07fd179ecbf2c76c3d[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:31:57 2016 +1000
+
+    empteh
+
+[33mcommit 574e92709269bd319ae2ed062ad527a6f015a648[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:07:39 2016 +1000
+
+    asdasd
+
+[33mcommit dead0152a14a6e35630bf0e80a1768e0d14f49fe[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:06:06 2016 +1000
+
+    asdsad
+
+[33mcommit b7ccbaa435ef6fee05854e4c8a8f64952faf4f47[m
+Author: Leon <leon@rgg.co>
+Date:   Sun Mar 6 13:03:53 2016 +1000
+
+    lol
+
+[33mcommit 4a2cee3f506998d0b48d62221c9ef66177a6dec4[m
+Merge: c21c6b6 8a8ca9d
+Author: The Bride <beatrix@revenge.org>
+Date:   Fri Jun 6 10:36:39 2014 -0400
+
+    Merge pull request #11 from githubteacher/master
+    
+    Githubteacher's contributions
+
+[33mcommit c21c6b682627357b653a076b34f721f17f1d4d60[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit 8a8ca9d6e9972f30a2745eee3b22e0df422fb928[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:33:54 2014 -0400
+
+    Create another_feature.rb
+
+[33mcommit ec145f42fefd6133b592ee54261665d179a8e2cd[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit 61fef70ed01accb61d78eceadebf2213098fc9aa[m
+Merge: 022ac13 73f81f9
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 15:56:43 2014 -0400
+
+    Merge pull request #3 from deadlyvipers/kill_list
+    
+    Initial kill list
+
+[33mcommit 73f81f9eac19e35681cfbd4278aafba63ec9b0b3[m
+Author: The Bride <beatrix@revenge.org>
+Date:   Mon Jun 2 15:57:42 2014 -0400
+
+    We dont need to kill Budd
+
+[33mcommit 0f85e7730ee4673d00f2c463975d4ddf42343e26[m
+Author: The Bride <beatrix@revenge.org>
+Date:   Mon Jun 2 15:30:29 2014 -0400
+
+    Initial kill list
+
+[33mcommit 022ac1311ed02f1b76a79a7256b9e9de37368e37[m
+Merge: df1d766 e42abab
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 15:09:16 2014 -0400
+
+    Merge pull request #2 from githubteacher/master
+    
+    Most Senseis should be respected
+
+[33mcommit e42abab7fb035c9b6e24c862eebcede158081660[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Mon Jun 2 15:08:46 2014 -0400
+
+    Most Senseis should be respected
+
+[33mcommit df1d76604f23b2fd60b0c4cc0e44f3f12454aedf[m
+Merge: 648a2df 133e901
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:12 2014 -0400
+
+    Merge pull request #1 from PeterBell/master
+    
+    Not every Sensei deserves to be respected
+
+[33mcommit 133e901455498c55d61551a3732590f234d661ed[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:47 2014 -0400
+
+    You should respect some Senseis
+
+[33mcommit a4b95d10b08820004335d1496de99ef037ad0663[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:01:11 2014 -0400
+
+    Not every Sensei deserves to be respected
+
+[33mcommit 648a2dfab4524d9202b283d17265e7bd1a243fa4[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:05:18 2014 -0400
+
+    Added README to the project
+
+[33mcommit 6913445a526fcbcaf6208e9f0179e6c4078d6396[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:03:57 2014 -0400
+
+    Initial dojo rules
