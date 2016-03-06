@@ -1,1 +1,1 @@
-Hello i'm Mateus
+Hello i'm Mateus, my favorite Code School path is Ruby.
