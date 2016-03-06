@@ -1,1 +1,1 @@
-This is my project. Edit
+I love Ruby and Javascript ^^
