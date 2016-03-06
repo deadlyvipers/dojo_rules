@@ -3,4 +3,7 @@ Introduction
 
 My introduction
 
-Ruby
+* Ruby
+* Git
+* Sql
+* Killing history using git rebase
