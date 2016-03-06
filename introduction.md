@@ -1,3 +1,4 @@
 introduction
-JavaScript
-Electives
+*JavaScript
+*Git
+*Killing history using git rebase
