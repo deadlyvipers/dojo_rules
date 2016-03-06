@@ -1,1 +1,1 @@
-introduction
+my favourite Code school path is : JavaScript, HTML&CSS
