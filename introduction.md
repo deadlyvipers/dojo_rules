@@ -1,3 +1,10 @@
+Killing history using git rebase
+
+* Javascript
+* Git
+* Python
+
+
 My favorit path is Javascript 
 
 ;)
