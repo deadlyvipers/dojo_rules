@@ -1,1 +1,2 @@
-Hello, I am Enzo
+Hello, I am Enzo.
+JavaScript
