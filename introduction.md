@@ -3,3 +3,4 @@ Deadly Skills
 --------------
 * Programming C++
 * Programming OpenGL
+* Killing history using git rebase
