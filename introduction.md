@@ -5,3 +5,4 @@ Deadly skills:
 * Git
 * PHP
 * Python
+* Killing history using git rebase
