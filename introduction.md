@@ -1,1 +1,1 @@
-ECHO ¤w±Ò°Ê¡C
+Ruby 
