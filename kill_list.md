@@ -6,3 +6,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Grievance
+    * A
+    * B
+    * C
+    * D
