@@ -1,1 +1,1 @@
-intor to dojo
+My favorite codeschool path is Ruby
