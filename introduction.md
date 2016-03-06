@@ -1,3 +1,9 @@
 # Introduction
 
-JavaScript
+Favorite CS Path: JavaScript
+
+## Deadly Skills
+
+  * Git
+  * JavaScript
+  * Vagrant
