@@ -1,3 +1,1 @@
-Create a new file called introduction.md introducing yourself to the dojo. Make sure this file contains an introduction, then add, commit and push your change to the fork.
-1123
-56dsa6556dsa56ads
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
