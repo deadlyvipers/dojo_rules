@@ -7,3 +7,7 @@ sadsds
 sdsds
 
 Ruby
+
+ * Git, 
+ * JavaScript, 
+ * Ruby
