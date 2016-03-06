@@ -7,3 +7,4 @@ Deadly Skills
 * JavaScript  
 * Ruby  
 * Bash  
+* Killing history using git rebase  
