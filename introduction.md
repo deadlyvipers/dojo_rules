@@ -1,2 +1,2 @@
 Hi Hi HI!
-JavaScrip
+JavaScript
