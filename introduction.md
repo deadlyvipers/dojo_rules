@@ -1,5 +1,5 @@
 Hello everybody! My name is Dmitry.
-I like Database, Git, JavaScript and Elective paths.
+I like Database, Git, JavaScript and Elective paths!
 * Git
 * PHP
 * JavaScript
