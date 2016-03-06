@@ -1,1 +1,1 @@
-http://campus.codeschool.com/courses/mastering-github
+https://www.codeschool.com/courses/shaping-up-with-angular-js
