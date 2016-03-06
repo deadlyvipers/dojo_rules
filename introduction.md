@@ -1,2 +1,6 @@
 introduction 
-JavaScript
+avaScript
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
