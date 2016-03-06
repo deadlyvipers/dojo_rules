@@ -6,3 +6,4 @@ The following are instance methods of the System.JSONGenerator class.
  * HTML & CSS
  * iOS
  * Electives in Code School
+ * git rebase
