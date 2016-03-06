@@ -1,7 +1,5 @@
 [Introduction]
-
 "Hello"
 
 [Favorite Path]
-
-"Python"
+"Electives"
