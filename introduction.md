@@ -1,1 +1,2 @@
-Hello, my name is Erstwhile Sinclaire.
+Hello, my name is Erstwhile Sinclaire. My favorite CodeSchool path is Git.
+
