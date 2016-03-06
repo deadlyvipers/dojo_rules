@@ -1,2 +1,4 @@
-Introduction to Mastering GitHub
-https://www.codeschool.com/learn/javascript
+* Killing history using git rebase
+* Git
+* JavaScript
+* Rubi
