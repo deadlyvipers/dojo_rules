@@ -6,3 +6,4 @@ My favourite Code School path is Ruby, but I intend to take on many others.
 My deadly skills are:
 * Git
 * Ruby
+* Killing history using git rebase
