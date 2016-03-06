@@ -6,3 +6,4 @@ I intend to tackle on the "Electives" or "Ruby" path at Codeschools.
 *C
 *Ruby
 *git
+*Killing history using git rebase
