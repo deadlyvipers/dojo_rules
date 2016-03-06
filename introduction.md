@@ -5,4 +5,5 @@ List of skills:
 * Git
 * iOS
 * sth
+* sth 2
 * etc
