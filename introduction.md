@@ -5,4 +5,4 @@ Youwei Lu
 
 I'm writing something for the `Mastering Github` course.
 
-**Git** is my favorite code school path.
+Yes, **Git** is my favorite code school path.
