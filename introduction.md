@@ -1,3 +1,4 @@
 dummy intro
 favorite path
-Javascript
+* Javascript
+* Git
