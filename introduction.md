@@ -7,5 +7,8 @@ deadly skills
 * Git
 * Python
 * Database
+* rebase
+
+rebase
 
 chriscubos
