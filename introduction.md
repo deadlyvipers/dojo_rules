@@ -4,3 +4,4 @@ I am jeffweiss. My favorite Code School path is Electives.
 * Git
 * Elixir
 * Ruby
+* Killing history using git rebase
