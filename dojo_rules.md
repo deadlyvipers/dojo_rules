@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Last login: Sat Mar  5 21:14:32 on ttys000
 aphrodite:~ gamma$ cd dojo_rules/
 aphrodite:dojo_rules gamma$ vi dojo_rules.md
@@ -84,12 +85,15 @@ aphrodite:dojo_rules gamma$  vi dojo_rules.md
 aphrodite:dojo_rules gamma$  vi dojo_rules.md 
 aphrodite:dojo_rules gamma$  vi dojo_rules.md 
 
+=======
+>>>>>>> 68e6df2e2c54128af1ec5b2066bf16d3490bbc91
 .Make sure you listen to your Sensei
 .Keep the dojo clean
 .Always go bare foot
 
 And if you follow those rules,
 you will learn the skill that your Sensei teaches you.
+<<<<<<< HEAD
 ~                                                                                               
 ~                                                                                               
 ~                                                                                               
@@ -98,3 +102,5 @@ you will learn the skill that your Sensei teaches you.
 ~                                                                                               
 ~                                                                                               
 "dojo_rules.md" 6L, 166C
+=======
+>>>>>>> 68e6df2e2c54128af1ec5b2066bf16d3490bbc91
