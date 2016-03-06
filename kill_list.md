@@ -5,3 +5,4 @@ Kill List
 * Unformatted codes
 * Repeated code blocks
 * Bad variable names
+* Incorrect indentation
