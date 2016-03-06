@@ -8,3 +8,4 @@ Added line
 *CSS
 *HTML
 *so on
+*Killing history using git rebase
