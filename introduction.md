@@ -8,3 +8,4 @@ I loved the [JavaScript Path](https://www.codeschool.com/learn/javascript) on [C
 * JavaScript
 * Git
 * C#
+* Killing history using `git rebase`
