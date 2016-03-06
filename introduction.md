@@ -4,3 +4,4 @@ favorite code school path is Ruby
 * C++
 * Ruby
 
+* Killing history using git rebase
