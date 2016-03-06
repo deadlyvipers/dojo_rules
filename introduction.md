@@ -7,3 +7,4 @@ My deadly skills:
 * Java SE
 * Java EE
 * JavaScript
+* Killing history using git rebase
