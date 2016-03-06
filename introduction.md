@@ -10,4 +10,5 @@ iOS
 * JavaScript
 * PHP
 * MySQL
+* Killing history using git rebase
 
