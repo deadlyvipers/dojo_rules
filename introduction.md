@@ -7,3 +7,4 @@ Favorite CS Path: JavaScript
   * Git
   * JavaScript
   * Vagrant
+  * Docker
