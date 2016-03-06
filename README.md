@@ -5,7 +5,7 @@ This repository contains a list of dojo rules for the ~~Deadly Vipers~~ UltraSim
 
 All members should read the rules
 
-Dojo Rules have been inherited from the (Deadly Vipers)[https://github.com/deadlvipers]
+Dojo Rules have been inherited from the (Deadly Vipers)[https://github.com/deadlyvipers]
 
 
 
