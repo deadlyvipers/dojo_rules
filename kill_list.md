@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Poor markup in code
 * Lack of unique prefix in code
+* Something else
