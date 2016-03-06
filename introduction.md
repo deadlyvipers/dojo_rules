@@ -4,3 +4,4 @@ My deadly skills:
 
 * Git
 * c#
+* Killing history using git rebase
