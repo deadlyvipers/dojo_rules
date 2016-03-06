@@ -1,6 +1,7 @@
 Some changes to this repo.
 Electives
-Git
-Java
-HTML
-CSS
+
+* Git
+* Java
+* HTML
+* CSS
