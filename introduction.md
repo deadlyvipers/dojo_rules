@@ -14,3 +14,4 @@ Electives
 * c#
 * php
 * java
+* Killing history using git rebase
