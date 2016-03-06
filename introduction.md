@@ -4,3 +4,4 @@ this is the introduction file
 * git
 * ruby
 * python
+* vagrant
