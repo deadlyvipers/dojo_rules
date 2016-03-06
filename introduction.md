@@ -6,3 +6,4 @@ this is the introduction file
 * python
 * vagrant
 * mongo
+* mysql
