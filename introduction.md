@@ -5,3 +5,4 @@ Electives
 * Python
 * R
 * SQL
+* Git
