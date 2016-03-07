@@ -3,3 +3,7 @@
 
 [Favorite Path]
 "Electives"
+
+[Deadly Skills]
+* Git
+* Python
