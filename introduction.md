@@ -1,1 +1,3 @@
-Javascript and Electives
+*Git
+*JavaScript
+*Ruby
