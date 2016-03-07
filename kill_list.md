@@ -1,3 +1,4 @@
 Initial Kill List:
-Dan
 DNA
+Bad Comments
+BAD Variable Names
