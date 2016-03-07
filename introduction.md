@@ -13,3 +13,4 @@ My Deadly Skills:
 * PHP
 * SQL
 * NOSQL
+* MongoDB
