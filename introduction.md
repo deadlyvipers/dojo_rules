@@ -1,2 +1,1 @@
-Hi, I'm Jon Ole
-https://github.com/jonolehagemo/dojo_rules.githttps://github.com/jonolehagemo/dojo_rules.git
+Hi, I'm Jon Ole Hagemo. I like programming JavaScript, Java and Perl.
