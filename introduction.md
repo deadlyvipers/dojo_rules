@@ -1,2 +1,3 @@
 introductionstuff
-JavaScript
+* JavaScript
+* HTML & CSS
