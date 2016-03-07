@@ -5,3 +5,4 @@ I like:
 *JavaScript
 *Ruby
 *HTML
+*Killing history using git rebase
