@@ -4,8 +4,8 @@ My favorite is Ruby.
 
 *Deadly skills*
 
-*Java
-*HTML
-*CSS
-*JS
-*Ruby
+* Java
+* HTML
+* CSS
+* JS
+* Ruby
