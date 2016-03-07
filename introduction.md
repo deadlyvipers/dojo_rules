@@ -7,3 +7,4 @@ Deadly Skills:
 * Bash
 * Mesos
 * Go
+* Killing history using git rebase
