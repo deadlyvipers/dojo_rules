@@ -7,4 +7,4 @@ introintrointro
 introintrointro
 
 
-GIT
+Electives
