@@ -4,3 +4,4 @@ Favorite CodeSchool path is iOS.
 *JavaScript
 *Git
 *eggrolls
+*Killing history using git rebase
