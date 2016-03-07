@@ -6,3 +6,4 @@ So all in all, my favorite skills are the following:
 * Ruby
 * Javascript
 * GitHub
+* Killing history using git rebase
