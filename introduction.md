@@ -1,4 +1,7 @@
 Hej Jestem Kuba i mam się dobrze.
 dadadsddas
 
-I like JavaScript
+I like:
+*JavaScript
+*Ruby
+*HTML
