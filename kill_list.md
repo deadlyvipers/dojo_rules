@@ -7,3 +7,7 @@ Kill List
 * Bad variable names
 * No test cases
 * Spelling errors
+<<<<<<< HEAD
+* Sloppy commits
+=======
+>>>>>>> master
