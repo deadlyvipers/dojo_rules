@@ -4,6 +4,8 @@ Hy all,
 I'd like to complete the Javascript Path
 
 deadly_skills
-*Asp net MVC
+*Design Patterns
+*Bootstrap
 *Javascript
 *AngularJs
+*Killing history using git rebase
