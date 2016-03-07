@@ -10,3 +10,4 @@ My deadly skills are:
 * Python
 * Git
 * Django
+* Killing history using git rebase
