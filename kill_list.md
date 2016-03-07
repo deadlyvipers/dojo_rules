@@ -4,6 +4,7 @@
 1) JavaScript The good part
 2) JavaScript Ninja
 3) Laravel 4 top to bottom
+<<<<<<< HEAD
 =======
 Kill List
 =========
@@ -13,3 +14,6 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 >>>>>>> release_branch_1.0
+=======
+4) Mastering Websokets
+>>>>>>> kill_list
