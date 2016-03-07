@@ -1,3 +1,6 @@
 # Introduction #
 ## Favorite Code School Path ##
-JavaScript
+* JavaScript
+* Git
+* Ruby
+* Killing history using git rebase
