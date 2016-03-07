@@ -1,4 +1,6 @@
 it's me
 
-* Git
 * JavaScript
+* Git
+* Killing history using git rebase
+
