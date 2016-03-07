@@ -3,3 +3,4 @@ Hello my name mappuji!
 *JavaScript
 *Ruby
 *HTML/CSS
+*Killing history using git rebase
