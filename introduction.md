@@ -1,0 +1,1 @@
+Hi there! I'm Mark Smit, a freelance senior C# .NET WebDeveloper. I'm checking out CodeSchool to see if there's interesting lessons there. Best regards, Mark
