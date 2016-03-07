@@ -1,0 +1,1 @@
+Hi, I'm Jon Ole Hagemo. I like programming JavaScript, Java and Perl.
