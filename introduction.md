@@ -8,3 +8,4 @@ deadly_skills
 *Bootstrap
 *Javascript
 *AngularJs
+*Killing history using git rebase
