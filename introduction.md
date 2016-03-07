@@ -1,1 +1,4 @@
-hello JavaScript
+*OSX,
+*Git, 
+*JavaScript, 
+*Ruby
