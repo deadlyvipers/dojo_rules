@@ -6,4 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * No test cases
-
+* Spelling errors
+* Sloppy commits
