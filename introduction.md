@@ -1,2 +1,5 @@
 Hello my name mappuji!
-My favorite is JavaScript
+*Git
+*JavaScript
+*Ruby
+*HTML/CSS
