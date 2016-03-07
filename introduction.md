@@ -14,3 +14,4 @@ My Deadly Skills:
 * SQL
 * NOSQL
 * MongoDB
+* Administration
