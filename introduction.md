@@ -1,3 +1,1 @@
-test one
-test two
-introduction
+My favorite path is Ruby.
