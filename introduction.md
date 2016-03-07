@@ -7,3 +7,5 @@ Html & CSS, Javascript and Ruby
 * Ruby
 
 * I want Github will give me a free course when i'm done my thesis.
+
+Killing history using git rebase
