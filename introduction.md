@@ -7,4 +7,5 @@ introduction.md
 
 * Git, 
 * JavaScript, 
-* Ruby
+* Ruby,
+* Killing history using git rebase
