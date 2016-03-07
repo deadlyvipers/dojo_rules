@@ -3,3 +3,7 @@
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+
+function getName() {
+	return this.name;
+}
