@@ -9,3 +9,4 @@ Here are some of my deadly skills:
 * TypeScript
 * C#
 * Git
+* Killing history using git rebase
