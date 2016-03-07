@@ -1,3 +1,4 @@
 it's me
 
-JavaScript
+* Git
+* JavaScript
