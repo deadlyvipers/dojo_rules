@@ -1,3 +1,3 @@
 Introduction
 
-CC
+Code School path: Electives
