@@ -4,3 +4,4 @@ I love the Ruby the most!
 * JavaScript
 * Ruby
 * Java
+* Killing history using git rebase
