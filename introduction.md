@@ -15,3 +15,4 @@ My Deadly Skills:
 * NOSQL
 * MongoDB
 * Administration
+* Killing history using git rebase
