@@ -8,3 +8,4 @@ Deadly Skills:
 * CSS
 * Markdown
 * Python (learning)
+* Killing history using git rebase
