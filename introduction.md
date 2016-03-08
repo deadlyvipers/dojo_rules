@@ -1,1 +1,1 @@
-introducing myself to the dojo: my favorite code school path is github
+introducing myself to the dojo: my favorite code school path is JavaScript
