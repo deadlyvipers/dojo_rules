@@ -7,3 +7,4 @@ Deadly-skills:
 *Phaser
 *Java
 *Killing history using git rebase
+*Something Else...like DevOps rules
