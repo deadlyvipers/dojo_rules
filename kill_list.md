@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Multiple responsability class
 * No tests
+* No open/closed
