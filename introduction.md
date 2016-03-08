@@ -1,0 +1,1 @@
+introducing myself to the dojo: my favorite code school path is JavaScript
