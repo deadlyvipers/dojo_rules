@@ -9,3 +9,4 @@ My favorites CodeSchool patch is Ruby.
 * PostgreSQL
 * AngularJS
 * VIM
+* Killing history using git rebase
