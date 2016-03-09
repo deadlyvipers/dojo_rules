@@ -1,1 +1,1 @@
-Hi I'm Frances
+Hi I'm Frances and I like JavaScript
