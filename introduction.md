@@ -1,1 +1,1 @@
-Introduction
+Favorite path: Electives
