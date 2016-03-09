@@ -5,3 +5,4 @@ I like HTML, Javascript and Electives paths.  Still working on Ruby and iOS.
 *Javascript
 *Java
 *And many more...
+*Killing history using git rebase
