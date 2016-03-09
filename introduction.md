@@ -1,3 +1,5 @@
 I'm adam
 
-JavaScript
+*JavaScript
+*Git
+*Ruby
