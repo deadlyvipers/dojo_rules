@@ -1,2 +1,1 @@
-this is an introduction
-git real
+On my way to becoming a GitHub Master. I love Ruby and JavaScript. 
