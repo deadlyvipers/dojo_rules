@@ -5,4 +5,5 @@ My favorite code school path is JavaScript.
 * Javascript
 * C#
 * Visual Studio
-* HTML 
+* HTML
+* Killing history using git rebase
