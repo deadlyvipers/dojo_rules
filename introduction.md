@@ -1,1 +1,1 @@
-On my way to becoming a GitHub Master
+this is my favorite path https://www.codeschool.com/learn/ios
