@@ -2,5 +2,4 @@ testing
 javascript
 
 * rebase
-* 
 *JAVASCRIPT
