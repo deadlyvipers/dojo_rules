@@ -1,7 +1,6 @@
 * Git,
 * JavaScript,
 *  Rub
-asddas
-
+* Killing history using git rebase 
 
 NO Electives
