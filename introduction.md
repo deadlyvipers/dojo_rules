@@ -4,3 +4,4 @@ and here.
 JavaScript is favorite so far...
 * Git
 * JavaScript
+* Killing history using git rebase
