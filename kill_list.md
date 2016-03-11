@@ -8,3 +8,4 @@ Bad variable names
 CamalCase
 CamalCase
 CamalCase
+CamalCase
