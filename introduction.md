@@ -1,2 +1,1 @@
-introduction
-v2
+JavaScript
