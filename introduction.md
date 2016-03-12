@@ -5,3 +5,4 @@ My one and only code school course so far is GIT, but since that's not option I'
 * GIT
 * C#
 * PHP
+* Killing history using git rebase
