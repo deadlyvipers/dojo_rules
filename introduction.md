@@ -1,3 +1,3 @@
 Dojo Introduction
 
-He is best.
+JavaScript is the best course.
