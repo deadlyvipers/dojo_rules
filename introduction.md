@@ -4,3 +4,4 @@ I'm adam
 *Git
 *Ruby
 *debugging
+*Killing history using git rebase
