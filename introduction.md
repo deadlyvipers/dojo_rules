@@ -1,3 +1,6 @@
 Dojo Introduction
 
-JavaScript is the best course.
+* Javascript
+* Ruby 
+* Git
+* Killing history using git rebase
