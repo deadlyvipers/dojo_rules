@@ -5,3 +5,4 @@ My favorite Code School path is iOS.
 * JUnit
 * Python
 * MongoDB
+* Killing history using git rebase
