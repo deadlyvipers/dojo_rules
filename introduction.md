@@ -3,3 +3,4 @@ JavaScript is the best!
 * HTML
 * CSS
 * JS
+* Killing history using git rebase
