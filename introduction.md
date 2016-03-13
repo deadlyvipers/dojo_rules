@@ -1,3 +1,5 @@
 Dojo Introduction
 
-JavaScript is the best course.
+* Javascript
+* Ruby 
+* Git
