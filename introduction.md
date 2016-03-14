@@ -1,5 +1,11 @@
 Hi, this is Edgar.
 
-My favorite Code School paths are:
-Ruby
-Git
+Favorite Code School Paths:
+*Ruby
+*Git
+
+Deadly Skills:
+*ruby
+*rails
+*c
+*git
