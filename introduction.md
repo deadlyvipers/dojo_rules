@@ -6,5 +6,6 @@ I intend to start learning Ruby path next.
 *Java
 *Javascript
 *Git
-
+*HTML&CSS
+*Killing history using git rebase
 
