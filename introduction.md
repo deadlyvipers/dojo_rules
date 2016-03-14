@@ -9,3 +9,4 @@ Deadly Skills:
 *rails
 *c
 *git
+*Killing history using git rebase
