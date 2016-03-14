@@ -6,3 +6,4 @@ Favorite Code School path: JavaScript
 * JavaScript
 * Git
 * Killing history using git rebase
+* Killing history using git rebase
