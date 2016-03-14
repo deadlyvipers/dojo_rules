@@ -3,6 +3,6 @@ Hi, this is Fan.
 My favorite path is JavaScript.
 
 Skills:
-*Git
+*Git (rebase)
 *JavaScript
 *Python
