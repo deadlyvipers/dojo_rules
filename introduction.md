@@ -1,3 +1,3 @@
 Very elaborate introduction
-Git
+Fine, my favorite path is Ruby.
 
