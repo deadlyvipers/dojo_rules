@@ -5,3 +5,4 @@ My favourite paths in CodeSchool were JavaScript and Git
 *SQL
 *Java
 *PHP
+*Killing history using git rebase
