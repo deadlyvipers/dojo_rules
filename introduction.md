@@ -1,1 +1,4 @@
-On my way to becoming a Github Master. I love HTMl/CSS
+Github Master Codeschool. I love HTML. 
+
+*  JavaScript.
+*Git
