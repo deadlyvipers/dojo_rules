@@ -1,4 +1,4 @@
-Kill List
+BAD CODING PRACTICES
 =========
 * Unused code
 * Functions with side effects
