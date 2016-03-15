@@ -1,2 +1,2 @@
 Hi, This was cloned by Anirudh Negi
-Cool!
+My favourite paths in CodeSchool were JavaScript and Git
