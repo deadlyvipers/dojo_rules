@@ -1,6 +1,4 @@
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-###First One###
-*Javascript and Git
-*why this doesn't work
-
-
+* Ruby on Rails
+*Git
