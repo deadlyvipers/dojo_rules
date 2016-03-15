@@ -1,1 +1,4 @@
-I like HTML/CSS
+Github CodeSchool. I like HTML/CSS.
+
+* JavaScript
+*Git
