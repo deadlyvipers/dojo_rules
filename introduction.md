@@ -1,1 +1,4 @@
-Electives
+* Git
+* JavaScript
+* Electives
+* Killing history using git rebase
