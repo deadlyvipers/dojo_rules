@@ -1,4 +1,4 @@
 Kona!
 Javascript
-hh* gg
+hhhh* gg
 Killing history using git rebase
