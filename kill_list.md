@@ -7,4 +7,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * bad design
-* not being a team player
+* not being a team player!
