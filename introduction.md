@@ -6,3 +6,4 @@ Skills
 * Git, 
 * Database, 
 * R
+* Killing history using git rebase
