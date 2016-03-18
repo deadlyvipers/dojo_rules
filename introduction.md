@@ -1,1 +1,1 @@
-Hello, I am Goulie81.
+Hello, I am Goulie81. JavaScript is my favorite path.
