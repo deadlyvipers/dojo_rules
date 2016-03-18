@@ -17,3 +17,4 @@
 * React.js
 * HTML/CSS
 * jQuery
+* Killing history using git rebase
