@@ -1,1 +1,1 @@
-Hello world! I am sensen.
+Hello world! I am sensen. My favourite code school path is Git.
