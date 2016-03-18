@@ -9,3 +9,5 @@ Dojo Rules
 * No coffee in the dojo
 
 ### test store 1
+
+### test store 2
