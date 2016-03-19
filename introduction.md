@@ -7,4 +7,5 @@ I am a hobby programmer leaning GitHub. My favourite Code Shool path is JavaScri
 * Pascal
 * Java
 * PHP
+* Killing history using git rebase
 
