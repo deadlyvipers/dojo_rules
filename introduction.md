@@ -7,3 +7,4 @@ I guess there's a bug on this course, so I'll just say my favourite codeschool p
 * C
 * C++
 * C#
+Killing history using git rebase
