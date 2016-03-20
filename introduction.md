@@ -6,4 +6,6 @@ Yes and my favorite path could be:
 * Git,
 * Ruby,
 * JavaScript, 
-* HTML & CSS.
+* HTML & CSS,
+* Killing history using git rebase
+
