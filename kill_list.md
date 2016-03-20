@@ -1,6 +1,7 @@
-Kill List
+Bad coding practices
 =========
-* O-Ren Ishii
+* Unused code
 * Vernita Green
-* Elle Driver
-* BILL
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
