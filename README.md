@@ -1,5 +1,3 @@
-Dojo Rules
-==========
+# dojo_rules
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+hey this pruthbi please add my changes
