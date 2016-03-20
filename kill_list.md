@@ -1,5 +1,3 @@
-Bad coding practices
-=========
 * Unused code
 * Vernita Green
 * Unformatted code
