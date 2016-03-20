@@ -4,3 +4,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 HTML
 *git
 *Javascript
+*Killing history using git rebase
