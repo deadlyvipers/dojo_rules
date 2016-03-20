@@ -1,10 +1,7 @@
-Unused code
-
-Vernita Green
-
-Unformatted code
-
-Repeated code blocks
-
-Bad variable names
-
+Kill List
+=========
+* Unused code
+* Vernita Green
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
