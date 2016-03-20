@@ -1,3 +1,5 @@
+My favorite Code School path will be HTML & CSS, followed by JavaScript. I love Code School!
+
 This is my new introduction file. --KGS
 
 Dojo Rules
