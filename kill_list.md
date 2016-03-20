@@ -1,7 +1,7 @@
 Kill List
 =========
 * Unused code
-* Vernita Green
+* Functions with side effects
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
