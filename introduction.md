@@ -6,3 +6,4 @@ And forget - JavaScript too.
 My deadly skills are:
 * Git
 * Javascript
+* Killing history using git rebase
