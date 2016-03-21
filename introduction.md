@@ -1,1 +1,1 @@
-Hello, my name is Tim. My favorite Code School path thusfar has been Git!
+Hello, my name is Tim. My favorite Code School path is Electives!
