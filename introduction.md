@@ -4,3 +4,4 @@ Deadly skills
 * Java
 * Linux
 * Swift
+* Killing History with git rebase
