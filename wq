@@ -1,0 +1,104 @@
+[33mcommit d0779fe7e29531682b06dc611b45c8a62f12b730[m
+Author: Rafael Nocete <Rafael Nocete>
+Date:   Sun Mar 13 10:59:54 2016 +0100
+
+    fixed
+
+[33mcommit 66f5dc3e13b4a24d92ead065df0426bb04476e14[m
+Author: Code School Kiddo <codeschool-kiddo@users.noreply.github.com>
+Date:   Sun Mar 13 05:56:29 2016 -0400
+
+    Added new rule about coffee
+
+[33mcommit f559a18e459aca6a207044500b171b8049e36df4[m
+Merge: b4091ab 229cb41
+Author: rnocete <rafael.nocete@gmail.com>
+Date:   Sun Mar 13 10:47:54 2016 +0100
+
+    Merge pull request #1 from rnocete/deadly_skills
+    
+    Modifications on introduction.md
+
+[33mcommit 229cb41562674db574b842cc5ee4ea9d236c3b51[m
+Author: Rafael Nocete <Rafael Nocete>
+Date:   Sun Mar 13 10:42:27 2016 +0100
+
+    Modificatios on introduction.md
+
+[33mcommit b4091ab4bcbee1465e14aaacf55f32ddb37e4b13[m
+Author: Rafael Nocete <Rafael Nocete>
+Date:   Sat Mar 12 19:47:01 2016 +0100
+
+    New introduction
+
+[33mcommit c410f046702901c813631e9a039ba1ac3aaa2ef3[m
+Author: Rafael Nocete <Rafael Nocete>
+Date:   Sat Mar 12 19:36:54 2016 +0100
+
+    New introduction
+
+[33mcommit 4a2cee3f506998d0b48d62221c9ef66177a6dec4[m
+Merge: c21c6b6 8a8ca9d
+Author: The Bride <beatrix@revenge.org>
+Date:   Fri Jun 6 10:36:39 2014 -0400
+
+    Merge pull request #11 from githubteacher/master
+    
+    Githubteacher's contributions
+
+[33mcommit c21c6b682627357b653a076b34f721f17f1d4d60[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit 8a8ca9d6e9972f30a2745eee3b22e0df422fb928[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:33:54 2014 -0400
+
+    Create another_feature.rb
+
+[33mcommit ec145f42fefd6133b592ee54261665d179a8e2cd[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit e42abab7fb035c9b6e24c862eebcede158081660[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Mon Jun 2 15:08:46 2014 -0400
+
+    Most Senseis should be respected
+
+[33mcommit df1d76604f23b2fd60b0c4cc0e44f3f12454aedf[m
+Merge: 648a2df 133e901
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:12 2014 -0400
+
+    Merge pull request #1 from PeterBell/master
+    
+    Not every Sensei deserves to be respected
+
+[33mcommit 133e901455498c55d61551a3732590f234d661ed[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:47 2014 -0400
+
+    You should respect some Senseis
+
+[33mcommit a4b95d10b08820004335d1496de99ef037ad0663[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:01:11 2014 -0400
+
+    Not every Sensei deserves to be respected
+
+[33mcommit 648a2dfab4524d9202b283d17265e7bd1a243fa4[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:05:18 2014 -0400
+
+    Added README to the project
+
+[33mcommit 6913445a526fcbcaf6208e9f0179e6c4078d6396[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:03:57 2014 -0400
+
+    Initial dojo rules
