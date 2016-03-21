@@ -1,1 +1,1 @@
-Hello, I'm JD
+Hello, I'm JD. Common Lisp is my favorite course.
