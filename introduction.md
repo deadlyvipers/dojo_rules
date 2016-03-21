@@ -5,3 +5,4 @@ Words and what not.
 Letters.
 Sentences.
 The meaning of lift is 42.
+My favorite Code School path is the Git path!
