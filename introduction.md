@@ -3,4 +3,5 @@ HTML & CSS is my favorite CodeSchool path.
 *Git
 *Javascript
 *Python
-*VBA`
+*VBA
+*Killing history using git rebase
