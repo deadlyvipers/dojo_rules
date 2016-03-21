@@ -4,3 +4,4 @@ aessdafsdfdsfds dsafsd sdf adsdf dsfsf sfsdaf sf javascript
 * git 
 * html 
 * javascript
+* Killing history using git rebase
