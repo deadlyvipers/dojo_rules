@@ -4,3 +4,4 @@ iOS if my favorite course
 
 deadly skills:
 *Git
+*Killing history using git rebase
