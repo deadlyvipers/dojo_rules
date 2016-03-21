@@ -1,1 +1,1 @@
-Hello, I'm JD. Common Lisp is my favorite course.
+Hello, I'm JD. Ruby is my favorite course.
