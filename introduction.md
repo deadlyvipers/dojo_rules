@@ -6,3 +6,9 @@ Letters.
 Sentences.
 The meaning of lift is 42.
 My favorite Code School path is the Git path, but that doesn't seem to be an option. JavaScript is second!
+Deadly Skills
+* Git
+* C#
+* Laser-Eye vision
+* Magic
+* Other skills that are deadly
