@@ -11,4 +11,4 @@ Deadly Skills
 * C#
 * Laser-Eye vision
 * Magic
-* Other skills that are deadly
+* Killing history using git rebase
