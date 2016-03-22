@@ -1,1 +1,2 @@
 Some inst.
+JavaScript!
