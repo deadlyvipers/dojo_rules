@@ -3,6 +3,9 @@ My name is Meredith.
 My favorite Code School course is HTML and CSS.  
 
 My Deadly Skills:
-*Git
-*Javascript
-*Ruby
+
+- Html
+- CSS
+- Javascript
+- Ruby
+- Killing history using git rebase
