@@ -8,5 +8,3 @@ JavaScript!
 *Ruby
 
 Rebase
-
-Rebase
