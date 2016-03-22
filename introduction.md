@@ -1,1 +1,6 @@
-"My name is Shani and I love html css"*JS*HTML*CSS*JQUERY*GIT 
+"My name is Shani and I love html css"
+*JS
+*HTML
+*CSS
+*JQUERY
+*GIT 
