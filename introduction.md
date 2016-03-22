@@ -1,6 +1,7 @@
 My name is Meredith.
 
-My favorite Code School course is HTML and CSS.
+My favorite Code School course is HTML and CSS.  
+
 *Git
 *Javascript
 *Ruby
