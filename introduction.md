@@ -1,1 +1,1 @@
-This is my intro, checkout it out
+This is my intro, check it out. The path I am following is Ruby.
