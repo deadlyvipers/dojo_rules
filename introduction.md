@@ -5,3 +5,4 @@ I really like the JavaScript, HTML, and SQL paths.
 *PHP
 *SQL
 *Killing history using git rebase
+Hotfix
