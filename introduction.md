@@ -1,1 +1,5 @@
-Hello, I'm JD. Ruby is my favorite course.
+Deadly Skills:
+Excel
+cPanel
+CloudLinux
+HTML
