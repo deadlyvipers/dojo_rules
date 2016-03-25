@@ -7,6 +7,6 @@ Fave path is Electives
 Deadly Skills
 ===========
 
-Viper Magic
-Slick Rick Kick
-Tongue Twisters
+*Viper Magic
+*Slick Rick Kick
+*Tongue Twisters
