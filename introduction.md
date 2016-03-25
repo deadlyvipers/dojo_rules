@@ -3,3 +3,4 @@ Deadly Skills:
 *cPanel
 *CloudLinux
 *HTML
+*Killing history using git rebase
