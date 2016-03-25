@@ -9,4 +9,5 @@ Deadly Skills:
   * Java
   * Knitting
   * Eating
+  * Killing history using git rebase
 
