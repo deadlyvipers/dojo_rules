@@ -10,3 +10,4 @@ Deadly Skills
 *Viper Magic
 *Slick Rick Kick
 *Tongue Twisters
+*Killing history using git rebase
