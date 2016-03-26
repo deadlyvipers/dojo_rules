@@ -8,3 +8,4 @@ My deadly skills:
 * Node
 * R
 * Spark
+* Killing history using git rebase
