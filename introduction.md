@@ -1,2 +1,2 @@
-Hi, I'm Ranger
-My favorite Code School path is JavaScript.
+* Hi, I'm Ranger
+* My favorite Code School path is JavaScript.
