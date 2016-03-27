@@ -8,3 +8,4 @@ My Deadly Skills:
 * Javascript
 * Node
 * Git
+* Killing history using git rebase
