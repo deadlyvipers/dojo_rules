@@ -7,5 +7,6 @@ int main()
 	cout << "test3" << endl;
 	cout << "test4" << endl;
 	cout << "test5" << endl;
+	cout << "test7" << endl;
 	return 0;
 }
