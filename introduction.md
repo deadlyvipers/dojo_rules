@@ -8,3 +8,4 @@ My favorite path on CodeSchool for now is the JavaScript one !
 * Git/HG/SVN
 * PHP
 * MySQL
+* Killing history using git rebase
