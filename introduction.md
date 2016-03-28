@@ -11,3 +11,6 @@ Deadly Skills
 *Slick Rick Kick
 *Tongue Twisters
 *Killing history using git rebase
+*Extra item 1
+*Extra Item 2
+*Extra Item 3
