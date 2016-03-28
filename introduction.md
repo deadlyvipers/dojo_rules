@@ -1,3 +1,3 @@
 Introduction
 
-Hi! I'm daveres.
+Hi! I'm daveres. My favorite Code School path in your introduction is Electives.
