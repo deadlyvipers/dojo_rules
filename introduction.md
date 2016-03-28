@@ -3,3 +3,4 @@ Deadly skills:
 * git
 * R
 * eating cookies
+* Killing history using git rebase (for breakfast)
