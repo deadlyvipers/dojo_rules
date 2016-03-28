@@ -1,4 +1,5 @@
 # Introduction
 ### Supanut Apikulvanich (Nut)
 
-* Love Javascript
+* Javascript
+* HTML & CSS
