@@ -1,2 +1,2 @@
-Code school tutorial 
+HTML & CSS
 Adrian
