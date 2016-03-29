@@ -1,1 +1,4 @@
 JavaScript
+*JavaScript
+*Git
+*Ruby
