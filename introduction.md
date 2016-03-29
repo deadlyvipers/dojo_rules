@@ -1,3 +1,3 @@
-Git
+* Git
 HTML & CSS
 Adrian
