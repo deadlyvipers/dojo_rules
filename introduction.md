@@ -1,2 +1,3 @@
-I like spaceships and bananas
-Ruby
+*I like spaceships and bananas
+*Ruby
+*JavaScript
