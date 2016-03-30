@@ -1,1 +1,5 @@
-"The JavaScript Path is the best!, I love Codeschool!, Do you have shirts?3" 
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Mongo DB
+* Angular.js
+* Git
