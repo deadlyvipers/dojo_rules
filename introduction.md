@@ -6,4 +6,5 @@
   * C#
   * C
   * C++
+  * Killing history using git rebase
   * More...
