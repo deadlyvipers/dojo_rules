@@ -1,3 +1,3 @@
 hi I am devanshu.
-Mu favorite code school path is
+My favorite code school path is python.
 https://www.codeschool.com/learn/python
