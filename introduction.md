@@ -16,4 +16,5 @@ My skills include:
 * Git
 * Heroku
 * AWS
+* Killing history using git rebase
 
