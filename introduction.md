@@ -1,2 +1,1 @@
- hi i AM DEVANSHU
-	https://www.codeschool.com/learn/python
+https://www.codeschool.com/learn/python
