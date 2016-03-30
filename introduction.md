@@ -1,4 +1,6 @@
-"The JavaScript Path is the best!, I love Codeschool!, Do you have shirts?3"
+MY skills
+
+I started in the js world, and now... I love HTML5
 
 ## Deadly Skills
 
