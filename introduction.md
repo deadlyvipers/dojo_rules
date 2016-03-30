@@ -1,13 +1,5 @@
-MY skills
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-I started in the js world, and now... I love HTML5
-
-## Deadly Skills
-
-* Javascript
-* MongoDB
+* Mongo DB
+* Angular.js
 * Git
-* Node.js
-* Progress
-* CSS3
-
