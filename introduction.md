@@ -1,4 +1,7 @@
-Javascript!
+* Javascript!
+* Git
+* HTML
+* Killing history using git rebase
 
 Dojo Rules
 ==========
