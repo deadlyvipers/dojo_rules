@@ -1,4 +1,6 @@
-Javascript!
+* Javascript!
+* Git
+* HTML
 
 Dojo Rules
 ==========
