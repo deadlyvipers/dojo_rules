@@ -1,3 +1,5 @@
+Javascript!
+
 Dojo Rules
 ==========
 
