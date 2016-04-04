@@ -1,2 +1,2 @@
 # Introduction
-An introduction to @crossetj. His favoure path is Git.
+An introduction to @crossetj. His favoure path is Javascript.
