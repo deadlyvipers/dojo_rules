@@ -10,3 +10,4 @@ Skills
 * swift
 * angular
 * laravel
+* Killing history using git rebase
