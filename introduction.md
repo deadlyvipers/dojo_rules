@@ -1,2 +1,4 @@
 It's tom
-Ruby
+* Ruby
+* Github
+* Docker
