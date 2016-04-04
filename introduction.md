@@ -8,3 +8,4 @@ An introduction to @crossetj. His favoure path is Javascript.
 * Building things
 * Changing things
 * Keeping things the same
+* Killing history using git rebase
