@@ -1,8 +1,3 @@
-bla
-dasdam
-
-dsadas
-dasd
-as
-dsada
-Ruby
+* Git
+* JavaScript
+* Ruby
