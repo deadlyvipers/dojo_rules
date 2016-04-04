@@ -5,3 +5,6 @@ Kill List
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
+*Uncommented code
+*Bad commit messages
+*annoying issues
