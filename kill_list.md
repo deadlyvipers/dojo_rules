@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Abbreviations
+* The bug in Code School's Mastering Github 4.2
