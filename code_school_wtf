@@ -1,0 +1,17 @@
+Halfway through the course and then this:
+
+Incorrect Submission
+
+It appears that your user.email is not configured properly. Follow these steps to correct the issue.
+
+First, set your global user.email config.
+
+dojo\_rules (kill\_list)$ git config --global user.email [your GitHub account email address]
+
+Next, you need to amend the commit so that the author is reset.
+
+dojo\_rules (kill\_list)$ git commit --amend --reset-author --no-edit
+
+Finally, push the amended commit to GitHub and try again.
+
+dojo\_rules (kill\_list)$ git push origin kill_list -f
