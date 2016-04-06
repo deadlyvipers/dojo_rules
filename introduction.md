@@ -1,2 +1,4 @@
-Sth about me
-JavaScript
+* Git
+* Hub
+* .
+* com
