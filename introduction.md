@@ -10,3 +10,4 @@ Deadly Skills:
 * Git
 * Somnambulic Time Travel (Forward only)
 * Stoic Demeanor
+* Killing history using git rebase 
