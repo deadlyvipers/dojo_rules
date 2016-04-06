@@ -1,2 +1,5 @@
-Sth about me
-JavaScript
+* Git
+* Hub
+* .
+* com
+* Killing history using git rebase
