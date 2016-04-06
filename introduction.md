@@ -4,3 +4,4 @@ Ruby JS is my favorite path!
 * C#
 * Git
 * SQL
+* Killing history using git rebase
