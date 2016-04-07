@@ -4,3 +4,4 @@ My favorite code school path has been the JavaScript path.
 *JavaScript
 *C#
 *Objective-C
+*Killing history using git rebase
