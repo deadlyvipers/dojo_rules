@@ -4,3 +4,4 @@ Hi! I'm Dana :)
 * and CSS
 * and HTML
 * and JS
+* and Git rebase 
