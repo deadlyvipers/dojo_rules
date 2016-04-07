@@ -3,3 +3,4 @@ Hi! I'm Dana :)
 * and ruby
 * and CSS
 * and HTML
+* and JS
