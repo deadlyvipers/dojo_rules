@@ -3,3 +3,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta nibh ut nunc 
 Morbi quis nisi sed est euismod sollicitudin. Cras eu dui eleifend tortor consequat vulputate at interdum orci. Duis condimentum quis massa ut ultricies. Mauris nec imperdiet dui. Morbi sit amet feugiat mauris, sollicitudin posuere nibh. Suspendisse nisi ligula, tincidunt quis ornare quis, varius in tellus. Nullam porttitor purus eu lobortis tempor. Quisque lacinia ut quam tincidunt tempus.
 
 JavaScript
+
+ *  Git
+ * JavaScript
+ * Ruby
+ * Killing history using git rebase
