@@ -6,3 +6,4 @@ Electives.
 * Python
 * Chocolate Pudding
 * Pies
+* Killing history using git rebase
