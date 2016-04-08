@@ -1,6 +1,6 @@
 Kill List
 =========
-* Ununsed code
+* Unused code
 * functions with side effects
 * unformatted code
 * Repeated code blocks
