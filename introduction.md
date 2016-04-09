@@ -1,1 +1,1 @@
-Hello Mastering GitHub coursse! It's me
+Hello Mastering GitHub course! It's me
