@@ -1,1 +1,1 @@
-Hi Guys!
+Hi Guys! My favorite Code School path is JavaScript!
