@@ -1,4 +1,5 @@
-On my way to becoming a Github Master. I love Ruby and Javascript.
-Killing history using git rebase
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
 * Ruby on Rails
 *Git
+* Rebase
