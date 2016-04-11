@@ -1,3 +1,3 @@
 Kill List
 =========
-* empty catch block
+* empty catch block once again
