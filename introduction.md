@@ -1,1 +1,1 @@
-Notice me Senpai
+Notice me Senpai. I follow the JavaScript path.
