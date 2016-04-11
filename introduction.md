@@ -3,4 +3,4 @@
 * ruby
 * git
 * javascript
-"Killing history using git rebase"
+"Killing history using git rebase""Killing history using git rebase""Killing history using git rebase" 
