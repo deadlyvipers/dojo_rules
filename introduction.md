@@ -14,4 +14,4 @@ I enjoy the Git code school path
  * Java
  * Groovy 
  * Git
-
+ * Killing history using git rebase
