@@ -1,3 +1,1 @@
-Hy , I'm gerard
-
-favorite Code School : Ruby, JavaScript, HTML & CSS, iOS
+"On my way to becoming a GitHub Master" 
