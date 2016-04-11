@@ -4,3 +4,5 @@ My deadly skills are:
 *Javascript
 *GitHub
 *Automation
+*Java
+*Killing history using git rebase
