@@ -1,3 +1,1 @@
-asdf asdf asdfasdf sdfkasdfklsdjalfks  
-asdklfjsdlakfjasdklfjasdf
-asdlkfjasdlfjsdfl 
+leading force in musical education. As a student at the London Royal Academy of Music (RAM), he was admired by Felix Mendelssohn, who invited him to come to Germany. In three long visits there between 1836 and 1842 he performed as a pianist and composed, befriending Robert Schumann. In 1837 he began teaching at the RAM, with which he was associated for most of his life. His pupils included Arthur Sullivan, Hubert Parry, and Tobias Matthay. He performed throughout the 1840s and 1850s, returning to composition in 1858; by this time his works were considered old-fashioned, though they were still popular. He was Professor of Music at the University of Cambridge from 1856 to 1866, then became Principal of the RAM, rescuing it from closure. He was knighted in 1871. He died in London and was buried in Westminster Abbey. In recent years, appreciation
