@@ -5,4 +5,5 @@ This is some random person that is trying to learn all the things!  My favorite 
 
 Deadly Skills:
 * JavaScript
+* Killing history using git rebase
 * etc. etc.
