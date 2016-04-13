@@ -7,6 +7,7 @@ My deadly skills:
 * backbones
 * node
 * git
+* rebase
 
 noch eine zeile
 
