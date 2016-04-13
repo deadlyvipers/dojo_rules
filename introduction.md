@@ -8,4 +8,4 @@ Deadly Skills
 * jQuery
 * Html
 * CSS
-
+* Killing history using git rebase
