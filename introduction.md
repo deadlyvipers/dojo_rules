@@ -1,2 +1,4 @@
-On my way to becoming a GitHub Master
-Favorite path is Javascript.
+* Git
+* JavaScript
+* Ruby
+* Rebase
