@@ -1,4 +1,6 @@
 *Lemons
 *Hams
 *Winkledinks
-Javascript
+Killing history using git rebase
+JAVASCRIPT
+
