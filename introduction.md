@@ -1,2 +1,3 @@
-RUBY HTML & CSS
-Hello
+* Git
+* JavaScript
+* Ruby
