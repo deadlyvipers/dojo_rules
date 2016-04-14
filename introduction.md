@@ -8,6 +8,7 @@ Deadly skills:
 * Python
 * Git
 * Ruby
+* Killing history using git rebase
 
 Cheers.
 Johan
