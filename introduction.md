@@ -4,3 +4,4 @@ favourite Code School path is Ruby
 *Ruby on Rails
 *EmberJS
 *AngularJS
+*Killing history using git rebase
