@@ -6,5 +6,5 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 
-fucked up pm and fucked up customer
+programmer grievance:
 customers change the spec. shits all the time
