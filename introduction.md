@@ -10,3 +10,4 @@ My favorite path is Electives.
 * HTML
 * Javascript
 * CSS
+* Killing history using git rebase
