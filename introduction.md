@@ -1,1 +1,4 @@
+*Lemons
+*Hams
+*Winkledinks
 Javascript
