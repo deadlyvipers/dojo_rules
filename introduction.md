@@ -8,3 +8,4 @@ Deadly skills:
 *JavaScript
 *Ruby
 *OctoberCMS
+*rebase
