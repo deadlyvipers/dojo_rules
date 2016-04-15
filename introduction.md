@@ -4,3 +4,4 @@ created new branch and pushed to git
 * git
 * javascript
 * ruby
+* killing history using git rebase
