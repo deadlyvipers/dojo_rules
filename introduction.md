@@ -4,4 +4,5 @@ My favourite codeschool course is Ruby.
 Deadly skills:
 * Git;
 * JavaScript;
-* Ruby.
+* Ruby;
+* Killing history using git rebase.
