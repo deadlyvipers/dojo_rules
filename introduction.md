@@ -1,1 +1,1 @@
-I'm Kick and I do things.
+I'm Nick and I do things. JavaScript
