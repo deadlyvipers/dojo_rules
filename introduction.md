@@ -1,1 +1,2 @@
-I enjoyed Git Real
+Hello from me
+Javascript
