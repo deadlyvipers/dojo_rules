@@ -6,3 +6,4 @@ My favorite Code School path is JavaScript!
 * C pointer magic
 * C++ hacking
 * Python parsel tongue
+* Killing history using git rebase
