@@ -4,3 +4,4 @@ My skills include:
 * JavaEE
 * Javascript
 * Spring
+* Killing history using git rebase
