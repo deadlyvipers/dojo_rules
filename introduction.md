@@ -1,3 +1,5 @@
 Hello. My name is Ahmed.
 My favorite Code School path is Ruby.
-My deadly skils are C#, ASP.NET, Javascript.
+*Git
+*Javascript
+*Ruby
