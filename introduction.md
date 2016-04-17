@@ -4,3 +4,4 @@ Introduction:
 * Favorite Code School path is Javascript.
 * On my way to becoming a GitHub Master. 
 * I love JavaScript.
+* Killing history using git rebase
