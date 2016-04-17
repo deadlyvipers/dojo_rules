@@ -1,2 +1,3 @@
-# My name is Akmurat
-# And I like JavaScript
+* Javascript
+* Git
+* HTML/CSS
