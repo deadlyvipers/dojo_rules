@@ -5,3 +5,6 @@ My favorite Code School path is JavaScript.
 
 * JavaScript async magic
 * Merge conflicts power of git
+* Bombastic Git skills
+* JavaScript power
+* Ruby total magic
