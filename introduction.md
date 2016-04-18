@@ -8,3 +8,4 @@ My favorite Code School path is JavaScript.
 * Bombastic Git skills
 * JavaScript power
 * Ruby total magic
+* Killing history using git rebase
