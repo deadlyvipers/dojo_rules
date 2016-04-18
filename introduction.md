@@ -1,1 +1,4 @@
-I'm Nick and I do things. JavaScript
+I'm Nick and I do things. 
+*JavaScript
+*Python
+*rebase
