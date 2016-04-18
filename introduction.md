@@ -1,2 +1,2 @@
 "This file is an introduction file"
-"My favorite Code School path is Python"
+"My favorite Code School path is Ruby"
