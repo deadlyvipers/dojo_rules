@@ -13,3 +13,4 @@ Deadly Skills
 *SQL
 *R
 *the Power of Math
+*Girlpower
