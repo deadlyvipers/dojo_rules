@@ -1,2 +1,1 @@
-This is Ashwani. Taking course on Github.
-My Favorite Code School path is Mastering GitHub.
+My Favorite Code School path is Ruby, JavaScript, HTML & CSS, iOS.
