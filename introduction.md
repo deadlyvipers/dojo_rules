@@ -3,4 +3,4 @@ Ruby
 * Git
 * JavaScript
 * Ruby
-test
+* Killing history using git rebase
