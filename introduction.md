@@ -7,3 +7,4 @@ Deadly Skills:
 * JavaScript
 * Ruby
 * Java
+* rebase
