@@ -6,3 +6,5 @@ Deadly Skills:
 * Git
 * JavaScript
 * Ruby
+* Java
+* rebase
