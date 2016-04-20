@@ -1,0 +1,1 @@
+New file added to follow codeschool course on Mastering GitHub
