@@ -17,3 +17,4 @@ skils:
 * Sinon
 * Chai
 * Jasmine
+* Killing history using git rebase
