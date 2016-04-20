@@ -1,4 +1,15 @@
-Hello! I'm Jeff. Consider yourself introduced.
+##Hello! I'm Jeff. Consider yourself introduced.
 
 
-Electives!
+Favorite track? _Electives!_
+
+
+Deadly skills
+-------------
+* Git
+* Javascript
+* C
+* Python
+* .NET
+* html/css
+* karate
