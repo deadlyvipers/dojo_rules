@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* It is an OUTRAGE that I have to use nano PIIISH.
+* It is an OUTRAGE that I have to use nano PIIISH again :-(.
