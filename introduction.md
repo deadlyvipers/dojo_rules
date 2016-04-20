@@ -12,4 +12,4 @@ Deadly skills
 * Python
 * .NET
 * html/css
-* karate
+* Killing history using git rebase
