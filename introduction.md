@@ -1,2 +1,3 @@
 Introduction:
-Hi, I'm Xueyong
+Hi, I'm Xueyong.
+My favorite course is Javasript
