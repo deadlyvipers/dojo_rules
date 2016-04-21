@@ -1,1 +1,1 @@
-some intro goes here
+some intro goes here, JavaScript
