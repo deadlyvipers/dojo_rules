@@ -7,3 +7,4 @@ Conflict_another_feature
 Conflict
 Features 5
 Feature 6
+feature 7
