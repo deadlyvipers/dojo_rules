@@ -12,3 +12,4 @@ Deadly Skills
 * Git
 * SVG
 * Terminal 
+* Killing history using git rebase
