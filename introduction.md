@@ -1,4 +1,4 @@
-My favorite Code School path is Python. 
+My favorite Code School path is Ruby. 
 Python
 Python is my favorite Code School path!
 Hello, 
