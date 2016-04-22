@@ -1,1 +1,1 @@
-Hi, I'm Travis Priest
+Hi, I'm Travis Priest. My favorite Code School path is Python.
