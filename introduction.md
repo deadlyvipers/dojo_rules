@@ -7,4 +7,5 @@ My Deadly Skills:
 * Django
 * Nunchucks
 * Bo Staff
+* Killing history using git rebase
 
