@@ -4,4 +4,5 @@ My favorite Code School path is Ruby.
 * Python
 * AWS
 * Perl
+* Killing history using git rebase
 
