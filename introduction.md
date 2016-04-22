@@ -4,3 +4,4 @@ Favourite CodeSchool path: JavaScript
 Deadly skills:
 * Data analysis
 * Scientific computing
+* Killing history using git rebase
