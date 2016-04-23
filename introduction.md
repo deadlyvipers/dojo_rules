@@ -4,4 +4,4 @@ Deadly Skills:
 *Git
 *PHP
 *Lua
-*...
+*Killing history using git rebase
