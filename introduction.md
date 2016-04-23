@@ -1,3 +1,1 @@
-introduction text
-
-git path
+JavaScript
