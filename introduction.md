@@ -6,3 +6,4 @@ My favorite CodeSchool path is Ruby.
 * JavaScript
 * AWS
 * Chef
+* Killing history using git rebase
