@@ -1,3 +1,6 @@
 rodrigomilfont
 My favorite Code School path is JavaScript
-dojo_rules
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
