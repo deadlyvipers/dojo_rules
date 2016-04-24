@@ -1,7 +1,1 @@
- # Introduction
-
-    Hi
- 
- # Code School favorites paths
- * Python
- * Git
+ Hi.This could be Ruby, JavaScript, HTML & CSS, iOS or Electives. 
