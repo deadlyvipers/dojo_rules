@@ -11,3 +11,4 @@ My favourite path is Ruby.
 * PHP
 * Bash
 * Fishcakes
+* Killing history using git rebase
