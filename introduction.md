@@ -2,6 +2,6 @@
 
     Hi
  
- ## Code School favorites paths
+ # Code School favorites paths
  * Python
  * Git
