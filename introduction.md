@@ -5,3 +5,4 @@ Skills:
 *ColdFusion
 *SQL
 *JQuery
+*Killing history using git rebase
