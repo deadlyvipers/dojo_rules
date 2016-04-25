@@ -6,3 +6,7 @@
 
 My favorite path is git.
 Or JavaScript
+
+* Python
+* Golang
+* Java
