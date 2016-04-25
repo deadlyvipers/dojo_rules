@@ -10,3 +10,4 @@ Or JavaScript
 * Python
 * Golang
 * Java
+* Killing history using git rebase
