@@ -1,1 +1,1 @@
-Intro to who I am
+Intro to who I am. I like JavaScript
