@@ -6,3 +6,8 @@
 
 My favorite path is git.
 Or JavaScript
+
+* Python
+* Golang
+* Java
+* Killing history using git rebase
