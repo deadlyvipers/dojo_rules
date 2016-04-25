@@ -1,1 +1,5 @@
 Niklas Grönblom checking in. Favourite path is Ruby.
+* Git
+* JavaScript
+* Ruby
+* Rails
