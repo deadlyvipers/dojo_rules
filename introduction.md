@@ -6,3 +6,4 @@ Ruby is the best!
 * Rails
 * Javascript
 * Git
+* Killing history using git rebase
