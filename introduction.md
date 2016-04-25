@@ -1,0 +1,5 @@
+Intro to who I am. I like JavaScript
+*Java
+*Ruby
+*Git
+*Killing history using git rebase
