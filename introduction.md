@@ -3,3 +3,4 @@ Niklas Grönblom checking in. Favourite path is Ruby.
 * JavaScript
 * Ruby
 * Rails
+* Killing history using git rebase
