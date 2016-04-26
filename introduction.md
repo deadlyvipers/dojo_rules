@@ -1,0 +1,2 @@
+Hi dojo-rules
+HTML
