@@ -4,4 +4,6 @@ JavaScript
 Hello this this is me.
 
 
-deadly skills : Git, JavaScript;
+deadly skills
+* Git
+* JavaScript
