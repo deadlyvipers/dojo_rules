@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * What is grievance?
+* some more changings
