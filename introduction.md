@@ -1,1 +1,3 @@
 HTML
+*Git 
+*Javascript
