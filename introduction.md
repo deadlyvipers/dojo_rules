@@ -6,3 +6,4 @@ JavaScript is my favorite Code School path
 *Security plus
 *Network plus
 *MCP
+*Killing history using git rebase
