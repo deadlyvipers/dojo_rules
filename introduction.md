@@ -8,7 +8,3 @@ My fav topic is Javascript and GIT
  * 
  rebase
 
-git checkout master
-git pull
-git merge --no-ff deadly_skills
-git push
