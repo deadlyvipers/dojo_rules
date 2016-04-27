@@ -1,0 +1,11 @@
+Hello my name is Blake Paige
+
+My fav topic is Javascript and GIT
+
+ * Git 
+ * JavaScript 
+ * Ruby
+ * This
+ * Wow
+ * Y
+ * Rebase
