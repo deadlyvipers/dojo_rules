@@ -5,3 +5,6 @@ My fav topic is Javascript and GIT
  * Git 
  * JavaScript 
  * Ruby
+ * This
+ * Wow
+ * Y
