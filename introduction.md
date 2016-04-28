@@ -6,3 +6,4 @@ iOS is my favorite elective.
 *Me
 *skillb
 *skillcs
+*Killing history using git rebase
