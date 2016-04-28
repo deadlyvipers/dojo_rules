@@ -3,6 +3,7 @@ I am testing out this course, and gaining major points. Next up, the world.
 
 iOS is my favorite elective.
 
-*Git
-*JavaScript
-*Ruby
+*Me
+*skillb
+*skillcs
+*Killing history using git rebase
