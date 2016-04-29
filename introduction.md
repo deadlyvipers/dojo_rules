@@ -10,3 +10,4 @@ Deadly Skills:
 * Powershell
 * HTML
 * VBScript
+* Killing history using git rebase
