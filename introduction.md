@@ -1,4 +1,4 @@
 # Introduction
-
-- Hello
-- JavaScript
+* Git
+* JavaScript
+* Ruby
