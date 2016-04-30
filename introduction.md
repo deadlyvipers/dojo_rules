@@ -2,4 +2,4 @@
 
 Hello!
 
-Favorit codeschool path : Git 
+Favorit codeschool path : JavaScript
