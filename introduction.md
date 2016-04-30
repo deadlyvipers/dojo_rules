@@ -1,3 +1,3 @@
-# Introducting myself
+# Introducing myself
 
 Hello!
