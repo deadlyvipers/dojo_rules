@@ -1,3 +1,3 @@
 Here is the sentence
 * JavaScript
-git 
+* Killing history using git rebase
