@@ -1,3 +1,5 @@
 test new file about myself
 
-JavaScript is kinda cool
+* Git
+* Ruby
+* JavaScript
