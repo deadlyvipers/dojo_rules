@@ -12,6 +12,7 @@ My deadly skills:
 * Witty comments
 * Flow charts
 * Finding great books on line and training courses
+* Killing history using git rebase
 
 ### ### ### ###
 ###
