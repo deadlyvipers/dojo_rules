@@ -1,2 +1,3 @@
 Hello, I am Stephane
-Javascript
+* Javascript
+* HTML
