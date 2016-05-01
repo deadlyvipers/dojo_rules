@@ -1,3 +1,6 @@
 test new file about myself
 
-JavaScript is kinda cool
+* Git
+* Ruby
+* JavaScript
+* Killing history using git rebase
