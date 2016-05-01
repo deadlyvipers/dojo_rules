@@ -14,3 +14,4 @@ My deadly skills:
 * Node.js
 * SQLite
 * MongoDB
+* Killing history using git rebase
