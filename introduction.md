@@ -1,2 +1,3 @@
 Here is the sentence
-JavaScript
+* JavaScript
+git 
