@@ -10,6 +10,9 @@ My deadly skills:
 * Ruby
 * Memes
 * Witty comments
+* Flow charts
+* Finding great books on line and training courses
+* Killing history using git rebase
 
 ### ### ### ###
 ###
