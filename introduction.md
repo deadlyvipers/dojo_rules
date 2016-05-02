@@ -5,3 +5,4 @@ Following is my deadly skills list:
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
