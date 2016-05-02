@@ -1,7 +1,7 @@
 introduction
-//hello
+// hello
 
-//#1 CodeSchool path === Javascript
+// #1 CodeSchool path === Javascript
 Deadly Skills 
-*Unstructured Javascript
-*Structured Javascript
+* Unstructured Javascript
+* Structured Javascript
