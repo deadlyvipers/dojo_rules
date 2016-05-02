@@ -1,3 +1,3 @@
 Introduction
 ============
-Todo write introduction.
+My favourite codeschool path is Ruby.
