@@ -1,2 +1,4 @@
 Hey this is me!
-JavaScript
+*JavaScript
+*angularJS
+*other nice things
