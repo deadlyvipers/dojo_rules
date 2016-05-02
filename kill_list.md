@@ -1,5 +1,5 @@
-Kill List
-=========
+Kill List - Some code smells
+=============================
 * Unused code
 * Functions with side effects
 * Unformatted code
