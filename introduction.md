@@ -5,3 +5,4 @@ introduction
 Deadly Skills 
 * Unstructured Javascript
 * Structured Javascript
+* Angular
