@@ -10,3 +10,4 @@ Deadly skills
 * HTML
 * CSS
 * HAML
+* Killing history using git rebase
