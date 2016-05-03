@@ -6,3 +6,4 @@ I should mention that my favorite Code School path was Ruby.
 * Ruby
 * Swift
 * Git
+* Killing history using git rebase
