@@ -2,3 +2,4 @@ Hi, I just want to get going with the tutorial, but it's complaining the introdu
 
 * javascript
 * ruby
+* Killing history using git rebase
