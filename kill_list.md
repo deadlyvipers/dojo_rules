@@ -1,6 +1,6 @@
 Kill List
 =========
-* added new lines programmer grievance
+* Aaron Dewberry
 * BILL
 * Unused code
 * Functions with side effects
