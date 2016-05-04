@@ -4,3 +4,4 @@ Hello my name is Spndavillain.
 * Git 
 * JavaScript
 * Ruby
+* Killing history using git rebase
