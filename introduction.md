@@ -7,3 +7,4 @@ I guess to satisfy the challenge, another favorite path is JavaScript
 * JavaScript
 * Java
 * AngularJs
+* Killing history using git rebase
