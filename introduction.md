@@ -6,3 +6,4 @@ My answer wasn't accepted, maybe because I didn't have a keyword like Electives 
 
 * Git
 * SQL
+* Killing history using git rebase
