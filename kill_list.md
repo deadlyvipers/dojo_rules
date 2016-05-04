@@ -1,6 +1,7 @@
 Kill List
 =========
-* programmer grievance
+* added new lines programmer grievance
+* BILL
 * Unused code
 * Functions with side effects
 * Unformatted code
