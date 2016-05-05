@@ -2,8 +2,8 @@
 
 List of things
 
-CSS3
-Android
-HTML5
-Java
+* CSS3
+* Android
+* HTML5
+* Java
 
