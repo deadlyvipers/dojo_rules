@@ -1,1 +1,1 @@
-hey ho dojo!
+hey ho dojo! I like JavaScript!
