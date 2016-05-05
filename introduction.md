@@ -1,2 +1,1 @@
-inroduction
-Jabascript
+JavaScript
