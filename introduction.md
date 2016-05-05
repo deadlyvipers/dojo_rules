@@ -3,3 +3,4 @@
 * JavaScript
 * Php 
 * shell
+* Killing history using git rebase
