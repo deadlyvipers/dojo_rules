@@ -6,4 +6,4 @@ List of things
 * Android
 * HTML5
 * Java
-
+* Killing history using git rebase
