@@ -2,3 +2,4 @@
 * Test file
 * JavaScript
 * Php 
+* shell
