@@ -1,2 +1,3 @@
-Ruby
-Test file 
+* Ruby
+* Test file
+* JavaScript 
