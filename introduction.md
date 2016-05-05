@@ -1,1 +1,5 @@
-hey ho dojo! I like JavaScript!
+hey ho dojo!
+* JavaScript
+* GIT
+* Force.com
+* Killing history using git rebase
