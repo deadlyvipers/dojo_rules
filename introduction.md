@@ -4,3 +4,4 @@ My favorite code school path is the Ruby path.
 *Java
 *JavaScript
 *Git
+*Killing history using git rebase
