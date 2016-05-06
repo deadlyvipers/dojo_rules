@@ -1,2 +1,2 @@
 Hello there....
-CodeSchool path is Java
+CodeSchool path is HTML
