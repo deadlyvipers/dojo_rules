@@ -11,3 +11,4 @@ Deadly skills:
 * Python
 * Git
 * JavaScript
+* Killing history using git rebase
