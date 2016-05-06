@@ -1,3 +1,6 @@
 * Ruby
 * Test file
-* JavaScript 
+* JavaScript
+* Php 
+* shell
+* Killing history using git rebase
