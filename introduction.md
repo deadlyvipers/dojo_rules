@@ -1,2 +1,1 @@
-Ruby, JavaScript, HTML & CSS, iOS or Electives
-
+On my way to becoming a Github Master
