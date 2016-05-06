@@ -4,3 +4,4 @@
 - Repeated code blocks
 - Bad variable names
 - JavaScript
+- programmer grievance
