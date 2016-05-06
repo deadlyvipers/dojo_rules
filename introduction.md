@@ -1,2 +1,2 @@
 Hello there....
-Code path currently in progress is: Mastering GitHub!
+CodeSchool path is Java
