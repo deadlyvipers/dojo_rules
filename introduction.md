@@ -12,3 +12,4 @@ Deadly skills:
 * BASH
 * MySQL
 * MongoDB
+* Killing history using git rebase
