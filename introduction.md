@@ -1,2 +1,4 @@
 Text because I have to.
-Ruby, JavaScript.
+* Ruby
+* JavaScript
+* Killing history using git rebase
