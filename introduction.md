@@ -7,3 +7,4 @@ Hello, I'm Alan. Ruby is my favourite path on Codeschool.
  * Ruby
  * Python
  * PHP
+ * Killing history using git rebase
