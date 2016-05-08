@@ -4,3 +4,4 @@ My favorite path in codeschool is Javascript.
 ##### Skills
 *Git
 *Javascript
+*Killing history using git rebase
