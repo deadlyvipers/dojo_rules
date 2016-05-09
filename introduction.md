@@ -3,3 +3,5 @@ echo "On my way to becoming a GitHub Master. I love *" > introduction.md
 git commit -am "Added Code School Path"
 git push origin
 "Killing history using git rebase" 
+git checkout master
+git pull
