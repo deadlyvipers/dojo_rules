@@ -5,3 +5,4 @@ git push origin
 "Killing history using git rebase" 
 git checkout master
 git pull
+git merge --no-ff deadly_skills -m "Merging in deadly_skills
