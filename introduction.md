@@ -5,4 +5,4 @@ JavaScript
 * PHP
 * Java
 * AngularJS
-
+* Killing history using git rebase
