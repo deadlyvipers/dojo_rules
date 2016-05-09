@@ -1,1 +1,3 @@
-Ruby - Javascript - HTML5
+*Ruby
+*Javascript
+*HTML5
