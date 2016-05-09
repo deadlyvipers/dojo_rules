@@ -7,4 +7,6 @@ I guess to satisfy the challenge, another favorite path is JavaScript
 * JavaScript
 * Java
 * AngularJs
+* Docker
 * Killing history using git rebase
+
