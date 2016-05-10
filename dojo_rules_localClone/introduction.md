@@ -1,2 +1,0 @@
-Karina Derbez
-Software Engineer
