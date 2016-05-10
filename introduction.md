@@ -7,6 +7,6 @@ Hello!
 JavaScript
 
 #Deadly Skills
-*Python
-*Java
-*Git
+* Python
+* Java
+* Git
