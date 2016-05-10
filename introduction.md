@@ -1,2 +1,9 @@
 This is new introduction
-my fav path at codeschool is javascript.
+I started in the Ruby world, but now I love JavaScript.
+
+## Deadly Skills
+
+* Ruby on Rails
+* JavaScript
+* Node.js
+* Killing history using git rebase
