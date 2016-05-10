@@ -1,4 +1,2 @@
 hello
 Electives
-*Java
-*Git
