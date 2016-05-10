@@ -1,4 +1,4 @@
 Introduction:
 Hello!
-Favorite Code Schol Path:
-Git!
+Favorite Code School Path:
+JavaScript
