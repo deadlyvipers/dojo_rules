@@ -1,8 +1,1 @@
-Introductio
-
-
-==========
-
-
-
-Favorite path = javascript
+On my way to becoming a GitHub Master
