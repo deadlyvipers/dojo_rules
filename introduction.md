@@ -7,3 +7,4 @@ My favorite Code School path is definitely JavaScript!
 * JavaScript
 * ReactJS
 * NodeJS
+* Killing history using git rebase
