@@ -1,5 +1,12 @@
-Dojo Rules
-==========
+IntroductionwaWAwqQWQWQ
+wqWQ
+=a=========
+sdasd
+This repository contains a list of dojo rules for the Deadlydd
+ Vipers dojo
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
+asd
 
+
+asd
+asd
