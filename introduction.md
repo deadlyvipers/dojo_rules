@@ -7,3 +7,4 @@ My deadly skills:
 *Git
 *Sql
 *NoSql
+*Killing history using git rebase
