@@ -9,3 +9,4 @@
 * Gardening
 * Farming
 * Drinking
+* Killing history using git rebase
