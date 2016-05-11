@@ -4,3 +4,4 @@ Electives
 * Perl
 * ant
 * Clearcase
+* Killing history using git rebase
