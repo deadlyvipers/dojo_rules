@@ -1,2 +1,2 @@
 This is an introduction file
-My favourite path is GIT Real
+My favourite Code School path is GIT
