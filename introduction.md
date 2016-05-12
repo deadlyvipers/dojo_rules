@@ -5,3 +5,4 @@ A nice introductory course on Regular Expressions can be found under Electives a
 Deadly Skills: 
 * Git
 * Regular Expressions
+* Killing history using git rebase
