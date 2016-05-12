@@ -6,3 +6,4 @@ my deadly skills are
 * Ruby
 * motorcycling
 * doing the git thing
+* Killing history using git rebase
