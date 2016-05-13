@@ -1,2 +1,2 @@
 Hi dojo!
-# CSS
+* CSS
