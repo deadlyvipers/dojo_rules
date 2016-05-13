@@ -1,2 +1,2 @@
 Hi dojo!
-* CSS
+My favourite Code School path is Ruby
