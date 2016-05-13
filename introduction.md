@@ -13,3 +13,4 @@ Deadly Skills:
 * Teaching
 * MongoDB
 * SqlServer
+* Killing history using git rebase
