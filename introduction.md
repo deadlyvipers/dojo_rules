@@ -3,5 +3,4 @@ https://www.codeschool.com/courses/javascript-road-trip-part-1
 *GIT
 *JAVASCRIPT
 *RUBY
-
-Test
+Killing history using git rebase
