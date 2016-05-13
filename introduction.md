@@ -39,3 +39,6 @@ Ruby
 Ruby
 Ruby
 Ruby
+* Ruby
+* JavaScript
+* Git
