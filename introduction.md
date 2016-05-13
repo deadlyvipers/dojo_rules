@@ -1,3 +1,2 @@
 On the way to learn Mastering Github
-
-Git
+https://www.codeschool.com/courses/javascript-road-trip-part-1
