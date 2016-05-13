@@ -1,1 +1,2 @@
-My favorite Code School path is CSS!
+Hi Dojo!
+My favorite CodeSchool path: CSS
