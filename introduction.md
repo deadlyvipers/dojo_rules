@@ -5,3 +5,4 @@ My favourite Code School path is Ruby
 * Python
 * Life
 * Easy
+* Killing history using git rebase
