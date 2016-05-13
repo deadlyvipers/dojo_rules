@@ -7,9 +7,9 @@ My favorite code path is the JavaScript path
 I do like some online education!
 
 Deadly Skills:
-*JavaScript
-*C#
-*CSS/HTML
-*Teaching
-*MongoDB
-*SqlServer
+* JavaScript
+* C#
+* CSS/HTML
+* Teaching
+* MongoDB
+* SqlServer
