@@ -8,3 +8,4 @@ The most useful path in Code School so far has been "HTML & CSS".
 * JavaScript
 * Parenting
 * Eating Tacos
+* Killing history using git rebase
