@@ -1,4 +1,5 @@
 hello
 Electives
-*Java
-*Git
+* Java
+* Git
+* Killing history using git rebase
