@@ -8,6 +8,7 @@ JavaScript
 *Git
 *Angular
 *Node.js
+*Killing history using git rebase
 
 
 
