@@ -1,2 +1,4 @@
 Hi this is prasanna
-Ruby
+* Ruby
+* Git
+* JavaScript
