@@ -6,3 +6,4 @@ My Deadly Skills:
 *Git
 *JavaScript
 *ASP.NET, C# MVC3
+*HTML5
