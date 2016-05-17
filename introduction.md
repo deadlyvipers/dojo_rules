@@ -1,4 +1,3 @@
 # Introduction
 
-This is a test
-
+Just finished the JavaScript Path on CodeSchool -- It's really great!
