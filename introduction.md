@@ -7,3 +7,4 @@ My Deadly Skills:
 *JavaScript
 *ASP.NET, C# MVC3
 *HTML5
+*Killing history using git rebase
