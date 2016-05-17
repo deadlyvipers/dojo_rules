@@ -13,4 +13,4 @@ Just finished the JavaScript Path on CodeSchool -- It's really great!
 * PostreSQL
 * MongoDB
 * And more!
-
+* Killing history using git rebase
