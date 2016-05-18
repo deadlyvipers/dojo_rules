@@ -1,1 +1,1 @@
-Here's some stuff about myself. JavaScript
+Here's some stuff about myself. *JavaScript *Ruby
