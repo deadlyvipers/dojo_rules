@@ -3,3 +3,4 @@ file, but it looks to be empty, or just too short. We really want to know someth
 I like javascript classes. 
 asdfdsfdsfsdf
 *git
+ Killing history using git rebase
