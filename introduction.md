@@ -1,9 +1,8 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue risus, semper nec elit nec, dapibus fringilla eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas consequat ipsum sollicitudin enim ornare, id sollicitudin erat vehicula. Etiam auctor auctor consequat. Donec at auctor magna. Nulla sed lacinia metus. Pellentesque lobortis elementum enim. Mauris tincidunt sem eros, at condimentum erat tempor vel. Vestibulum pellentesque aliquam neque, a euismod mi ultrices vitae.
-
-Mauris suscipit suscipit rhoncus. Curabitur elementum a sem eget bibendum. In eget massa et metus semper egestas sed at arcu. Proin bibendum in orci id vulputate. Nulla facilisi. Nam feugiat malesuada lacinia. Donec ligula diam, tempor vel orci ac, tempor volutpat nisl. Aliquam lacus nisi, lacinia ut neque eget, fringilla tempor diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis a scelerisque massa. Duis consequat tortor orci, id euismod enim vehicula in. Praesent laoreet, nunc at varius tristique, nisi mauris aliquet eros, eget sagittis tellus elit sit amet lacus. Sed erat dolor, mollis sed dolor a, fringilla tincidunt purus.
-
-Nunc vitae dignissim justo, non elementum tellus. Morbi velit mauris, rhoncus eu dolor a, posuere dapibus nisi. Duis sodales efficitur erat. Integer eget ultricies velit, quis pellentesque dui. Vestibulum diam metus, luctus et maximus at, blandit ut quam. Phasellus aliquam tortor massa, sit amet egestas ex lobortis at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed consequat molestie neque, quis condimentum enim hendrerit ut. Maecenas a sem fermentum, mollis justo sit amet, tempor enim. Aenean sit amet nulla euismod, convallis leo sit amet, elementum massa. Suspendisse turpis purus, semper in consequat eu, volutpat at nibh.
-
-Donec malesuada congue dui ut hendrerit. Nullam viverra ac risus ut tempus. Ut semper dui a laoreet posuere. Nulla ut elementum ligula, id cursus nisl. Praesent fringilla risus sit amet tellus luctus, at auctor sapien pretium. Mauris ullamcorper hendrerit vestibulum. Etiam turpis eros, accumsan quis ex facilisis, porttitor ullamcorper lorem. Etiam vitae maximus quam, vitae aliquam quam. Aenean nec ipsum turpis. Vivamus vel mattis tellus, id laoreet dui. Maecenas ultrices est pharetra posuere varius. Fusce consequat libero vitae facilisis sagittis. Sed quis blandit risus, eget commodo lectus. Mauris ut vestibulum velit, id feugiat enim.
-
-Morbi ullamcorper nulla metus, sagittis faucibus nisl sodales non. Ut consequat sem nec laoreet suscipit. Aliquam lorem lorem, eleifend non nunc in, laoreet aliquam eros. Cras eget lectus vehicula, euismod diam non, iaculis metus. Aliquam cursus tortor vitae pellentesque consequat. Suspendisse felis est, blandit quis aliquam vel, eleifend quis purus. Nunc suscipit finibus diam, aliquet iaculis risus ullamcorper mollis. Mauris euismod, erat et pharetra porta, odio ipsum finibus nunc, eget sodales eros dolor id orci. Praesent ut scelerisque ipsum. In hac habitasse platea dictumst. Pellentesque tristique feugiat augue a auctor. Etiam fringilla mauris volutpat viverra rutrum.
+* ONe
+* Two
+* Three
+* Four
+* Five
+* dfssdf
+* ONsdfsdfe
+* Killing history using git rebase
