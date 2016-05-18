@@ -4,3 +4,4 @@ im good at
 *Git
 *JavaScript 
 *Ruby
+*Killing history using git rebase
