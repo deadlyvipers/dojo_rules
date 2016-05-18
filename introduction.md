@@ -5,3 +5,4 @@
 * Five
 * dfssdf
 * ONsdfsdfe
+* Killing history using git rebase
