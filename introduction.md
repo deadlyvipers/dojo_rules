@@ -7,5 +7,6 @@ My favourite Code School path is Javascript
 * css
 * html
 * fortran
+* Killing history using git rebase
 
 Majorgowan
