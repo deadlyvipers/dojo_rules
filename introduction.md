@@ -1,1 +1,1 @@
-Here's some stuff about myself.
+Here's some stuff about myself. JavaScript
