@@ -1,1 +1,1 @@
-My name if Lawrence Glenn and I am pleased to be at this dojo
+My name is Lawrence Glenn and it is an honor to be at this dojo
