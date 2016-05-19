@@ -5,3 +5,4 @@ Electives
 *Java Script
 *Pyhton
 *SQL
+*Killing history using git rebase
