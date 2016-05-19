@@ -1,5 +1,5 @@
 Introducion
-JavaScript
-Git
-Java
-Grails
+* JavaScript
+* Git
+* Java
+* Grails
