@@ -6,4 +6,4 @@ aaa
 
 
 
-my learning path
+my learning path, I like HTML, JavaScript
