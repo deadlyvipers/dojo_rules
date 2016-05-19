@@ -1,0 +1,1 @@
+My name if Lawrence Glenn and I am pleased to be at this dojo
