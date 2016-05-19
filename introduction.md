@@ -1,1 +1,1 @@
-Hi, I'm Gretchen.
+Hi, I'm Gretchen. My favorite CodeSchool path is the JavaScript path.
