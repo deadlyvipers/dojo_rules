@@ -1,4 +1,3 @@
-- Bad variable names
 * New Kill List Item
 =========
 * Unused code
