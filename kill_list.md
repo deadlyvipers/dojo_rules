@@ -1,5 +1,7 @@
 Kill List
 =========
-* Bad naming convention
-* Pasted code
-* "var" keyword
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
