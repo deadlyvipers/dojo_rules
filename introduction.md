@@ -5,3 +5,4 @@
 *python
 *php
 *sql
+*Killing history using git rebase
