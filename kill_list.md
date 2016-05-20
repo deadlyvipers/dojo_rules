@@ -1,6 +1,5 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+* Bad naming convention
+* Pasted code
+* "var" keyword
