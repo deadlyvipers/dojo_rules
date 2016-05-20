@@ -6,3 +6,4 @@ Deadly Skills:
 *Angular
 *jQuery
 *C#
+*Killing history using git rebase
