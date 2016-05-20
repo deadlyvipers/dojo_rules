@@ -1,1 +1,1 @@
-"Hi, I'm Scott." 
+Hi, I'm Scott.  My favorite Code School path is JavaScript.
