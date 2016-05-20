@@ -1,4 +1,4 @@
-* New  Kill List Item
+* New  Kill List Items
 =========
 * Unused code
 * Functions with side effects
