@@ -1,4 +1,5 @@
 - Bad variable names
+* New Kill List Item
 =========
 * Unused code
 * Functions with side effects
