@@ -1,3 +1,3 @@
  I am Neha Tandon
 
-My favorite course so far is Git Real 2
+My favorite course so far is Ruby
