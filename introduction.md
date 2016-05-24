@@ -1,2 +1,2 @@
 farzad, trying to learn some stuff :)
-fav codeschool path: Python
+fav codeschool path is Ruby
