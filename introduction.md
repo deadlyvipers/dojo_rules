@@ -1,1 +1,1 @@
-this isn't patrick
+this isn't patrick. loving the Rails path at CodeSchool. 
