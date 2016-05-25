@@ -5,4 +5,5 @@ My deadly skills are:
 * ClearCase
 * Linux
 * SubVersion
+* Windows
 * Killing history using git rebase
