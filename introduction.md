@@ -1,2 +1,2 @@
 An introduction
-Python
+Electives
