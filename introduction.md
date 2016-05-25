@@ -1,1 +1,3 @@
-Huhu, this is trex667
+Huhu, this is trex667!
+
+My favorite code school courses are javascript!
