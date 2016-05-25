@@ -1,1 +1,1 @@
-This isn't patrick. loving the Ruby path at CodeSchool. 
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
