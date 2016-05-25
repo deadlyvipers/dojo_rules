@@ -6,4 +6,5 @@ My deadly skills are:
 * Linux
 * SubVersion
 * Windows
+* Something
 * Killing history using git rebase
