@@ -1,6 +1,7 @@
 Kill List
 =========
-* LOOPING
-* No comments
-* duplication
-* non-standard variables
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
