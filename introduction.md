@@ -1,6 +1,8 @@
-Hello, my name is Corbin.  I like GitHub.  I enjoy all of the Code School paths!
 
 
+Hello, my name is Corbin.  I like GITHUB! 
+
+My favorite code school path is javascript!
 
 
 
