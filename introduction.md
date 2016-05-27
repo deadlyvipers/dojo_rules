@@ -19,3 +19,5 @@ Favorite CodeSchool path: HTML & CSS
 *JavaScript
 *Ruby
 *Killing history using git rebase
+
+And a simple test
