@@ -1,1 +1,5 @@
-stuff here. I like JavaScript
+Stuff goes here
+I like things
+*Git
+*JavaScript
+*Ruby
