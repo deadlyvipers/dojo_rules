@@ -5,3 +5,4 @@
 * Git
 * C++
 * C#
+* Kill history using git rebase
