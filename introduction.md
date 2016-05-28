@@ -9,3 +9,4 @@ My deadly skills include:
 *html
 *css
 *markdown
+*Killing history using git rebase
