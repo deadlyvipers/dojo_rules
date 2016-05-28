@@ -1,3 +1,3 @@
-introduction.md
-Javascript
-Git, JavaScript
+*introduction.md
+*Javascript
+*Git, JavaScript
