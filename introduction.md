@@ -1,2 +1,5 @@
 Robert Schweizer
-JavaScript
+* JavaScript
+* Git
+* Python
+* Java
