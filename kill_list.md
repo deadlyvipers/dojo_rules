@@ -6,3 +6,4 @@ Kill List
 *Repeated code blocks
 *Bad variable names
 *Repos out of date
+*other things
