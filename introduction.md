@@ -1,2 +1,3 @@
 *Ruby
-*Java
+*Javia
+*Killing history using git rebase
