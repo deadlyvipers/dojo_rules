@@ -5,3 +5,4 @@ deadly skills include
 *ruby
 *git
 *peanuts
+*Killing history using git rebase
