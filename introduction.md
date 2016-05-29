@@ -1,2 +1,2 @@
+CSS
 Hello
-My favorite Code School path is CSS
