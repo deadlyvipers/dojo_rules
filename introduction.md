@@ -1,5 +1,3 @@
-git clone https://github.com/username/dojo_rules.git
-git add introduction.md
-git commit -m "intro"
-git push
+My name is Tyler. 
+My favorite code school path is ruby.
 
