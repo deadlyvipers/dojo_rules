@@ -4,3 +4,4 @@ Skills:
 * Git
 * JS
 * Shell Scripting
+* Killing history using git rebase
