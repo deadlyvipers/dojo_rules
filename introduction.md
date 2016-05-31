@@ -3,3 +3,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula feugiat
 * Git
 * JavaScript
 * Ruby
+
+Killing history using git rebase
