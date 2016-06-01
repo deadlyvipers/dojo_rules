@@ -5,3 +5,4 @@ Favorite code school path: Electives
 *Java
 *C
 *Assembly
+*Killing history using git rebase
