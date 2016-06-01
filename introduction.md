@@ -1,2 +1,2 @@
 Ryuu ga waga teki wo kurau!
-Favorite code school path: Database
+Favorite code school path: Electives
