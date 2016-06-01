@@ -8,3 +8,4 @@ My deadly skills
 * iOS
 * HTML/CSS
 * jQuery
+* Killing history using git rebase
