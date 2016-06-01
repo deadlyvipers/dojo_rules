@@ -1,2 +1,4 @@
 # lol
 javascript
+* javascript
+* css
