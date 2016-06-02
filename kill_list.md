@@ -7,4 +7,4 @@ Kill List
 * Bad variable names
 * No interfaces code
 * low coffee code
-
+* codes without unit tests
