@@ -9,3 +9,4 @@ I like to develop in HTML, CSS, Javascript.
 *Git
 *Javascript
 *Whatever
+*Killing history using git rebase
