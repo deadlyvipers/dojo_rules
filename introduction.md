@@ -1,2 +1,2 @@
 this is me
-Java Script
+JavaScript
