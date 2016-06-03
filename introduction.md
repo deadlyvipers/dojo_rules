@@ -5,3 +5,4 @@ My skills:
 * Jave
 * Git
 * Killing history using git rebase
+* test
