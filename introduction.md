@@ -4,3 +4,4 @@ My skills:
 * Javascript
 * Jave
 * Git
+* Killing history using git rebase
