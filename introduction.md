@@ -7,5 +7,7 @@ My favorite CodeSchool path is JavaScript.
 My Deadly Skills:
 * Git
 * JavaScript
+* Killing history using git rebase
+
 
 
