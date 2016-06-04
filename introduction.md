@@ -9,3 +9,4 @@ deadly skills:
 * Javascript
 * Typescript
 * Anguar2
+* Killing history using git rebase
