@@ -1,3 +1,3 @@
 Hello World
 ==========
-* Start
+* CodeSchool path I'm in is JavaScript :)
