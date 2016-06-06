@@ -1,3 +1,5 @@
 some intro here
 
-JavaScript
+* JavaScript
+* CSS
+* HTML
