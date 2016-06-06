@@ -1,1 +1,3 @@
 Hello World...
+
+My favourite path on Code School is the Ember JS path.
