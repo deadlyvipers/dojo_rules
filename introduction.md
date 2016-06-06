@@ -1,2 +1,1 @@
-My name is Josh Jacobsen.
-Favorite path is css.
+On my way to becoming a GitHub Master
