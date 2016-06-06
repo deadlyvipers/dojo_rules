@@ -1,3 +1,6 @@
 some intro here
 
-JavaScript
+* JavaScript
+* CSS
+* HTML
+* Killing history using git rebase
