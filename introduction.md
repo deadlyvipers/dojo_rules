@@ -1,3 +1,4 @@
-Hello World
+My Skils
 ==========
-* CodeSchool path I'm in is JavaScript :)
+* JavaScript :)
+* Killing history using git rebase
