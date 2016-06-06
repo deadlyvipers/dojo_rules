@@ -1,11 +1,8 @@
+Kill List
+=========
 
-
-var qwe = 123;S
-
-function() {
-console.log(1)
-}
-
-
-\\\\\\\
-<script>alert(1)</script>
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
