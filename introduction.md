@@ -1,1 +1,3 @@
-Javascript
+*Killing history using git rebase
+*Git
+*HTML
