@@ -1,2 +1,2 @@
 Name: Mayuri Ardad
-favorite code school path:github
+favorite code school path: ruby
