@@ -4,4 +4,4 @@ JavaScript and Git
 Skills:
 * Git
 * JavaScript
-* Ruby
+
