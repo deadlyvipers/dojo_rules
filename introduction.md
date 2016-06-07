@@ -9,3 +9,6 @@
 * PHP
 * JS
 * Killing history using git rebase
+
+## Electives
+
