@@ -7,3 +7,4 @@ I'm a new students. Hope I learn lot from this course.
 * Ruby
 * HTML
 * CSS
+* Killing history using git rebase
