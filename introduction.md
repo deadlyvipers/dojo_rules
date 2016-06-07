@@ -1,2 +1,3 @@
 My name is Zeno and i'm Italian.
+My favorite path is Javascript.
 I'm a new students. Hope I learn lot from this course.
