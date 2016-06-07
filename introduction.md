@@ -8,3 +8,4 @@
 * C
 * PHP
 * JS
+* Killing history using git rebase
