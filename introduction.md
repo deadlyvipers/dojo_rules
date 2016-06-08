@@ -10,4 +10,5 @@ I have many deadlyskills.
 *sdf
 *asdfawrg
 *ejbf
+*Killing history using git rebase
 
