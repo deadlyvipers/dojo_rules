@@ -7,4 +7,5 @@ and i've got a few awesome skills
 * i'm a ninja at powershell 
 * i'm slowly mastering GIT
 * heroes
+* Killing history using git rebase
 
