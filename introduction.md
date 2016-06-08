@@ -8,4 +8,4 @@ codeschool
 *fsd
 *ff
 *fbs
-*fsvwe
+*Killing history using git rebase
