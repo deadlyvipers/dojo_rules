@@ -1,2 +1,4 @@
-'hi there!'
-I love Javascript and Ruby!
+*git
+*javascript
+*ruby
+*Killing history using git rebase
