@@ -1,2 +1,3 @@
-'hi there!'
-I love Javascript and Ruby!
+*git
+*javascript
+*ruby
