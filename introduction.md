@@ -1,4 +1,4 @@
 Skillz
-Sharpshooting
-Mass murder
-Masturbating
+*Sharpshooting
+*Mass murder
+*Masturbating
