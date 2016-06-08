@@ -1,3 +1,5 @@
-# introduction 
 this is me, quattrobi
-Ruby, JavaScript, HTML & CSS
+* Killing history using git rebase
+* Ruby
+* JavaScript
+* Ruby
