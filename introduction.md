@@ -1,3 +1,9 @@
+* Git
+* JavaScript
+* Ruby
+
+
+
 asmdajkhsdasd
 as
 d
