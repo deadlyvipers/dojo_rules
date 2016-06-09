@@ -10,3 +10,4 @@ Deadly skills
 * JavaScript
 * Ruby
 * Killing history using git rebase
+* Reviewing PRs
