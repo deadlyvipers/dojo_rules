@@ -6,4 +6,4 @@ Deadly skills include:
 * Navigating roundabouts
 * Making stir fries
 * My fashion sense
-
+* Killing history using git rebase
