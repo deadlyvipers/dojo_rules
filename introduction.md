@@ -6,4 +6,10 @@ I am yet to come up with a project of my own but have a few ideas.
 
 So far I have enjoyed Javascript path the most.
 
+My Deadly Skills are:
+
+* Git
+* Regex
+* JavaScript
+* 
 wish you all the best.
