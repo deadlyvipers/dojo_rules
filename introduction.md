@@ -3,3 +3,5 @@ this is me, quattrobi
 * Ruby
 * JavaScript
 * Ruby
+
+* from emacs (2)
