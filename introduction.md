@@ -11,3 +11,4 @@ My deadly  skills are:
 *jQuery
 *GIT
 *Laravel
+*Killing history using git rebase
