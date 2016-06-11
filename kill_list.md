@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Hardcoded values
+* Numerous dependencies
+* Confusing var names (2)
+
