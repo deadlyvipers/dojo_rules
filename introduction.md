@@ -5,3 +5,4 @@ deadly skills
 
 * Ruby
 * Go
+* Killing history using git rebase
