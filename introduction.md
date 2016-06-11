@@ -4,3 +4,4 @@ Favorite Code School path is JavaScript
 Deadly Skills
 * GIT
 * C#
+* Killing history using git rebase
