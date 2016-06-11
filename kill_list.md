@@ -7,5 +7,5 @@ Kill List
 * Bad variable names
 * Hardcoded values
 * Numerous dependencies
-* Confusing var names
+* Confusing var names (2)
 
