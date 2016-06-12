@@ -14,3 +14,4 @@ My deadly skills are:
  * GIT
  * JSON
  * REST
+ * Killing history using git rebase
