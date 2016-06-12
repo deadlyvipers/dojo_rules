@@ -9,3 +9,4 @@ Ruby
 *CSS
 *Javascript
 *Stuff
+*Killing history using git rebase
