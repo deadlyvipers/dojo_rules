@@ -1,2 +1,3 @@
 Sensei Line 
-Mate
+
+Like all Codes schools paths
