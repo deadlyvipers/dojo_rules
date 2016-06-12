@@ -1,1 +1,2 @@
-Call me wetzybaby
+Call me wetzybaby. 
+JavaScript all the way.
