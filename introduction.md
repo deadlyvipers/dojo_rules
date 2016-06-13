@@ -1,3 +1,5 @@
 # Welcome
 
-I am Richard
+I am Richard Cochrane.
+
+My favourite path is Javascript.
