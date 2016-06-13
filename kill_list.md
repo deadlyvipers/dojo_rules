@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Code that isn't DRY
+* Inheritance instead of composition
