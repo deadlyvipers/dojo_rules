@@ -7,4 +7,5 @@ I have many deadly skills, including but not limited to:
 * Angular
 * Meteor
 * Git
+* Killing history using git rebase
 * And many more...
