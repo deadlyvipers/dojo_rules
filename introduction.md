@@ -1,7 +1,13 @@
-introduction: Hello there ! ! 
+Code Skills:
 
-Ruby, JavaScript, HTML & CSS, iOS or Electives.
+*Ruby
+*JavaScript
+*Git 
+*HTML 
+*CSS *iOS
+*Electives
+*Rebase
 
-
+"Killing history using git rebase" 
 
 
