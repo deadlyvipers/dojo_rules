@@ -3,3 +3,4 @@ My favorite course is Javascript.
 *JavaScript
 *Git
 *iOS
+Killing history using git rebase
