@@ -7,7 +7,7 @@ Code Skills:
 *Ruby
 *JavaScript
 *Git
-
+*Rebase
 
 
 
