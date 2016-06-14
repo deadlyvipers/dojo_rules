@@ -4,8 +4,9 @@ Code Skills:
 *JavaScript
 *Git 
 *HTML 
-*CSS *iOS *
-Electives.
+*CSS *iOS
+*Electives
+*Rebase
 
 "Killing history using git rebase" 
 
