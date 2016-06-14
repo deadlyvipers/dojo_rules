@@ -1,1 +1,3 @@
 Yevgen Shramko 
+* Ruby
+* Database
