@@ -11,3 +11,4 @@ My favourite path is Javascript.
 * HTML
 * CSS
 * SASS
+* Killing history using git rebase
