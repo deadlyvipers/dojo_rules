@@ -1,2 +1,4 @@
 Hello World, I 'm Quentin
-JavaScript
+* JavaScript
+* Git
+* Ruby
