@@ -7,3 +7,4 @@ Skills:
 *MVC
 *POO
 *Git
+*Killing history using git rebase
