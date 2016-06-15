@@ -1,5 +1,4 @@
-waddup!!
-
-this is sachinahj
-
-JavaScript is my fav code school path. ES2015!!
+* JavaSscript
+* Git
+* MySQL
+* Killing history using git rebase
