@@ -8,7 +8,7 @@ Bad Coding Practices:
     Unformatted code
     Repeated code blocks
     Bad variable names
-
+    Spaghetti Coding
 
 
 
