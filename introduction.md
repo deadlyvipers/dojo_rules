@@ -9,7 +9,7 @@ Deadly Skills:
 *Ruby
 *JavaScript
 *Git
-
+*Rebase
 
 
 
