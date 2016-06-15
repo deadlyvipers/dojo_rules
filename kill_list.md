@@ -9,7 +9,7 @@ Bad Coding Practices:
     Repeated code blocks
     Bad variable names
     Spaghetti Coding
-
+    Poor documentation
 
 
 
