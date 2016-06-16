@@ -1,3 +1,4 @@
 Introduction
 ==========
-* Boom
+* JavaScript
+* HTML & CSS
