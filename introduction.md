@@ -1,1 +1,1 @@
-My favorite Code School path is Rails for Zombies
+my favorite path is rails for zombies
