@@ -1,5 +1,5 @@
-Javascript
-Git
-SQL
-No-SQL
-STUFF
+*Javascript
+*Git
+*SQL
+*No-SQL
+*STUFF
