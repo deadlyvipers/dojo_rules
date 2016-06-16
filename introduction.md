@@ -12,3 +12,4 @@ skills:
 *sadsadd
 *sadad
 *asdasddsA
+*Killing history using git rebase
