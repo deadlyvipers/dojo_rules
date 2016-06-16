@@ -1,7 +1,7 @@
 Kill List
 =========
 * Unused code 
-
+* programmer greivence 
 * Functions with side effects 
 
 * unformatted code 
