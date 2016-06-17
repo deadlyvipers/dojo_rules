@@ -1,4 +1,4 @@
 *JavaScript
-* Ruby on Rails
+*Ruby on Rails
 *Git 
 *Killing history using Git rebase
