@@ -12,5 +12,6 @@ Deadly Skills:
 * PowerShell
 * ES2015
 * Objective-C
+* Killing history using git rebase
 * Concrete5
 
