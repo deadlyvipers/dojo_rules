@@ -1,1 +1,1 @@
-On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+I got deadly skills like Git, JavaScript, Ruby
