@@ -5,3 +5,4 @@ My favorite code school path is JavaScript
 *Git
 *XML
 *XQuery
+Killing history using git rebase
