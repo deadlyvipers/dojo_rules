@@ -1,2 +1,4 @@
-On my way to becoming a GitHub Master. I love Ruby and JavaScript.
-rebase boss
+On my way to becoming a GitHub Master.
+* I love Ruby
+* JavaScript
+* rebase boss
