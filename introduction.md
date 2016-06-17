@@ -1,4 +1,5 @@
 On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-Shotgun
-Knife
+* Ruby on Rails
+*Git
+* Rebase
