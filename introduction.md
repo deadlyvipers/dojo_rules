@@ -1,5 +1,4 @@
-I got deadly skills like Git, JavaScript, Ruby
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
 
-#DEADLY SKILLS
-*GIT
-*JS
+* Ruby on Rails
+*Git
