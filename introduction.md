@@ -1,2 +1,4 @@
 pawelgrzes
-JavaScript
+* Git
+* JavaScript
+* Ruby
