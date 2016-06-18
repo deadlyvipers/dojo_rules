@@ -10,6 +10,7 @@ https://www.codeschool.com/learn/html-css
 * Mystical Monkey Power and martial arts
 * The Lotus Blade
 * Defeating Ronn Stoppable
+* Killing history using git rebase
 
 ** Kill List **
 
