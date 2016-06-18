@@ -1,2 +1,3 @@
-
 I am Lord Monty Fiske a master of Tai Shing Pek Kwar, or Monkey Kung Fu. Due to how few people were familiar with the already difficult to defeat fighting style, this made me a skilled and highly unpredictable combatant. Worthy of note was the fact that his years of experience in the style gave me a considerable advantage over those who came by their arguably near-instinctive knowledge of the style via Mystical Monkey Power, and I usually overcame them in a matter of minutes. Monkey Fist's practice of moving like a monkey, even outside of combat, combined with his genetically altered feet, had also granted me an increased level of dexterity with his feet, essentially making them a second set of hands.[1] His combat skills were advanced enough that I was one of the few villains, aside from Shego, able to regularly hold his own against Kim Possible in hand-to-hand combat.
+
+Check out my learning at: https://www.codeschool.com/learn/python
