@@ -9,4 +9,9 @@ https://www.codeschool.com/learn/html-css
 ** My Deadly Skills **
 * Mystical Monkey Power and martial arts
 * The Lotus Blade
-* Defeating Ronn Stoppable 
+* Defeating Ronn Stoppable
+
+** Kill List **
+
+* Ron Stoppable
+* Kim Possible
