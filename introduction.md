@@ -5,3 +5,7 @@ I am Lord Monty Fiske a master of Tai Shing Pek Kwar, or Monkey Kung Fu. Due to 
 Check out my learning at: https://www.codeschool.com/learn/python
 
 https://www.codeschool.com/learn/html-css
+
+** My Deadly Skills **
+* Mystical Monkey Power and martial arts
+* The Lotus Blade
