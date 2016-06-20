@@ -1,3 +1,3 @@
 This is Sensei Master.
-My favorite code school path is Git. I haven't tried others.
+My favorite code school path is JavaScript. I haven't tried others.
 
