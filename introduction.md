@@ -5,3 +5,4 @@ https://www.codeschool.com/learn/ruby
 *TFS
 *C#
 *InstallShield
+* etc
