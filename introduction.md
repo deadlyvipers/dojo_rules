@@ -1,2 +1,4 @@
-This is an intro into Phil
-My favourite path is SASS
+*Sass
+*CSS
+*Java
+*HTML
