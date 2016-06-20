@@ -3,3 +3,4 @@ My favorate Code School path is Ruby
 
 *Java
 *C/C++
+*Killing history using git rebase
