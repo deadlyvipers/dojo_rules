@@ -1,2 +1,5 @@
-This is an intro into Phil
-My favourite path is JavaScript
+*Sass
+*CSS
+*Java
+*HTML
+*Killing history using git rebase
