@@ -1,5 +1,7 @@
-Dojo Introduction
-==========
+I started in the Ruby world, but now I love JavaScript.
 
-Introduction text
-Favorite codeschool path: javascript
+## Deadly Skills
+
+* Ruby on Rails
+* JavaScript
+* Node.js
