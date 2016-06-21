@@ -1,2 +1,3 @@
 Introduction:
-Some Introduction
+Sole Introduction
+JavaScript
