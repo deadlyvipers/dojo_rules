@@ -8,3 +8,4 @@ List of Skills:
 *Audio
 *C#
 *Java
+Killing history using git rebase
