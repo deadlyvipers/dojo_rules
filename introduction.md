@@ -6,3 +6,4 @@ Hi, I'm doing a code school tutorial for Github - which is my favourite path so 
 * Javascript
 * Ruby/Rails
 * HTML5
+* Killing history using git rebase
