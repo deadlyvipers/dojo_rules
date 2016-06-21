@@ -4,3 +4,4 @@ My favourite path is JavaScript
 *Java
 *HTML
 *SASS
+Killing history using git rebase
