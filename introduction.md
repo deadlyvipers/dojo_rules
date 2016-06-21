@@ -1,2 +1,2 @@
 My name is Phil
-My favourite path is SASS
+My favourite path is JavaScript
