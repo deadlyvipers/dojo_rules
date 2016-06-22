@@ -1,3 +1,1 @@
-#My Introduction
-Hi I am vinthedark.
-My favorite codeschool course is Flying through Python
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
