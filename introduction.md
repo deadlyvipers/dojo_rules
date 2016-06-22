@@ -4,3 +4,5 @@ my name is jason
 * jQuery
 * HTML
 * CSS
+* Sass
+* Killing history using git rebase
