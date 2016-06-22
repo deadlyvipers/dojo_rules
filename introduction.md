@@ -4,3 +4,4 @@ My favorite Code School path is iOS.
 * Python
 * C
 * C++
+* Killing history using git rebase"
