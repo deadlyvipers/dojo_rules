@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Being unable to find mistakes
 * Forgetting to add .
+* Git going mad
