@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Being unable to find mistakes
+* Forgetting to add .
+* Git going mad
