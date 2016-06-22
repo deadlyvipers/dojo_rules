@@ -5,7 +5,7 @@ Brief intro:
 + Skills: Can charm Pythons :snake:
 + Favorite Beverage: Java :coffee:
 + Personal Journal: JavaScript :book:
-+ Knowledge: **H**ow **T**o **M**ake **L**aughter :web: and **C**reate **S**weet **S**ongs :music:
++ Knowledge: **H**ow **T**o **M**ake **L**aughter :net: and **C**reate **S**weet **S**ongs :note:
 
-Favorite Code school path: Python
++ Favorite Code school path: Git
 
