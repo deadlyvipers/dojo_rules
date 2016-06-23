@@ -1,2 +1,1 @@
-
-Hello, my name is Glen.
+On my way to becoming a GitHub Master
