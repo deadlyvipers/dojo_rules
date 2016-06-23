@@ -1,1 +1,1 @@
-I really don't want to type here.
+so far code school HTML is my favorite
