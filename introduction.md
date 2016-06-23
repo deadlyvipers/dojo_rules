@@ -6,3 +6,4 @@ Code school path - Electives.
 Skills
 * Python
 * git
+* Killing history using git rebase
