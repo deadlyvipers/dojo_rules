@@ -1,0 +1,2 @@
+This is an intro to the wonderful dojo rules! 
+Follow all of them!
