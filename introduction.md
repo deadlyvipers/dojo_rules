@@ -5,3 +5,4 @@ HTML & CSS
 * HTML & CSS
 * JAVA
 * MINECRAFT
+* Killing history using git rebase
