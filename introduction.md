@@ -1,2 +1,1 @@
-My name is Daniel
-My favorite Code School Path is Git
+On my way to becoming a GitHub Master
