@@ -1,3 +1,3 @@
-+Git
-+JavaScript
-+Java
+*Git
+*JavaScript
+*Java
