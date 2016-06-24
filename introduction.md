@@ -7,3 +7,4 @@ Deadly Skill
 * Javascript
 * Php
 * HTML & CSS
+* Ruby
