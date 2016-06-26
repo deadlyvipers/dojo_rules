@@ -1,2 +1,4 @@
 Hello, my name is Sergey!
-JavaScript
+*JavaScript
+*Ruby
+*Python
