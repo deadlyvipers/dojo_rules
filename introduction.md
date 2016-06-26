@@ -1,2 +1,5 @@
 Hello, my name is Sergey!
-JavaScript
+*JavaScript
+*Ruby
+*Python
+*Killing history using git rebase
