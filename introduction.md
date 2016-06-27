@@ -5,3 +5,4 @@ My favorite path in codeshool is JavaScript.
 * GitHub
 * JavaScript
 * NodeJS
+* Killing history using git rebase
