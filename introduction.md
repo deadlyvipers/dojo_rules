@@ -1,4 +1,3 @@
 dojo intruduction 
-java
-
+git commit -m JavaScript
 git -push
