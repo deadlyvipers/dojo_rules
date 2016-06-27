@@ -1,3 +1,3 @@
 dojo intruduction 
-git commit -m JavaScript
+git commit -m *JavaScript
 git -push
