@@ -4,5 +4,5 @@ Kill List
 * functions with side effects
 * unformatted code
 * repeated code blocks
-* bad variable name
+* bad variable names
 * constantly identifying variables in java
