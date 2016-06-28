@@ -1,1 +1,3 @@
-Introduction javascript
+Introduction about me.
+Javascript
+*Git
