@@ -1,2 +1,3 @@
-Hi, I'm Ganakim!!
-I like ruby
+*ruby
+*git
+*javascript
