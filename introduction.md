@@ -1,2 +1,4 @@
-Hi, I'm Ganakim!!
-I like ruby
+*ruby
+*git
+*javascript
+*Killing history using git rebase
