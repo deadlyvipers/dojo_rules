@@ -1,2 +1,3 @@
-Hello my name is Ben!
-I like Javascript
+*Git
+*Java
+*Python
