@@ -1,4 +1,5 @@
 Introduction
 ============
 Hail to the king, baby!
-Ruby is awesome.
+* Ruby is awesome
+* Git is cool too 
