@@ -1,3 +1,4 @@
 Introduction
 ============
-Hi!
+Hail to the king, baby!
+Ruby is awesome.
