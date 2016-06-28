@@ -1,3 +1,6 @@
 dojo intruduction 
-git commit -m JavaScript
-git -push
+git add hola
+git commit -m *JavaScript
+git push
+rebase
+
