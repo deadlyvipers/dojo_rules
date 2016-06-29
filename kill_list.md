@@ -6,3 +6,4 @@ kill List
 * Repeated code blocks
 * Bad variable names
 * Code that fails
+* Giberish
