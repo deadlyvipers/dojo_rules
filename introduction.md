@@ -1,2 +1,5 @@
 Hi there!
-JavaScript
+* JavaScript
+* GIT
+* Java
+* Docker
