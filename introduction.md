@@ -1,2 +1,5 @@
-Hello World
-My favorite is Javascript.
+*Hello World
+*My favorite is Javascript.
+*Javascript
+*Ruby
+*Git
