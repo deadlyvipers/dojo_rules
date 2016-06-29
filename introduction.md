@@ -10,3 +10,4 @@ List of deadly skills
 * CSS
 * Git
 * Java
+* Killing history usint git rebase
