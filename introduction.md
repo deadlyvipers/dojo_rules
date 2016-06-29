@@ -1,3 +1,8 @@
 Hello World - It's me 'Captain Git'!!!
 
-HTML
+Deadly skills:
+==============
+* HTML
+* Git
+* Angular
+* CSS
