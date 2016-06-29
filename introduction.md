@@ -4,3 +4,4 @@ Hi there!
 * Java
 * Docker
 * ElasticSearch
+* Killing history using git rebase
