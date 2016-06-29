@@ -9,3 +9,4 @@
 * AngularJS
 * jQuery
 * HTML 5
+* Killing history using git rebase
