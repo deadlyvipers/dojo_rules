@@ -1,2 +1,10 @@
-HTML
-CSS
+* HTML
+* CSS
+* Java
+* JavaScript
+* Swift
+* C++
+* C#
+* C
+* AngularJS
+* jQuery
