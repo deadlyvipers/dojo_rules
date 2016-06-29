@@ -1,1 +1,1 @@
-This is porterj.
+This is porterj.  My favorite Code School path is JavaScript.
