@@ -6,3 +6,4 @@
 * JavaScript
 * C
 * Excel
+* Killing history using git rebase
