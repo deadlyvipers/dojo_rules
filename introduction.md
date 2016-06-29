@@ -2,4 +2,5 @@ Hello!
 
 * JavaScript
 * Ruby
-* Rebase
+* Killing history using git rebase
+* 
