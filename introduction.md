@@ -1,1 +1,1 @@
-on my way to becoming a GitHub Master
+my name is nick and my favorite sections of code school so far are iOS dev.
