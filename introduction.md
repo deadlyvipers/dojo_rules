@@ -1,4 +1,4 @@
-* HTML
+* Killing history using git rebase
 * CSS
 * Java
 * JavaScript
@@ -9,4 +9,4 @@
 * AngularJS
 * jQuery
 * HTML 5
-* Killing history using git rebase
+
