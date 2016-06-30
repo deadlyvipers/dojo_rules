@@ -1,2 +1,2 @@
 Chris Bracey
-Javascript
+*Git, Javascript, Java, Python, Killing history using git rebase
