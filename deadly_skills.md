@@ -1,4 +1,5 @@
-Skill List
-==========
-* timmy nig
-* max
+* Html
+* Css
+* Javascript
+* Java
+* git
