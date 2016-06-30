@@ -1,5 +1,5 @@
-Hello dojo, I'm Wade\n
-My favorite code school subject is javascript\n
+Hello dojo, I'm Wade
+My favorite code school subject is javascript
 Deadly Skills:
 * Java
 * Javascript
