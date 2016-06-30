@@ -1,2 +1,4 @@
 * Git
 * JavaScript
+* Me
+* rebase
