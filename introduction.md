@@ -1,2 +1,2 @@
 Alex Hamlet
-JavaScript
+*JavaScript
