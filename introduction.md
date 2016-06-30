@@ -11,4 +11,4 @@ List of deadly skills:
 * CSS
 * C
 * Git
-
+* Killing history using git rebase
