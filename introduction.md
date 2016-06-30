@@ -1,2 +1,1 @@
-#hello I am part of this dojo!
-#My favorite CodeSchool course is Databases!
+#hello I am part of this dojo! My favorite course path is the database path.
