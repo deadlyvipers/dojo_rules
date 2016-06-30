@@ -1,2 +1,3 @@
 Alex Hamlet
-JavaScript
+*JavaScript
+*Killing skills using rebase
