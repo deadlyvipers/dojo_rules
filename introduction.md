@@ -1,2 +1,2 @@
 Chris Bracey
-Javascrip
+*Git, Javascript, Java, Python
