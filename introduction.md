@@ -4,3 +4,4 @@ My favorite is Git and Javascript
 My deadly skills are 
 * Git
 * etc.
+* rebase
