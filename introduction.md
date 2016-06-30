@@ -1,2 +1,2 @@
-new Intro
-Fav Path: Javascript
+* Git
+* JavaScript
