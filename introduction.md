@@ -1,1 +1,2 @@
-Stuffs
+Chris Bracey
+Javascript
