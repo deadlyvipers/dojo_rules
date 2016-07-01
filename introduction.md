@@ -6,3 +6,5 @@ in a smooth easy and correct way.
 I am excited to know more about the assignment and the course to take up.
 I enjoy learning the code school path Ruby and Java script very much.
 Have a great day!!!
+my skills
+*Killing history using git rebase
