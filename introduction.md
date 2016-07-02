@@ -1,0 +1,5 @@
+Hello
+My favorite path is the javascript
+*javascript
+*c#
+*killing history using git rebase
