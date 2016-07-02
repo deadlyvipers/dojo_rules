@@ -1,2 +1,2 @@
 Hi! My name is Ryan.
-My favorite codeschool path is JavaScrips.
+My favorite codeschool path is JavaScript.
