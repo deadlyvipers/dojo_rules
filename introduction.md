@@ -1,2 +1,2 @@
-j name is Das Do
-favorite Code School path is GIT
+My name is Das Do
+My favorite Code School path is Ruby
