@@ -5,4 +5,5 @@ Kill List
 * unformatted code
 * repeated code blocks
 * bad variable names nigga
+* bitch code stuffs
 
