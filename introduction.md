@@ -4,4 +4,5 @@ My favorite path is the javascript!!
 * c
 * html
 * javascript
+* Killing history using git rebase
 
