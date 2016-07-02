@@ -12,3 +12,4 @@ My favorite code school path so far is Javascript and the associated frameworks.
 * Python
 * Chef
 * Ruby
+* Killing history using git rebase
