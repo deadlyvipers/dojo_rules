@@ -6,4 +6,4 @@ Kill List
 * repeated code blocks
 * bad variable names nigga
 * bitch code stuffs
-
+*bubi
