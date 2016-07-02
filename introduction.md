@@ -1,1 +1,2 @@
-j name is Das Do Funny
+j name is Das Do
+favorite Code School path is GIT
