@@ -1,2 +1,6 @@
  bla bla
-fav is JavaScript
+fav is JavaScrip
+
+Skills:
+* JavaScript
+* etc.
