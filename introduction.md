@@ -7,3 +7,4 @@ https://www.codeschool.com/courses/ruby-bits
 Deadly Skills
 *Ruby
 *Nun-chucks
+*Killing history using git rebase
