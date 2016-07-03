@@ -1,2 +1,2 @@
 "I am Radu" 
-I like the DB path best
+My favorite path is Ruby
