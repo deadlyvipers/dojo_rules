@@ -1,3 +1,4 @@
+git checkout -b dojo_rules
 Dojo Rules
 ==========
 * Always be on time
@@ -7,3 +8,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * no coffe in the Dojo
+* 
