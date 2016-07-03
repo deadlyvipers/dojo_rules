@@ -1,8 +1,5 @@
 git checkout -b deadly_skills
 git push origin deadly_skills
-
-printf
-"I am new to coding but am really enjoying it, I hope to become skilled enough to enter in a career in the field. 
-I have only had some experience with c++ and Javascript but so far Javascript is the language I prefer. "
+printf "On my way to becoming a GitHub Master. I love Ruby and JavaScript.\n\n* Ruby on Rails\n*Git" > introduction.md
 git commit -am "Added deadly skills"
 git push origin deadly_skills
