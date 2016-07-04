@@ -5,3 +5,4 @@ My Deadly Skills
 * HTML5/CSS3
 * Bootstrap
 * Node/Express
+* Git/SVN
