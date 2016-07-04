@@ -5,6 +5,6 @@ https://www.codeschool.com/search?loc=hero&query=html
 
 
 
-*TFS
-*Git
-*IS
+* TFS
+* Git
+* IS
