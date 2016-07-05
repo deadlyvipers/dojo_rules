@@ -1,3 +1,2 @@
-alksdlaksjdklajskl
 
-This could be Ruby, JavaScript, HTML & CSS, iOS or Electives.
+This could be JavaScript, HTML & CSS and Electives.
