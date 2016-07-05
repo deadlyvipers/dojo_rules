@@ -1,2 +1,1 @@
-* Collette
-
+dis the kill list
