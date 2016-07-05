@@ -1,7 +1,6 @@
 Kill List*fdsddfd
 ===========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
-oyyyoyyyyspaoidfsfadpfio
+* bad pafas;klfd
+* *dojfifd
+* ****slfkel;kfje
+* le tobin face
