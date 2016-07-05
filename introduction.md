@@ -1,1 +1,1 @@
-Hello, my name is Brent. The MEAN stack has been my favorite path so far.
+Hello, my name is Brent. My favorite path so far has been Javascript.
