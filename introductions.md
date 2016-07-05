@@ -1,1 +1,1 @@
-food + sleeep + books + art = life * repeat
+food + sleep + books + art = life * repeat
