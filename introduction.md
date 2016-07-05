@@ -1,3 +1,6 @@
-alksdlaksjdklajskl
 
-This could be Ruby, JavaScript, HTML & CSS, iOS or Electives.
+This could be 
+* JavaScript,
+* CSS
+* rebase
+* HTML
