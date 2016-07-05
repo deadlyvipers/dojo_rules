@@ -1,6 +1,7 @@
-Kill List*fdsddfd
+Kill List
 ===========
-* bad pafas;klfd
-* *dojfifd
-* ****slfkel;kfje
-* le tobin face
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
