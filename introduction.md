@@ -1,1 +1,1 @@
-Hello my name is Han
+Hello my name is Han. I like JavaScript
