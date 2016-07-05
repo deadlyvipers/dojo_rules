@@ -5,3 +5,5 @@ My favorite CodeSchool courses have been the HTML/CSS ones!
 *gamig
 *high-quality game rippig
 *doraemon is the best animu fite me irl
+rebase
+*did i do it right?
