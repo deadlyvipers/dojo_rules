@@ -1,2 +1,5 @@
 
-This could be JavaScript, HTML & CSS and Electives.
+This could be 
+* JavaScript,
+* CSS
+* HTML
