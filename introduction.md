@@ -5,6 +5,6 @@ My Deadly Skills
 * Python
 * GIT 
 * JavaScript
-
+* Killing history using git rebase
   
 
