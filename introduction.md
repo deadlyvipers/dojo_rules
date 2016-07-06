@@ -9,3 +9,4 @@ Deadly Skills
 *JQuery
 *Python
 *SQL
+*Killing history using git rebase
