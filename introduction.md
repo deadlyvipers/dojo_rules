@@ -4,3 +4,4 @@ My favorite Code School path is Ruby
 * Java 
 * HTML/CSS
 * JavaScript
+* Notepad
