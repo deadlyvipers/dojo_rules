@@ -1,2 +1,10 @@
- I have completed several Code School Paths including HTML/CSS, Ruby, Python, GIT and JS. I enjoyed JavaScript the most of all because it is so all encompassing and covers many different skills and practices.
+I started learning Ruby on Rails and then completed several Code School Paths.
+My Deadly Skills
+* HTML and CSS
+* Ruby on Rails
+* Python
+* GIT 
+* JavaScript
+
+  
 
