@@ -5,5 +5,5 @@ Kill List
 *  Unformatted code
 *  Repeated code blocks
 *  Bad variable names
-*  Some programs use ; some do not.
+*  Some programs use ; some do not
 
