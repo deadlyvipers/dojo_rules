@@ -1,2 +1,7 @@
 Hello, my name is Matt!
-My favourite Code School path is Ruby.
+Favourite Code School Path: Ruby
+Deadly Skills:
+* HTML
+* CSS
+* JavaScript
+* Git
