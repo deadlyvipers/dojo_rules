@@ -1,1 +1,1 @@
-Hello I am here to teach about Git Hub.
+I enjoyed Java Script the most of all Code School Paths.
