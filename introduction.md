@@ -1,2 +1,2 @@
-JavaScript
-haha, just a test
+* JavaScript
+* haha, just a test
