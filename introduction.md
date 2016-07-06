@@ -1,2 +1,3 @@
-JavaScript
-haha, just a test
+* Killing history using git rebase
+* JavaScript
+* haha, just a test
