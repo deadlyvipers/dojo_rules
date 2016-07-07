@@ -7,4 +7,5 @@ I have particularly deadly skills in:
 * Reactive Streams
 * Testing
 * git
+* Killing history using git rebase
 * and whatnot
