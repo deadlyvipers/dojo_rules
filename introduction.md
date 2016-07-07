@@ -1,1 +1,1 @@
-Hi I'm Matty B
+Hi I'm Matty B. My favorite Code School path is Electives :)
