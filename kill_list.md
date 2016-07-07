@@ -5,5 +5,5 @@ Kill List
 * Unformatted code 
 * Repeated code blocks
 * Bad variable names
-* We all should work with the same version of software
+* We need to work with the same version of software
 
