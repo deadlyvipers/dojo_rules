@@ -1,7 +1,7 @@
 dojo Rules
+coffee
 ==========
-* Always be on time
-* Always take off your shoes
+b Always take off your shoes
 * Keep dddddojo tidy
 * Never bring live blades on the tatami
 * Respect your opponents
