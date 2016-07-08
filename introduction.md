@@ -8,4 +8,5 @@ Deadly Skills
 * Bash
 * Linux
 * Windows
+* Killing history using git rebase
 
