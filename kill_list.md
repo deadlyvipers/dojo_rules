@@ -1,5 +1,5 @@
-    Unused code
-    Functions with side effects
+Unused code
+ Functions with side effects
     Unformatted code
     Repeated code blocks
     Bad variable names
