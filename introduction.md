@@ -3,3 +3,4 @@ My favorite path (even though I haven't done it yet) is JavaScript!
 Skills:
 * Git
 * Ruby
+* Killing history using git rebase
