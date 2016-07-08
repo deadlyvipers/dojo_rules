@@ -1,2 +1,2 @@
 This is a short introduction to the dojo rules.
-My favorite path (and only, so far) is Git!
+My favorite path (even though I haven't done it yet) is JavaScript!
