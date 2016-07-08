@@ -1,6 +1,4 @@
-Hello dojo!
-This is tomosm.
-My favorite Code School path is JavaScript.
-deadly skills
-* Git
-* JavaScript
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
