@@ -7,6 +7,8 @@ Deadly skills:
 * C
 * Killing history using git rebase
 * Fixing my deadly_skills error... again.
+Something is wrong here.  Let's get it fixed.
+
 
 _
 
