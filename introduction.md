@@ -5,3 +5,5 @@ deadly skills
 * Git
 * JavaScript
 * Ruby
+
+Ok Pull Request Collaboration
