@@ -6,4 +6,6 @@ Deadly skills:
 * Rails
 * C
 * Killing history using git rebase
+* Fixing my deadly_skills error...
+_
 
