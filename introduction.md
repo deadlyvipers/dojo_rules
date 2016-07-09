@@ -5,3 +5,4 @@ Deadly skills
 * Nada 
 * Nothing
 * Zilch
+* Killing history using git rebase
