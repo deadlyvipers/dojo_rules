@@ -1,1 +1,1 @@
-Hey I'm Ali!
+Hey I'm Ali! My favorite path is Electives.
