@@ -10,6 +10,8 @@ Deadly skills
 * Coral
 * Filetab
 * Pascal
+* C
 * PHP
 * ...
+* Killing history using git rebase
 
