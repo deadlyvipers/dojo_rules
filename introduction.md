@@ -4,3 +4,4 @@ My Deadly Skills:
 * JavaScript
 * Ruby
 * Cooking
+* Killing history using git rebase
