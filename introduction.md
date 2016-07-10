@@ -3,3 +3,4 @@ hello, but it looks to be empty, or just too short. We really want to know somet
 Javascript
 
 * pooping
+* Killing history using git rebase
