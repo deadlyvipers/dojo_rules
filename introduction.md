@@ -2,4 +2,7 @@ My name is Anders H.Abrahamsen and I am a senior developer situated in Bergen, N
 
 My favorite Code School path so far is the Javascript path. Lots of nice stuff to learn there!
 
-Deadly Skills: Java and SQL
+Deadly Skills: 
+
+  * Java 
+  * SQL
