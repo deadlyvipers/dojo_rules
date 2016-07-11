@@ -4,3 +4,4 @@ my favorite path is Electives
 * Java
 * Groovy
 * SQL
+* Killing history using git rebase
