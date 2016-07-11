@@ -4,4 +4,5 @@ I like Ruby!
 * Ruby
 * Javascript
 * PHP
+* Killing history using git rebase
 
