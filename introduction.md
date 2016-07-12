@@ -14,3 +14,4 @@ Deadly Skills
 *Regular Expressions
 *Chrome DevTools
 *Git
+*Killing history using git rebase
