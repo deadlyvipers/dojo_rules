@@ -1,2 +1,2 @@
-i am william
+*
 Ruby
