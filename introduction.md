@@ -1,3 +1,6 @@
 I am Fred!
-javascript
-ruby
+
+## Deadly skills
+
+* javascript
+* ruby
