@@ -3,5 +3,5 @@ I am Fred!
 ## Deadly skills
 
 * javascript
-* ruby
+* rub afy
 * rebase
