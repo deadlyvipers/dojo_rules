@@ -4,4 +4,4 @@ Favorite Code School path: Ruby, JavaScript, HTML & CSS
 deadly_skills:
 * Git
 * Ruby
-* Git Rebase
+* Rebase
