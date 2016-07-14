@@ -1,3 +1,6 @@
 Jonathon Schloss
 GitHub Account = Jschloss309
-favorite Code School: Ruby
+Favorite Code School path: Ruby, JavaScript, HTML & CSS
+deadly_skills:
+* Git
+* Ruby
