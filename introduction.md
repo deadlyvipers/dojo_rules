@@ -9,4 +9,7 @@ dsa
  dsa
  da
  sd
- My favorite path is JavaScript
+ My favorite path is JavaScript 
+ * Git
+ * Javascript
+ * Killing history using git rebase
