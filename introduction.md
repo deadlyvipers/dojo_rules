@@ -6,3 +6,4 @@ My favorite Code School path would definitely have to be JavaScript as it pushed
 *JavaScript
 *Python
 *Git
+*Killing history using git rebase
