@@ -1,2 +1,2 @@
 On my way to becoming a GitHub Master
-My favourite path is git
+My favourite path is JavaScript
