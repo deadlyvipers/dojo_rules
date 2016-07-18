@@ -1,1 +1,1 @@
-This is an introduction.
+This is an introduction containing the string "JavaScript".
