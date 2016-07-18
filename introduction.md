@@ -6,3 +6,4 @@ My favorite CodeSchool Path has been the Javascript path.
 * JavaScript
 * Ruby
 * Nunchuck
+* Killing history using git rebase
