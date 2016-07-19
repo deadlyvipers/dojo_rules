@@ -17,6 +17,7 @@ Deadly Skills
 * Bitbucket
 * MySQL
 * MongoDB
+* Killing history using git rebase
 
 Hugs.
 
