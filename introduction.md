@@ -3,4 +3,5 @@
 * Git
 * Javascript
 * CSS
+* Killing history using git rebase
 
