@@ -1,2 +1,2 @@
 This is an introduction of myself to the Dojo
-Flvorite Code School path is Python.
+Favorite Code School path is Python.
