@@ -1,2 +1,3 @@
 hallo seawas
-JavaScript
+*JavaScript
+*Git
