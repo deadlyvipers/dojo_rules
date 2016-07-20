@@ -5,3 +5,4 @@ My favourite path is JavaScript
 * javascript 
 * .net
 * and manyt more
+* Killing history using git rebase
