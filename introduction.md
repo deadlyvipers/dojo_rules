@@ -5,3 +5,4 @@ JavaScript
 * Whining
 * Agreeing
 * Accepting
+* "Killing history using git rebase" - codeschool-kiddo was here.
