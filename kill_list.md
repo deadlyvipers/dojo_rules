@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+sdsdsdff sdfdfs
+sdfgsdfg sdf
+g
+sdfg
+sdfg sdfgsfdg
+dfgdfg dfg dfg dfg 
+=======
 Kill List
 =========
 * Unused code
@@ -5,3 +13,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+>>>>>>> master
