@@ -1,1 +1,2 @@
-"My Name Is Rebecca, Yeah that it!"
+My name is WomperThud
+Favorite Path: JavaScript
