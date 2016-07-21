@@ -4,3 +4,4 @@ https://www.codeschool.com/courses/try-ruby
 *git
 *javascript
 *ruby
+*rebase
