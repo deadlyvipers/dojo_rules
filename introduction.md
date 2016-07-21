@@ -1,3 +1,1 @@
-Hi, sensei
-
-je suis wolke.
+Hi, sensei. I like the JavaScript path.
