@@ -1,5 +1,5 @@
-My name is Iszlai Lorand-Edmond, i'm a lvl 10 samuray.
-my favorite path is html/css
-*css 
-*javascript
-*ruby
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
+* Rebase
