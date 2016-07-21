@@ -1,3 +1,2 @@
 I am Norm
-
-Favorite Path GIT
+Code School Path IOS
