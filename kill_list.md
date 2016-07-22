@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Some grievance
+* Another grievance
+* Grievance
+* One mroe
