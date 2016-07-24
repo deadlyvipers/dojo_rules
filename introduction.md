@@ -1,2 +1,3 @@
 Hello world
-changes
+
+Favorite path is JavaScript
