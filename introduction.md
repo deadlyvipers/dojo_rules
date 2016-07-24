@@ -7,3 +7,4 @@ My Deadly Skills, brah
 * Javascript
 * jQuery
 * HTML/CSS
+* Killing history using git rebase
