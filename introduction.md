@@ -1,1 +1,1 @@
-Hello, please allow me to introduce myself.
+Hello, please allow me to introduce myself. My favourite Code School path is JavaScript.
