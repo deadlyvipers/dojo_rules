@@ -7,4 +7,4 @@ Here is a list of my deadly skills:
 * Python
 * Powershell
 * Perl
-
+* Killing history using git rebase
