@@ -5,3 +5,4 @@ Hello world
 * Git
 * iOS
 * java
+* Killing history using git rebase
