@@ -3,3 +3,4 @@ Deadly Skills
 * Ruby
 * C++
 * Git
+* Killing history using git rebase
