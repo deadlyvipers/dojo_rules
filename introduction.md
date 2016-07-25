@@ -1,2 +1,3 @@
-Ruby*  Git*  jQuery*
+Ruby*  Git*  jQuery* rebase*
+
 
