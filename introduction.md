@@ -3,3 +3,4 @@ my favorite codeschool classes are javascript
 *javascript
 *css
 *html5
+*php
