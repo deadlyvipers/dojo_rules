@@ -6,3 +6,4 @@ Deadly Skills:
 * JavaScript
 * Python
 * Rails
+* Killing history using git rebase
