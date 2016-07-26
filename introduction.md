@@ -3,4 +3,4 @@ Dank memes
 
 *Git 
 *JavaScript
-
+* Killing history using git rebase
