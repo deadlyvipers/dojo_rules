@@ -4,3 +4,4 @@ List of my deadly skills are:
 *Git
 *.NET
 *JS
+*AngularJS
