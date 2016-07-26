@@ -5,6 +5,5 @@ This repository contains a list of dojo rules for the Deadly Vipers dojo
 
 All members should read the rules
 
-[Deadlly Vipers Organization Started it ALL](http://github.com/deadlyvipers)
-
+[Deadlly Vipers Organization Started it ALL](https://github.com/deadlyvipers)
 
