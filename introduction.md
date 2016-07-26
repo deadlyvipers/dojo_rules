@@ -1,3 +1,2 @@
 # Intro random
-dasdasdasfáksdfasd
-
+JavaScript
