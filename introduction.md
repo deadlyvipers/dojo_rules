@@ -1,4 +1,6 @@
 ahoy hoy
 =======
 
-Ruby
+* Git
+* JavaScript
+* Ruby
