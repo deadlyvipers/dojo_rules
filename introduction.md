@@ -3,5 +3,4 @@ My favourite CodeSchool path is JavaScript path.
 List of my deadly skills are:
 *Git
 *.NET
-*JS
-*AngularJS
+*JS/AngularJS
