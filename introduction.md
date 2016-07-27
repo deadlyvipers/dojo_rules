@@ -5,4 +5,5 @@ Skills:
 * Ruby
 * C#
 * JavaScript
+* Killing history using git rebase
 
