@@ -1,3 +1,5 @@
 Introductio
-Git, Javascript, Ruby
+* Git
+* Javascript
+* Ruby
 
