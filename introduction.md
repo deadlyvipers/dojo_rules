@@ -1,1 +1,3 @@
-Introduction
+Introductio
+Git, Javascript, Ruby
+
