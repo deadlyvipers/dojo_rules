@@ -6,7 +6,8 @@
 <li>*node</li>
 <li>*css</li>
 <li>git</li>
-<LI>*KILLING HISTORY</LI>
+<li>*KILLING HISTORY</li>
+<li>*rebase</li>
 <li>***etc</li>
 </ul>
 </html>
