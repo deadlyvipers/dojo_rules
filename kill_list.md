@@ -5,7 +5,7 @@ Kill List
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
-
+*people who hate code!!!!Shame on them.......and their cow.
 
 
 
