@@ -7,3 +7,9 @@ Just introducing myself to the dojo. I am eager to learn about Github and how it
 # Favorite CodeSchool Path
 
 My favorite Path is Ruby. I like Ruby a lot.
+
+# Deadly Skills
+* Git
+* Ruby
+* Bash
+
