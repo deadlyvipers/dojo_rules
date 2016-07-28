@@ -1,2 +1,6 @@
 Ruby
-Hi, my name is Ehsan! 
+Hi, my name is Ehsan!
+* Python
+* Machine Learning
+* Design Pattern
+* Comedy
