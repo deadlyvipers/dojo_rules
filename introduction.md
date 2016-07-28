@@ -12,4 +12,4 @@ My favorite Path is Ruby. I like Ruby a lot.
 * Git
 * Ruby
 * Bash
-
+* Killing history using git rebase
