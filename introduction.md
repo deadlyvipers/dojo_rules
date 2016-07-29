@@ -1,3 +1,5 @@
 these are some instructions
 
-JavaScript
+*JavaScript
+*Git
+*PHP
