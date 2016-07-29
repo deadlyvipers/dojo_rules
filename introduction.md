@@ -1,2 +1,5 @@
 Hello, this is an introduction!
-RUBY
+*RUBY
+*Git
+*Javascript
+*power rangers
