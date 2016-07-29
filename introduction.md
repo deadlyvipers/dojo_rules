@@ -8,3 +8,4 @@ This is my introduction!
 * PHP
 * C#
 * ASP.NET
+* Killing history using git rebase
