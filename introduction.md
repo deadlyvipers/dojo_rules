@@ -2,5 +2,5 @@
 with Git until the commands feel near-autonomic. Currently, I'm using Code
 School mainly for electives. Outside of Git, I'm focusing on Python, R, and SQL.
 
-*Python, R, SQL
+*Python, R, SQL, Killing history using rebase
 
