@@ -5,11 +5,11 @@ My favorite course path is JAVASCRIPT.
 
 2016.07.30.
 ## Deadly_skills: 
-*Git 
-*JavaScript
-*Swift
-*Html
-*Css
-*Java
+* Git 
+* JavaScript
+* Swift
+* Html
+* Css
+* Java
 
 END
