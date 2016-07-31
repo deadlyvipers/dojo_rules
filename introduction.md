@@ -1,1 +1,1 @@
-this is Andrii Kokov
+Hi, this is Andrii Kokov. My favorite Code School path is JavaScript.
