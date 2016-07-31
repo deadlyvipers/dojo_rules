@@ -1,4 +1,4 @@
 HTML & CSS
 
- * JavaScript *
- * Ruby *
+ * JavaScript
+ * Ruby
