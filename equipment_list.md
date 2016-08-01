@@ -4,3 +4,4 @@ Equipment List
 * Grappling irons
 * Katana
 * Shoto
+* Killing history using git rebase
