@@ -4,3 +4,5 @@ core.autocrlf=input
 color.ui=true
 path=HTML
 * SSRS
+* HTML
+* ASP
