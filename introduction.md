@@ -7,4 +7,4 @@ git push
 
 * Ruby on Rails
 * JavaScript
-* Node.js
+* Nodejs
