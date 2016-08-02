@@ -1,4 +1,4 @@
-user.name=Jerry Reescano
+user.name=jreescano
 user.email= jerryreescano@gmail.com
 core.autocrlf=input
 color.ui=true
