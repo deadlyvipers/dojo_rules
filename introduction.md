@@ -3,3 +3,4 @@ My favorite CodeSchool Path is HTML/CSS.
 * HTML
 * CSS
 * JavaScript
+* Git
