@@ -1,5 +1,5 @@
 Hello!
 
-- JavaScript
-- Git
-- Android
+* JavaScript
+* Git
+* Android
