@@ -1,5 +1,6 @@
 hello world
 
-JavaScript
-HTML
-CSS
+* JavaScript
+* HTML
+* CSS
+* Git
