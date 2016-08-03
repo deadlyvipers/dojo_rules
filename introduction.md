@@ -1,2 +1,5 @@
 Hello!
-JavaScript
+
+- JavaScript
+- Git
+- Android
