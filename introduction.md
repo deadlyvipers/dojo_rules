@@ -1,5 +1,2 @@
-Rosendo Galindo [BlackDeathWing]
-
-Junior Software Developer from Nuevo Laredo, Tamps. Mexico.
-
-Lear by doing is the better way everytime.
+Hi my name is Rosendo.
+This is my second try to pull request from codeSchool mastering github
