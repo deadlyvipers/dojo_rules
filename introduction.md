@@ -4,4 +4,4 @@ hello world
 * HTML
 * CSS
 * Git
-* Ruby
+
