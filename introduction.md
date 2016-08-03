@@ -1,2 +1,6 @@
 Hello!
-JavaScript
+
+* JavaScript
+* Git
+* Android
+* Killing history using git rebase
