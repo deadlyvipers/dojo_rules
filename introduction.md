@@ -5,3 +5,4 @@ Mah Skillz
 * Git
 * C#
 * Killing history using git rebase
+* more stuff
