@@ -1,1 +1,2 @@
 My name is ficertyn
+My favorite Code School path is JavaScript
