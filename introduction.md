@@ -1,9 +1,1 @@
-done this is a test
-
-HTML & CSS
-
-* git
-* html
-* css
-fdfadsfsdf
-* rebase 
+On my way to becoming a GitHub Master
