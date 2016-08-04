@@ -1,1 +1,1 @@
-Hy there, I'm Cristian. I don't have a favorite path yet.
+Hy there, I'm Cristian. My favorite path is HTML & CSS.
