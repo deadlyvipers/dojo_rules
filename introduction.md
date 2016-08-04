@@ -1,2 +1,5 @@
 intro
-Ruby, JavaScript, HTML & CSS, iOS
+* Ruby, 
+* JavaScript, 
+* HTML & CSS, 
+* iOS
