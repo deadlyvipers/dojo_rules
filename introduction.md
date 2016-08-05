@@ -1,1 +1,1 @@
-Hi I'm Justus!
+Hi I'm Justus! I love Codeschool's Javascript courses!
