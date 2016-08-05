@@ -1,5 +1,1 @@
-Hello! I am here to teach people about GitHub.
-Ruby
-*Boxing
-*Kicking
-*Killing history using git rebase
+On my way to becoming a Github Master
