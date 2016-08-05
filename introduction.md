@@ -1,1 +1,1 @@
-Hello, I'm Mateusz Kalinowski!
+Hello, I'm Mateusz Kalinowski! My favourite CodeSchool path is JavaScript.
