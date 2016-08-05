@@ -6,4 +6,6 @@
 
 *git  
 *javascript  
-*ruby  
+*ruby 
+
+# Killing history using git rebase is one of my deadly skills   
