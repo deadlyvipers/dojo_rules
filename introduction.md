@@ -4,3 +4,4 @@ Deadly Skills:
 *Git
 *JavaScript
 *Objective-c
+*Killing history using git rebase
