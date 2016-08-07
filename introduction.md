@@ -9,3 +9,4 @@ Deadly Skills:
 * Git
 * Perforce
 * C++
+* Killing history using git rebase
