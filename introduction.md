@@ -1,2 +1,4 @@
 my name is Tony
-JavaScript
+*JavaScript
+*Ruby
+*Killing history using git rebase
