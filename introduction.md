@@ -1,2 +1,6 @@
-- Hi, this is me! =)
-- Electives is my favourite.
+* Hi, this is me! =)
+* Electives is my favourite.
+* Julia
+* Git
+* Python
+* Lame... I can rebase...
