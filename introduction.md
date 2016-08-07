@@ -1,2 +1,3 @@
 my name is Tony
-JavaScript
+*JavaScript
+*Ruby
