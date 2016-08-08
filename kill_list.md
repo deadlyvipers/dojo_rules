@@ -6,4 +6,4 @@ Kill List
 * unformatted code  
 * repeated code blocks 
 * bad variable names 
-* brogrammers in hawaiian shirts    
+* brogrammers in hawaiian shirts that pay too much for rent      
