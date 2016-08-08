@@ -4,3 +4,4 @@ My deadly skills:
 * Git
 * Html
 * CSS
+* Rebase
