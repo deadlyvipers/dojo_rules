@@ -3,3 +3,5 @@ However, I've decided to not introduce myself other than my username can be foun
 So far my favorite path has been the Git path.
 Again, updating the file to proceed in the CodeSchool Mastering GitHub.
 And again I'm updating the file in an attempt to complete 1.6
+Try again...
+JavaScript
