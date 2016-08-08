@@ -6,3 +6,4 @@ My favorite path in Code School was HTML & CSS
 * Java
 * C++
 * Markdown
+* Killing history using git rebase
