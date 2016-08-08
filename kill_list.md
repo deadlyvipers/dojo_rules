@@ -5,4 +5,5 @@ Kill List
 * functions with side effects  
 * unformatted code  
 * repeated code blocks 
-* bad variable names   
+* bad variable names 
+* brogrammers in hawaiian shirts    
