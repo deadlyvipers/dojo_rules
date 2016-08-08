@@ -8,3 +8,4 @@ My favourite path on codeschool is Ruby.
 * Twig
 * CSS
 * javascript
+* ruby
