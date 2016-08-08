@@ -9,3 +9,4 @@ My favourite path on codeschool is Ruby.
 * CSS
 * javascript
 * ruby
+* jira
