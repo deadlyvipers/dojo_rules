@@ -7,3 +7,4 @@ My favourite path on codeschool is Ruby.
 * SQL
 * Twig
 * CSS
+* javascript
