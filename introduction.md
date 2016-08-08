@@ -10,3 +10,4 @@ My favourite path on codeschool is Ruby.
 * javascript
 * ruby
 * jira1
+* python
