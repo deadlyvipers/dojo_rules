@@ -7,3 +7,5 @@ My favorite code school path is javascript!
 * CUDA C
 * Python
 * Java
+* Killing history using git rebase
+
