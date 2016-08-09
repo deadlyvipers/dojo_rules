@@ -8,3 +8,4 @@ My favorite path is the javascript path.
 * Objective-C
 * Python
 * PHP
+* Killing history using git rebase
