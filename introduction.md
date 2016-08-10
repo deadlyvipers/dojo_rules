@@ -1,1 +1,2 @@
-Yo c'est Hippo
+Yo c'est Hippo.
+I love CodeSchool Javascript path.
