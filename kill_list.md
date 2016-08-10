@@ -5,7 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-
+* Unclear comments
+* Madness on a stick
     
     
     
