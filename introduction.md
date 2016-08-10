@@ -3,5 +3,5 @@ I love CodeSchool Javascript path.
 
 Skills
 ------
-Git
-Javascript
+*Git
+*Javascript
