@@ -1,3 +1,5 @@
 Hi This is Ankur Patel...
 
-My Favourite course path is JavaScript and Git...
+My Favourite course path are
+* JavaScript 
+* Git
