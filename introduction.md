@@ -1,2 +1,2 @@
-Yolo, dojo.
+Yolo, dojo. Omnomnom, JavaScript.
 
