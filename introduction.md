@@ -6,3 +6,4 @@ Deadly Skills:
 * CSS 
 * jQuery 
 * Photoshop
+* Killing history using git rebase
