@@ -1,1 +1,1 @@
-introduction daniel 
+introduction daniel JavaScript 
