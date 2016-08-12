@@ -1,3 +1,8 @@
-Enrique Sanchez V
+* Git
+* JS
+* Ruby
+* PHP
+* Rails
+* CSS
+* Killing history using git rebase
 
-My favorite Code School paths were: JavaScript and  HTML & CSS
