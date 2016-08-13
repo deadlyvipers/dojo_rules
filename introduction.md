@@ -4,4 +4,5 @@ Fav path: Git
 * Git
 * JavaScript
 * Ruby
+* Rebase
 * Python
