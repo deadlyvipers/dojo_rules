@@ -8,4 +8,4 @@ Favorite path: JavaScript
 * JavaScript
 * Docker
 * Node
-
+* Killing history using git rebase
