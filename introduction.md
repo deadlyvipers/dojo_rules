@@ -1,5 +1,3 @@
 My Introduction
 
-* Ruby
-* Stuff
-* more stuff
+Ruby and Git
