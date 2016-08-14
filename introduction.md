@@ -4,4 +4,5 @@ My deadly skills are:
 * Git
 * JavaScript
 * Scala
+* Killing history using git rebase
 
