@@ -7,3 +7,4 @@ Favorite path: JavaScript
 * Git
 * JavaScript
 * Docker
+* Node
