@@ -1,1 +1,3 @@
-HTML & CSS
+* HTML & CSS
+* Git
+* Bootstrap
