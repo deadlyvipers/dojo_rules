@@ -1,2 +1,2 @@
 Hello!
-My favorite codeschool path has been Git
+My favorite codeschool path has been Ruby
