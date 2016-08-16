@@ -1,7 +1,1 @@
-On my way to becoming a Github Master
-
-My favorite path is Python
-
-quit
-
-
+On my way to becoming a GitHub Master. I love Python.
