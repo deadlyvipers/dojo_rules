@@ -3,3 +3,4 @@ List of deadly skills:
 *JavaScript
 *HTML/CSS
 *SQL
+*Killing history using git rebase
