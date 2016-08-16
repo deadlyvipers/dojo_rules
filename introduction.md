@@ -1,3 +1,1 @@
-hi i'm chao
-i love the Masting Github path
-asdf
+favorite Code School path is C#
