@@ -3,7 +3,8 @@
 
 # My favorite path is Javascript.
 
-*C#
-*Web
-*Java
-*SQL
+* C#
+* Web
+* Java
+* SQL
+* Killing history using git rebase
