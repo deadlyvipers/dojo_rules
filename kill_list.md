@@ -5,4 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* unreadable variable names
+* Japanese file names
+
 
