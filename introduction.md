@@ -1,3 +1,3 @@
 # Introduction
 
-Myself, Rohan Sakhale as Passionate Developer and Loves teaching
+Myself, Rohan Sakhale a Passionate Developer and Loves teaching
