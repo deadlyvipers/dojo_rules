@@ -1,0 +1,1 @@
+Hi I am Jussi and I really enjoy the Ruby path in Code School. My karate is stronger than yours!
