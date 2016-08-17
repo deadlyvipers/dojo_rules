@@ -1,2 +1,1 @@
-bla bla
-Python
+JavaScript
