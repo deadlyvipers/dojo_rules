@@ -9,3 +9,4 @@ Deadly Skills:
 * HTML
 * CSS
 * SVG
+* SQL
