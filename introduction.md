@@ -1,0 +1,1 @@
+Hi I am Jussi. My karate is stronger than yours!
