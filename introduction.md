@@ -9,3 +9,5 @@ Deadly Skills:
 * HTML
 * CSS
 * SVG
+* SQL
+* Killing history using git rebase
