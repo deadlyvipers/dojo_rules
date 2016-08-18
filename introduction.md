@@ -1,3 +1,3 @@
 # Introduction
 
-Hello dojo, my name is @#÷÷×!
+Hello dojo, my name is @#÷÷×! And my favorite path is JavaScript
