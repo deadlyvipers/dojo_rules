@@ -5,3 +5,4 @@ My deadly skills are:
 *HTML/CSS
 *Python
 *Matlab
+*Killing history using git rebase
