@@ -7,3 +7,4 @@ Create a new file called introduction.md introducing yourself to the dojo. Make 
 *Ruby
 *Git
 *Javascript
+*Rebase
