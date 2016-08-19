@@ -1,2 +1,2 @@
 Hello my name is Brandon Bussey!
-CSS is my favorite.
+my favorite Code School is path CSS.
