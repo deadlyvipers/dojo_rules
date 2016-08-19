@@ -1,2 +1,2 @@
 On my way to becoming a GitHub Master
-Neue Notiz
+This could be Ruby, JavaScript, HTML & CSS, iOS or Electives.
