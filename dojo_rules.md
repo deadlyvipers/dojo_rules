@@ -7,3 +7,5 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * Seek silence inside your nature
+* Obey to the instructor's will
+
