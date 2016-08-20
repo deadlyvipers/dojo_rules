@@ -7,3 +7,4 @@ My deadly skills are:
 * Rails
 * drinking
 * sarcasm
+* Killing history using git rebase
