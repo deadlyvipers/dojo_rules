@@ -8,3 +8,5 @@ Dojo Rules
 * Most Sensei's should be respected
 * Changes by urchy
 * Cchanges to pull request
+* bug from codeschool
+
