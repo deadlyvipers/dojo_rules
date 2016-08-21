@@ -7,4 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * Changes by urchy
-* changes to pull request
+* Cchanges to pull request
