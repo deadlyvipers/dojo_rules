@@ -1,3 +1,3 @@
-# Hello
+JavaScript
 
 My name is Ben.
