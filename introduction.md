@@ -1,3 +1,7 @@
 JavaScript
 
-My name is Ben.
+My deadly skills:
+
+* JavaScript
+* Node.js
+* MongoDB
