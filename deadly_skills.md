@@ -1,4 +1,1 @@
-* Git
-* JavaScript
-* Ruby
 
