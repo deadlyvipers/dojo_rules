@@ -1,0 +1,5 @@
+striking
+kicking
+felling
+Grppling
+
