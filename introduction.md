@@ -5,3 +5,4 @@ Billy Bennett
 * Classically inclined musician
 * Favorite code path Javascript
 * Change for the sake of change
+* Killing history using git rebase
