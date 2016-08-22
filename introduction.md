@@ -1,1 +1,4 @@
 Electives
+* Git
+* JS
+* Ruby
