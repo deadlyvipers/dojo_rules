@@ -4,3 +4,4 @@ Billy Bennett
 * Musically inclined mathematician
 * Classically inclined musician
 * Favorite code path Javascript
+* Change for the sake of change
