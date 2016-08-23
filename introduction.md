@@ -1,2 +1,2 @@
-Fabvourite path is Python
+Favourite path is Python
 Je suis Michael
