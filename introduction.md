@@ -8,3 +8,8 @@ Deadly Skills:
 *Git
 *Java
 *SQL
+<<<<<<< HEAD
+=======
+*Jiggery Pokery
+*Killing history using git rebase
+>>>>>>> deadly_skills
