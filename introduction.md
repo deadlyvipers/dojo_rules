@@ -7,3 +7,4 @@ My favorite Code School path is JavaScript
 * Java
 * C#
 * Perl
+* Killing history using git rebase
