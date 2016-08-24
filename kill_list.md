@@ -8,3 +8,4 @@ Kill List
 * The man in the mirror
 * This mastering github bug!
 * Jesus
+* Issue #3
