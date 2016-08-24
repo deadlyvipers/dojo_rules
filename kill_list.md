@@ -1,3 +1,7 @@
 Kill List
 =========
-123123qweqweqwe===11111:
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
