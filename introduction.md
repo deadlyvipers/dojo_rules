@@ -11,3 +11,4 @@ Personal skills
 * javascript
 * html
 * css
+* Killing history using git rebase
