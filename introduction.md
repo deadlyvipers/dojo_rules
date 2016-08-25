@@ -2,7 +2,7 @@ Das ist die Introduction für codeschool
 
 My favorite path on codeschool.com is JavaScript
 
-Git
-JavaScript
-Java
-C#
+* Git
+* JavaScript
+* Java
+* C#
