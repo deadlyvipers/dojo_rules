@@ -4,3 +4,4 @@ Electives
 * Java
 * GIT
 * SQL
+* Killing history using git rebase
