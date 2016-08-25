@@ -5,3 +5,4 @@ Hello my name is Randall J Collins Jr and I am a programmer utilizing code schoo
 *JavaScript
 *HTML
 *VB
+*SQL
