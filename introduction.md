@@ -8,3 +8,4 @@ I like the Ruby path ;)
 * GIT
 * JS
 * HTML/CSS
+* Killing history using git rebase
