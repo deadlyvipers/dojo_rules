@@ -1,1 +1,1 @@
-Hi, my name is Radek.
+Hi, my name is Radek and my favorite CodeSchool path is JavaScript.
