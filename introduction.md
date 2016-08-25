@@ -6,3 +6,4 @@ My favorite path on codeschool.com is JavaScript
 * JavaScript
 * Java
 * C#
+* Killing history using git rebase
