@@ -6,3 +6,4 @@ Hello my name is Randall J Collins Jr and I am a programmer utilizing code schoo
 *HTML
 *VB
 *SQL
+*Killing history using git rebase
