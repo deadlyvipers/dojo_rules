@@ -1,1 +1,1 @@
-=)
+Thalita Nick Pinheiro
