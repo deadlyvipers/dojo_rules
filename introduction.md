@@ -1,1 +1,1 @@
-Hello Dojo, I am Matt.
+Hello Dojo, I am Matt, and my favorite Code School path is Ruby.
