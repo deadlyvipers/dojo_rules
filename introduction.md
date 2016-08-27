@@ -1,1 +1,5 @@
-Ruby
+* Ruby
+* Git
+* JS
+* Typescript
+* rebase
