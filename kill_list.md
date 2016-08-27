@@ -6,9 +6,12 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
+<<<<<<< HEAD
 
     
     
     
     
     
+=======
+>>>>>>> release_branch_1.0
