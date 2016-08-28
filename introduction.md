@@ -5,3 +5,4 @@ Deadly Skills:
 * GIT
 * Javascript
 * Ruby
+* Rebase
