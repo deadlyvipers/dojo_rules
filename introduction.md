@@ -8,3 +8,4 @@ My deadly skills are
 * Git
 * CSS
 * Html5
+* Killing history using git rebase
