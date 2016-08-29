@@ -1,1 +1,3 @@
-introduction daniel JavaScript 
+* Git
+* JavaScript
+* Ruby 
