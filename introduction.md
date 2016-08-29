@@ -6,3 +6,4 @@ Deadly skills:
 * Perl
 * Java
 * Git
+* Killing history using git rebase
