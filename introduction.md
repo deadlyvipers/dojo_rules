@@ -1,3 +1,2 @@
 hello
-
-favorite code school path
+ruby
