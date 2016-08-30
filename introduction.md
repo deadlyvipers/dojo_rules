@@ -1,2 +1,1 @@
-Hi, my name is jungwookPark. I currently work for electronic company as engineer.
-GIT HUB
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
