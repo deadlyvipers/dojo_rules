@@ -6,3 +6,4 @@ My favorite class path is HTML & CSS
 * C++
 * C
 * php
+* Killing history using git rebase
