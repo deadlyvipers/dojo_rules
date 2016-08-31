@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"text"
+			],
+			[
+				"A",
+				"AdminDateWidget"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"queryset",
+				"queryset_list"
+			],
+			[
+				"whoos",
+				"whoosh_index"
+			],
+			[
+				"wh",
+				"whoosh_index"
+			],
+			[
+				"d",
+				"draft"
+			],
+			[
+				"P",
+				"PostManager"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"post",
+				"Posts"
+			],
+			[
+				"slug",
+				"slug"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"po",
+				"Post"
+			],
+			[
+				"n",
+				"None"
+			],
+			[
+				"query",
+				"querymade"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"p",
+				"Post"
+			],
+			[
+				"post_d",
+				"post_delete"
+			],
+			[
+				"c",
+				"Create"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pratyush/Documents/git"
+	],
+	"file_history":
+	[
+		"/home/pratyush/Documents/trydjango19/src/trydjango19/angular-cheats.js",
+		"/home/pratyush/Documents/trydjango19/pip install",
+		"/home/pratyush/Documents/trydjango19/src/templates/search/indexes/posts/Post_text.txt",
+		"/home/pratyush/Documents/trydjango19/src/trydjango19/settings.py",
+		"/home/pratyush/Documents/trydjango19/src/templates/post_list.html",
+		"/home/pratyush/Documents/trydjango19/src/posts/urls.py",
+		"/home/pratyush/Documents/trydjango19/src/trydjango19/urls.py",
+		"/home/pratyush/Documents/trydjango19/src/templates/404.html",
+		"/home/pratyush/Documents/trydjango19/src/templates/500.html",
+		"/home/pratyush/Documents/trydjango19/src/posts/forms.py",
+		"/home/pratyush/Documents/trydjango19/src/posts/models.py",
+		"/home/pratyush/Documents/trydjango19/src/templates/search/search.html",
+		"/home/pratyush/Documents/trydjango19/src/templates/base.html",
+		"/home/pratyush/Documents/trydjango19/src/posts/templatetag/urlify.py",
+		"/home/pratyush/Documents/trydjango19/src/templates/post_form.html",
+		"/home/pratyush/Documents/trydjango19/src/templates/post_detail.html",
+		"/home/pratyush/Documents/trydjango19/src/posts/views.py",
+		"/home/pratyush/Documents/trydjango19/src/static/css/deetail.css",
+		"/home/pratyush/Documents/trydjango19/src/static/css/list.css",
+		"/home/pratyush/Documents/trydjango19/src/templates/search/indexes/posts_text.txt",
+		"/home/pratyush/Documents/trydjango19/src/posts/search_indexes.py",
+		"/home/pratyush/Documents/trydjango19/src/trydjango19/allaboutapi",
+		"/home/pratyush/Documents/trydjango19/src/posts/templatetag/__init__.py",
+		"/home/pratyush/Documents/trydjango19/src/posts/migrations/0001_initial.py",
+		"/home/pratyush/Documents/trydjango19/src/db.sqlite3",
+		"/home/pratyush/Documents/trydjango19/src/posts/admin.py",
+		"/home/pratyush/Documents/trydjango19/src/posts/apps.py",
+		"/home/pratyush/Documents/trydjango19/src/static/css/base.css",
+		"/home/pratyush/Documents/trydjango19/src/templates/forms.html",
+		"/home/pratyush/Documents/trydjango19/src/templates/post_create.html",
+		"/home/pratyush/Documents/trydjango19/src/templates/index.html",
+		"/home/pratyush/Documents/django db settings",
+		"/home/pratyush/Desktop/myproject/trydjango19.sublime-project",
+		"/home/pratyush/Documents/j.js",
+		"/home/pratyush/Documents/js.html",
+		"/home/pratyush/Documents/html.html",
+		"/media/pratyush/study/project/socc/app/schema.sql",
+		"/media/pratyush/study/project/socc/app/app.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lg",
+			"admin",
+			"admins",
+			"template_debug",
+			"debug",
+			"img",
+			"obj",
+			"object_list",
+			"obj",
+			"(?P<slug>\\d+)",
+			"P",
+			"'^(?",
+			"(?P<slug>\\d+)",
+			"id",
+			"slug",
+			"id",
+			"True",
+			"dddddddddddddivdddddddddddd",
+			">",
+			"a>\n{% endif",
+			">\n{% endif",
+			"\n{% ",
+			"{%",
+			"object_list",
+			"obj",
+			"object_list",
+			"update",
+			"]",
+			"class",
+			"				\"",
+			"\n				",
+			"Post",
+			"Meta",
+			"PostForm",
+			"csrf_token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
