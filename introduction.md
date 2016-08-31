@@ -1,2 +1,2 @@
-Hey! My Name is Sebastian!
+Hey! My Name is TheSmokyZone!
 * javaScript
