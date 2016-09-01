@@ -4,3 +4,4 @@ My favourite Code School path is Ruby
 * Rails
 * Git
 * Bootstrap
+* Killing history using git rebase
