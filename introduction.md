@@ -1,2 +1,4 @@
-Hi there
-HTML & CSS
+*GIT
+*HTML
+*CSS
+*Killing history using git rebase
