@@ -1,6 +1,7 @@
 I am the father of dragons
 
 My favorite path is Ruby!!!!!!
+I suck tho for real
 
 * Git
 * Ruby
