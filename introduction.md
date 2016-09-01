@@ -1,2 +1,3 @@
-Hi there
-HTML & CSS
+*GIT
+*HTML
+*CSS
