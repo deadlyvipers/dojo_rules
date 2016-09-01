@@ -6,3 +6,4 @@ I suck tho for real
 * Git
 * Ruby
 * JavaScript
+* Killing history using git rebase
