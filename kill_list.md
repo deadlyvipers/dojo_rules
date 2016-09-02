@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * code that doesn't get called
+* no comments
