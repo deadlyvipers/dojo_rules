@@ -5,3 +5,4 @@ Ruby Path is very nice :]
 * HTML
 * JS
 * PHP (auh!)
+* Killing history using git rebase
