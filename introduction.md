@@ -1,2 +1,3 @@
-JavaScript
+*JavaScript
+*Git
 Necessary file for 'Mastering github' course on codeschool
