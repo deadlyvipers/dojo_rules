@@ -7,3 +7,4 @@ This the Diabolic master here
 *Git
 *JavaScript
 *Java
+*Killing history using git rebase
