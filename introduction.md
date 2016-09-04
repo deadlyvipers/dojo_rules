@@ -1,1 +1,1 @@
-B.Sc Computer Engineering.
+B.Sc Computer Engineering. Favorite CodeSchool Path: JavaScript.
