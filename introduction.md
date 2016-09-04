@@ -1,3 +1,3 @@
 Hej jag heter Fredrik
 
-My favorite path is C#
+My favorite path is JavaScript
