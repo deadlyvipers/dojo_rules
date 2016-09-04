@@ -14,5 +14,6 @@ Mad skills
 * Git
 * Table tennis
 * tennis
-* sleepingq
+* sleeping
+* Killing history using git rebase
 
