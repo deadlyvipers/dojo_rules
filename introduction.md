@@ -1,1 +1,4 @@
-B.Sc Computer Engineering. Favorite CodeSchool Path: JavaScript.
+* Killing history using git rebase
+* Git
+* HTML & CSS
+* JavaScript
