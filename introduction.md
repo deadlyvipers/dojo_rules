@@ -1,1 +1,3 @@
-B.Sc Computer Engineering. Favorite CodeSchool Path: JavaScript.
+* Git
+* HTML & CSS
+* JavaScript
