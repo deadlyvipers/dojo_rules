@@ -1,1 +1,2 @@
-Code School
+# Code School
+## JavaScript
