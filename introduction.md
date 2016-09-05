@@ -18,4 +18,5 @@ Deadly Skills:
  * ANSI-C
  * Embedded C
  * Bash
+ * Killing history using git rebase
 
