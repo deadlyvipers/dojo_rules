@@ -8,3 +8,14 @@ This is only becouse I have to choose one to do a MR and I have done 1 lesson of
 I can Recommand anyone to do a Codeschool course, its really easy to get started and it helps keeping up with the trends.
 
 
+Deadly Skills:
+
+ * Git
+ * JavaScript
+ * PHP
+ * Java
+ * Drupal
+ * ANSI-C
+ * Embedded C
+ * Bash
+
