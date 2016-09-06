@@ -1,2 +1,2 @@
 This is Kanna Subbiah.
-Learning Github.
+Learning Github in codeschool.
