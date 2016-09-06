@@ -1,5 +1,5 @@
 # Code School
 ## JavaScript
 
-## Java
-## Spring
+* Java
+* Spring
