@@ -1,9 +1,5 @@
-Here
-
-is
-
-an
-
-introduction
-
-Ruby
+Deadly Skills
+=============
+* Git
+* JavaScript
+* Ruby
