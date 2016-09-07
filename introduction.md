@@ -1,1 +1,1 @@
-Hello and welcome to Dojo Rules! Updated now!
+Hello and welcome to Dojo Rules! Updated now! Code school path is Ruby, JavaScript, HTML & CSS, iOS
