@@ -5,3 +5,5 @@ hello my name is Angel Rodriguez my github user is angelfeliz and i am a develop
 *Ruby
 *JavaScript
 *HTML & CSS
+
+gettin better
