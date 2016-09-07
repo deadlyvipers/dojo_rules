@@ -1,1 +1,1 @@
-Hello and welcome to Dojo Rules!
+Hello and welcome to Dojo Rules! Updated now!
