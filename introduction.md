@@ -1,4 +1,7 @@
 hello my name is Angel Rodriguez my github user is angelfeliz and i am a developer
 
 
-Ruby, JavaScript, HTML & CSS
+*Git
+*Ruby
+*JavaScript
+*HTML & CSS
