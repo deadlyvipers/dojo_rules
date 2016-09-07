@@ -1,1 +1,1 @@
-The blackest of prime numbers, I participated in a Code School class and had to create an introduction. Thius, this is it.
+The blackest of prime numbers, I participated in a Code School class and had to create an introduction. This, this is it.
