@@ -1,5 +1,4 @@
 Hello World
 JavaScript
 * fucker
-
-hello
+* Killing history using git rebase
