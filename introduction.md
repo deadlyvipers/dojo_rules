@@ -7,3 +7,4 @@ Skills:
 *JS
 *.NET
 *C++
+*Killing history using git rebase
