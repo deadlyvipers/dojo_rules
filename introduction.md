@@ -7,3 +7,4 @@ Deadly Skills
 -------------
 * Ruby
 * Ansible
+* Killing history using git rebase
