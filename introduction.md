@@ -1,2 +1,2 @@
 Hello Dojo!
-My favorite CodeSchool path is jQuery.
+My favorite CodeSchool path is JavaScript.
