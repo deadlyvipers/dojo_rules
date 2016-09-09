@@ -4,3 +4,4 @@ My favorite Code School path is JavaScript.
 Deadly skills include:
 *js
 *Git
+*killing history using git rebase
