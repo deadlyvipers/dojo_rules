@@ -1,2 +1,3 @@
 amatalai
-Ruby
+* Ruby
+* Git
