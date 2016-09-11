@@ -1,2 +1,2 @@
 My intro
-Git
+Electives
