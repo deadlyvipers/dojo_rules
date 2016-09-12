@@ -5,3 +5,4 @@ JavaScript is da bes
 *Java
 *JavaScript
 *Android
+*Killing history using git rebase
