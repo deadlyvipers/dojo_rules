@@ -1,1 +1,3 @@
-Hello, I am Alicia
+Hello, I am Alicia.
+
+Favorite Code School path: Javascript
