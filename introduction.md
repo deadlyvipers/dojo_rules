@@ -1,1 +1,5 @@
-i'm spooky, the new dojo member, I like to code in ruby and hmtl the most
+i'm spooky, the new dojo member.
+Deadly Skills:
+*Ruby 
+*hmtl
+*testing
