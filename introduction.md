@@ -5,3 +5,4 @@ JavaScript. My favorite code path is git. It makes the complex git simpler. Besi
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
