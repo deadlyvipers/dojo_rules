@@ -1,1 +1,3 @@
-JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript JavaScript 
+* JavaScript
+* WordPress
+* Drupal
