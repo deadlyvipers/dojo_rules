@@ -5,3 +5,4 @@ I'm still newbie to Codeschool but personally I love to learn all path!
 * HTML & CSS
 * iOS
 * Electives
+* PHP
