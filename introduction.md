@@ -1,3 +1,3 @@
 Danilo
 
-My favorite code path is git 
+My favorite code path is Ruby 
