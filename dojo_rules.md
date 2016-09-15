@@ -1,4 +1,6 @@
-Dojo Rules
+git commit -am "dojo"
+
+
 ==========
 * Always be on time
 * Always take off your shoes
