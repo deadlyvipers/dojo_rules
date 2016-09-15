@@ -3,3 +3,4 @@ My favorite is about  JavaScript.
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
