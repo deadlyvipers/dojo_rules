@@ -5,4 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Poor Communication
+* Poor Communicatio
+* fixes some shit
