@@ -1,2 +1,4 @@
 My name is Alex
-JavaScript
+*JavaScript
+*Git
+*Rubby
