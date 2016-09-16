@@ -5,4 +5,4 @@ My favior languages are
 *Ruby
 *CSS
 *HTML
-*Git
+*Killing history using git rebase
