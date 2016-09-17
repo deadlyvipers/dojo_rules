@@ -7,3 +7,4 @@
 * TypeScript
 * Angular2
 * Android
+* !iOS
