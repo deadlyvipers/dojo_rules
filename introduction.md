@@ -8,3 +8,4 @@
 * Angular2
 * Android
 * !iOS
+* Killing history using git rebase
