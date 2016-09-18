@@ -3,3 +3,4 @@ Fav path: iOS
 * Ruby
 * iOS
 * Java
+* Killing history using git rebase
