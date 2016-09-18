@@ -2,3 +2,4 @@ JavaScript Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam eaque
 * test 1
 * test 2
 * test 3 
+* Killing history using git rebase
