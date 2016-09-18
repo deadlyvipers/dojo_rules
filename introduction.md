@@ -1,5 +1,7 @@
-* Python, Javascript
+I love Ruby
+
+* Ruby
+* JavaScript
+* rebase
 * Git
-* Lisp
-* Assembly: rebase
-* tes
+* Killing history using git rebase
