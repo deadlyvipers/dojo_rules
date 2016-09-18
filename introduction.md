@@ -1,3 +1,3 @@
-*Python, Javascript
-*Git
-*Lisp
+* Python, Javascript
+* Git
+* Lisp
