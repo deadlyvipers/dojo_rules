@@ -1,2 +1,6 @@
 Hello, I'm Antonin.
-JavaScript
+My favorite path: JavaScript
+Deadly skills: 
+* Git
+* JavaScript
+* Ruby
