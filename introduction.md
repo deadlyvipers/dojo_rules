@@ -6,3 +6,4 @@ Jason's Deadly Skills
 * Git
 * PHP
 * Bootstrap
+* Killing history using git rebase
