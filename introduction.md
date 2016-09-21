@@ -1,3 +1,4 @@
 * JavaScript
-* Python
 * Git
+* Python
+* Killing history using git rebase
