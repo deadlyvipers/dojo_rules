@@ -1,3 +1,3 @@
-*JavaScript
-*Python
-*Git
+* JavaScript
+* Python
+* Git
