@@ -5,3 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Endless loops
+* Comments which makes no sense
