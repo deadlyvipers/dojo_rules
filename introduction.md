@@ -1,3 +1,3 @@
 hola soy ignacio
-mi path favorito es GIT
+favourite path GIT
 
