@@ -1,1 +1,1 @@
-Hi, I'm elcresan.
+Hi, I'm elcresan. The Javascript path in CodeSchool was great!
