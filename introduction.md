@@ -7,3 +7,4 @@ My skills include:
 * Maven
 * Git
 * World Domination
+* Killing history using git rebase
