@@ -9,3 +9,4 @@ Favourite Code School path is Ruby.
 * Ruby
 * HTML5
 * CSS3
+* Killing history using git rebase
