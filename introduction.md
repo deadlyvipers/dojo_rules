@@ -6,4 +6,5 @@ Deadly Skils :D
 * Git
 * Go
 * Containers, Yay!
+* Killing history using git rebase
 
