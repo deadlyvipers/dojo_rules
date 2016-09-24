@@ -1,1 +1,3 @@
-yoooooooooooooooooooooo
+* Git,
+* JavaScript,
+* Ruby
