@@ -5,3 +5,7 @@ certainly JavaScript
 * Html
 * Css
 * JavaScript
+* PHP
+* Ruby
+* Python
+* Killing history using git rebase
