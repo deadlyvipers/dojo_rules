@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 *Ez mid
 Javascript Path is The Best!
+Ez test
