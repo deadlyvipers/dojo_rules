@@ -1,3 +1,2 @@
 some sort of introduction
-Ruby
-
+*Ruby
