@@ -1,1 +1,2 @@
-my name is ninja master
+my name is Pardeep Sandhu
+i like code school git course
