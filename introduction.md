@@ -1,2 +1,5 @@
 my name is Pardeep Sandhu
-Ruby
+*git
+*javascript
+*Ruby
+*Killing history using git rebase
