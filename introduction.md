@@ -1,2 +1,4 @@
 my name is Pardeep Sandhu
-Ruby
+*git
+*javascript
+*Ruby
