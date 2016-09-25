@@ -1,2 +1,1 @@
-Lol dojo
 Ruby
