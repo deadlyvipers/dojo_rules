@@ -9,3 +9,4 @@ Dojo Rules
 *Ez mid
 Javascript Path is The Best!
 Ez test
+Ez changes
