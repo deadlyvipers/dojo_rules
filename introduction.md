@@ -11,4 +11,5 @@ List of my deadly skills:
 * Fortran
 * HTML
 * CSS
+* Killing history using git rebase
 
