@@ -1,1 +1,1 @@
-Im on my way to becoming a GitHub Master with Code School
+On my way to becoming a GitHUb Maser. I ove Ruby and JavaScript.
