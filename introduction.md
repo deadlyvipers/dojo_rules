@@ -1,2 +1,5 @@
 this is an introduction, it is not a good introduction, but it is an introduction...
 Favorite Code School path is JavaScript.
+*Git
+*Ruby
+*JavaScript
