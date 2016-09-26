@@ -1,2 +1,2 @@
 this is an introduction, it is not a good introduction, but it is an introduction...
-Favorite path is Github.
+Favorite Code School path is JavaScript.
