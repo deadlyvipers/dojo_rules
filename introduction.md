@@ -10,3 +10,4 @@ Dojo Rules
 Javascript Path is The Best!
 Ez test
 Ez changes
+* Killing history using git rebase
