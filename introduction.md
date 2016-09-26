@@ -1,1 +1,1 @@
-On my way to becoming GitHub Master
+Im on my way to becoming a GitHub Master with Code School
