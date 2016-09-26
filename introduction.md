@@ -3,3 +3,4 @@ My favorite Cod School path is Ruby.
 
 * Java
 * Ruby
+* Killing history using git rebase
