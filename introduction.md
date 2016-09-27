@@ -4,3 +4,4 @@ deadly_skills:
 * HTML
 * Ruby
 * CSS
+* rebase
