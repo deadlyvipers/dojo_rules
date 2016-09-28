@@ -1,1 +1,3 @@
 Hi, this is silenthaze. Nice to meet you all.
+
+My favourite Code School path is the Javascript Route.
