@@ -8,5 +8,6 @@ My Deadly skills are:
 * Javascript
 * Rspec
 * Capybara
+* Killing history using git rebase
 
 Regards, ADBIbanez
