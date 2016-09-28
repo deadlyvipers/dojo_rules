@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 Kill List
 =========
@@ -7,4 +6,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
->>>>>>> release_branch_1.0
+* No documentation
