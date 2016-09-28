@@ -1,2 +1,2 @@
 Hello there
-My favorite Code School path is Try git
+My favorite Code School path is Javascript!
