@@ -1,1 +1,2 @@
-My name is Phi
+My name is Phi.
+I am learning JavaScript.
