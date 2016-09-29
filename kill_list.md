@@ -5,4 +5,5 @@ Kill List
 * Functions with side effects
 * Unformatted code
 * Repeated code blocks
-* Bad variable names
+* Bad variable name
+* Super looong level completion
