@@ -11,3 +11,5 @@ My deadly skills :
 * C#
 * TFS
 * Git
+* Killing history using git rebase
+
