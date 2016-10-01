@@ -1,2 +1,4 @@
 Hi, My name is Renuka Devi Bothiraj.
-Javascript
+*Javascript
+*Git
+*Python
