@@ -4,3 +4,4 @@ iOS is my Favourite
 *pokemon catching
 *rebase skills
 *sword fighting skills
+*ninja
