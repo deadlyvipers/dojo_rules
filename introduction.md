@@ -1,2 +1,4 @@
 This is an introduction
-Electives
+*Electives
+*Git
+*Killing history using git rebase
