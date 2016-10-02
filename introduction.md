@@ -12,3 +12,5 @@ Deadly skills
 * git
 * test
 * profit
+
+* also killing github history with rebase etc
