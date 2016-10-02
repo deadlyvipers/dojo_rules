@@ -7,3 +7,4 @@ My favorite code path is Ruby
 *git
 *JavaScript
 *Ruby
+*Killing history useing git rebase
