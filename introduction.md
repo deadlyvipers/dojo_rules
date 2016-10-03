@@ -6,4 +6,5 @@ Favorite Code School path is HTML & CSS.
 ## Deadly Skills
 
 * Git
-* TypeScript
+* Killing history using git rebase
+
