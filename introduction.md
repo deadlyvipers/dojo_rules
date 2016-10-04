@@ -7,3 +7,4 @@ The best path is obviously GIT^H^H^H^H JavaScript.
 * php
 * CSS
 * HTML
+* Killing history using git rebase
