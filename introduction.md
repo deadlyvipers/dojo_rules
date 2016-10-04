@@ -1,3 +1,3 @@
 Hello.
 
-The best path is obviously GIT.
+The best path is obviously GIT^H^H^H^H JavaScript.
