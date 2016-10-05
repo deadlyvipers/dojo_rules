@@ -5,3 +5,4 @@ My favorite Code School path are JavaScript and Electives.
 * Java
 * Git
 * Unity
+Killing history using git rebase
