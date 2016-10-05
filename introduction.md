@@ -1,5 +1,1 @@
-I love Ruby
-
-* Ruby
-* JavaScript
-* rebase
+Hi I'm Toni I'm learning Git on CodeSchool
