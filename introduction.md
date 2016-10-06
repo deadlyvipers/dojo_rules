@@ -4,3 +4,4 @@ Introducing
 *Git
 *Ruby
 *JS
+*CSS
