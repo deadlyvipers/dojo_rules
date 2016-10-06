@@ -1,1 +1,1 @@
-Hi!
+Hi! My name is Bill.  I am learning GIT so that I can introduce to my co-workers.
