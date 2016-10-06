@@ -1,6 +1,8 @@
-Name: Tushar Joshi 
-favorite Code School path: JavaScript
-Deadly Skills
+# Name: Tushar Joshi 
+
+## favorite Code School path: JavaScript
+
+## Deadly Skills
 
 * Java
 * GIT
