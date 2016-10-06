@@ -1,1 +1,1 @@
-Hi I am Sebastian. Happy to join the Dojo.
+Hi I am Sebastian. Happy to join the Dojo. My favourite CodeSchool Path would be JavaScript. I am from a Java background trying to learn JavaScript as well
