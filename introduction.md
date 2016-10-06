@@ -11,3 +11,4 @@
 * Ruby
 * NodeJS
 * Killing history using git rebase
+* Code School
