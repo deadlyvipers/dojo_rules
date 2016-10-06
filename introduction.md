@@ -4,3 +4,4 @@ My deadly skills are
 * HTML & CSS
 * Javascript
 * AngularJS.
+* Killing history using git rebase
