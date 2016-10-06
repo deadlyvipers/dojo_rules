@@ -1,2 +1,2 @@
 Hello dojo!
-My favorite Code School path: Python
+My favorite Code School path: JavaScript
