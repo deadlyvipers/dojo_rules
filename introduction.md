@@ -6,3 +6,4 @@ My deadly skills are
 * AngularJS.
 * Killing history using git rebase
 * Dagger
+* Fix issue for #4
