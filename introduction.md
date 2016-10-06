@@ -1,3 +1,5 @@
 Introducing
 ==========
-Javascript
+*Javascript
+*Git
+*Ruby
