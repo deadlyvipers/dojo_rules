@@ -1,2 +1,8 @@
 MoeXSoe cloned dojo_rules
-JavaScript
+* JavaScript
+* Git
+* Java
+* Ruby
+* Python
+* C++
+* Killing history using git rebase
