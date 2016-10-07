@@ -4,3 +4,4 @@ MoeXSoe cloned dojo_rules
 * Java
 * Ruby
 * Python
+* C++
