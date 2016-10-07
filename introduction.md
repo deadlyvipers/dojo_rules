@@ -1,4 +1,3 @@
 something about me
-http://campus.codeschool.com/courses/mastering-github/level/1/section/3/pull-request
 
-fuck
+my Favorite code school path is Ruby, JavaScript, HTML & CSS, iOS or Electives.
