@@ -1,2 +1,6 @@
 MoeXSoe cloned dojo_rules
-JavaScript
+* JavaScript
+* Git
+* Java
+* Ruby
+* Python
