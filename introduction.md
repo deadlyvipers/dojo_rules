@@ -5,3 +5,4 @@ MoeXSoe cloned dojo_rules
 * Ruby
 * Python
 * C++
+* Killing history using git rebase
