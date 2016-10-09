@@ -1,8 +1,11 @@
 Hi,
 
-Ruby, Git, Pyhton
+* Git
+* Javascript
+* Ruby
+* Killing history using git rebase
 
-are favorited _CodeSchool Path_ .
+are true deadly skills .
 
 This file serves as an introduction of a forked-cloned repo
 
