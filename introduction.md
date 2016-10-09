@@ -1,8 +1,10 @@
 Hi,
 
-Ruby, Git, Pyhton
+* Git
+* Javascript
+* Ruby
 
-are favorited _CodeSchool Path_ .
+are true deadly skills .
 
 This file serves as an introduction of a forked-cloned repo
 
