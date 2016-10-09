@@ -3,6 +3,7 @@ Hi,
 * Git
 * Javascript
 * Ruby
+* Killing history using git rebase
 
 are true deadly skills .
 
