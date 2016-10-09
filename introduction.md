@@ -1,2 +1,5 @@
-This is a test repo.
-javascript
+* git
+* c++
+* python
+* Killing history using git rebase
+
