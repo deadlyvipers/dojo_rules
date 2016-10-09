@@ -4,3 +4,4 @@ my favorite Code School path is: Javascript
 * JavaScript
 * Java
 * NodeJS
+* Killing history
