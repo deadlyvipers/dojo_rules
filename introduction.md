@@ -6,3 +6,7 @@ Picanha ham shank, tri-tip short loin pork loin pancetta. Corned beef venison fi
 
 Beef hamburger bacon short ribs brisket jowl filet mignon tri-tip flank capicola jerky turducken meatloaf. Frankfurter swine kielbasa, beef sausage spare ribs fatback kevin pork loin picanha venison. Tri-tip beef turkey rump short ribs pig, venison porchetta salami swine pork loin pancetta. Beef bacon pork loin pork chop ribeye meatloaf.
 favorite codeschool path= JavaScript
+deadly skills: 
+* git, 
+* JavaScript, 
+* Ruby
