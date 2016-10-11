@@ -1,4 +1,5 @@
 blablabla
 Electives path
-- bla1
-- bla2
+
+* bla1
+* bla2
