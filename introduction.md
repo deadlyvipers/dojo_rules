@@ -8,4 +8,5 @@ DEADLY SKILLS
 *VB
 *GIT
 *jAVASCRIPT
+Killing history using git rebase
 
