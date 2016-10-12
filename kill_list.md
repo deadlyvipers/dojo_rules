@@ -5,7 +5,4 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
-Fixes
-
-bla bla 
-sdfsdfasf
+Anti Pattern Fixes
