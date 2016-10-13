@@ -11,3 +11,5 @@ Deadly Skills:
 * Ruby
 * Python
 * Swift
+* Killing history using git rebase
+
