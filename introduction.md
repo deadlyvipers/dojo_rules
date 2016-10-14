@@ -4,3 +4,5 @@ I like JavaScript
 * Git
 * Java
 * JavaScript
+* Killing history using git rebase
+
