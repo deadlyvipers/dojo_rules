@@ -3,3 +3,4 @@ Hi, I'm Lukasz and my deadly skills are:
 * JavaScript
 * Git
 * HTML5
+* Killing history using git rebase
