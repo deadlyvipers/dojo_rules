@@ -1,2 +1,1 @@
-Name: Ramkumar K R
-Path: Python
+Name: Ramkumar K R Code SchoolPath: Python
