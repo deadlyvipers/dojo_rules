@@ -1,2 +1,5 @@
-Hi, I'm Lukasz
-HTML, CSS, JavaScript
+Hi, I'm Lukasz and my deadly skills are:
+* Java
+* JavaScript
+* Git
+* HTML5
