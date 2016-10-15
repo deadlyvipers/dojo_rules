@@ -1,1 +1,1 @@
-Name: Ramkumar K R Code SchoolPath: CSS
+Name: Ramkumar K R Code SchoolPath: Ruby
