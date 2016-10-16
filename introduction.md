@@ -8,3 +8,5 @@ alsdkjfalksdj
 
 *Java
 *Javascript
+* Killing history using git rebase
+*JSF
