@@ -2,3 +2,4 @@ Hey, I'm Curtis, new to the Dojo and fairly new to Git and my favorite Code Scho
 *Python
 *C
 *Powershell
+*Killing history using git rebase
