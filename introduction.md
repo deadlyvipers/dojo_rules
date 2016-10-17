@@ -6,3 +6,4 @@ Deadly Skills:
 * Node JS
 * Java
 * C++
+* Killing history using git rebase
