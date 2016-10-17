@@ -1,12 +1,7 @@
-Almost mostly Harmless
-Teacher
-Student
-Idiot with a screwdrived
-Time Traveler
-I love JavaScript!
-DEADLY SKILLS
-*VB
-*GIT
-*jAVASCRIPT
-Killing history using git rebase
+I love JavaScript
 
+* OOP
+*Java
+* rebase
+* Git
+* Killing history using git rebase
