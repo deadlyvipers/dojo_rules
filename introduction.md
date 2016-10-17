@@ -5,3 +5,4 @@ My favorite path may be Ruby
 * ClearCase
 * SCM
 * Release Coordination
+* Killing history using git rebase
