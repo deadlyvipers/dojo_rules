@@ -4,3 +4,4 @@ Deadly skills:
 * Quick
 * Silent
 * A true born killer
+* Killing history using git rebase
