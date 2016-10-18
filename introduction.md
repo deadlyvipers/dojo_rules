@@ -4,4 +4,5 @@ Favorite path so far is the Database one, but a close second would be Javascript
 
 *Angular2
 *HTML
-*CSS.
+*CSS
+*Killing history using git rebase
