@@ -1,3 +1,3 @@
 I'm Jenny.
 
-Databases.
+Databases and HTML & CSS.
