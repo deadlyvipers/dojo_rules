@@ -1,1 +1,1 @@
-why hello there
+why hello there, i like JavaScript
