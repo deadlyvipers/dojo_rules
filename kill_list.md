@@ -5,4 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* lack of comments
+* not using built-in features.
 
