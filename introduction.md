@@ -1,1 +1,4 @@
-JavaScript rules!
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
