@@ -1,1 +1,5 @@
-JavaScript rules!
+* Git
+
+* JavaScript
+
+* Ruby
