@@ -1,4 +1,7 @@
 # introduction
 
-* good
-* bad
+*   Ruby
+*   JavaScript
+*   HTML & CSS
+*   iOS
+*   Electiveis
