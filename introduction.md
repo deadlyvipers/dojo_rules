@@ -22,3 +22,4 @@ Skills
 * Java
 * C
 * Android
+* Killing history using git rebase
