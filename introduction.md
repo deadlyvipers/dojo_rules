@@ -1,2 +1,2 @@
 Hi I am Chedwick!
-My favourite path is GIT.
+My favourite path is JavaScript.
