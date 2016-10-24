@@ -5,3 +5,4 @@ Favorite path: JavaScript
 * C++
 * Python
 * R
+* Killing history using git rebase
