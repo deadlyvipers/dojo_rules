@@ -9,4 +9,5 @@ Skills :
 *JavaEE
 *Python
 *Ruby
+*Killing history using git rebase
 *...
