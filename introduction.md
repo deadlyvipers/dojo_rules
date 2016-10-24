@@ -1,2 +1,2 @@
 \# Hello\!
-Favorite path: JS
+Favorite path: JavaScript
