@@ -1,7 +1,7 @@
 \# Hello\!
 Favorite path: JavaScript
-- JavaScript
-- HTML/CSS
-- C++
-- Python
-- R
+* JavaScript
+* HTML/CSS
+* C++
+* Python
+* R
