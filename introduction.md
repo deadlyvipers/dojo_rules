@@ -1,2 +1,4 @@
 stuff about me
-Ruby
+*Ruby
+*Git
+*JavaScript
