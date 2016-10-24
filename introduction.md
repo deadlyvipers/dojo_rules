@@ -1,1 +1,1 @@
-lorem ipsum
+JavaScript & Ruby
