@@ -1,3 +1,8 @@
 \# Hello\!
 Favorite path: JavaScript
-- Killing history using git rebase
+* JavaScript
+* HTML/CSS
+* C++
+* Python
+* R
+* Killing history using git rebase
