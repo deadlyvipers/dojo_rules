@@ -1,5 +1,7 @@
 Hello I'm Mark
 JavaScript
-deadly skills
+
+Deadly skills
 *SQL
 *XML
+*Killing history using git rebase
