@@ -1,1 +1,2 @@
 KhainTCore
+Favorite Path: JavaScript
