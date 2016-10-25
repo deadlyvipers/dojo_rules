@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub.
+My favourite code school path is HTML & CSS
