@@ -6,4 +6,7 @@ Deadly Skills:
 * JavaScript
 * Java
 * Killing history using git rebase
+* Googling
+* Stack Overflow
+
 
