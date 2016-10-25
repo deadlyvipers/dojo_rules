@@ -6,4 +6,5 @@ My Favourite codeschool path is JavaScript.
 * JavaScript,
 * Python,
 * HTML,
-* CSS
+* CSS,
+* Killing history using git rebase
