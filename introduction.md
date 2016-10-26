@@ -1,2 +1,3 @@
 Brief intro
-JavaScript
+*JavaScript
+*Git
