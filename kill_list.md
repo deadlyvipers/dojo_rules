@@ -8,3 +8,4 @@ Kill List
 * Bad variable names
 * huge code files
 * low test coverage
+* long build process
