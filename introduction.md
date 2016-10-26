@@ -3,3 +3,4 @@ My favorite path in CodeSchool is:
 * JavaScript
 * C#
 * GIT
+* Killing history using git rebase
