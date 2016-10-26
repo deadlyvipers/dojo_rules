@@ -1,2 +1,5 @@
 My name is Alex. I'm learning git on CodeSchool
-My favorite path in CodeSchool is JavaScript, C# and GIT
+My favorite path in CodeSchool is:
+*JavaScript
+*C#
+*GIT
