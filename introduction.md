@@ -8,5 +8,6 @@ My deadly skills:
 * Git
 * Sass
 * Gulp
+* Killing history using git rebase
 ...
 
