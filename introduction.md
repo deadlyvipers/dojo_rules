@@ -1,0 +1,2 @@
+Hello my name is Derrick Hammond.
+My favorite Code School Path is the JavaScript path.
