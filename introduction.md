@@ -1,2 +1,3 @@
 Brief introduction to mastering github
-Javascript
+*Javascript
+*Git
