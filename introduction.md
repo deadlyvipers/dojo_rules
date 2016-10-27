@@ -1,3 +1,3 @@
 ## This is a mardown file
-HTML & CSS
+My favorite Code School path are JavaScript and HTML & CSS.
 
