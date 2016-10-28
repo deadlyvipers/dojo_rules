@@ -1,2 +1,1 @@
-Hi There! I am a dev.
-I liked the Python Path in CodeSchool...
+Hello, world.\nPython Path
