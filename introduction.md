@@ -10,3 +10,4 @@ Deadly skills
 * AngularJS
 * NodeJS
 * ReactJS
+* Killing history using git rebase
