@@ -7,3 +7,4 @@ My favourite Code School path is Ruby.
 * Drinking
 * Sarcasm
 * Apathy
+* Killing history using git rebase
