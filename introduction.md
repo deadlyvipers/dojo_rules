@@ -1,2 +1,2 @@
 Hi, my name is Bruce Lee
-My favorite course is Javascript
+My favorite course is Git
