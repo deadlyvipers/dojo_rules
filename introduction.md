@@ -8,3 +8,4 @@ Deadly Skills
 * Angular
 * Polymer
 * C++
+* Killing history using git rebase
