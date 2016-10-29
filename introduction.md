@@ -9,3 +9,4 @@ My deadly skills:
 * Git
 * TeamCity
 * Docker
+* Killing history using git rebase
