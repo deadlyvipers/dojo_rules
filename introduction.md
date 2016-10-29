@@ -8,3 +8,4 @@ My deadly skills:
 * Java
 * Git
 * TeamCity
+* Docker
