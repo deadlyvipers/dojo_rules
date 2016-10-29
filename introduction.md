@@ -1,0 +1,1 @@
+Hi my name is Gonza and I'm a Java Developer. the Javascript Path is my favorite path in Codeschool
