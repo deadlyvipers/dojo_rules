@@ -10,4 +10,4 @@ The Ruby path looks promising that is next.
  *git
  *css
  *html
- *Killing history using git rebase
+
