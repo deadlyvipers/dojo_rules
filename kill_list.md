@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* That one semicolon
+* More stuff
+* CS not working, again!
+
