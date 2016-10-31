@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * That one semicolon
 * More stuff
+* CS not working
