@@ -5,3 +5,4 @@ My favorite Code School path is HTML/CSS.
 * CSS
 * JavaScript
 * PHP
+* Killing history using git rebase
