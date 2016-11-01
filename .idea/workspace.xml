@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326d6a5b-b2c0-49c1-bb66-1104908f0a38" name="Default" comment="" />
+    <list default="true" id="326d6a5b-b2c0-49c1-bb66-1104908f0a38" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/introduction.md" afterPath="$PROJECT_DIR$/introduction.md" />
+    </list>
     <ignored path="dojo_rules.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,12 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="introduction.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="introduction.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="36">
-                <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
@@ -64,8 +66,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="y" value="161" />
+    <option name="x" value="610" />
+    <option name="y" value="167" />
     <option name="width" value="1318" />
     <option name="height" value="871" />
   </component>
@@ -220,15 +222,15 @@
       <option name="presentableId" value="Default" />
       <updated>1477962610895</updated>
       <workItem from="1477962612838" duration="1338000" />
-      <workItem from="1478030277433" duration="235000" />
+      <workItem from="1478030277433" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1573000" />
+    <option name="totallyTimeSpent" value="2042000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="161" width="1318" height="871" extended-state="0" />
+    <frame x="610" y="167" width="1318" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -276,22 +278,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
