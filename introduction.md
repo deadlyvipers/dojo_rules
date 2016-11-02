@@ -1,2 +1,3 @@
 hello
-favorite path: ruby
+ * ruby
+ * js
