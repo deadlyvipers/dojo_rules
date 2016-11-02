@@ -8,3 +8,4 @@ My favorite codeschool path is Javascript
 * Git
 * Surfing
 * Fishing
+* Killing history using git rebase 
