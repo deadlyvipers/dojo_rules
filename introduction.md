@@ -12,4 +12,4 @@ deadly_skills
 *Python
 *Git
 *CSS
-
+*Killing history using git rebase
