@@ -1,3 +1,0 @@
-Kill List
-==========
-* Bill
