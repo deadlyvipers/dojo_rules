@@ -2,6 +2,7 @@ Deadly Skills:
 * Knitting
 * Walking
 * Bathing
+* Killing history using git rebase
 
 
 While JavaScript is my favorite Code School path thus far, today... today, you find yourselves equals.
