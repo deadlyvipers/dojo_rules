@@ -1,3 +1,10 @@
+Deadly Skills:
+* Knitting
+* Walking
+* Bathing
+* Killing history using git rebase
+
+
 While JavaScript is my favorite Code School path thus far, today... today, you find yourselves equals.
 
 For you are all equally blessed. For I have the pride, the privilege, nay, the pleasure of introducing to you to a knight, sired by knights. A knight who can trace his lineage back beyond Charlemagne. I first met him atop a mountain near Jerusalem, praying to God, asking his forgiveness for the Saracen blood spilt by his sword. 
