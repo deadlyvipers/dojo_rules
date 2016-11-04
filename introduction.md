@@ -1,1 +1,1 @@
-introduction in dogo rules
+introduction in Ruby
