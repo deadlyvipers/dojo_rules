@@ -11,3 +11,4 @@ Deadly Skills:
 *Javascript
 *AngularJS
 *ReactJS
+*Killing history using git rebase
