@@ -5,4 +5,5 @@ I am Alex, glad to join.
 * AngularJS
 * SQL
 * Python
+* NodeJs
 * much much more...
