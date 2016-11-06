@@ -7,3 +7,4 @@
 * nunchuck skills
 * bowstaff skills
 * yourmom skills
+* Killing history using git rebase
