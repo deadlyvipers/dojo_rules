@@ -1,3 +1,3 @@
 ## Watashi-wa Jared desu.
 ### There is no mercy in this dojo.
-### The Git path is my favorite Code School path!
+### The Git path would be my favorite path if this step actually worked
