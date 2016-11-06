@@ -1,1 +1,4 @@
-introduction in Ruby
+introduction deadly skills:
+* Ruby
+* JS
+* Git
