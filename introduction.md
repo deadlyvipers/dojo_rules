@@ -9,3 +9,4 @@ Deadly skills
 =========
 * Pancake making
 * Physics
+* Killing history using git rebase
