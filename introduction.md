@@ -9,3 +9,4 @@
 * yourmom skills
 * Killing history using git rebase
 * Why is this site so bad at checking this shit!
+* How about some more bullshit
