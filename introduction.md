@@ -9,6 +9,5 @@
 * bowstaff skills
 * yourmom skills
 * Killing history using git rebase
-
-### My favorite Code School path is whatever you want it to be. Ruby? Sure, Ruby.
+* Why is this site so bad at checking this shit!
 
