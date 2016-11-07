@@ -8,3 +8,4 @@ List of deadly skills:
 * Java
 * some more Java
 * GIT!
+* Killing history using git rebase
