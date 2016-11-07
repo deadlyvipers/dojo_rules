@@ -3,8 +3,12 @@
 ### The Git path would be my favorite path if this step actually worked
 ### Seriously, just work please
 
+
 ## Deadly skills
 * nunchuck skills
 * bowstaff skills
 * yourmom skills
 * Killing history using git rebase
+
+### My favorite Code School path is whatever you want it to be. Ruby? Sure, Ruby.
+
