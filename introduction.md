@@ -1,1 +1,1 @@
-This is an intro. Git is my favorite Code School path. 
+This is an intro. Ruby is my favorite Code School path. 
