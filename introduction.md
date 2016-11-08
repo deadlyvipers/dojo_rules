@@ -1,1 +1,1 @@
-This is my introductionsfdffsf
+Ruby, JavaScript, HTML & CSS, Angular, Sass
