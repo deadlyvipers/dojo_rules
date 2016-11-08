@@ -1,3 +1,4 @@
 Here is the introductory file.
-JavaScript
-Git
+* JavaScript
+* Git
+* Java
