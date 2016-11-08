@@ -1,3 +1,6 @@
 blah
 blah blah
-blah Ruby
+blah 
+*Ruby
+*Git
+*Javascript
