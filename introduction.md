@@ -5,3 +5,4 @@ I have deadly skills in:
 * CSS
 * JavaScript
 * PHP
+* rebase
