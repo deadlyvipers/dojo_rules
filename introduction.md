@@ -1,1 +1,1 @@
-Here, I am , Abhay Khobragade. Trying to learn GIT.
+Here, I am , Abhay. Trying to learn GIT.
