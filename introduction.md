@@ -1,2 +1,2 @@
 Hello Dojo
-Favorite Code School path is Git
+Favorite Code School path is JavaScript
