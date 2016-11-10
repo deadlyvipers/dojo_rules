@@ -4,3 +4,4 @@ Deadly Skills:
 * Walking
 * Thinking
 * Piano Moving
+* Killing history using git rebase
