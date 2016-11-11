@@ -1,3 +1,8 @@
-List 1
-List 2
-List 3
+=======
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
