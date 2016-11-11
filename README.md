@@ -12,3 +12,4 @@ https://github.com/deadlyvipers
 * "https://github.com/deadlyvipers"
 
 [I'm an inline-style link]("https://github.com/deadlyvipers")
+[I'm an inline-style link2](https://github.com/deadlyvipers)
