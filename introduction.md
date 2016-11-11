@@ -2,3 +2,4 @@
 * iOS 
 * D-Skill JavaScript
 * Skill JavaScript
+* Killing history using git rebase
