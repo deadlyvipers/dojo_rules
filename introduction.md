@@ -1,2 +1,2 @@
 this is me.
-JavaScript
+ My favorite Code School path is JavaScript
