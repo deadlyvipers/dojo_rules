@@ -4,3 +4,4 @@ my favorite path is JavaScript
 *C++
 *.Net
 *JavaScript
+*Killing history using git rebase
