@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-valami
-HTML & CSS
-=======
+*HTML & CSS
 *Git
 *JavaScript
 *Ruby
 *valami
->>>>>>> deadly_skills
+
