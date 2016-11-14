@@ -8,3 +8,4 @@ Some mention about the Ruby path
  * Git
  * Linux
  * Grue Slaying
+ * Killing history using git rebase
