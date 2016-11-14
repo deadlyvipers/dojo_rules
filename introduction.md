@@ -1,1 +1,3 @@
-valami
+*Git
+*JavaScript
+*Ruby
