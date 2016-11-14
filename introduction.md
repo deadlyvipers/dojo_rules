@@ -1,3 +1,0 @@
-*HTML & CSS
-*Git
-*JavaScript
