@@ -1,3 +1,3 @@
-Javascript
-Angular
-Java
+*Javascript
+*Angular
+*Java
