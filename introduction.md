@@ -4,3 +4,4 @@ My favorite Codeschool path is JavaScript.
 *node.js
 *StarCraft
 *Killing history using git rebase
+*Accessing git from multiple locations
