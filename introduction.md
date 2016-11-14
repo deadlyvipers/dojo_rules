@@ -5,3 +5,4 @@ My favorite Code School path is JavaScript.
 * GitHub
 * JavaScript
 * Node.js
+* Killing history using git rebase
