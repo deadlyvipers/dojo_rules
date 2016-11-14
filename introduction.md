@@ -1,1 +1,3 @@
 Javascript
+Angular
+Java
