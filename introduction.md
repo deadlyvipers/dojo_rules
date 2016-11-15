@@ -1,2 +1,2 @@
 I HAVE ARRIVED
-Python course best course
+fav Code School path is JavaScript
