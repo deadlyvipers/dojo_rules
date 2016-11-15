@@ -1,2 +1,4 @@
 lukasss88
-my favourite paths in Codeschool: Javascript, Ruby
+my favourite paths in Codeschool: 
+*Javascript  
+*Ruby
