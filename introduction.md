@@ -1,4 +1,4 @@
 Introduction
 =============
 
-Intro text
+Intro text with Codeschool Ruby path
