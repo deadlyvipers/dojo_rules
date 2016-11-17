@@ -1,1 +1,2 @@
-My name is Laurent DEL BASSO
+My name is Laurent DEL BASSO.
+My favorite Code School path is JavaScript.
