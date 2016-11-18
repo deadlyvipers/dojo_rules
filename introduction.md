@@ -5,3 +5,4 @@ Deadly skills:
 * Python 2/3
 * C
 * C++
+* HTML/CSS
