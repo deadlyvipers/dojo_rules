@@ -5,3 +5,4 @@ My favorite path is Javascript
 *unity
 *othert
 *other!
+*Killing history using git rebase
