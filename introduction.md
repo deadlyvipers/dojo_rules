@@ -1,2 +1,2 @@
 Hallow dojo, it is me
-My  favorite Code School path is JS.
+My  favorite Code School path is JavaScript.
