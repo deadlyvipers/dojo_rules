@@ -1,1 +1,2 @@
-this is an introduction about myself 2
+this is an introduction about myself
+my favorite path is the JavaScript one
