@@ -1,3 +1,2 @@
-Hi my name is webwurst.
+Hi my name is webwurst and I like Python.
 I am a ninja wannabe.
-I like Python.
