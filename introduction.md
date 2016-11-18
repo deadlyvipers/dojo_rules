@@ -4,3 +4,4 @@ My favorite path is Javascript
 *javascript
 *unity
 *othert
+*other!
