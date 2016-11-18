@@ -4,3 +4,4 @@ Deadly skills:
 * Java
 * Python 2/3
 * C
+* C++
