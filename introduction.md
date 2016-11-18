@@ -1,5 +1,5 @@
 Introduction
-favorite Code School path: Rubby, GIT
+my favorite Code School path: Ruby
 Xiaohe QU
 23 year
 Chinese
