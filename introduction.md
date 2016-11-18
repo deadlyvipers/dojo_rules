@@ -1,5 +1,5 @@
-Favorite: Rubby, GIT
 Introduction
+favorite Code School path: Rubby, GIT
 Xiaohe QU
 23 year
 Chinese
