@@ -1,5 +1,5 @@
-My name is Saul.
-My favorite Code School path is Electives.
+- My name is Saul.
+- My favorite Code School path is Electives.
 
 ---
 Deadly Skills
