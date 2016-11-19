@@ -1,1 +1,1 @@
-Python is the best
+Python is the best so is JavaScript
