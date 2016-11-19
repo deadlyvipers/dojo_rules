@@ -5,3 +5,8 @@ To study something is so fun. right?
 What time is it?
 
 What I have to do?
+
+Aha! I had to mention Code School path!
+But Are you realize mention about pay path?
+
+I love JavaScript path.
