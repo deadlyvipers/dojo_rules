@@ -15,3 +15,4 @@ I love JavaScript path.
 * Java
 * Googling
 * Anything!
+* Killing history using git rebase
