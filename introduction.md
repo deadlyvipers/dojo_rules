@@ -6,5 +6,6 @@ Deadly skills:
 * C
 * C++
 * HTML/CSS
-
-Just testing now.
+* Scheme
+* R
+* rebase
