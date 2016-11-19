@@ -3,4 +3,5 @@ hello dojo
 * Ruby
 * JavaScript
 * Git
+* rebase
 
