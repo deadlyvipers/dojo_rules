@@ -5,3 +5,4 @@ Skills:
 * Pyhton
 * Ruby
 * PHP
+* Killing history using git rebase
