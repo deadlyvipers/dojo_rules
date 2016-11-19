@@ -1,3 +1,5 @@
 Hi! I'm Richard!
 
-JavaScript
+* JavaScript
+* GIT
+* Java
