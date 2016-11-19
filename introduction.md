@@ -1,2 +1,1 @@
-Hello there\n
-favourite paths are: GIT, Python
+Ruby, JavaScript, HTML & CSS, iOS or Electives
