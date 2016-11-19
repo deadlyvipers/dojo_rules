@@ -1,4 +1,3 @@
-*Python
 *Git
 *JavaScript
 *Ruby
