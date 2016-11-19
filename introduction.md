@@ -10,4 +10,4 @@ Hello World!
 * Electives
 * Database
 * And many more!
-* ...
+* Killing history using git rebase
