@@ -1,3 +1,5 @@
+Killing history using git rebase
+
 Hello World!
 
 JavaScript
