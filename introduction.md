@@ -6,3 +6,4 @@ Skills:
 * Javascript
 * Git
 * R
+* Killing history using git rebase
