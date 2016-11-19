@@ -1,13 +1,8 @@
-What up, ninjas my favorite code path is Ruby!
 
-I'm your new robot overlord!
+I love Ruby
 
-Heres a list of my deadly skills.
-* Killing history using git rebase
-* Cooking
-* Git
 * Ruby
-* HTML
-* CSS
 * JavaScript
-
+* rebase
+* Git
+* Killing history using git rebase
