@@ -6,3 +6,4 @@ I like Electives
 * Ruby
 * JavaScript
 * Being awesome
+* Killing history using git rebase
