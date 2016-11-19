@@ -11,10 +11,10 @@ My favorite Code School path is:
 
 My deadly skills:
 
-- PHP
-- MySQL
-- MongoDB
-- Symfony
-- Doctrine ORM
-- Doctrine ODM
-- REST API
+* PHP
+* MySQL
+* MongoDB
+* Symfony
+* Doctrine ORM
+* Doctrine ODM
+* REST API
