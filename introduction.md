@@ -8,3 +8,5 @@ I like:
 * NGINX
 * HAProxy
 * MongoDB
+
+Mu favorite Code School path is JavaScript
