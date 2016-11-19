@@ -1,2 +1,2 @@
 codeschool codeschool
-js ftw
+Favorite path: JavaScript
