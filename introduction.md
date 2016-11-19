@@ -1,1 +1,5 @@
-Python is the best so is JavaScript
+* JavaScript
+* Python
+* C
+* C++
+* Killing history using git rebase
