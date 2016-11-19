@@ -6,3 +6,4 @@ My fovourite CodeSchool Path:
 *Git
 *HTML
 *CSS
+*Killing history using git rebase
