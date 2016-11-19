@@ -1,2 +1,5 @@
-Mastering Github
-Ruby
+* Killing history using git rebase
+* Ruby
+* Git
+* JavaScript
+
