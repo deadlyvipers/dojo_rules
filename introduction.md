@@ -1,4 +1,5 @@
 Mastering Github
-Ruby
-Git
+* Ruby
+* Git
+* JavaScript
 
