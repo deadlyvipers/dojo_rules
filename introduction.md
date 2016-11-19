@@ -1,2 +1,4 @@
 Hello, I'm t3r1jj.
-JavaScript
+* Git
+* Java
+* JavaScript
