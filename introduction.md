@@ -1,7 +1,7 @@
 # Hi GitHub
 
 My username is Wolmi and I'm a web/backend developer.
-I like:
+Skills:
 * Bash
 * NodeJS
 * Docker
@@ -9,4 +9,5 @@ I like:
 * HAProxy
 * MongoDB
 * Linux
+* Killing history using git rebase
 Mu favorite Code School path is JavaScript
