@@ -1,4 +1,6 @@
-#My favorite Code School path:
+#Introduction
+
+##My favorite Code School path:
 
 - Databases
 - GIT
