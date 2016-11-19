@@ -1,3 +1,6 @@
 Hi! I'm Richard!
 
-JavaScript
+* JavaScript
+* GIT
+* Java
+* Killing history using git rebase
