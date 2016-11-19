@@ -1,3 +1,5 @@
 Hello my name is steve
 
-Ruby
+* Ruby
+* Java
+* Killing history using git rebase
