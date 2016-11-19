@@ -3,3 +3,4 @@ Hi there
 * Git
 * JavaScript
 * some trable with course
+* Killing history using git rebase
