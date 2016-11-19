@@ -1,1 +1,1 @@
-Hi! This is intro!
+Hi! This is intro! Though I don't know Ruby.
