@@ -2,3 +2,4 @@
 * Git
 * Java
 * HTML/CSS
+* Ruby
