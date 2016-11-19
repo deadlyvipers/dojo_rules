@@ -5,3 +5,4 @@ I posses deadly skills like:
 * derp eyes
 * killer snoring
 * bacon
+* Killing history using git rebase
