@@ -1,2 +1,4 @@
 Hi there
-Ruby
+* Ruby
+* Git
+* JavaScript
