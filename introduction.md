@@ -3,4 +3,4 @@ Introduction
 
 Another apprentice to the dojo.
 
-My favorite path is Python.
+My favorite path is Python. Javascript
