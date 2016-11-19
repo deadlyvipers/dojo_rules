@@ -1,3 +1,2 @@
 Introduction
 
-Petar Dudas
