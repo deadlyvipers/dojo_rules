@@ -3,3 +3,4 @@ My deadly skills are:
 *Java
 *Android
 *Agile
+*Killing history using git rebase
