@@ -1,5 +1,6 @@
 hello dojo
 - i like trains.
-- Ruby
-- JavaScript
+* Ruby
+* JavaScript
+* Git
 
