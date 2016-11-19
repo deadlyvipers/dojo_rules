@@ -1,1 +1,1 @@
-gitmastering
+gitmastering on the codeschool git path
