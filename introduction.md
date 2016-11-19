@@ -3,3 +3,4 @@ ravenvz Ruby
 * Python
 * Git
 * Java
+* Killing history using git rebase
