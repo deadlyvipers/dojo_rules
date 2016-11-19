@@ -1,3 +1,3 @@
-Hello I am Antonio
+Hello I am Antonio.
 My favorite Path in code school 
-is Electives
+is Electives!
