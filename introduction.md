@@ -10,3 +10,4 @@
 * GitHub
 * JavaScript
 * SQL
+* Killing history using git rebase
