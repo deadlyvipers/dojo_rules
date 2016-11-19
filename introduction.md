@@ -1,1 +1,4 @@
-Introduction from Mike.. Favorite path is JavaScript.
+Introduction from Mike.. Favorite paths are:
+
+*JavaScript
+*Git
