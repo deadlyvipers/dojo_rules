@@ -18,3 +18,5 @@ My deadly skills:
 * Doctrine ORM
 * Doctrine ODM
 * REST API
+* GIT
+* Killing history using git rebase
