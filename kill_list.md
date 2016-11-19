@@ -5,5 +5,4 @@ Kill List
 * Unformatted Code
 * Repeated code blocks
 * Bad variable names
-* In honor of Kakurii
-
+* In honor of Kakuriis
