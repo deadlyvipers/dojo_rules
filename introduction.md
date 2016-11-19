@@ -1,3 +1,6 @@
 Introduction
 
-JavaScript
+* JavaScript 
+* MongoDB
+* Git
+
