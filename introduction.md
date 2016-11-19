@@ -7,3 +7,4 @@ Deadly skills:
 * C++
 * HTML/CSS
 * Scheme
+* R
