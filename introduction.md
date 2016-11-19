@@ -3,3 +3,4 @@ My skills:
 * Git
 * Android
 * panckakes
+* Killing history using git rebase
