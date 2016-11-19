@@ -8,3 +8,4 @@ Deadly skills:
 * HTML/CSS
 * Scheme
 * R
+* rebase
