@@ -1,4 +1,6 @@
 Testing introduction
 deees
-Ruby
+* Ruby
+* Git
+* Killing history using git rebase
 
