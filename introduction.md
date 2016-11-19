@@ -3,4 +3,6 @@ I like Electives
 
 * Git
 * Python
+* Ruby
+* JavaScript
 * Being awesome
