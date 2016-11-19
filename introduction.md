@@ -1,4 +1,3 @@
-
 I love Ruby
 
 * Ruby
