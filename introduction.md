@@ -1,1 +1,1 @@
-Hi I'm rafal. (m3ntos).
+Hi I'm rafal. (m3ntos). My favourite course is of course Git, but Ruby would be the second one.
