@@ -1,2 +1,5 @@
 hello
 Javascript
+
+* Git
+* Python
