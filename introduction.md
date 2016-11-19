@@ -7,5 +7,6 @@ My deadly skills:
 * Git;
 * C++;
 * CMake;
-* Vim.
+* Vim;
+* Killing history using git rebase.
 
