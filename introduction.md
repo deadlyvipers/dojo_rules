@@ -2,4 +2,4 @@ Hello, JavaScript
 
 * Skillz
 * SKillllzz
-aa
+* Killing history using git rebase
