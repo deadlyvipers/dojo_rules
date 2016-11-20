@@ -1,2 +1,4 @@
-I'm Guilherme, I'd like to join the Dojo...
-My favourite path at Code School is Git.
+* git
+* bash
+* python
+* rebase
