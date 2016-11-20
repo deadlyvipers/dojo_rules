@@ -3,4 +3,3 @@ Hello World!
 * Git
 * Android
 * Java
-* C++
