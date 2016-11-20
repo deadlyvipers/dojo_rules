@@ -6,4 +6,5 @@ HTML & CSS
 * Javascript
 * Git
 * Net
-* Python
+* Pythoni
+* Git rebase
