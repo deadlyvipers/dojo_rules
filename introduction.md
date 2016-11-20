@@ -7,3 +7,4 @@ My deadly skills are
 *python
 *git
 *sql
+*Killing history using git rebase
