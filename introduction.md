@@ -1,2 +1,6 @@
 introduction
-Electives
+Codeschool path:Electives
+Deadly skills:
+*Git 
+*Javascript
+
