@@ -1,2 +1,2 @@
-my favourite path is Git
+my favourite paths are Git and iOS
 some instroduction ...
