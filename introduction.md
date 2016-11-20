@@ -3,3 +3,4 @@ My favorite Code School path at the moment is HTML & CSS.
 deadly skills:
 * GIT
 * HTML
+one more string here ..
