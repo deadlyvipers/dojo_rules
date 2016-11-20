@@ -1,3 +1,6 @@
 introduction
 
 JavaScript!!
+
+* Git
+* Ruby
