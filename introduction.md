@@ -4,3 +4,4 @@ Deadly Skills:
 * Git
 * Python
 * GIS
+* Killing history using git rebase
