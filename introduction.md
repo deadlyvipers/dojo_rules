@@ -1,2 +1,2 @@
 This is Dominiks Dojo
-Favorite Path: GIT
+Favorite Path: JavaScript
