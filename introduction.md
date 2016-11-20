@@ -3,4 +3,6 @@ my favourite paths are Git and iOS
 *  JavaScript, 
 *  Rub
 
+=======
+* Killing history using git rebase
 some instroduction ...
