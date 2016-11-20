@@ -1,1 +1,2 @@
 * Visual Studio Code
+* Emacs
