@@ -6,3 +6,4 @@ path is required to be Ruby, JavaScript, HTML & CSS, iOS or Electives.
 
 * C++
 * memes
+* Killing history using git rebase
