@@ -1,1 +1,1 @@
-Hello their. My name doesn't count! I love .NET!
+Hello their. My name doesn't count! I love .NET! No it's not Ruby, JavaScript, HTML & CSS, iOS or Electives.
