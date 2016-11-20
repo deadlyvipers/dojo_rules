@@ -13,3 +13,5 @@ My deadly skills:
 * Git
 * JavaScript
 * DDD
+* Killing history using git rebase
+
