@@ -6,4 +6,3 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Spaghetti code
-* Lack of tests
