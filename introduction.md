@@ -1,4 +1,6 @@
 My introduction
 ==
 
-Nothing interresting...
+My favourite Code School path - besides Git - is Electives...
+
+
