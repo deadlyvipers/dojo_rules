@@ -5,3 +5,4 @@ Kill List
 * Petya
 * Vasya
 * Fedor
+Kisaks
