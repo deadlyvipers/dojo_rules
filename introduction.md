@@ -1,2 +1,4 @@
 Haha It's me.
-Javascript
+* Javascript
+* Git
+* Ruby
