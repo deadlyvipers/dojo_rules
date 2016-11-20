@@ -5,3 +5,4 @@ My deadly skills are:
 *Sass
 *React
 *Angular
+*Killing history using git rebase
