@@ -1,2 +1,8 @@
-Miguel Palazzo.
-I'm loving Git.
+# Miguel Palazzo
+
+* Git
+* HTML
+* CSS
+* JavaScript
+* Python
+* Ruby
