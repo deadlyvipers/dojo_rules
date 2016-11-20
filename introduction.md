@@ -6,4 +6,5 @@ My skills
 * CSS
 * SQL Server
 * MySQL
+* Killing history using git rebase
 * and much more
