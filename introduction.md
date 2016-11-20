@@ -1,4 +1,4 @@
-Hi, myh name is Marcos!
+Hi, my name is Marcos!
 
 Thanks for having me on the dojo.
 
