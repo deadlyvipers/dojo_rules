@@ -1,1 +1,1 @@
-Sup testing out this github
+Sup testing out this github, JavaScript is okey
