@@ -1,2 +1,2 @@
-Miguel Palazzo.
-I'm loving Git.
+Miguel Palazzo
+JavaScript
