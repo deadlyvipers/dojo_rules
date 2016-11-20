@@ -1,6 +1,7 @@
-Kill List:
-
- o-Ren Ishii
- Vernita Green
- Elle Driver
- Bill
+Kill List
+=========
+* I'm
+* Sergey
+* Petya
+* Vasya
+* Fedor
