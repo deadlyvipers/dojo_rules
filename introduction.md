@@ -1,0 +1,1 @@
+﻿Hi my name is Emil and my favorite path is GIT
