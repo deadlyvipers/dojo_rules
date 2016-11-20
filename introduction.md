@@ -1,2 +1,2 @@
 Hello, I am Gena
-Python
+Python is my favorite
