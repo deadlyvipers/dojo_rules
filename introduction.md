@@ -5,4 +5,5 @@ Deadly Skills:
 * Swift
 * Java
 * C/C++.
+* Killing history using git rebase
 
