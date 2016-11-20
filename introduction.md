@@ -1,1 +1,1 @@
-AJ here
+AJ here. Thumbs up for .NET Core :+1: :)
