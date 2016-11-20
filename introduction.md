@@ -1,2 +1,4 @@
-This file contains an introduction
-Ruby
+This file contains an introduction:
+Deadly skills:
+* Git
+* Ruby
