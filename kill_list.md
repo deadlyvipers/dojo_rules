@@ -6,4 +6,3 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * More weapons
-* More more weapons
