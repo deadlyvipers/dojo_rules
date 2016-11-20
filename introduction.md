@@ -4,3 +4,4 @@ I love cake
 *JavaScript
 *PHP
 *Python
+Killing history using git rebase
