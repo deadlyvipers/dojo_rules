@@ -8,3 +8,4 @@ My favorite Code School path is JavaScript, SQL sections
 ** Php
 ** Laravel
 ** Bootstrap
+** Killing history using git rebase
