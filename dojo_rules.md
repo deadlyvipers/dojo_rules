@@ -13,4 +13,5 @@ dojo Rules
 * Respect your opponents
 
 * Most Sensei's should be respected
-* no coffe in the Dojo
+
+* no coffee in the dojo
