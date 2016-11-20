@@ -8,3 +8,4 @@ Deadly Skills:
 * Ruby
 * HTML/CSS
 * Regular Expressions
+* Killing history using git rebase
