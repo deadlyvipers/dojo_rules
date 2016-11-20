@@ -1,6 +1,7 @@
 I love cake
 
-Git
-JavaScript
-PHP
-Python
+*Git
+*JavaScript
+*PHP
+*Python
+Killing history using git rebase
