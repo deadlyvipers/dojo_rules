@@ -1,5 +1,2 @@
-Dojo Rules
-==========
-
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+I'm Guilherme, I'd like to join the Dojo...
+My favourite path at Code School is Git.
