@@ -1,8 +1,7 @@
 Kill List
 =========
-* I'm
-* Sergey
-* Petya
-* Vasya
-* Fedor
-Kisaks
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
