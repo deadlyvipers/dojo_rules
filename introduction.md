@@ -1,6 +1,6 @@
 I love cake
 
-Git
-JavaScript
-PHP
-Python
+*Git
+*JavaScript
+*PHP
+*Python
