@@ -6,4 +6,7 @@ JavaScript
 
 ## Deadly skills
 ================
-Git, javascript, C, bash
+* Git
+* javascript
+* C
+* bash
