@@ -1,3 +1,4 @@
 * Ruby
 * Git
 * JavaScript
+* Python
