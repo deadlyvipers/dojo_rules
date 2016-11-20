@@ -5,3 +5,6 @@ my name is Javier Trejo. I'm a software developer. I coursing GIT Real and Maste
 * Java
 * HTML5
 * CSS3
+
+Killing history using git rebas
+
