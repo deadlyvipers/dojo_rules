@@ -1,1 +1,2 @@
-Introdaction to github
+* Introdaction to github
+* JavaScript
