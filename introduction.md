@@ -1,0 +1,1 @@
+Hi, I am Peter and I am learning Mastering GitHub on CodeSchool. :)
