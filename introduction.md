@@ -4,3 +4,4 @@ Deadly skills:
 *Git
 *Matlab
 *Python
+*Killing history using git rebase
