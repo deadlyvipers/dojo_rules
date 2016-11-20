@@ -1,2 +1,3 @@
 #codeschool member: 
-## joatvejv
+## jotavejv
+### JavaScript, HTML & CSS
