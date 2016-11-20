@@ -1,2 +1,4 @@
 regmitote
 Ruby
+* Ruby
+* Git
