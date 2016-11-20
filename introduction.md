@@ -8,3 +8,4 @@ favorite Code School path is python and JavaScript
 * Git, 
 * JavaScript, 
 * Ruby
+* Killing history using git rebase
