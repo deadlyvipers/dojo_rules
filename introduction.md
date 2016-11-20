@@ -3,4 +3,5 @@ My Favorite Path is JavaScript
 My deadly skills
 * JavaScript
 * HTML
+* Killing history using git rebase
 
