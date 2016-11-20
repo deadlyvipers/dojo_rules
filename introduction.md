@@ -1,3 +1,3 @@
-This is a long introduction katiter.
+intro katiter Ruby, JavaScript, HTML & CSS, iOS
 
-And yes
+etc
