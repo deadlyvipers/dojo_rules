@@ -7,3 +7,4 @@ But I know some programming languages! I worked as an iOS developer for over 2 y
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
