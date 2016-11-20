@@ -1,5 +1,5 @@
 I love cake
-Git
-PHP
-Python
-Ruby
+* Git
+* PHP
+* Python
+* Ruby
