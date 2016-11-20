@@ -1,2 +1,8 @@
-Hi, This is LarryKim :)
-I like 'Javascript' section on codeschool.
+* Javascript
+* Perl
+* PHP
+* ECMAScript
+* RegExp
+* C#
+* go
+* rebase
