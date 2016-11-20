@@ -1,3 +1,3 @@
 # The Introduction
 
-Favorite Code School path : GIT
+Favorite Code School path : Ruby
