@@ -6,3 +6,4 @@ Deadly skills:
 * kill
 * crush
 * destroy
+* Killing history using git rebase
