@@ -1,1 +1,1 @@
-Introducting myself as jgsimmerman
+Introducing myself as jgsimmerman
