@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
-Programmer grievance:  thinking about programming.1
+Programmer grievance:  thinking about programming.
