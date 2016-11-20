@@ -4,5 +4,5 @@ my favorite path is GIT and
 *JavaScript, 
 *HTML & CSS,
 *Bootstrap,
-*jQuery
+*jQuery,
 *SQL
