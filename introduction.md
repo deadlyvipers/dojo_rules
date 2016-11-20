@@ -4,6 +4,7 @@ Hi everybody, my name is Markos. I love coding and playing basketball and I hope
 I have to say that my favorite Code School is JavaScript.
 Deadly skills
 -------------
+* killing history using git rebase
 * JavaScript
 * J2EE
 * Databases
