@@ -3,3 +3,4 @@ My favorite path is Electives
 * git
 * jenkins
 * python
+* Killing history using git rebase
