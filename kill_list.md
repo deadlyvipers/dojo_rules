@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * No Tests
 * No reviews
+* Errors
