@@ -8,3 +8,4 @@ would be nice to have also Java (SE/EE) paths
 *HTML/CSS
 *Git
 *IntelliJ/Eclipse
+*Killing history using git rebase
