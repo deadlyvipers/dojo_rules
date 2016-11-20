@@ -7,3 +7,4 @@ My favorite Code School path is JavaScript, SQL sections
 ** Git
 ** Php
 ** Laravel
+** Bootstrap
