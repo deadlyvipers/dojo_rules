@@ -5,3 +5,4 @@ Deadly skills include:
 * JavaScript
 * HTML
 * CSS
+* Killing history using git rebase
