@@ -7,3 +7,4 @@ My favourite path is JavaScript
 deadly_skills:
 * Ruby
 * Angular
+* Killing history using git rebase
