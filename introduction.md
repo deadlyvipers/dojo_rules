@@ -1,2 +1,2 @@
 Hi, I'm new.
-My favorite Code School path is Git
+My favorite Code School path is HTML/CSS
