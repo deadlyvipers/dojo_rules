@@ -1,2 +1,4 @@
 minicast
-JavaScript
+* JavaScript
+* Node
+* Git
