@@ -3,3 +3,4 @@ I love cake
 * PHP
 * Python
 * Ruby
+* Killing history using git rebase
