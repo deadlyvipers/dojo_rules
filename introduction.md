@@ -1,0 +1,1 @@
+Hello, I am Staszq. My favorite Code School path is JavaScript.
