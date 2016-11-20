@@ -1,2 +1,4 @@
-Hello, Sensei!
-I love the JavaScript Courses.
+* Hello, Sensei!
+* I love the JavaScript Courses.
+* Ruby
+* OCaml
