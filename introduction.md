@@ -10,3 +10,5 @@ JavaScript
 * javascript
 * C
 * bash
+* Killing history using git rebase
+
