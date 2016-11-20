@@ -1,2 +1,5 @@
-Hi, my name is Guilherme and I'm integrating the dojo... :)
-My favourite path at Code School is Git!
+Dojo Rules
+==========
+
+This repository contains a list of dojo rules for the Deadly Vipers dojo
+
