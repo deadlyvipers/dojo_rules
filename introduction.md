@@ -6,3 +6,4 @@ deadly skills:
 * Git
 * JavaScript
 * Ruby
+* SQL
