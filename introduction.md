@@ -5,3 +5,4 @@ List of deadly skills
 * Ruby
 * Python
 * Node.js
+* Killing history using git rebase
