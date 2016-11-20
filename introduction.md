@@ -5,3 +5,4 @@ My deadly skills
 * watching movies all day
 * trolling like hell in LOL
 * learning stuff like this when mood kicks in
+* Killing history using git rebase
