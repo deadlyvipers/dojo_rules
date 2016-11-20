@@ -3,6 +3,7 @@ My Current Fav. Path is JavaScript!
 My Deadly Skills include: 
 * Git, 
 * GitHub, 
+* Killing history using git rebase,
 * Angular2, 
 * React, 
 * JavaScript, 
