@@ -1,3 +1,5 @@
-hey ho
-Ruby
-Rebase
+* Ruby
+* Git
+* JavaScript
+* Python
+* Rebase
