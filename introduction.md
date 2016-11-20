@@ -1,6 +1,6 @@
 Hello
 
-my favorite code school path is Electives.
+my favorite code school path is Electives. (specifically git)
 
 * git
 * go
