@@ -1,1 +1,1 @@
-Hi there - I'm Nite
+Hi there - I'm Nite - Currently working on the JavaScript path on this free weekend!
