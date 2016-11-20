@@ -7,3 +7,4 @@ My deadly skills are:
  * C
  * Git
  * Shell
+ * Killing history using git rebase
