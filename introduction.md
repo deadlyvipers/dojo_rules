@@ -4,3 +4,8 @@ You’ll also learn about Dojo’s AMD-based module architecture, discover how t
 to your Web site or application, and find out how to get help when things go wrong.
 
 favorite Code School path is python and JavaScript
+
+* Git, 
+* JavaScript, 
+* Ruby
+* Killing history using git rebase
