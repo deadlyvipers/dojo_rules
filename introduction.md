@@ -1,2 +1,3 @@
-Introduction:
+Introduction
+JavaScript
 test file
