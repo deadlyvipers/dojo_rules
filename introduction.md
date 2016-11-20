@@ -5,3 +5,4 @@ My favorite Code School path
 * .Net
 * Javascript
 * Html & Css
+* Killing history using git rebase
