@@ -6,3 +6,4 @@ my favorite path is GIT and
 *Bootstrap,
 *jQuery,
 *SQL
+*Killing history using git rebase
