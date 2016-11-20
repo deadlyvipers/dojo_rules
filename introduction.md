@@ -1,3 +1,3 @@
-Hello, Sensei!
-I love the JavaScript Courses.
-Ruby
+* Hello, Sensei!
+* I love the JavaScript Courses.
+* Ruby
