@@ -1,2 +1,2 @@
 * Intoduction
-* git
+* JavaScript
