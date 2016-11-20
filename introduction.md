@@ -1,2 +1,3 @@
-hey ho
-Ruby
+* Ruby
+* Git
+* JavaScript
