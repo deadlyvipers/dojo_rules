@@ -1,1 +1,2 @@
 Daniel
+JavaScript
