@@ -3,6 +3,7 @@ Greetings! I am ksed. My favorite Code School path is full-stack web development
 A few of my deadly skills include:
 *Git
 *GitHub
+*Killing history using git rebase
 *JavaScript
 *html5, css
 *MEAN-stack development
