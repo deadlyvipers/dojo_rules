@@ -2,3 +2,4 @@ Hello fellow dojo people, my name is Pei Pengjun, you call call me PJ, very happ
 My favorite CodeSchool path is Ruby. 
 * Git 
 * Ruby 
+* Killing history using git rebase 
