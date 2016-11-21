@@ -1,0 +1,1 @@
+konichiwa yoroshiku onegaishimasu!
