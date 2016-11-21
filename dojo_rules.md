@@ -8,5 +8,5 @@ Dojo Rules
 * Most Sensei's should be respected
 * no coffee in the dojo
 
-All members should read the rules.
-https://github.com/deadlyvipers
+All members should read the rules  
+Ref: [Deadly Vipers](https://github.com/deadlyvipers)
