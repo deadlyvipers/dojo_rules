@@ -13,3 +13,4 @@ Deadly Skills
 * SQL 
 * HTML/CSS 
 * Eating 
+* Killing history using git rebase 
