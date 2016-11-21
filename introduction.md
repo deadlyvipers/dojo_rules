@@ -7,3 +7,4 @@ My Skills are:
 * C#
 * HTML/CSS
 * Python
+* Killing history using git rebase
