@@ -5,3 +5,4 @@ a bit of html and css for me, thanks!
 *html
 *css
 *js
+=doing some git learing too!
