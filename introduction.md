@@ -1,1 +1,5 @@
-JavaScript
+*JavaScript
+*Git
+*Ruby
+*Go
+*Angular
