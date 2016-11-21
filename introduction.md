@@ -1,2 +1,3 @@
-Daniel
-JavaScript
+* Daniel
+* JavaScript
+* GIT
