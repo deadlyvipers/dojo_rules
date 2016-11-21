@@ -7,3 +7,4 @@ Kill List
 *Bad variable names
 *Missing comments
 *Murder
+*Death
