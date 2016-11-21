@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * I haven't understood the task
+* Twice
