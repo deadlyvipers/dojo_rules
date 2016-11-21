@@ -7,3 +7,6 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * no coffee in the dojo
+
+All members should read the rules.
+https://github.com/deadlyvipers
