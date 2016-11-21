@@ -1,2 +1,2 @@
 #Intro
-favorite path: Python
+favorite path: Electives
