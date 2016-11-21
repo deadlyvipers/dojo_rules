@@ -1,4 +1,6 @@
 #Introduction
 
 My Introduction
-JavaScript
+* Git
+* JavaScript
+* Python
