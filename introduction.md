@@ -2,3 +2,4 @@
 *SASS
 *JavaScript
 *.NET
+*Killing history using git rebase
