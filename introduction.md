@@ -1,2 +1,2 @@
 Hello Dojo, my name is Teagan!
-My favorite path is Git, of course
+My new favorite path is JavaScript, I suppose.
