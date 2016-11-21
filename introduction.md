@@ -8,3 +8,4 @@ Deadly skills:
 *JavaScript
 *PHP
 *MySQL
+*Killing history using git rebase
