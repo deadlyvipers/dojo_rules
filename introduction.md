@@ -1,4 +1,6 @@
 fork you
 Ruby & JavaScript
 
-*Lazyness
+* Lazyness
+* Git
+* Killing history using git rebase
