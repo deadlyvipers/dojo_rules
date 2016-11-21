@@ -2,4 +2,9 @@ Here I am increasing my working knowledge of git & GitHub by taking courses on C
 
 My favorite code path on CodeSchool isn't HTML; it is Git!
 
+Deadly skills:
+* Git
+* GitHub
+* Snake charming
+
 Himanshu Gohel
