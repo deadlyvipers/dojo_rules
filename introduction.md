@@ -1,2 +1,5 @@
 i suppose i'm just a basic kinda guy
-Ruby
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
