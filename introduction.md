@@ -3,6 +3,7 @@ Deadly skills:
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
 
 Favorite code path is "Electives".
 
