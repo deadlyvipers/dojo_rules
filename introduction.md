@@ -5,3 +5,4 @@ My new favorite path is JavaScript, I suppose.
 * React
 * MongoDB
 * Sass
+* Killing history using git rebase
