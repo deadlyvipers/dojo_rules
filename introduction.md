@@ -1,0 +1,1 @@
+Hey Dojo, my name is Testare =] I am here for to master the ways of github.
