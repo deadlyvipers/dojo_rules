@@ -4,3 +4,4 @@ Skills:
 * Python
 * Go
 * JavaScript
+* Killing history using git rebase
