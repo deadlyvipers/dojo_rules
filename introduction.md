@@ -1,2 +1,2 @@
-#Hi, Sensei
-#My favorite path is database.
+Hi, Sensei
+My favorite path is Electives.
