@@ -6,5 +6,6 @@ Deadly skills:
 * Git
 * GitHub
 * Snake charming
+* Killing history using git rebase
 
 Himanshu Gohel
