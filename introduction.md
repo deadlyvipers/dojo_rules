@@ -7,7 +7,7 @@ Favourite path is HTML & CSS
 
 # Deadly skills
 
-Reading
-Sleeping
-Dreaming
+* Reading
+* Sleeping
+* Dreaming
 
