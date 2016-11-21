@@ -12,5 +12,7 @@ My Deadly Skills
 * OWL
 * R
 * SPARQL
+* Killing history using git rebase
+
 
 
