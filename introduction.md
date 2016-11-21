@@ -1,1 +1,1 @@
-Hi, my name is jim
+Hi, my name is jim and I'm all about electives.
