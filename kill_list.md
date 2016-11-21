@@ -7,4 +7,3 @@ Kill List
 * Bad variable names
 * Use of GoTo
 * Kill
-* Me
