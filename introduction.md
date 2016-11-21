@@ -6,3 +6,4 @@ I has mad skliz
 * PHP
 * Javascript
 * Bash
+* Killing history using git rebase
