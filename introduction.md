@@ -1,3 +1,3 @@
 hi
 its me
-I like the design course and go
+I like the Electives path like design course and go
