@@ -7,3 +7,4 @@ My favorite Code School path is Ruby.
 * Ruby
 * Docker
 * Bootstrap
+* Killing history using git rebase
