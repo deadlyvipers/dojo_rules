@@ -1,3 +1,0 @@
-Fire
-Clone
-Wind
