@@ -1,1 +1,1 @@
-Code School rocks! My favorite Code School path is Git, of course :)
+Code School rocks! My favorite Code School path is Ruby.
