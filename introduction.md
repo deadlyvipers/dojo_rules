@@ -11,4 +11,5 @@ Deadly Skill
 ==========
 * Git
 * Javascript
+* Killing history using git rebase
 
