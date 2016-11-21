@@ -6,3 +6,4 @@ My deadly skills include
 *Git
 *JavaScript to some extent
 *French.
+*Killing history using git rebase
