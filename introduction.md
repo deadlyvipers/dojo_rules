@@ -1,1 +1,1 @@
-introduction
+Favorite paths: GIT, JavaScript, iOS
