@@ -10,3 +10,4 @@ Deadly Skills:
 * Some Ruby, 
 * Some Haskell, 
 * but still need references cause I'm a noob
+* Killing history using git rebase
