@@ -2,4 +2,4 @@ Introduction
 =================
 May I introduce myself, the deadliest viper in the
 North West, Hepplehagg. My favourite Code School 
-path is Git, of course.
+path is Electives, of course.
