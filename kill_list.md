@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Bloated software
+* Boogz
+* Hidden boogz
