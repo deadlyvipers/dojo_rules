@@ -1,2 +1,4 @@
-Hello!
-I liked HTML & CSS, but looking forward to Electives.
+*HTML5
+*SASS
+*JavaScript
+*.NET
