@@ -9,3 +9,4 @@ Deadly Skills
 * Java
 * Ruby
 * Groovy
+* Killing history using git rebase
