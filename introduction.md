@@ -1,1 +1,1 @@
-# Hello http://campus.codeschool.com/courses/breaking-the-ice-with-regular-expressions
+# Hello  My favorite Code School path is full-stack web development in JavaScript.
