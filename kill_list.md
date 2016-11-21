@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Bloated software
 * Boogz
+* Hidden boogz
