@@ -1,1 +1,2 @@
-hello i am chris
+Hello i am chris.
+My favorite path is the Ruby path.
