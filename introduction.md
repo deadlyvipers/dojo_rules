@@ -9,3 +9,10 @@ Git
 // Supposedly PHP, but it's not available yet
 // Javascript seems good too
 // Also looking forward to take Ruby
+
+Deadly skills:
+* PHP
+* Javascript
+* CSS
+* HTML
+* Shell scripting
