@@ -8,4 +8,5 @@ My Deadly Skills:
 * Git
 * Swift
 * Javascript
+* Killing history using git rebase
 
