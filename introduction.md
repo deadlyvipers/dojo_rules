@@ -8,4 +8,6 @@ My skills:
 * Java
 * Android
 * JavaScript
+* Killing history using git rebase
 * ...
+
