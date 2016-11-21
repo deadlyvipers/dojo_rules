@@ -2,3 +2,6 @@ Hello! My name is Gaby. I am doing this Github Tutorial where I have to give an 
 
 I like puppies, food, and puppies and more food weeee 
 
+
+My favorite "path" is Ruby or Javascript. 
+
