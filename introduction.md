@@ -10,4 +10,4 @@ Favourite path is HTML & CSS
 * Reading
 * Sleeping
 * Dreaming
-
+* Killing history using git rebase
