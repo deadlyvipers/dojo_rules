@@ -1,1 +1,1 @@
-I am a test user.
+I am a test user taking the Git class.
