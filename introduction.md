@@ -12,5 +12,5 @@ Deadly Skills
 *css
 *angular
 *mysql
-
+*Killing history using git rebase
 
