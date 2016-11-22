@@ -7,3 +7,4 @@ and Ruby, yes
 * git
 * linux
 * python
+* Killing history using git rebase
