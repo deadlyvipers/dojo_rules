@@ -4,4 +4,4 @@ I like the CSS/HTML path
 *Git
 *Javascript
 
-Killing history using git rebase
+Killing history using git rebase.
