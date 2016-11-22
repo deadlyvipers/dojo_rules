@@ -1,1 +1,1 @@
-Hi. I'm wconyers. My favorite Code School path is Git. Changes are fun.
+Hi. I'm wconyers. My other favorite Code School path is HTML & CSS.
