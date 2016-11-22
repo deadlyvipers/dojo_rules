@@ -7,11 +7,10 @@ My favorite "path" is Ruby or Javascript.
 
 Deadly Skills
 
-Ruby
-Git
-JavaScript
-Ruby on Rails
-SQL
-HTML/CSS
-Eating
+*php
+*html
+*css
+*angular
+*mysql
+
 
