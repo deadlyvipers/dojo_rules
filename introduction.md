@@ -3,4 +3,5 @@ Prefered path is Git
 HTML & CSS
 * git
 * css
-*javascript
+* javascript
+* Killing history using git rebase
