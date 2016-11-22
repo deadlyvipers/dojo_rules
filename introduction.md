@@ -10,3 +10,6 @@ My deadly skills could be:
 * JavaScript
 * Java
 * Scala
+
+And
+* Killing history using git rebase
