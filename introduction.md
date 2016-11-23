@@ -6,3 +6,4 @@ Deadly skills
 * Javascript
 * Node.js
 * Docker
+* Killing history using git rebase
