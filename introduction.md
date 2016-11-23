@@ -8,3 +8,4 @@ I have some skills:
 * React
 * Ruby
 * Python
+* Killing history using git rebase
