@@ -4,3 +4,4 @@ why hello there, i like JavaScript
 * HTML
 * CSS
 * SQL
+* Killing history using git rebase
