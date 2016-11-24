@@ -4,4 +4,4 @@
 * PHP
 * Angular
 * MySQL
-* React
+* Killing history using git rebase
