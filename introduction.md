@@ -1,0 +1,5 @@
+"Kaas Duck - Prototype Master" 
+" " 
+"Born in Indonesia" 
+"Grew up in Holland" 
+"Living in Canada" 
