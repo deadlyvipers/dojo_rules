@@ -1,0 +1,1 @@
+I'm a junior developer for the whole life.
