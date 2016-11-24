@@ -4,6 +4,5 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
-* PHP
 * HTML
  
