@@ -7,3 +7,4 @@ Deadly skills:
 * List
 * O
 * Stuff
+* Killing history using git rebase
