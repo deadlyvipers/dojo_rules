@@ -1,1 +1,3 @@
 Hello.
+
+Favorite course: the Javascript track's second jQuery course.
