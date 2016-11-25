@@ -13,3 +13,5 @@ Generous and useful advice: Don't mess with a Sensei, you will be shamed like Ce
 *HTML/CSS
 
 *Javascript
+
+*Killing history using git rebase
