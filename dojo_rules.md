@@ -4,3 +4,4 @@ Dojo Rules
 * Always take off your shoes
 * Keep the dojo tidy
 * New rules mamriarti
+@jjjjklll jol'i;i
