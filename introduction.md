@@ -8,8 +8,8 @@ Sometimes I use my sharp blade to slash my code sometimes I use my skills to ave
 
 Generous and useful advice: Don't mess with a Sensei, you will be shamed like Cersei.
 
-GIT
+*GIT
 
-HTML/CSS
+*HTML/CSS
 
-Javascript
+*Javascript
