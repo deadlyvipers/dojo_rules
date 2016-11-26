@@ -13,6 +13,7 @@ Path: JavaScript
 * Python
 * Django
 * Tacos
+* Killing history using git rebase
 
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut nisl ante. Fusce porttitor luctus volutpat. Nulla luctus justo metus, eget tempor magna viverra id. Maecenas finibus sem et finibus elementum. Donec pretium varius elit, ut posuere velit auctor ut. Proin maximus, massa a sagittis feugiat, tellus ex aliquet ligula, vel interdum diam diam non felis. Duis scelerisque mauris sed ante lobortis semper. Pellentesque in suscipit tortor, in rhoncus lectus.
