@@ -4,3 +4,4 @@ deadly skills:
 ==============
 * Git
 * R
+* Killing history using git rebase
