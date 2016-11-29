@@ -1,3 +1,3 @@
 Well hello there I am Nick!
 
-Git is my favorite path
+Ruby is my favorite path
