@@ -5,3 +5,4 @@ I like JavaScript path.
 * .Net
 * NodeJS
 * Demandware
+* Killing history using git rebase
