@@ -4,4 +4,6 @@ Kill List
 * Functions with side effects
 * unformatted code
 * Repeated code blocks
-* Bad variable names
+* Bad variable namelist
+* Happy Ending
+* Horror English
