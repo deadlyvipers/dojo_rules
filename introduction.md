@@ -1,3 +1,8 @@
 Well hello there I am Nick!
 
-Ruby is my favorite path
+Ruby is my favorite pathi
+
+Deadly skills:
+*Ruby
+*Java
+*Git
