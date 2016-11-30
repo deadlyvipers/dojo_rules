@@ -7,3 +7,4 @@ Introduction To Repo
 *Git.
 *JavaScript.
 *Ruby.
+*Killing history using git rebase.
