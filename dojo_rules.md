@@ -5,3 +5,4 @@ Dojo Rules
 * Keep the dojo tidy
 * New rules mamriarti
 * New rules mamriarti
+*Most Sensei's should be respected
