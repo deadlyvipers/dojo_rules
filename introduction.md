@@ -4,4 +4,4 @@ My Deadly Skills are
 *Java
 *Android
 *GIT
-*Added deadly skill
+*Killing history using git rebase
