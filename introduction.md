@@ -1,3 +1,4 @@
 An intro
-JavaScript
+*JavaScript
+*Git
 misread
