@@ -7,3 +7,5 @@ Kill List
 * Bad variable names
 * No tests
 * Bad tests
+* Cmon
+
