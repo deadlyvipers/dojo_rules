@@ -7,3 +7,4 @@ My favorite codeschool path so far is Ruby
 *Git
 *SQL
 *Nginx
+*Killing history using git rebase
