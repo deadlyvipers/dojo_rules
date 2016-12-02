@@ -6,3 +6,4 @@ Dojo Rules
 * New rules mamriarti
 * New rules mamriarti
 *Most Sensei's should be respected
+*ggu uouo uo u ppppp pppp
