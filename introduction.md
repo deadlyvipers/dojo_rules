@@ -1,2 +1,6 @@
 My name is Michael Tutt
-JavaScript
+Deadly Skills:
+*JavaScript
+*Git
+*HTML/CSS
+*Killing history using git rebase
