@@ -5,5 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+<<<<<<< HEAD
 * Programmer grevience
 * this is insane
+=======
+>>>>>>> master
