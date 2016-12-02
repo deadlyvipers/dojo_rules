@@ -1,2 +1,2 @@
 Hi I'm Immanuel Bayu
-Sorry for pull request.
+My Favorite code school path is iOS
