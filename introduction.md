@@ -3,5 +3,4 @@ My Favorite code school path is iOS
 *Git
 *Ruby
 *JavaScript
-*lol
-test
+*Killing history using git rebase
