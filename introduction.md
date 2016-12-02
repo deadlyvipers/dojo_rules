@@ -1,2 +1,7 @@
 Hi, I am Alberto from Spain. ;)
 My favourite path is Javascript. 
+Deadly skills: 
+* Javascript
+* Git
+* Php
+* Killing history using git rebase
