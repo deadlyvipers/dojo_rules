@@ -12,4 +12,4 @@ My favorite courses are:
 
 Deadly Skills
 ==========
-Killing history using git release
+Killing history using git rebase
