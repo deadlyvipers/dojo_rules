@@ -1,2 +1,6 @@
 ## test file for learnning
-i love javascript
+* javascript
+* git 
+* htm
+
+### Pull Request Collaboration 
