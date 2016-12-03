@@ -1,2 +1,2 @@
 my name is SuperQ8
-my favorate path is AngularJS
+my favorite Code School path is JavaScript.
