@@ -1,0 +1,4 @@
+* git
+* bash
+* python
+* rebase
