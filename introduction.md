@@ -5,3 +5,4 @@ cenas Ruby
 
   * python
   * golang
+  * Killing history using git rebase
