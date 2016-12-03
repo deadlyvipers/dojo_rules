@@ -1,2 +1,4 @@
 ## test file for learnning
-i love javascript
+* javascript
+* git 
+* html
