@@ -8,4 +8,8 @@ My favorite courses are:
 *Git
 *Javascript
 *Ruby
-*.NET
+*.Net
+
+Deadly Skills
+==========
+Killing history using git release
