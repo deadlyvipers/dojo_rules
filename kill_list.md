@@ -8,4 +8,4 @@ Kill List
 
 # programmer grievance
   * Stupidity
-  *
+  * 1
