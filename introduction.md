@@ -1,5 +1,6 @@
-user: john liu
-Introduction: 
-I am a qa engineer.
+this is a instruction
 
-My favorite code school path is Ruby, JavaScript, HTML & CSS, iOS or Electives.
+my dealy_skill include 
+*git
+*javascript
+*ruby.
