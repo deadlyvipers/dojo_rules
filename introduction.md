@@ -6,3 +6,4 @@ My deadly skills:
 * JavaScritpt
 * AngularJS
 * CSS
+* Killing history using git rebase
