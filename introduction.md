@@ -1,13 +1,9 @@
+I love Ruby
+
+* Ruby
+* JavaScript
 * rebase
-* git
-* ruby
-* Linux
-* Cisco
-* Twitter
-* Twitter
-* Twitter
-* Twitter
-* Twitter
-* Twitter
-* Twitter
-* Twitter
+* Git
+* Killing history using git rebase
+
+
