@@ -1,3 +1,8 @@
-"My Name is Hayal Nur"
+My Name is hayal nurcipta
 
-My favorite school is JavaScript 
+My deadly skill
+* JavaScript
+* Git
+* Nodejs
+* Killing history using git rebase
+* Remove databases
