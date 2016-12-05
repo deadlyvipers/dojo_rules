@@ -5,4 +5,4 @@ My deadly skill
 * Git
 * Nodejs
 * Killing history using git rebase
-
+* Remove databases
