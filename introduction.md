@@ -1,6 +1,7 @@
 I love Ruby
 
 * Ruby
+* Ruby on Rails
 * JavaScript
 * rebase
 * Git
