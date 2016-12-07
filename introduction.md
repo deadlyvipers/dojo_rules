@@ -1,3 +1,6 @@
 This is an introduction. It is marvelous.
 
-I love Python, but hate JavaScript.
+* Git
+* Python
+* Magic
+* Killing history using git rebase
