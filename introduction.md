@@ -7,4 +7,5 @@ Deadly skills:
 * NodeJS
 * Ruby
 * AngularJS
+* Killing history using git rebase
 
