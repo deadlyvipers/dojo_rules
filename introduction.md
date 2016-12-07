@@ -1,3 +1,2 @@
 Hello world!
-
-Python
+Javascript, Python
