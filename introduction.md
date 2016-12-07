@@ -1,1 +1,1 @@
-This is my introduction file≈
+This is my introduction file
