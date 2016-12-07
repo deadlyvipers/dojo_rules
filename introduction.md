@@ -16,4 +16,4 @@ Skillz
 * NodeJS
 * AngularJS
 * ReactJS
-
+* Killing history using git rebase
