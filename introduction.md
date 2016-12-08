@@ -4,3 +4,4 @@ Hello, This is My Introduction
 * Github
 * Git
 * HTML5
+* Killing history using git rebase
