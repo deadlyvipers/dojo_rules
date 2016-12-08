@@ -1,3 +1,4 @@
 ## This is my introduction
 
-####  list
+* git
+* Ruby
