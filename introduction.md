@@ -5,3 +5,4 @@ Hello, my name is Miguel
 *sql
 *python
 *javascript
+*Killing history using git rebase
