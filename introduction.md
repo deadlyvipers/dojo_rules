@@ -10,3 +10,4 @@ My deadly skills list:
 * Javascript
 * HTML
 * CSS
+* Killing history using git rebase
