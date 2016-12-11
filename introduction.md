@@ -1,3 +1,3 @@
 Introduciton MD
 
-Favorite path Git!
+Favorite path Git! Yes, Git.
