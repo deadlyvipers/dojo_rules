@@ -1,2 +1,1 @@
-name: Yuriy
-age 28
+Jasavscript
