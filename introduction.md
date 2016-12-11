@@ -7,4 +7,4 @@ My deadly skills are:
 * crossing road at the red light
 * command line Git
 * mawashi geri
-
+* Killing history using git rebase
