@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Spaces instead of fucking tags
+* Spaces instead of some fucking tags
