@@ -4,3 +4,5 @@ My favorite Code School path is one of Ruby, JavaScript, HTML & CSS, iOS or Elec
 *Git, 
 *JavaScript, 
 *Ruby
+
+Killing history using git rebase
