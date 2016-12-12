@@ -1,1 +1,4 @@
 Javascript
+* Git
+* JavaScript
+* Ruby
