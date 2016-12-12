@@ -1,6 +1,6 @@
-Kill_List
-=============
-* O-Ren
+* O-Ren Ishii
 * Vernita Green
 * Elle Driver
-* Bill
+* BILL
+* ruby
+
