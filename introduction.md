@@ -8,5 +8,4 @@ Ruby
 * Git
 * JavaScript
 * Ruby
-
-Bla
+* Killing history using git rebase
