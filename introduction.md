@@ -7,3 +7,4 @@ Favorite path Git! Favorite path until Mastering GitHub froze at Task 2/2 Level 
 List of deadly skills:
 *Git
 *Java
+*Killing history using git rebase
