@@ -5,3 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Não fale mal da Bahia
+* Não quero saber de nada
+* É isso
+
+OK'
