@@ -1,1 +1,1 @@
-Hi, Im Rebeca
+Hi, Im Rebeca and I love codeschool JavaScript path!
