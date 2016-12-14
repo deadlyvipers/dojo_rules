@@ -1,1 +1,1 @@
-Hello I am Artur Vieira.
+Hello I am Artur Vieira and my favorite Code School path is JavaScript.
