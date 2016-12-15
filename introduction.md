@@ -8,5 +8,6 @@ My skills are:
 * Git
 * Node.js
 * React Native
+* Killing history using git rebase
 
 and others I'd rather keep a secret
