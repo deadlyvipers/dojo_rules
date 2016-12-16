@@ -2,6 +2,7 @@
 
 My Favorite Code School path are Ruby
 
-* Git
+* git
+* ruby
 
 Bye
