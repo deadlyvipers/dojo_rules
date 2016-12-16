@@ -6,3 +6,4 @@ Skills:
 * Java
 * Ruby
 * Python
+* Killing history using git rebase
