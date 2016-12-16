@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* This code school course has borken quizes
+* this lesson is also broken :((((
