@@ -1,5 +1,7 @@
 # Hello World
 
-This is a introduction file.
+My Favorite Code School path are Ruby
+
+
 
 Bye
