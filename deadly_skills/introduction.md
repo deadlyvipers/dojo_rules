@@ -1,0 +1,3 @@
+introductie voor codeschool
+
+JavaScript
