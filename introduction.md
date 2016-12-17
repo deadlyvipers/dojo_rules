@@ -5,3 +5,4 @@ iOS
 * JavaScript
 * Python
 * Git
+* Killing history using git rebase
