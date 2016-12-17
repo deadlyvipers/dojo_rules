@@ -8,3 +8,4 @@ Deadly Skills:
 *Git/Github
 *MongoDB
 *PUG/SASS
+*Killing history using git rebase
