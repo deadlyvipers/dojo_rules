@@ -1,3 +1,3 @@
 Hello!
 
-Python rocks!
+Ruby rocks!
