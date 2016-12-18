@@ -1,1 +1,1 @@
-Hello, I'm Oleg
+Hello, I'm Oleg. My favourite path is JavaScript
