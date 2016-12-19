@@ -6,3 +6,4 @@ Deadly Skills
 * Git
 * Ruby
 * Ninjutsu
+* Killing history using git rebase
