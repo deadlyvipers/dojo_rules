@@ -1,3 +1,4 @@
 Introduction Test
 
-Electives
+* Git
+* Python
