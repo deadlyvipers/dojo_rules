@@ -6,3 +6,4 @@ My Favoroite CodeSchool Path is the electives of course!
 * SQL
 * mongoDB etc
 * Killing history using git rebase
+* Fixing issues from a commit!
