@@ -1,1 +1,1 @@
-Hello All
+Hello All I likez da JavaScript!
