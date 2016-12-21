@@ -1,1 +1,2 @@
 introductie voor codeschool
+JavaScript
