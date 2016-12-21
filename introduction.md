@@ -1,2 +1,2 @@
 *dkcndvndvlnlsbvcbdbdfgfgnd
-*css
+*css html
