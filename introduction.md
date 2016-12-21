@@ -1,3 +1,2 @@
 *dkcndvndvlnlsbvcbdbdfgfgnd
-*kccbuwbw
-*cnkjenklncn
+*css
