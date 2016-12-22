@@ -1,2 +1,2 @@
-Name:	Paul Zander
-Favorite code school path is GIT
+My name is Paul Zander
+My favorite code school path is iOS
