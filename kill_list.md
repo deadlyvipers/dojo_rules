@@ -6,4 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * non use of named constants
-* keep it simple stupid 
+* keep it simple stupid
+* obfuscated code 
