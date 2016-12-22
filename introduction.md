@@ -1,2 +1,2 @@
 Name:	Paul Zander
-Favorite code school path: GIT
+Favorite code school path is GIT
