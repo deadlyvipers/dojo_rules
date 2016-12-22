@@ -5,3 +5,4 @@ My deadly skills
 *C++
 *Python
 *Typescript/Javascript
+*Killing git history using rebase
