@@ -1,1 +1,1 @@
-this is an introduction for the Mastering github course
+My name is Mike and this is my introduction.
