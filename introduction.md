@@ -1,1 +1,5 @@
-Hello world! JavaScript
+* C#
+* .NET
+* JavaScript
+* Git
+* Killing history using git rebase
