@@ -7,3 +7,4 @@ Here are my deadliest skills:
 * Rails
 * Ruby
 * Bootstrap
+* Killing history using git rebase
