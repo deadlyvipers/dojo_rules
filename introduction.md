@@ -10,3 +10,4 @@ My deadly skill are:
 * MySQL
 * Scrum
 * JavaScript
+* Killing history using git rebase
