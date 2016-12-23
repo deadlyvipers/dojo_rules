@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Large and recursive cicles with variables
+* Large and recursive cicles with variables blah blah blah
