@@ -9,3 +9,4 @@ My deadly skill are:
 * Git
 * MySQL
 * Scrum
+* JavaScript
