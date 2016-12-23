@@ -1,2 +1,7 @@
-Hi my name is Daniel, now I start working on the mastering github.
-My favorite path is JavaScript
+Kill List
+
+==================
+* java
+* Git
+* Ruby
+* Killing history using git rebase
