@@ -4,3 +4,4 @@
 *Javascript
 *SQL
 *Elixir
+*Killing history using git rebase
