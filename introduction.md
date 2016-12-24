@@ -1,2 +1,2 @@
 **Hello world!**
- My favourite path is the **SQL** one
+ My favourite path is the Ruby one
