@@ -1,1 +1,1 @@
-* Ninja stealh
+* Ninja ultrastealh
