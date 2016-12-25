@@ -5,3 +5,4 @@ Favorite Code School Paths:
 * Javascript
 * HTML&CSS
 * iOS
+* Killing history using git rebase
