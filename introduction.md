@@ -3,4 +3,4 @@ I have some deadly skills also like
 * HTML5
 * CSS3
 * Jquery
-* Angular js
+* rebase
