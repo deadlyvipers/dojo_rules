@@ -1,2 +1,2 @@
 wazzup guys!
-Python
+Ruby
