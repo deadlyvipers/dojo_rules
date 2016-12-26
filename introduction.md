@@ -1,3 +1,4 @@
+
 # Christopher and I am new to github
 #I am not going to lie, this stuff is confusing!
 
@@ -5,6 +6,8 @@
 *Javascript
 *HTML CSS
 *much more!
+
+Killing history using git rebase
 
 
 #HTML &  CSS
