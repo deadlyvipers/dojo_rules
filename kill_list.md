@@ -6,7 +6,6 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
-This should add some help to issues.
+This is actually on the feature branch.
 
-This is the end... forgot to use fixes #3
 
