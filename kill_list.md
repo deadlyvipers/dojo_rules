@@ -1,3 +1,4 @@
+
 Kill List
 =========
 * Unused code
@@ -5,3 +6,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+
+This should add some help to issues.
