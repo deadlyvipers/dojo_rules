@@ -5,3 +5,4 @@ Deadly Skills:
 *CSS
 *Ruby
 *Github
+*Killing history using git rebase
