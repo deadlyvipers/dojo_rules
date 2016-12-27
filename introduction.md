@@ -8,3 +8,4 @@ Favorite code school path: JavaScript.
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
