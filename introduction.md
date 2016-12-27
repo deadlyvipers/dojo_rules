@@ -1,1 +1,1 @@
-I am Nikesh Bhawsar an tech enthusiast.My favorite Code School path is JavaScript and iOS.
+I am Nikesh Bhawsar an tech enthusiast.My favorite Code School path is JavaScript and iOS.* Java* Git* Android* javascript* iOS
