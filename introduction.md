@@ -1,0 +1,1 @@
+Hi everyone, welcome to my custom dojo rules git repo !
