@@ -8,3 +8,4 @@ Skills
 * PHP
 * Javascript
 * Git
+* Killing history using git rebase
