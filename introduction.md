@@ -5,3 +5,4 @@ My deadly skills are as follows:
 *stalking
 *firearms
 *precision marksmanship
+*killing history using git rebase
