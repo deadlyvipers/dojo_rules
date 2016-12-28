@@ -1,1 +1,3 @@
-Hello! I am here to teach people about GitHub. My favourite path is electives.
+*super fast typing
+*super fast learning
+*turbo coding
