@@ -1,2 +1,2 @@
 Hello!
-My favorite path is the GIT path. ; )
+My favorite path is the HTML path. ; )
