@@ -1,3 +1,4 @@
-*super fast typing
-*super fast learning
-*turbo coding
+* super fast typing
+* super fast learning
+* turbo coding
+* rebase
