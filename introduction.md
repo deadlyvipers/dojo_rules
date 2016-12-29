@@ -1,1 +1,1 @@
-Hi, I'm Kelly. I live in Indiana.
+Hi, I'm Kelly. I live in Indiana. My favorite Code School path(s) are the Git paths... because those are the only ones I've done so far.
