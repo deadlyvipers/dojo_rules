@@ -1,4 +1,8 @@
 bla bla bla this shit doesnt work
 
 
-no.
+no.
+
+*pew pew lazers
+*too lazy for actuall stuff
+*Killing history using git rebase
