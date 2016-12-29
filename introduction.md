@@ -5,3 +5,4 @@ bla bla bla this shit doesnt work
 
 *pew pew lazers
 *too lazy for actuall stuff
+*Killing history using git rebase
