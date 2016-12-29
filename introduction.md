@@ -7,5 +7,6 @@ My deadly skills are:
 * CSS
 * Python
 * Django
+* Killing history using git rebase
 
 Best regards, Adam
