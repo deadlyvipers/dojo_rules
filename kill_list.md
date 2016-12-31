@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-Kill List:
-*O-Ren Ishii
-*Vernita Green
-*Elle Driver
-*Bill
-=======
+
 Kill List
 =========
 *Unused code
@@ -12,4 +6,4 @@ Kill List
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
->>>>>>> release_branch_1.0
+*unclear comments
