@@ -5,3 +5,4 @@ This is an introduction...
 ### Favorite Learning Path   
 ...is Git
 
+...and JavaScript
