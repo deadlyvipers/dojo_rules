@@ -1,2 +1,2 @@
 $ echo 'Hello! I am here to teach people about GitHub.' > introduction.md
-Javascipt
+$ echo 'Javascript' > introduction.md
