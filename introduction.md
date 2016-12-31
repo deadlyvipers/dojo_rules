@@ -1,1 +1,1 @@
-This is my introduction
+This is my introduction - Code School JavaScript is my favorite
