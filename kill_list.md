@@ -1,1 +1,8 @@
-Please let this work.
+Kill List
+
+* Unused Code 
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
+* Managers who speak English as second language
