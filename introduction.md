@@ -1,8 +1,4 @@
-* Git
-* Jascript
-* Ruby
-
-Skills:
+Skils:
 * Git
 * JavaScript
 * Ruby
