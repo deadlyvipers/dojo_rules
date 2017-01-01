@@ -1,1 +1,3 @@
-This is my introduction - Code School JavaScript is my favorite
+*Git
+*JavaScript
+*Killing history using git rebase
