@@ -9,3 +9,4 @@ My favorite codeschool path is Learning JavaScript
 * JavaScript
 * Python
 * C#
+* Killing history using git rebase
