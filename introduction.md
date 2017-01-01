@@ -3,5 +3,4 @@ Skills:
 * Git
 * JavaScript
 * Ruby
-
-i love codding
+* Rebase
