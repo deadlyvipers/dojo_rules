@@ -5,4 +5,5 @@ Dojo Rules
 * Keep the dojo tidy
 * Never bring live blades on the tatami
 * Respect your opponents:WQ
-* my favorit mention html 
+* https://www.codeschool.com/learn/html-css
+
