@@ -4,4 +4,4 @@ Skills:
 * JavaScript
 * Ruby
 
-i ly codding
+i love codding
