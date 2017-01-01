@@ -5,7 +5,4 @@ Dojo Rules
 * Keep the dojo tidy
 * Never bring live blades on the tatami
 * Respect your opponents:WQ
-* tolyaban is the best mana
-
-
-
+* html css java sctipt
