@@ -1,0 +1,4 @@
+Skils:
+* Git
+* JavaScript
+* Ruby
