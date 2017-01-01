@@ -1,5 +1,5 @@
 I love Ruby and JavaScript!
-Skils
+ Skils:
 * Git
 * JavaScript
 * Ruby
