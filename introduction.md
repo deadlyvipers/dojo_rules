@@ -1,4 +1,4 @@
-I love Ruby & JavaScript!
+I love Ruby && JavaScript!
 Skills:
 * Git
 * JavaScript
