@@ -1,2 +1,2 @@
 Hello, my name is DruidKuma
-My fav path is python
+My favorite Code School path is JavaScript
