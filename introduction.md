@@ -6,4 +6,5 @@ Ruby : https://www.codeschool.com/courses/ruby-bits
 *Git
 *JavaScript
 *Rub
+*Killing history using git rebase
 
