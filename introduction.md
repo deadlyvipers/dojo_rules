@@ -5,3 +5,4 @@ Ruby sucks eggs.
 *Emacs
 *C#
 *C++
+*Killing history using git rebase
