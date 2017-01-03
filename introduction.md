@@ -3,3 +3,4 @@ this is an introduction file. my favorite path:
 * Ruby
 * R
 * HTML
+* Killing history using git rebase
