@@ -1,1 +1,5 @@
-Ruby introduction foobarmaz
+introduction
+* Git
+* Javascript
+* Ruby
+* Killing history using git rebase
