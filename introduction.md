@@ -8,3 +8,4 @@ Deadly Skills:
 * CSS
 * Squashing commits
 * Javascript
+* Killing history using git rebase
