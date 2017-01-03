@@ -1,1 +1,4 @@
-Ruby introduction foobarmaz
+introduction
+* Git
+* Javascript
+* Ruby
