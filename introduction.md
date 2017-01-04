@@ -6,3 +6,4 @@ Deadly skills:
 * PowerShell
 * Sleeping
 * Eating bacon
+* Killing history using git rebase
