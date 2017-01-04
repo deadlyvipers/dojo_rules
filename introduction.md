@@ -1,3 +1,5 @@
 Vlade Kovačić
 
-Ruby
+*Git
+*JavaScript
+*Ruby
