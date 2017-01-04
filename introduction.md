@@ -1,3 +1,3 @@
-# Hello, all
+Ruby Hello, all
 
-I like codeschool's Jacascript path :D
+I like codeschool's Javascript path :D
