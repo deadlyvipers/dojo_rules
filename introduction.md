@@ -11,3 +11,4 @@ My favorite path on codeschool.com at the moment are HTML & CSS and Git. But I'm
 * CSS
 * JavaScript
 * Git
+* Killing history using git rebase
