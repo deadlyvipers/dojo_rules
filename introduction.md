@@ -4,3 +4,4 @@ Vlade Kovačić
 *JavaScript
 *Ruby
 *ASP
+*Killing history using git rebase
