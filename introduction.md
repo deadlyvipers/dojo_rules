@@ -10,3 +10,4 @@ What even bro
 * PHP
 * Python
 * Java
+* Killing history using git rebase
