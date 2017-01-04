@@ -9,3 +9,4 @@ My favorite CodeSchool path is JavaScript. Thanks for the great tutorials!
 * Ionic
 * Cordova
 * Github!
+* Killing history using git rebase
