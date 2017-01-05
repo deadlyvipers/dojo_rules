@@ -1,2 +1,2 @@
-intro to me
-Git is my favorite path
+intro to me;
+Git is my favorite path;
