@@ -11,5 +11,9 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
+<<<<<<< HEAD
 Hillga
+>>>>>>> release_branch_1.0
+=======
+* bad coding practices
 >>>>>>> release_branch_1.0
