@@ -5,4 +5,5 @@ Kill List
     Unformatted code
     Repeated code blocks
     Bad variable names
-I hate bad comments
+    I hate bad comments
+    I hate bad demo code
