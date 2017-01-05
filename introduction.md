@@ -1,2 +1,2 @@
 intro to me
-Git
+Git is my favorite path
