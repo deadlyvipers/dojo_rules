@@ -1,2 +1,3 @@
 Fav path: JavaScript
-Helloooooooo
+*Ruby
+*Git
