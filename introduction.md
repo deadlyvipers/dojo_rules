@@ -8,3 +8,4 @@ My deadly skills:
  * Oracle PL/SQL
  * python
  * perl
+ * Killing history using git rebase
