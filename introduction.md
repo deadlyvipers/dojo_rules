@@ -1,2 +1,3 @@
-Fav path: JavaScript
-Helloooooooo
+*Killing history using git rebase
+*Ruby
+*Git
