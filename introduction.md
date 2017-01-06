@@ -1,1 +1,1 @@
-Hi! My name is Sara Larsen. My favorite CodeSchool path is Github.
+Hi! My name is Sara Larsen. My favorite CodeSchool path is Git.
