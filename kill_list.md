@@ -5,4 +5,6 @@ Kill List
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
-*Add what motherfucker?
+*Huge blocks of code
+*Something really bad 
+
