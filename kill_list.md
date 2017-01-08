@@ -5,3 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Bad test cases
+* Messed up Git exercises
+* Some day this will work
+* Going crazy
+* Code School git programmers
