@@ -10,3 +10,4 @@ deadly viper skills:
 *node
 *express
 *mongodb
+*Killing history using git rebase
