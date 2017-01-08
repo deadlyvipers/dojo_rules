@@ -6,4 +6,5 @@ This is an awesome dojo.
 * HTML & CSS
 * Python
 * Ruby
-
+* Assembly
+* Killing history using git rebase
