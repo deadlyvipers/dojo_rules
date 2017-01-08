@@ -9,3 +9,4 @@ Kill List
 * Messed up Git exercises
 * Some day this will work
 * Going crazy
+* Code School git programmers
