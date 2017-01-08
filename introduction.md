@@ -7,3 +7,4 @@ My deadly skills:
 * Git
 * Scala
 * MongoDB
+* Killing history using git rebase
