@@ -5,4 +5,5 @@ This is an awesome dojo.
 
 * HTML & CSS
 * Python
+* Ruby
 
