@@ -7,4 +7,4 @@ This is an awesome dojo.
 * Python
 * Ruby
 * Assembly
-
+* Killing history using git rebase
