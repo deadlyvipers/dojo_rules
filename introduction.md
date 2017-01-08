@@ -6,3 +6,4 @@ Deadly skills:
 * Docker
 * AWS
 * ...
+* Killing history using git rebase
