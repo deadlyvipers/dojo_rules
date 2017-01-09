@@ -3,4 +3,4 @@ Favourite Code School path: JavaScript
 *GIT
 *JavaScript
 *Unity
-*Killing history using git rebase
+*Killing history using git rebase 
