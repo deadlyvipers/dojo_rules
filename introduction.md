@@ -2,3 +2,4 @@ Hello! I am here to teach people about GitHub.my favorite code school path is HT
 * CSS
 * HTML
 * Javascript
+* rebase
