@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Gunoi
-* Spaces in code
+* Spaces in codez
