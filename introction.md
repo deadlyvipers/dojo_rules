@@ -1,0 +1,1 @@
+insert thendata in fileSASSAAASDSDD
