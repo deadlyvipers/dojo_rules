@@ -4,3 +4,4 @@ My deadly skills:
 * Reading
 * Riting
 * Rithmatic
+* Killing history using git rebase
