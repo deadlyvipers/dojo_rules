@@ -1,15 +1,11 @@
-this file is about introduction of file
-Uhttps://github.com/priyankakhamga/dojo_rules.giipdated file
-jkdfjkdkjIddd priyanka
-dfgfdgdf
+Introduction
+=============
+Hey!Priyanka here.....!
+================
+Favourite codeschool path
+Ruby
+Python 
+Javascript
+HTML&CSS
+iOS
 
-sfsfsg
-
-sdsd:
-f
-sd
-gs
-s
-gs
-hejhjeriu
-jgjjfkfkk
