@@ -1,11 +1,11 @@
 this file is about introduction of file
-Updated file
-jkdfjkdkj
+Uhttps://github.com/priyankakhamga/dojo_rules.giipdated file
+jkdfjkdkjIddd priyanka
 dfgfdgdf
 
 sfsfsg
 
-sdsd
+sdsd:
 f
 sd
 gs
