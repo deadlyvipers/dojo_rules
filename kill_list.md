@@ -4,11 +4,15 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
-badrttyhh
-dsfsd pri
-void main()
-{int a;}
+*hahaha
+add(){int a ,b,c; c=0;c=a/b;}
+add(){}int a,b,c; c=0;c=a/b;}
+int awerttt;
+char mkkkd4;
 
-void main()
-{int a;}
-int a4u;
+
+
+
+
+
+
