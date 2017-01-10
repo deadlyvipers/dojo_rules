@@ -1,1 +1,3 @@
-This is an introductory file.
+This is an introduction.
+Favourite path: Ruby
+
