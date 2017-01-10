@@ -3,3 +3,4 @@ Hi everyone, welcome to my custom dojo rules git repo ! I am a JavaScript kind o
 * Pizzas
 * Regular expressions
 * PostgreSQL
+* Killing history using git rebase
