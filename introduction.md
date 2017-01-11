@@ -8,3 +8,4 @@ Dealdly Skill
 * CSS
 * jQuery
 * Git
+* Killing history using git rebase
