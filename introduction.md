@@ -4,3 +4,4 @@ deadly skills are awaiting you.
 *Git
 *C#
 *.NET
+*Killing history using git rebase
