@@ -1,5 +1,5 @@
-*Git
-*JavaScript
-*Ruby
-*killing history
+* Git
+* JavaScript
+* Ruby
+* killing history
 
