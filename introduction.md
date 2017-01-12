@@ -3,3 +3,6 @@ This could be iOS
 *Git
 *Java
 *jj
+
+*Killing history using git rebase
+
