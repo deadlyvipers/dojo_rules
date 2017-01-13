@@ -2,4 +2,7 @@ hello.
 ugh.
 why?
 
-Javascript
+*Javascript
+*Git
+*NodeJS
+*HTML5
