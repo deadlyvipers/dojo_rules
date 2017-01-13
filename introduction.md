@@ -7,3 +7,9 @@ list of deadly skills:
 *GIT
 *JavaScript
 *Ruby
+
+list of killing  history:
+
+*kurva
+*kokot
+*pica
