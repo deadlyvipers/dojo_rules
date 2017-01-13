@@ -1,3 +1,3 @@
 Hi, I am Brent.
 
-I am learning GitHub :)
+I am learning GitHub, and love the Electives path :)
