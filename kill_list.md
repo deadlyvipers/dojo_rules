@@ -6,4 +6,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* New stuff
+* And agin new stuff
+
 
