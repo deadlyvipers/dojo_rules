@@ -5,3 +5,5 @@ deadly skills are awaiting you.
 *C#
 *.NET
 *Killing history using git rebase
+*Wrting things from Mac
+*Checking things up from git terminal
