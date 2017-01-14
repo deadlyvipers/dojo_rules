@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Too many functions arguments
 * Horizontal view
+* Commits
