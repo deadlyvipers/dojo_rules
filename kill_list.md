@@ -8,3 +8,4 @@ Kill List
 * Too many functions arguments
 * Horizontal view
 * Commits
+* Small function
