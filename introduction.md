@@ -8,3 +8,8 @@ Deadly skills:
 - Clojure
 - Git
 - And other useless stuff like c and java
+
+Skills:
+* Git
+* JavaScript
+* Ruby
