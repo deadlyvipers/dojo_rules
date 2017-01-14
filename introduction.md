@@ -3,3 +3,4 @@ My favorite Code School path are Git, Javascript, HTML & CSS
 * Node.j
 * Java
 * Scala
+* Killing history using git rebase
