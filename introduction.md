@@ -4,3 +4,4 @@ Hey, what's going on.
 *Angular2
 *C#
 *ASP
+*Killing history using git rebase
