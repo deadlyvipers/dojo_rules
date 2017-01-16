@@ -1,2 +1,7 @@
 Hey, what's going on.
-JavaScript
+*JavaScript
+*Git
+*Node.js
+*Angular2
+*C#
+*ASP
