@@ -7,3 +7,4 @@ deadly skills are awaiting you.
 *Killing history using git rebase
 *Wrting things from Mac
 *Checking things up from git terminal
+*Proxy check
