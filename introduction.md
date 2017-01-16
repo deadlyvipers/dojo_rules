@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub. I love python
+Hello! I am here to teach people about GitHub. Ruby
