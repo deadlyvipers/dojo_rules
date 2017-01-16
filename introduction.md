@@ -12,3 +12,9 @@ deadly skills:
 * Git
 * JavaScript
 * Ruby 
+
+
+killing history:
+
+* Bill
+* Kill
