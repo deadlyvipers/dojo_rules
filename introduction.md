@@ -12,7 +12,7 @@ deadly skills:
 * Git
 * JavaScript
 * Ruby 
-
+* rebase
 
 killing history:
 
