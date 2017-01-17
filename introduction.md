@@ -6,3 +6,4 @@ Deadly Skills
 *Git
 *Java
 *Android
+*Killing history using git rebase
