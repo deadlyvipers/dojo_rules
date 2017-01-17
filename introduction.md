@@ -1,2 +1,2 @@
 Hi, I'm Derek!
-I think the JS CodeSchool Tree is the best.
+I think the JavaScript CodeSchool Tree is the best.
