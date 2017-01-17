@@ -1,5 +1,5 @@
-ed code
-Functions with side effects
-Unformatted code
-Repeated code blocks
-Bad variable names BILL
+*ed code
+*Functions with side effects
+*Unformatted code
+*Repeated code blocks
+*Bad variable names BILL
