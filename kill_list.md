@@ -1,5 +1,5 @@
-kill list
-=========
-*qwesdfghjkl
-*zxcvbnm,
-*1234567890-
+Unused code
+Functions with side effects
+Unformatted code
+Repeated code blocks
+Bad variable names
