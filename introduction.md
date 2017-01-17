@@ -1,2 +1,7 @@
 Hey, what's going on.
-JavaScript
+*Javascript
+*Node.js
+*Angular2
+*C#
+*ASP
+*Killing history using git rebase
