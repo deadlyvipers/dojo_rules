@@ -5,3 +5,4 @@
 *java
 *android
 *git
+*Killing history using git rebase
