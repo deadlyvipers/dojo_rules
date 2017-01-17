@@ -1,1 +1,1 @@
-Of course I talk to myself, Because sometimes I need expert advice.
+Of course I talk to myself, Because sometimes I need expert advice. My favorite Code School path is JavaScript.
