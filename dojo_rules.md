@@ -8,4 +8,6 @@ Dojo Rules
 * Most Sensei's should be respected
 * no coffee in the dojo
 * unless it is in a sealed thermos
+* also less Rules
+
 
