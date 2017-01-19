@@ -1,4 +1,4 @@
-I found GIT tremendously confusing.
+I found Ruby better than GIT.
 
 Konichiwa!  
 Gambatte kudasai!
