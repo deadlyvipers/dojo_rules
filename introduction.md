@@ -6,3 +6,4 @@ Favorite coding is javascript
 * git
 * javascript 
 * css
+* Killing history using git rebase
