@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* This is a programmer grievance... not too sure what that means.
+* This is a programmer grievance... not too sure what that means. adding more text.
