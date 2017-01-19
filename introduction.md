@@ -1,5 +1,7 @@
-deadly skills
+
++deadly skills
 *Java
 *c++
 *javascript
-*Mastery of GitHub
+*github mastery
+
