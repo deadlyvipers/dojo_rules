@@ -1,2 +1,2 @@
 Hello, This is Singaiah
-My favorite path is Java, Git, Angular, Spring, Etc
+My favorite path is Python
