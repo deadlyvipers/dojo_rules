@@ -8,3 +8,4 @@ I would like to learn JavaScript the most. But for the moment, I am learning Git
 My deadly skills are:
 * Ninja kungfu 
 * Bear wrestling - Huuuuyaaaa!!
+* "Killing history using git rebase"
