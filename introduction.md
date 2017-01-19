@@ -1,5 +1,5 @@
-Throught chop
-sword
-throwing knives
-hand-to-hand
-this thumb
+* Throught chop
+* sword
+* throwing knives
+* hand-to-hand
+* this thumb
