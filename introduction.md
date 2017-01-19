@@ -3,3 +3,8 @@ My name is Amren Miller and I am learning to code by attending a bootcamp. Nice 
 
 I would like to learn JavaScript the most. But for the moment, I am learning GitHub stuff. 
 
+
+
+My deadly skills are:
+* Ninja kungfu 
+* Bear wrestling - Huuuuyaaaa!!
