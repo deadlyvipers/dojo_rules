@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-throwing stars
-=======
+
 Kill List
 =========
 * Unused code
@@ -8,4 +6,3 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
->>>>>>> release_branch_1.0
