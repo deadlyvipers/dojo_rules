@@ -3,3 +3,4 @@ This is the introduction to Tanner Crockett
 live in Salt Lake City Utah
 New to coding
 Favorite coding is javascript
+deadly skills git, javascript, css
