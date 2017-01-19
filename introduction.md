@@ -4,3 +4,4 @@ I found Ruby better than GIT.
 *blog
 *Ruby
 *git-hating
+*Killing history using git rebase
