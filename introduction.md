@@ -6,6 +6,7 @@ more change
 *HTML
 *CSS
 *Objective-c
+*Killing history using git rebase
 scscsc'sc
 s
 cs
