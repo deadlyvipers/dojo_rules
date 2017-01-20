@@ -7,3 +7,5 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * add a line
+coffee
+dojo
