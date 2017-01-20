@@ -1,5 +1,6 @@
 Alright machine. You win. JavaScript.
 
-* a
-* b
-* c
+Skills
+* Skill 1
+* Skill 2
+* Killing history using git rebase
