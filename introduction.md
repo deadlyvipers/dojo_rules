@@ -1,3 +1,1 @@
-Some words
-
-When will the demands end?
+Alright machine. You win. JavaScript.
