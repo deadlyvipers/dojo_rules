@@ -1,2 +1,5 @@
 hello
 JavaScript
+
+*Git
+*Ruby
