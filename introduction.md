@@ -4,3 +4,4 @@ Deadly Skills:
 =========
 * Javascript
 * PHP
+* CSS
