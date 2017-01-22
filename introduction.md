@@ -1,1 +1,11 @@
-Felix loves JavaScript
+* JavaScript
+* Go
+* PHP
+* Ruby
+* Python
+* Docker
+* Shell
+* HTML
+* CSS
+* Java
+* C
