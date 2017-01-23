@@ -1,2 +1,2 @@
 hello
-My name is Yasemin Gürcan
+My name is Yasemin
