@@ -3,3 +3,4 @@ My favourite path is HTML + CSS
 *My Deadly skills are:
 *Html + CSS
 *Git
+*Killing history using git rebase
