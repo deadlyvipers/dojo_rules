@@ -5,4 +5,4 @@ deadly skills
 * php
 * wordpress
 * mysql
-* etc
+* Killing history using git rebase
