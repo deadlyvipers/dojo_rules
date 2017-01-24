@@ -8,3 +8,4 @@ My deadly skills include:
 * mySQL
 * ActionScript
 * Python
+* Killing history using git rebase
