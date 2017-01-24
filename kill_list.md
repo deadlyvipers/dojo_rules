@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Nested ternaries
 * Too many private variables
+* HTML tags improperly closed
