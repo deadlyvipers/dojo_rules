@@ -1,3 +1,5 @@
-Hi I am Ravi.
-nice to meet you
-My favourite codeschool path is \n Javascript.
+*Javascript
+*HTML
+*Bootstrap
+*Git
+*Command Line
