@@ -1,1 +1,2 @@
 Introduction: My name is John and I am working on my Git skills!
+Favorite Code School Path: My favorite Code SChool Path has been the Git Path.
