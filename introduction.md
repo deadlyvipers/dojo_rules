@@ -3,3 +3,4 @@ My favourate codeschool path is JavaScript
 *Git
 *javascript
 *Ruby
+*HTML
