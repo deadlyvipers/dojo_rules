@@ -1,1 +1,1 @@
-Hi Dojo this is Norival
+Hi Dojo this is Norival (JavaScript)
