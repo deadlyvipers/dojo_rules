@@ -1,1 +1,1 @@
-Hi my name is prateek and i am learning github. my favourite language is node.js
+Hi my name is prateek and i am learning github. JavaScript
