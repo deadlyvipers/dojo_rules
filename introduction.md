@@ -1,3 +1,6 @@
 Introduction
 
-My favourite path is JavaScript
+My favourite paths are
+* Git
+* JavaScript
+* Ruby
