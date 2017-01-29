@@ -12,3 +12,4 @@ Deadly Skills
 * C#
 * HTML / CSS
 * Bootstrap
+* Killing history using git rebase
