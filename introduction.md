@@ -1,2 +1,2 @@
 an introduction
-Python
+JavaScript
