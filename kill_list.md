@@ -6,3 +6,8 @@ Bad Coding Practices
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
+*Adding
+*Extra
+*Lines
+*More
+*Lines
