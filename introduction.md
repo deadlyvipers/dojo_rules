@@ -1,1 +1,1 @@
-Hi, I'm JR.
+Hi, I'm JR. My favorite path is Javascript/Angular.
