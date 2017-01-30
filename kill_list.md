@@ -3,5 +3,5 @@ Kill List
 * Unused Code 
 * Functions with side effects 
 * Unformatted code 
-* Repeated code blacks
+* Repeated code blocks
 * Bad variable names 
