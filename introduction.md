@@ -11,4 +11,4 @@ Deadly Skills
 * MySQL
 * Git
 * C++
-
+* Killing history using git rebase
