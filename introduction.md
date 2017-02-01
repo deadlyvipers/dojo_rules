@@ -1,1 +1,3 @@
-Hi is an introduction to dojo rules
+Hi is an introduction to dojo rules.
+
+You can learn Javascript, CSS, Html, PHP and more...
