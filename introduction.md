@@ -1,1 +1,1 @@
-Hi, my name is Gennie.
+My favorite CodeSchool path is Git.
