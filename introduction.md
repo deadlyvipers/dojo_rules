@@ -1,3 +1,10 @@
 Hi is an introduction to dojo rules.
 
-You can learn Javascript, CSS, Html, PHP and more...
+This is my list of knowledges:
+
+*PHP
+*HTML
+*CSS
+*Javascript
+*Killing history using git rebase
+*And more secrets...
