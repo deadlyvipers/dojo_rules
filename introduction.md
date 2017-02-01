@@ -6,4 +6,5 @@ This is my list of knowledges:
 *HTML
 *CSS
 *Javascript
+*Killing history using git rebase
 *And more secrets...
