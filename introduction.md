@@ -4,3 +4,4 @@ Hi, im edik! My favorite Code School path is JavaScript Best Practices.
 * Git
 * Javascript
 * PHP
+* Killing history using git rebase
