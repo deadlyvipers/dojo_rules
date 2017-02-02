@@ -7,3 +7,4 @@ Deadly skills:
 * Ruby
 * PHP
 * Python
+* Killing history using git rebase
