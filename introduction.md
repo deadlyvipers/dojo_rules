@@ -1,3 +1,3 @@
 Hello my name is Frank and i think You know me from Donnie Darko.
-You asked me about my favorite course @ Code school. it is ofcourse the git curse followed by the sql curse.
+You asked me about my favorite course @ Code school. it is ofcourse the Ruby curse followed by the sql curse.
 
