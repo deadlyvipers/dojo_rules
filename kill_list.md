@@ -6,5 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Added repos wihtout readmes
-
 * blah
