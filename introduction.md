@@ -1,3 +1,5 @@
 Hello World Code school
 ==========
-- Javascript
+* Javascript
+* Git
+* Python
