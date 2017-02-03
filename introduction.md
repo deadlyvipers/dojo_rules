@@ -1,3 +1,5 @@
 sdfsdf
 
-iOS is my preferred
+*iOS
+*css
+*Killing history using git rebase
