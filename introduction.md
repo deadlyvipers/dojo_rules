@@ -1,2 +1,4 @@
 Hello I'm Djim
-Javascript
+*Javascript
+*PHP
+*C#
