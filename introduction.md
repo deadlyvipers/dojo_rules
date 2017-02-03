@@ -1,2 +1,5 @@
 Hello I'm Djim
-Javascript
+*Javascript
+*PHP
+*C#
+*Killing history using git rebase
