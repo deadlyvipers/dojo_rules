@@ -5,6 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Too much sequential code
 * No comments
 * Code School instructions that don't work
