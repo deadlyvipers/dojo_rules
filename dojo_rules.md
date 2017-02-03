@@ -7,3 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * I like having a deadly weapons
+* I like being a ninja!
