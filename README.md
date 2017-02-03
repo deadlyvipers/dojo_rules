@@ -8,4 +8,5 @@ This repository contains a list of dojo rules for the Deadly Vipers dojo
 
 Sometimes code can be more deadly than vipers.
 
+Visit "https://github.com/deadlyvipers"
 
