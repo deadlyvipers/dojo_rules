@@ -5,3 +5,4 @@ Here is my deadly skills list:
 * Ruby
 * Git
 * Nunchuck fighting
+* Killing history using git rebase
