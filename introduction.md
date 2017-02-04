@@ -1,3 +1,3 @@
 HI my name is Oliver
 
-favorite Code School path 
+favorite Code School path JavaScript
