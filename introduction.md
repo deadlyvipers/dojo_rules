@@ -1,2 +1,2 @@
 Hello! I am here to teach people about GitHub.
-#Code School paths
+Collaboration Using Pull Requests Code School paths
