@@ -4,5 +4,7 @@ Ruby
 *Git 
 *JavaScript
 *Ruby
-*
 
+
+Changes
+Yes
