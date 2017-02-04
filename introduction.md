@@ -1,2 +1,2 @@
 
-Java nad Mongodb
+Java and Mongodb
