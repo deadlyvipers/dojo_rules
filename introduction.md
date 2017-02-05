@@ -1,4 +1,4 @@
-*JavaScript
-*CSS
-*HTML
-*C++
+* JavaScript
+* CSS
+* HTML
+* C++
