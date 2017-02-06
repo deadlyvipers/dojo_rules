@@ -2,4 +2,4 @@ Hello World Code school
 ==========
 * Javascript
 * Git
-* Python
+* Killing history using git rebase
