@@ -1,2 +1,2 @@
 The silent one.
-I liked the Angular tutorials.
+I liked the JavaScript tutorials.
