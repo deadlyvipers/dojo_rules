@@ -8,3 +8,4 @@
 *HTML
 *CSS
 *PHP
+*Killing history using git rebase
