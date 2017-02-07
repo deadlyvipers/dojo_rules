@@ -7,3 +7,4 @@ My deadly skills are:
 * CSS
 * HTML
 * rebase
+* exactly
