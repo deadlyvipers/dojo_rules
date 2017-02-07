@@ -1,3 +1,2 @@
-+git
-+ruby
-+javascript
+*git
+*javascript
