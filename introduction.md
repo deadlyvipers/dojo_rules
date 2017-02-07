@@ -1,1 +1,1 @@
-Hey, that's my fork
+My favorite code school path is the Electives path
