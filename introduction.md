@@ -4,8 +4,8 @@
 
 - My deadly skills :
 
-*Git
-*HTML
-*CSS
-*PHP
-*Killing history using git rebase
+* Git
+* HTML
+* CSS
+* PHP
+* Killing history using git rebase
