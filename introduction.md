@@ -1,2 +1,1 @@
-*git
-*javascript
+*printf "\nSkills:\n* Git\n* JavaScript\n* Ruby" >> introduction.md
