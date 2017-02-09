@@ -1,2 +1,2 @@
 hi, it's me
-i like git
+i like git and JavaScript
