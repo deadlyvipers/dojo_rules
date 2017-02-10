@@ -12,3 +12,4 @@ My Deadly Skills
 * HTML5
 * CSS
 * SQL
+* Killing history using git rebase
