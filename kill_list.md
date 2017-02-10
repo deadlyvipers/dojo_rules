@@ -13,3 +13,4 @@ var $$ = 1;
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Scope Error
