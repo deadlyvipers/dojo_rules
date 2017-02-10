@@ -1,2 +1,3 @@
-hi, it's me
-i like git and JavaScript
+skills
+*Git
+*Ruby
