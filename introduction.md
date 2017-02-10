@@ -3,3 +3,4 @@ My favorite Code School track is Javascript!
 Deadly Skills:
 *Javascript
 *Git
+*Being awesome
