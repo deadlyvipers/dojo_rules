@@ -4,3 +4,4 @@ Definitely Javascript
 *Javascript
 *CSS
 *HTML
+* Killing history using git rebase
