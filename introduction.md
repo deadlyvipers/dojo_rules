@@ -1,6 +1,6 @@
 * This is an introduction
 * JavaScript
-* Git, Python, Ruby
+* Python, Ruby
 * Frontend development
 * rebase
 
