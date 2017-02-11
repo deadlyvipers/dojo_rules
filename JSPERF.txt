@@ -1,0 +1,1 @@
+https://jsperf.com/finalcheck/
