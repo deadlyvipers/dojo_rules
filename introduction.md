@@ -1,3 +1,4 @@
 This is for introduction
-JavaScript
-Git
+* JavaScript
+* Git
+ 
