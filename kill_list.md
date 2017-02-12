@@ -5,5 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Annoying bugs
-* F**king bugs!!!!
+* Long functions
+
