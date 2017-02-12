@@ -9,7 +9,7 @@ My favourite code school path is
 
 Deadly skills:
 
-- git
-- javascript
-- docker
-- python
+* git
+* javascript
+* docker
+* python
