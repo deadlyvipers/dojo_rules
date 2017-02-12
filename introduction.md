@@ -1,1 +1,4 @@
-Introducing pythonquick
+Introduction
+============
+
+pythonquick introduced.
