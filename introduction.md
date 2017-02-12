@@ -4,3 +4,4 @@ Deadly Skills
 *JavaScript
 *C/C++/C#
 *other cool stuff.
+*Killing history using git rebase
