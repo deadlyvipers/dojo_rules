@@ -8,3 +8,6 @@ dsa
 iOS
 JavaScript
 ...
+*Git
+*SVN
+*Killing history using git rebase
