@@ -11,3 +11,8 @@ Deadly skills:
 * JavaScript
 * Ruby
 
+Optional skills:
+
+* Mind control
+* Time travel
+
