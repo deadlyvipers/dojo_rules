@@ -1,0 +1,4 @@
+Kill list:
+
+* Elle
+* Bill
