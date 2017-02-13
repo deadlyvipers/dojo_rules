@@ -8,5 +8,5 @@ dsa
 iOS
 JavaScript
 ...
-Git
-SVN
+*Git
+*SVN
