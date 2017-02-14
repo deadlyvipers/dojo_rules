@@ -8,3 +8,4 @@ Deadly skills:
 *Cat
 *Really bad at programming anything
 *Kind of good at math
+*Killing history using git rebase
