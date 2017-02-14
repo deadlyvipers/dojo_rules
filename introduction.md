@@ -3,4 +3,4 @@ My favorite codeschool path is Ruby
 *Git
 *JavaScript
 *Ruby
-*Python
+*Killing history using git rebase
