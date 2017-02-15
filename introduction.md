@@ -1,3 +1,1 @@
-Yo
-que?
-git real
+Yo git real
