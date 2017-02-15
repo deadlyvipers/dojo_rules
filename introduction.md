@@ -6,6 +6,7 @@ My deadly skills:
   * JavaScript, HTML, CSS
   * C, C++, C#
   * Git
+  * Killing history using git rebase
   * SQL
   * Octave
   * Genuinely unimaginable awesomeness
