@@ -5,3 +5,4 @@ skills:
 * first
 * second
 * third
+* Killing history using git rebase
