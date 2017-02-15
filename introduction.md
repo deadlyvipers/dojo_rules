@@ -1,3 +1,5 @@
 Introduction file
 
-Ruby
+*Ruby
+*Git
+*JavaScript
