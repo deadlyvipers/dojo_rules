@@ -1,4 +1,4 @@
-Favorite Code School paths:
-+ JavaScript
-+ HTML & CSS
-+ iOS
+# Favorite Code School paths:
+* JavaScript
+* HTML & CSS
+* iOS
