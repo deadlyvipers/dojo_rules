@@ -2,4 +2,6 @@
 Whatever
 
 ### Favorite  
-JavaScript
+*JavaScript
+*Skill2
+*Skill3
