@@ -5,3 +5,4 @@ My favourite code school path is JavaScript
 * C#
 * SSIS
 * JavaScript
+* Killing history using git rebase
