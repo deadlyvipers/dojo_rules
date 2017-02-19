@@ -4,3 +4,5 @@ deadly skills:
 *Git
 *JavaScript
 *Ruby
+Killing history
+*Killing history
