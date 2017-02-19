@@ -1,0 +1,9 @@
+My name is Carlos Polachini Zanoveli Junior and I was born in Campinas, São Paulo, and raised in Londrina, in the countryside of Paraná. I've completed the highschool at Colégio Marista de Londrina and done a year of preparatory course at Anglo Castelo in Campinas before entered in State University of Campinas (Unicamp), in 2009.
+
+I was involved in activities related to my student union (Centro Acadêmico da Computação - CACo) during part of my graduation, as a Technological Coordinator and, later, as a collaborator. I was also a Graduate student representative at Institute of Computing and a Graduate student representative at Diretório Central dos Estudantes.
+
+After my graduation, in December 2013, I was hired by MC1, my first job, where I am since them. At the beginning, I've worked only with Android developing, but after 6 months I started to work in C# .NET projects too. At present, I develop functionalities and maintain codes in both plataforms simultaneously.
+
+I am interested in take a MBA course in Software Architecture, get more certificates in my occupation area and take the CAE exam (I've already finished the Main Advanced Course at Cultura Inglesa). My main objetive is to establish a career in an environment that allows professional growth through the expansion of the acquired knowledge, development of skills and learning of new techniques.
+
+My favorite Code School path is JavaScript.
