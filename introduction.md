@@ -6,3 +6,4 @@ Deadly Skills
 
 * Meraki
 * Palinoia
+* Killing history using git rebase
