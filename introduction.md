@@ -4,3 +4,4 @@ some of my skills are
 * Java
 * Go
 * Scala
+* Killing history using git rebase
