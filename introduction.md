@@ -13,3 +13,7 @@ PUSH my changes
 ===============
 
 git push
+
+FAVORITE CODE SCHOOL PATH
+=========================
+git tutorial, especially Master GitHub
