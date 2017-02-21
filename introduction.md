@@ -1,2 +1,8 @@
 My introduction
-JavaScript
+===============
+* JavaScript
+* Git
+* Python
+* C++
+* PHP
+* Killing history using git rebase
