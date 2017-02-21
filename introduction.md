@@ -1,2 +1,6 @@
 My introduction
-JavaScript
+*JavaScript
+*Git
+*Python
+*C++
+*PHP
