@@ -1,3 +1,5 @@
-this is introduction file to practise the git.
-
-Looks good! Could you also please mention your favorite Code School path in your introduction? This could be Ruby, JavaScript, HTML & CSS, iOS or Electives.
+*Ruby
+*Javascrip
+*HTML
+*iOS
+*GIT
