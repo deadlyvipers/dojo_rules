@@ -15,6 +15,5 @@ git push origin master
 
 FAVORITE CODE SCHOOL PATH
 =========================
-Git
-Git Real 2
-Git Masters
+
+Ruby, JavaScript, HTML & CSS
