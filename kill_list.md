@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Tightly Coupled Code
-* Airing of gievencessss
+* Airing of gievences
