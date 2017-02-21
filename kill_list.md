@@ -5,4 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Tightly Coupled Coded
+* Tightly Coupled Code
+* Airing of gievences
