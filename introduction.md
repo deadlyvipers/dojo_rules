@@ -5,4 +5,5 @@ Favouite Code
 *JavaScript
 *HTML & CSS
 *iOS
-*Git 
+*Git
+*Killing history using git rebase 
