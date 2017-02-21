@@ -1,2 +1,2 @@
 Introduction to repository.  
-https://www.codeschool.com/courses/digging-into-django
+https://www.codeschool.com/courses/try-ruby
