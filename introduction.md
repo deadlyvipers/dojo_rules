@@ -17,3 +17,8 @@ FAVORITE CODE SCHOOL PATH
 =========================
 
 Ruby, JavaScript, HTML & CSS
+
+
+*Git
+*JavaScript
+*Ruby
