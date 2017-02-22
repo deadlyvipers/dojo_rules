@@ -2,5 +2,5 @@ Introduction
 ==========
 
 Hi, I'm Mike.
-My favorite CodeSchool path is Git.
+My favorite CodeSchool path is iOS.
 
