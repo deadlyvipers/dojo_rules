@@ -1,1 +1,4 @@
-My favorite code school path is the Electives path
+* Git
+* JavaScript
+* Java
+* Killing history using git rebase
