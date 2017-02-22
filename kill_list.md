@@ -1,3 +1,5 @@
+B
+B
 Kill List
 =========
 * O-Ren Ishii
