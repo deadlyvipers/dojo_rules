@@ -7,3 +7,5 @@ My deadly skills are:
 *Git
 *Python
 *Java
+*Killing history using git rebase
+
