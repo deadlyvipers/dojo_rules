@@ -1,2 +1,2 @@
 This is Sumi
-Favourite code school path is Python
+Favourite code school path is Ruby
