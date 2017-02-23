@@ -1,4 +1,2 @@
-hello! I am here to teach people about Github.
-
+hello all 
 thank u
-bye
