@@ -1,2 +1,2 @@
 this is me
-Favorite CodeSchool Path: Git
+Ruby, JavaScript, HTML & CSS, iOS or Electives.
