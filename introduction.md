@@ -17,4 +17,4 @@ Ruby, JavaScript, HTML & CSS, iOS, Electives
 * Javascript
 * Ruby
 
-2.4 Pull Request Collaboration
+Killing history using git rebase
