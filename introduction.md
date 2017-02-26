@@ -4,3 +4,4 @@ My skills:
 * Unity
 * Unreal
 * Procastinating
+* Killing history using git rebase
