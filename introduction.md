@@ -5,3 +5,4 @@ My deadly skills are:
 *Python
 *Java
 *C++
+*Killing history using git rebase
