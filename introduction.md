@@ -5,3 +5,4 @@ Deadly Skills
 =============
 * dying
 * being dead
+* Killing history using git rebase
