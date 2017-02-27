@@ -5,4 +5,5 @@ My favorite code school HTML
 
 deadly skills: 
 *Git
-*Ruby 
+*Ruby
+* Killing history using git rebase 
