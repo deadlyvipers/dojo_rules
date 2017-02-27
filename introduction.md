@@ -1,4 +1,4 @@
 introduction
 example of forking
 
-My favorite code school MongoDB 
+My favorite code school HTML 
