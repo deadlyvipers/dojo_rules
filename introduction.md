@@ -1,1 +1,1 @@
-Hello, my name is Rachel
+My favorite path is Javascript.
