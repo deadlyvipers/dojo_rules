@@ -1,0 +1,1 @@
+Hello dojo and Code School. My name is Bartek Kwapisz. I'm glad that I can learn Git with you. Your tutorials are very good (unfortunately I don't have money for the rest of Git Real). Anyway thanks for those lessons available on Code School :)
