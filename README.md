@@ -1,4 +1,4 @@
-Dojo Rules
+Dojo Rules—Code School Mastering GitHub course repository
 ==========
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
