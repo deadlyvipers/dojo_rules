@@ -1,1 +1,4 @@
-My favorite path is Javascript.
+"Hello, my name is Rachel"
+*Javascript
+*HTML
+*CSS
