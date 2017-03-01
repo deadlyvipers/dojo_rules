@@ -1,3 +1,4 @@
 Tetsing
 Testing
-Testigng
+Testing
+My Fav Code School theme has been SVG Aminations
