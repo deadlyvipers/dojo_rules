@@ -1,1 +1,1 @@
-My Fav Code School path has been SVG Aminations
+I am a programmer. I am a bit lasy. I should work harder I like JavaScript tutorial best
