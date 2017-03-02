@@ -1,3 +1,1 @@
-Introduction
-==========
-Hello, i'm Antoine Méausoone
+Hello, i'm Antoine Méausoone and I love coding.
