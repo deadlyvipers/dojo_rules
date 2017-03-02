@@ -6,3 +6,4 @@ My favorite path in Codeschool is "JavaScript"
 My deadly skills  
 *  Ruby
 *  Git
+*  Killing history using git rebase
