@@ -1,2 +1,7 @@
-Hello
-JavaScript
+* Javascript
+* HTML
+* CSS
+* PHP
+* Python
+* Ionic
+* Angular
