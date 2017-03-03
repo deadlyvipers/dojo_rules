@@ -7,7 +7,7 @@ jo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 
-
+Ruby, JavaScript, HTML & CSS, iOS or Electives
 
 
 * Most Sensei's should be respected
