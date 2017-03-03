@@ -1,2 +1,2 @@
 Hello, i'm Antoine Méausoone and I love coding.
-My favorite is Java
+My favorite is Ruby
