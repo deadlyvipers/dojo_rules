@@ -1,3 +1,7 @@
+All members should read the rules.
+
+This was forked from [Deadlyvipers](https://github.com/deadlyvipers)
+
 Dojo Rules
 ==========
 
