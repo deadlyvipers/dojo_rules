@@ -1,1 +1,1 @@
-My name is Ali.
+My name is Ali and I like JavaScript.
