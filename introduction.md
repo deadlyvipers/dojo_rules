@@ -7,3 +7,4 @@ My deadly skills:
 *JavaScript
 *C#
 *VB.Net
+*Killing history using git rebase
