@@ -6,4 +6,5 @@ My deadly skills are:
 * Ruby
 * JavaScript
 * Git
+* iOS
 * Killing history using git rebase
