@@ -1,1 +1,1 @@
-hello this is an introduction
+hello this is an introduction i really like the JavaScript and Electives
