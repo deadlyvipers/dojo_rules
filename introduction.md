@@ -11,3 +11,7 @@ Ruby, JavaScript, HTML & CSS, iOS or Electives
 
 
 * Most Sensei's should be respected
+* Ruby
+* JavaScript
+* Ruby
+* Git
