@@ -1,2 +1,3 @@
 My name is Artem
-I like all of I've done so far :)
+HTML & CSS
+I like all of I've done so far indeed :)
