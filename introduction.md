@@ -1,3 +1,3 @@
 Introduction
 
-Favorite path: Git
+Favorite path: Ruby
