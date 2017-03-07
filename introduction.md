@@ -11,3 +11,4 @@ My deadly skills are:
 * SASS
 * Node JS
 * GIS mapping
+* Killing history using git rebase
