@@ -7,3 +7,5 @@ My favourite codeschool part is SQL, Mongo DB, Python, HTML & CSS.
 *Ruby
 *Python
 *Rails
+
+Killing history using git rebase
