@@ -1,5 +1,8 @@
-Kill list
+Kill List
 =========
-* O-Ren Ishli
-* Jack
-* Santa
+
+Unused code
+Functions with side effects
+Unformatted code
+Repeated code blocks
+Bad variable names
