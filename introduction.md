@@ -5,3 +5,4 @@ Ruby, JavaScript, HTML & CSS, iOS or Electives.
 *Javascript
 *Git
 *GitHub
+*Killing history using git rebase
