@@ -7,3 +7,4 @@ I like all of I've done so far indeed :)
 * X-ray vision
 * Flying
 * Scala
+* Killing history using git rebase 
