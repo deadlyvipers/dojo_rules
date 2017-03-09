@@ -6,3 +6,4 @@ deadly skills
 * matlab + dynare
 * R
 * python
+* Killing history using git rebase
