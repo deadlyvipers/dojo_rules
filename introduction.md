@@ -5,3 +5,4 @@
 * Git
 * Python
 * SQL
+* Git Rebase
