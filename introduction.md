@@ -13,3 +13,4 @@ Deadly skills:
 * SQL
 * Javascript
 * CSS/SCSS
+* Killing history using git rebase
