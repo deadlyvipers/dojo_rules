@@ -1,1 +1,6 @@
-Hello, my name is Judy.  Nice to be here. Favorite path is JavaScript.
+*JavaScript
+*Ember
+*SQL
+*C#
+*C
+*Killing history using git rebase
