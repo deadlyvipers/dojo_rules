@@ -5,3 +5,4 @@ My favirote path in CodeSchool is JavaScript.
 * JavaScript
 * GitHub
 * All time favorite Compuset
+* Killing history using git rebase
