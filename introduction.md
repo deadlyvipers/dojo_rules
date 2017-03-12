@@ -1,0 +1,1 @@
+The JavaScript path is good.
