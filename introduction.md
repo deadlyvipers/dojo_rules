@@ -1,2 +1,3 @@
 woot woot woot
-HTML
+* HTML
+* Killing history using git rebase
