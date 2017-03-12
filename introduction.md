@@ -4,3 +4,4 @@ trying codeschool mastering github.
 * Java
 * Python
 * Git
+* Killing history using git rebase
