@@ -8,3 +8,4 @@ Deadly skills:
 * MongoDB
 * MVC structure
 * ORMs
+* Killing history using git rebase
