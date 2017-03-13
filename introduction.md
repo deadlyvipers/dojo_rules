@@ -1,1 +1,2 @@
-This is student cat-burglar! 
+This is student cat-burglar!
+Git, HTML/CSS, Javascript
