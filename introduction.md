@@ -1,3 +1,3 @@
 Czesc. Nazywam sie Andrzej.
 
-My favourit Path is GIT.
+My favourit Path is Ruby
