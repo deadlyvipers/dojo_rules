@@ -1,2 +1,2 @@
 My Name is Dex
-My favorite CS path is Database
+My favorite CS path is JavaScript
