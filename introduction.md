@@ -1,0 +1,1 @@
+Czesc. Nazywam sie Andrzej.
