@@ -1,1 +1,1 @@
-hi im tyts, i like javascipt and asp.net!
+hi im tyts, i like JavaScript !
