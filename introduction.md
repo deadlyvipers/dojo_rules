@@ -5,3 +5,4 @@ Deadly skills:
 *JavaScript
 *SQL
 *MindoDB
+*Killing history using git rebase
