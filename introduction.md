@@ -8,3 +8,4 @@ My favourite Code School path thus far is HTML/CSS.
 *Git
 *Python
 *Photoshop
+*Killing history using git rebase
