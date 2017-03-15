@@ -4,3 +4,4 @@ Or maybe it's just Ruby
 * Lying
 * Cheating
 * Stealing
+* Killing history using git rebase
