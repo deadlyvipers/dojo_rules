@@ -2,10 +2,11 @@
 
 <favorite>I like the JavaScript Code School path the best.</favorite>
 
-###<skills> Skills
+<skills>### Skills ###
 * Javascript
 * Git
 * OOP
 * C#
 * Angular
+* Killing history using git rebase
 </skills>
