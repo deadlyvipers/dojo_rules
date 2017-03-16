@@ -2,9 +2,10 @@
 
 <favorite>I like the JavaScript Code School path the best.</favorite>
 
-###Skills
-*Javascript
-*Git
-*OOP
-*C#
-*Angular
+###<skills> Skills
+* Javascript
+* Git
+* OOP
+* C#
+* Angular
+</skills>
