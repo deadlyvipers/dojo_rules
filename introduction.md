@@ -14,3 +14,4 @@ These include but are not limited to:
 * Make
 * Kotlin
 * Groovy
+* Killing history using git rebase
