@@ -1,7 +1,7 @@
 Hi my name is Perry.  This is the second attempt to make this work.  I feel that the instructions are not concise enough for a beginner such as myself.  Either that or I am not cut out for this line of work.  My skillsets are with Java, Javascript, and a little front end HTML and CSS.
 
 Deadly Skills
-Java
-HTML
-CSS
-Javascript
+*Java
+*HTML
+*CSS
+*Javascript
