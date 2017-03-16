@@ -1,1 +1,3 @@
 Hi! My name is Perry.  I am into the programming world now for about 8 months.  It's been a strenuous path so far.  I started off with attending a coding school immersive program.  The teacher was really smart, but didn't know how to teach.  There was many principles and foundational logic and information that was not provided. I am now continuing my education through online resources, additional books such as the Head First, and will most likely be at the steep learning curve for the foreseeable future.  The GIT courses from CodeSchool are helpful, but I wish they would have more skill testing available. 
+
+Our cohort was focused primarily on back end Java, but we did venture a little into front end with HTML, CSS, and Javascript.
