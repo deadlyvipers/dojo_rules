@@ -6,6 +6,6 @@ My favorite Code School path is Ruby and Javascript
 
 ## my deadly skills
 
-- ruby on rails
-- javascript
-- git
+* ruby on rails
+* javascript
+* git
