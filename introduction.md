@@ -5,3 +5,4 @@ Hi, sensei. I like the JavaScript path.
 * css
 * bootstrap
 * sql
+* Killing history using git rebase
