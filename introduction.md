@@ -6,3 +6,4 @@ angular, nodejs, express, mongodb and Javascript courses
 *HTML
 *CSS
 *PHP
+*Killing history using git rebase
