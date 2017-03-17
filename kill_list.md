@@ -3,3 +3,5 @@ Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
+Too long functions
+Baddly indent text
