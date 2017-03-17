@@ -8,3 +8,4 @@ Favourite path : Ruby
 * C
 * PHP
 * MySQL
+* Killing history using git rebase
