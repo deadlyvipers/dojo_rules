@@ -6,4 +6,6 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-* Github
+* campus.codescool.com/courses/mastering-github
+
+* 
