@@ -6,3 +6,4 @@ My favorite path is JavaScript
 * Ruby
 * Angular
 * React
+* Killing history using git rebase
