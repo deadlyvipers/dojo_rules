@@ -1,3 +1,2 @@
 sadasd
-js
-js
+JavaScript
