@@ -11,3 +11,4 @@ Electives
 * Scala
 * Java
 * JavaScript (more for wounding, though)
+* Killing history using git rebase
