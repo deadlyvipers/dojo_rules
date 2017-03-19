@@ -7,4 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * no coffee in the dojo
-* Killing history using git rebase
+* Killing history using git rebase?
