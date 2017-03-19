@@ -4,3 +4,4 @@ Code School path is Ruby.
 *Matlab
 *Java
 *HTML
+Killing history using git rebase
