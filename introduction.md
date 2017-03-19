@@ -9,3 +9,4 @@ my favorites were javascript, angular and git
 * ES2015
 * ANGULARJS
 * REACTJS
+Killing history using git rebase.... once upon a time ...lalala... hahahaha
