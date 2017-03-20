@@ -2,4 +2,4 @@ Hello,
 
 Silviu here, nice to meet you.
 
---Favorite CodeSchool path is Ruby
+--Favorite CodeSchool path is Ruby, Git and JS
