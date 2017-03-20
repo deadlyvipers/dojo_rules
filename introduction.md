@@ -1,2 +1,2 @@
 * Hi there
-* GitHub
+* JavaScript
