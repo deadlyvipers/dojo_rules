@@ -7,3 +7,4 @@ Kill List
     Repeated code blocks
     Bad variable names
 
+* some change to fix an issue
