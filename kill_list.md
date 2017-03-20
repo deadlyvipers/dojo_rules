@@ -1,7 +1,8 @@
 Kill List
 =========
-weqweqwe
-qweqwe
-//qweqweqweqwe//
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
 
-function adsas() {};;
