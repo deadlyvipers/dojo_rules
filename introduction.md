@@ -7,3 +7,7 @@ Silviu here, nice to meet you.
 *Ruby 
 *Git
 *JS
+
+--Deadliest skill:
+
+*Killing history using git rebase
