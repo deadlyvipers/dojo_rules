@@ -1,1 +1,1 @@
-I am the ultimate git master
+I am the ultimate git master, the best course is Git from Electives
