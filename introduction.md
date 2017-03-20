@@ -5,3 +5,4 @@ Favorite codeschool path: JavaScript
 * JavaScript
 * Python
 * NodeJS
+* Killing history using git rebase
