@@ -1,0 +1,4 @@
+# introduction
+* Ruby
+* git
+* javascript
