@@ -1,1 +1,1 @@
-to me not everything
+My Favorite Code School path is JavaScript.
