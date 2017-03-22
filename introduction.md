@@ -4,3 +4,4 @@ Deadly skills:
 * Button mashing
 * Taco wrapping
 * Silly walking
+* Killing history using git rebase
