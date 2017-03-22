@@ -3,3 +3,4 @@
 *and maybe learn some python or javascript in the furture.
 *Deadly skills : C
 *Learn to use github
+*Killing history using git rebase
