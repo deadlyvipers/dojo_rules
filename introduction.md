@@ -1,4 +1,5 @@
 *Hello, I'm john and from taiwan.
 *My favorite code is C,C#,matlab. 
 *and maybe learn some python or javascript in the furture.
-*Deadly skills : C 
+*Deadly skills : C
+*Learn to use github
