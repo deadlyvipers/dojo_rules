@@ -3,3 +3,4 @@ My name is Oyvind
 My favorite Code School path is Git and JavaScript
 *JavaScript
 *C#
+*Killing history using git rebase
