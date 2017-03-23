@@ -3,5 +3,5 @@ My favorite path is JavaScript
 *deadly skills
 *Git
 *Ruby
-
+*Killing history using git rebase
 
