@@ -1,2 +1,4 @@
 wat up
-Ruby coz it's the shortest name
+*Git
+*Javascript
+*Ruby
