@@ -1,1 +1,3 @@
-i like javascript and cheese
+i like:
+* javascript
+* cheese
