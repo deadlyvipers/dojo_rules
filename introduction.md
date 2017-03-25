@@ -1,3 +1,3 @@
 Hello I am Martijn.
 
-My favorite code school path is Git
+My favorite code school path is Ruby
