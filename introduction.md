@@ -6,3 +6,4 @@ My deadly skills:
 *One
 *Two
 *Three
+*Killing history using git rebase
