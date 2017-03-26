@@ -8,4 +8,3 @@ My deadly skills:
 *Three
 *Killing history using git rebase
 *Test test test
-Will this work
