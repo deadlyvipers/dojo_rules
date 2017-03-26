@@ -1,1 +1,1 @@
-Hi, everybody! Hi, Dr. Nick!
+Hi, everybody! Hi, Dr. Nick! Favorite Code School path is Electives.
