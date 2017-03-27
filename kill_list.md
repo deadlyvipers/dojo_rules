@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Greivances by Sanjeev aka jassics
+* Greivances by Sanjeev aka jassics in kill_list branch
