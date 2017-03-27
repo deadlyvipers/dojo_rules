@@ -1,1 +1,1 @@
-Favorite Code School path is Elecectives
+Favorite Code School path is Electives
