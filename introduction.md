@@ -3,3 +3,4 @@ My favorite CodeSchool path is JavaScript
 Deadly skills -
 *JavaScript
 *C++
+*Killing history using git rebase
