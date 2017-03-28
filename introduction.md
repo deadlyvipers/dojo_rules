@@ -1,3 +1,4 @@
-hi there
-
-ruby is my favourite code school path
+*Hello
+*Ok, finally!
+*Lists lists lists
+*Killing history using git rebase
