@@ -2,4 +2,4 @@ Hi
 
 My name is Goran. I lov to git. 
 
-Pushing changes now....
+favorite Code school path is Javascript.
