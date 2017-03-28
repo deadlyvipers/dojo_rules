@@ -1,0 +1,3 @@
+Hello dojo
+
+Javascript
