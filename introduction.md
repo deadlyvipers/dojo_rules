@@ -1,3 +1,27 @@
-hi there
+Hello
+Ok, finally!
+Not sure how to
 
-ruby is my favourite code school path
+remove line breaks 
+
+
+
+
+
+
+but that's ok
+
+alright
+
+deadly skills etc
+
+
+
+
+
+
+
+
+
+
+
