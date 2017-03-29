@@ -1,2 +1,2 @@
 Hello, my name is Johnny
-My favorite code school course if git and github, of course!
+My favorite code school path is git of course!
