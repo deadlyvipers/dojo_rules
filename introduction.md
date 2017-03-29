@@ -5,3 +5,4 @@ Deadly Skills
 * React
 * Node
 * Javascript
+* Killing history using git rebase
