@@ -7,3 +7,4 @@ deadly_skills:
 * JavaScript
 * C#
 * Git
+* Killing history using git rebase
