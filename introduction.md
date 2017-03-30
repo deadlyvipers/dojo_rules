@@ -1,2 +1,2 @@
 # Introduction
-This is an introduction.
+This is an introduction. JavaScript.
