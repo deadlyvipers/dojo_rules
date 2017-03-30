@@ -1,2 +1,2 @@
-# Hello Git Dojo!
+# Hello JavaScript Dojo!
 Like this Git path!
