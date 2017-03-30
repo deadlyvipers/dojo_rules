@@ -1,2 +1,4 @@
 # Hello JavaScript Dojo!
-Like this Git path!
+* Git
+* JavaScript
+* Ruby
