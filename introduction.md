@@ -8,3 +8,5 @@ Deadly Skills:
 * Java
 * PHP
 * Playing Videogames
+* Killing history using git rebase
+
