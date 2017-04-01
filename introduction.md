@@ -5,3 +5,4 @@ My favourite Code School path is JavaScript.
 * Java
 * Cucumber
 * Selenium
+* Killing history using git rebase
