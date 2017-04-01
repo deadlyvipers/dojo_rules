@@ -6,3 +6,4 @@ Ruby is my fave
 * Git
 * Vim
 * Tmux
+* Killing history using git rebase
