@@ -13,3 +13,4 @@ my "deadly_skills" are:
   * Clojurescript    
   * Python
   * R
+  * Killing history using git rebase
