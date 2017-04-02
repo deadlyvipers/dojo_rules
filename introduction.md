@@ -6,3 +6,4 @@
 * CSS
 * Git
 * Groovy
+* Killing history using git rebase
