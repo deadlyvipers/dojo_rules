@@ -1,1 +1,2 @@
-I am MD and this is a tutorial course
+Hi I am MD and I like to code
+My Favorite Code School path is IOS
