@@ -7,3 +7,4 @@ Deadly Skills:
 * Git
 * Java
 * Cucumber
+* Killing history using git rebase
