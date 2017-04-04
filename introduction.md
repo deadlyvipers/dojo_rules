@@ -1,3 +1,3 @@
  my name is stewart-wang
-favorite path is Git
+ my favorite path is Git
  cannot submit
