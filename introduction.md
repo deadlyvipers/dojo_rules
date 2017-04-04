@@ -1,2 +1,3 @@
 nightshinez
-JavaScript
+*JavaScript
+*Git
