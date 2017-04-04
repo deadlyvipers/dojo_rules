@@ -7,3 +7,9 @@ Looking forward to a unique learning experience.
 My favorite learning path is the one for HTML, CSS and Javascript.
 
 Adding C# to my arsenal.
+
+* Javascript
+* C#
+* HTML 
+* CSS 
+* SVG
