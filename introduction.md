@@ -13,3 +13,4 @@ Adding C# to my arsenal.
 * HTML 
 * CSS 
 * SVG
+* Killing history using git rebase
