@@ -1,1 +1,2 @@
-nighthinez
+nightshinez
+JavaScript
