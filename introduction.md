@@ -3,7 +3,6 @@ My name is Lucas and my favorite CodeSchool path is the Ruby one.
 *Ruby
 *Git
 *JavaScript
-
-
+*Killing history using git rebase
 
 
