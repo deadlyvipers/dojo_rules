@@ -1,3 +1,3 @@
 Hello my name is huehnerlady
 
-I love Java
+My favourite codeschool path is Git
