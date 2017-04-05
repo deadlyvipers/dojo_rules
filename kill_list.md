@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Bad indentation
+* God, I hate when things seems not to work...
