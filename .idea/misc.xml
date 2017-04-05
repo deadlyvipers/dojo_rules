@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshUserName" value="rfklink" />
+    <option name="sshPrivateKeyPath" value="$USER_HOME$/Documents/ASG Tools/Keys/repos_key" />
+  </component>
+</project>
