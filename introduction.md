@@ -1,1 +1,1 @@
-My name is Lucas
+My name is Lucas and my favorite CodeSchool path is the Ruby one.
