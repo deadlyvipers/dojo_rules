@@ -5,3 +5,9 @@ Deadly Skills
 * Algorithm Writing
 * Learning New Stuff 
 * Coding Away
+
+Kill History
+*JavaScript
+*HTML
+*CSS
+*ect.
