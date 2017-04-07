@@ -7,3 +7,4 @@ My favorite Code School path is "Ruby".
 *SQL
 *Scala
 *Go
+*Killing history using git rebase
