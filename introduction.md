@@ -6,3 +6,5 @@ I like Javascript Course
 *CSS
 *Javascript
 *C#
+*Git
+*Killing history using git rebase
