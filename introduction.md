@@ -7,3 +7,4 @@ I like Javascript Course
 *Javascript
 *C#
 *Git
+*Killing history using git rebase
