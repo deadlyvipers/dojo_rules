@@ -1,5 +1,5 @@
 introduction
-*iOS
-*Java
-*Swift
-*Git
+* iOS
+* Java
+* Swift
+* Git
