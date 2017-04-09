@@ -1,4 +1,4 @@
 Introduction
 ============
 
-Blah blah blah blah.
+I like Python. But I have spent the most time on the Javascript path at Codeschool.
