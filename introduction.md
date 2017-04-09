@@ -17,3 +17,4 @@ Deadly Skills
 * KnockoutJS
 * JQuery
 * Twitter-Bootstrap
+* Killing history using git rebase
