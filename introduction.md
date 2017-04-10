@@ -10,3 +10,4 @@ My Deadly Skills
 * Node.js
 * HTML/CSS
 * React.js
+* Killing history using git rebase
