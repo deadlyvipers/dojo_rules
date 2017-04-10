@@ -1,3 +1,4 @@
 introduction right here 
-
-JavaScript
+List of deadly skills:
+* JavaScript
+* Ruby
