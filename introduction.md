@@ -4,5 +4,7 @@ Deadly Skills:
 *GIT
 *JavaScript
 *EmberJS
+*Killing history using git rebase
+
 
 
