@@ -1,3 +1,3 @@
 user = rjethava
 Electives
-Git
+*Git
