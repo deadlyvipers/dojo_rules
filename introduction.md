@@ -1,1 +1,1 @@
-Hello it's Chris doing a GitHub tutorial
+Hello it's Chris doing a GitHub tutorial and the HTML & CSS path is good.
