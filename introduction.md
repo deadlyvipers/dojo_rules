@@ -1,3 +1,6 @@
-I'm a samurai
+Deadly Skills
 
-My favorite code's JavaScript
+* C++
+* Java
+* Git
+* Bash
