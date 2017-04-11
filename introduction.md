@@ -1,6 +1,3 @@
-Deadly Skills
+Killing List
 
-* C++
-* Java
-* Git
-* Bash
+Rebase
