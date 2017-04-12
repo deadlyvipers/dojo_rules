@@ -8,3 +8,4 @@ Kill List
 * Bad variable names
 * Magic numbers
 * Stuff
+* Stuff2
