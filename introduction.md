@@ -4,3 +4,4 @@ Here is florian25686
 * Git
 * Python
 * Python
+* Killing history using git rebase
