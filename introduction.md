@@ -1,3 +1,3 @@
 # Hello
 
-I am James.
+I am James, and my favourite Code School path is HTML & CSS.
