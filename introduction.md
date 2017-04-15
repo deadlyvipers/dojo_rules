@@ -6,10 +6,9 @@ My deadly skills:
 * git
 * sass
 * bootstrap
+* killing history using git rebase
 
-
-
-:wq
+:wq 
 
 
 
