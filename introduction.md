@@ -1,0 +1,5 @@
+skills
+* Git
+* JavaScript
+* Ruby
+
