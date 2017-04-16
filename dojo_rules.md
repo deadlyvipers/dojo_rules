@@ -7,6 +7,5 @@ Dojo Rules
 * Respect your opponent
 * Most Sensei's should be respected 
 * adding new rule
-:w
-:qw
+
 
