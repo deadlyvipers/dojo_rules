@@ -1,1 +1,1 @@
-"Hey checking out github"
+"Hey checking out github, like a bit of javascript"
