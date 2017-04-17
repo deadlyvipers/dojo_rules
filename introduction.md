@@ -6,3 +6,4 @@ Introduction
 Deadly skills
 * C#
 * .NET
+* Killing history using git rebase
