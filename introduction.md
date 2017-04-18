@@ -3,3 +3,4 @@ Something new here.
 * Git
 * JavaScript
 * Ruby
+* Shoto
