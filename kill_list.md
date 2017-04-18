@@ -8,7 +8,3 @@ Kill List
 * Bad variable names
 * total craziness
 
-
-
-
-:wq
