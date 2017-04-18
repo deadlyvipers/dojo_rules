@@ -13,3 +13,4 @@ deadly skills:
 * Postgresql
 * MongoDB
 * baking
+* Killing history using git rebase
