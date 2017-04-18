@@ -6,3 +6,4 @@ I prefer Android development over them all.  Native Android/iOS.
 * Java
 * Objective-C
 * Swift
+* Killing history using git rebase
