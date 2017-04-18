@@ -1,3 +1,6 @@
 I am dojo mojo.
 Something new here.
-JavaScript
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
