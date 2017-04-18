@@ -3,4 +3,4 @@ Something new here.
 * Git
 * JavaScript
 * Ruby
-* Shoto
+* Killing history using git rebase
