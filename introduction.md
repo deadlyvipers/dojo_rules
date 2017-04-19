@@ -1,5 +1,6 @@
 introduction
-Git
-.net
-C#
-JavaScript
+Killing history using git rebase
+*Git
+*.net
+*C#
+*JavaScript
