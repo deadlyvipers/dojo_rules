@@ -1,5 +1,5 @@
 introduction
-Git
+git
 .net
 C#
 JavaScript
