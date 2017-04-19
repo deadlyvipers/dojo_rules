@@ -6,3 +6,4 @@ Fine. I guess Ruby?
 Deadly skills? Git?
 * So testy
 * Maybe this will work
+* Killing history using git rebase
