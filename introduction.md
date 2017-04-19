@@ -7,7 +7,7 @@ Deadly Skills:
 *SQL
 *JavaScript
 *Git
+*Killing history using git rebase
 
 I enjoy taking Code School Courses and watching Code School Screencasts.
 My favorite Code School Path is the Electives Path.
-
