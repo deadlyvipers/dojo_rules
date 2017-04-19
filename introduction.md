@@ -3,3 +3,4 @@ favorite codeschool path:
 * JavaScript
 * Git
 * Scala
+* Killing history using git rebase
