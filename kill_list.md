@@ -1,5 +1,7 @@
+kill list
+* abc
+hello
 Kill List
-=========
 * Unused code
 * Functions with side effects
 * Unformatted code
