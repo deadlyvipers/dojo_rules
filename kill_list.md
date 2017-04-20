@@ -4,4 +4,4 @@ Kill List
 *Functions with side effects
 *Unformetted code
 *Repeate code blocks
-*Bad variable names
+*Bad variable name
