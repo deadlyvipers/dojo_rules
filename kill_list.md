@@ -1,1 +1,2 @@
 kill list
+* abc
