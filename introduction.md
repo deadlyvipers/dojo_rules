@@ -1,2 +1,4 @@
-I'm Branislav Petrovic and I want to introduce me to the dojo.
-Ruby
+*Git
+*Javascript
+*Ruby
+*Killing history using git rebase
