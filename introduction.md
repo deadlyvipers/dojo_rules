@@ -6,5 +6,6 @@ Skills:
 * JavaScript
 * Ruby"
 Thurshday changes.
+Hello
 Thurshday changes2.
 css
