@@ -5,3 +5,4 @@ This is an introduction.
 * Hibernate
 * Spring MVC
 * Spring Security
+* Killing history using rebase
