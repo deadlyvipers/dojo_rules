@@ -1,4 +1,3 @@
 Kill List
 =========
 * Budd
-* Bill
