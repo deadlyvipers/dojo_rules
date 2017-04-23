@@ -1,2 +1,2 @@
 Name: Lucky
-Code School Path: Backend
+Code School Path: JavaScript
