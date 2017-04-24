@@ -1,0 +1,1 @@
+*Hi! im Kamil, my favourite course path is Javascript and Git! 
