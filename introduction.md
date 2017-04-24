@@ -1,1 +1,1 @@
-I am Brent
+I am Brent and JavaScript is my game
