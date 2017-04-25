@@ -8,3 +8,4 @@ JavaScript
 * Java
 * React 
 * Node
+* Python
