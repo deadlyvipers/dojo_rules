@@ -1,3 +1,2 @@
 Welcome to the dojo.
-My favorite code school is Java
-
+My favorite Code School is JavaScript.
