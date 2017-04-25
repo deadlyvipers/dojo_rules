@@ -1,2 +1,2 @@
 I am Shawn.
-My favorite codeschool path is CSS.
+My favorite Code School path is CSS.
