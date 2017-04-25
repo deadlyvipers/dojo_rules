@@ -4,7 +4,7 @@ Hello World
 
 JavaScript
 
-- Git
-- Java
-- React 
-- Node
+* Git
+* Java
+* React 
+* Node
