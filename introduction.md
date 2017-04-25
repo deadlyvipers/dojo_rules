@@ -1,1 +1,1 @@
-Welcome to the dojo. I am Molly
+Welcome to the dojo.
