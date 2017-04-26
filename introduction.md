@@ -1,1 +1,1 @@
-Hello, I am Artjom.
+Hello, I am Artjom. My favorite path so far is Git :).
