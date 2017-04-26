@@ -1,2 +1,2 @@
 bla bla
-path github
+path Git
