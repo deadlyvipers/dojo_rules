@@ -4,4 +4,4 @@ My favorite codeschool path is Mastering JavaScript
 *JavaScript
 *Java
 *Ruby
-
+*Killing history using git rebase
