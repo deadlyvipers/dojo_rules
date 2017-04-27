@@ -1,2 +1,2 @@
-This file contains an introduction.  I am a student.
+This file contains an introduction.  I am a codeschool student.
 My favorite codeschool path is Electives.
