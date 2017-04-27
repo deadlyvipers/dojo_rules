@@ -4,3 +4,4 @@ Dead skills include:
 * Git
 * Python
 * Not much else
+* Killing history using git rebase
