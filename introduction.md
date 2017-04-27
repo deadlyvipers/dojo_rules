@@ -6,6 +6,7 @@ My favorite path was javascript :)
 
 Skills
 * Javascript
-* Android 
+* Android
+* Killing history using git rebase 
 
 Cheers
