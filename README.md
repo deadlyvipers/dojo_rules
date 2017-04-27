@@ -3,7 +3,7 @@ Dojo Rules
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
-## Bold? I think so
+## All members should read the rules
 
 Link? [Link.](https://github.com/deadlyvipers)
 
