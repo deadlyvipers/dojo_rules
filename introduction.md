@@ -3,3 +3,4 @@ My Deadly Skills Are:
 *C
 *Logic Coding
 *Git
+*Killing history using git rebase
