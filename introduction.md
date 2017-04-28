@@ -5,4 +5,4 @@ HTML
 *CSS
 *JavaScript
 *C#
-*Killing history using rebase
+*Killing history using git rebase
