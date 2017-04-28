@@ -6,3 +6,4 @@ Deadly Skills:
 *C#
 *Git
 *Ruby
+*Killing history using git rebase
