@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Inconsistent indents
+* Inconsistent naming conventions
+* Holy wars
