@@ -7,3 +7,5 @@ Kill List
 * Bad variable names
 * Hanging pointers
 * Stack overflow
+* Seg faults
+
