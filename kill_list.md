@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * missing semicolons
 * no descriptive pseudo code!
+* tedious pull requests
