@@ -1,0 +1,1 @@
+Introduction of Ionut Verzea to Dojo Rules repo.
