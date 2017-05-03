@@ -1,2 +1,3 @@
-JavaScript
-This is jamesj
+* JavaScript
+* Git
+* This is jamesj
