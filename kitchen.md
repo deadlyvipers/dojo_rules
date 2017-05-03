@@ -1,3 +1,0 @@
-* Knife
-* Fork
-* Plate
