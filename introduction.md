@@ -1,4 +1,4 @@
 Name: Yisaak
 Location: Canada
-favourite Code School Path: Python.
+favourite Code School Path: Electives.
 
