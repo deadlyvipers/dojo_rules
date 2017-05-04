@@ -1,2 +1,3 @@
-this is selfdirectedlearner
-and this is codeschool
+this is learning
+this is internet
+this is universe
