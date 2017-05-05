@@ -1,3 +1,1 @@
-# Hello!
-
-JavaScript !
+JavaScript
