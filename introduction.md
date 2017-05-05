@@ -1,1 +1,1 @@
-Hello my name is Lukas and I am new to the dojo.
+Hello my name is Lukas and I am new to the dojo. My favorite codeschool path is JavaScript.
