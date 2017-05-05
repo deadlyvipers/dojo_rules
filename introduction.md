@@ -6,3 +6,5 @@ I like Javascript.
 * git
 * Sass
 * React
+* Killing history using git rebase
+
