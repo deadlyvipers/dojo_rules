@@ -5,3 +5,4 @@ Skills
 * Go
 * Elm
 * Git
+* Killing history using git rebase
