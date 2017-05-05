@@ -6,3 +6,4 @@ Lewap88, learning Git Hub. My favorite path so far is JavaScript.
 * C++
 * GitHub
 * Java
+* Killing history using git rebase
