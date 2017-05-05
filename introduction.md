@@ -5,3 +5,4 @@ Deadly skills:
 * JavaScript
 * Content
 * Shopify
+* Killing history using git rebase
