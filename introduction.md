@@ -1,1 +1,2 @@
 codeschool course 
+JavaScript
