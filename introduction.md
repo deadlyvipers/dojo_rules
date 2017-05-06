@@ -1,2 +1,8 @@
-codeschool course 
-JavaScript
+Codeschool course 
+
+Skills
+*Git
+*Java
+*Scala
+*Javascript
+
