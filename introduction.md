@@ -1,2 +1,3 @@
 Hi! I am robertbjarum
-Favourite: Github
+
+Favourite path is Javascript
