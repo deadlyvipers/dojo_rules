@@ -5,4 +5,4 @@ Skills
 *Java
 *Scala
 *Javascript
-
+*Killing history using git rebase
