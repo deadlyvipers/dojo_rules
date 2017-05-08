@@ -6,3 +6,4 @@ my favorite code path is Electives
 * java
 * scala
 * git
+* Killing history using git rebase
