@@ -1,1 +1,2 @@
-ntroduction.md Hello This is ganesh
+Hello This is ganesh
+Code School Path = JavaScript
