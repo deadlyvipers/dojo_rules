@@ -1,1 +1,1 @@
-Hello World from @mcamis. No favorite course yet.
+Hello World from @mcamis. My favorite path is Ruby.
