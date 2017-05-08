@@ -1,1 +1,1 @@
-foo bar baz
+Hello World from @mcamis. No favorite course yet.
