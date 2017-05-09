@@ -2,3 +2,8 @@ Hello
 ruby
 git haha takie tam
 *rails ruby gem
+
+Skills:
+* Git
+* JavaScript
+* Ruby
