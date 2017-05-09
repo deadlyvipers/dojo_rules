@@ -1,7 +1,5 @@
-Kill List
-=========
-a
-def b():
-	pass
- c
-continue = 'hello'
+Unused code
+Functions with side effects
+Unformatted code
+Repeated code blocks
+Bad variable names
