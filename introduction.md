@@ -1,2 +1,5 @@
-Hello
-ruby
+Skills:
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
