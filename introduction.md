@@ -1,3 +1,3 @@
 Introduction
 Favourite path = JavaScript
-Add deadly_skills *
+Add some changes
