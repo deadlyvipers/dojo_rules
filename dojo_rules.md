@@ -6,7 +6,7 @@
 * Never bring live blades on the tatami
 * Respect your opponents
 * Some Sensei's should be respected
-My favorite path is ruby
+ Ruby
 
 
 
