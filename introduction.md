@@ -6,3 +6,4 @@ JavaScript
 * css
 * scss
 * jquery
+* Killing history using git rebase
