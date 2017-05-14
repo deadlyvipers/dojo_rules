@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Keep the code clean at all times
-
+* Write short and efficient
