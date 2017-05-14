@@ -5,8 +5,9 @@ My favorite codeschool path is JavaScript.
 
 Skills
 ======
-*HTML
-*CSS
-*JavaScript
-*Kazoo
-*Karate
+* HTML
+* CSS
+* JavaScript
+* Kazoo
+* Karate
+* Killing history using git rebase
