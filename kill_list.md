@@ -2,7 +2,6 @@ To add a bit of a personal touch, add a programmer grievance of your own
 fuck?
 make changes
 Unused code
-Functions with side effects
 Unformatted code
 Repeated code blocks
 Bad variable names
