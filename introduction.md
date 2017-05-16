@@ -1,1 +1,2 @@
-My name is Marcos
+Updated introduction 
+Favorite path is Ruby
