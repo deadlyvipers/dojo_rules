@@ -3,3 +3,4 @@ My favorite Code School path is React
 * Git
 * JavaScript
 * Ruby
+* React
