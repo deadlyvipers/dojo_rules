@@ -2,6 +2,6 @@ Kill List
 =========
 * Unused code
 * Functions whit side effects
-* Unformated code
+* Unformatted code
 * Repeated code blocks
 * Bad variable names
