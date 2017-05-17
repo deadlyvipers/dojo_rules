@@ -1,3 +1,3 @@
 ~My name is Danny
-*Ruby
+*python
 ~
