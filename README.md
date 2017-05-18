@@ -1,6 +1,6 @@
 Dojo Rules
 ==========
 
-all members read rules
+all members read ruleshttps:
 This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+printf "Dojo Rules\n==========\n\nThis repository contains a list of dojo rules for the Deadly Vipers dojo\n\nAll members should read the rules.\n\nFor more information, checkout the [deadlyvipers](https://github.com/deadlyvipers)."
