@@ -6,3 +6,5 @@ My favorite Code School path is React
 * React
 * Hello
 
+=======
+My favorite Code School path is React
