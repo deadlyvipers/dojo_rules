@@ -5,6 +5,5 @@ My favorite Code School path is React
 * Ruby
 * React
 * Hello
+* Rebase
 
-=======
-My favorite Code School path is React
