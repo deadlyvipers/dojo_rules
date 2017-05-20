@@ -1,2 +1,2 @@
 This is an introduction.
-git
+Electives
