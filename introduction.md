@@ -1,4 +1,7 @@
 The samurai has entered the dojo...
 A true warrior knows that is one destination but many paths that lead to it...
 The path seems blocked by: JavaScript
+* Git
+* Python
+* Java
 * Killing history using git rebase
