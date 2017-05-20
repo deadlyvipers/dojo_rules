@@ -1,3 +1,6 @@
 hi
 
-Ruby
+* Ruby
+* Rails
+* Killing history using git rebase
+
