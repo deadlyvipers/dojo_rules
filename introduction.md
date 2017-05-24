@@ -3,3 +3,5 @@ Some of my deadly skills:
 *Git
 *HTML
 *CSS
+*Killing History using git rebase
+
