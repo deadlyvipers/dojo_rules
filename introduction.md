@@ -7,3 +7,4 @@ Deadly skills:
 * Ruby
 * Linux
 * Awesomeness
+* Killing history with git rebase
