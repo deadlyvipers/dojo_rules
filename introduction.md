@@ -1,3 +1,5 @@
 This is sparta
 
-Ruby
+* Ruby
+* Git
+* Javascript
