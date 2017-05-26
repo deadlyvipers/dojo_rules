@@ -8,3 +8,5 @@ Kill List
 * Bad variable names
 * 'Manager' classes
 * 'doIt' functions
+* repos without readmes
+
