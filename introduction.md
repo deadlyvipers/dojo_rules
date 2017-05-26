@@ -2,4 +2,4 @@ love javascript
 * Git 
 * JavaScript
 * Ruby
-Killing history using git rebase
+Killing history using git rebase 
