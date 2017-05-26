@@ -1,3 +1,11 @@
 Will Soares, frontend developer
-JavaScript
+* HTML
+* CSS
+* JavaScript Templates
+* JavaScript
+* Karma
+* Sinon
+* Mocha
+* Git
+* Killing history using git rebase
 
