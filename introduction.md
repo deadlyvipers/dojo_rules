@@ -7,4 +7,5 @@ Will Soares, frontend developer
 * Sinon
 * Mocha
 * Git
+* Killing history using git rebase
 
