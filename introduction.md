@@ -3,3 +3,4 @@ My Introduction.....
 * Git
 * Javascript
 * CSharp
+* Killing history using git rebase
