@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Incorrect commits to git
-
+* Code School classes that don't seem to submit correctly
