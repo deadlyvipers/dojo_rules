@@ -2,5 +2,6 @@ Dojo Rules
 ==========
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
-[I'm the parent](https://github.com/deadlyvipers)
+All members should read the rules at
+[deadly vipers](https://github.com/deadlyvipers)
 
