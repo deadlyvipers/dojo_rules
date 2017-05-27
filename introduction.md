@@ -1,5 +1,2 @@
 ### Introduction
-Hi I'm Daniel. This dojo is rad.
-
-### Favorite path
-PHP
+Hi I'm Daniel. This dojo is rad. My favorite path has been PHP.
