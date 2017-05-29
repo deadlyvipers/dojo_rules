@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Long variable names
 * No documentation
+* Long code blocks
