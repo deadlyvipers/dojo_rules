@@ -8,3 +8,4 @@ Kill List
 * Long variable names
 * No documentation
 * Long code blocks
+* Memory hogging codes
