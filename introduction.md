@@ -4,6 +4,6 @@ The HTML & CSS path is my favourite.
 
 ## Skills
 
-* Git
+* Killing history using git rebase
 * Rails
 * HTML/CSS
