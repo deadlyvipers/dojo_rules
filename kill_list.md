@@ -9,3 +9,4 @@ Kill List
 * No documentation
 * Long code blocks
 * Memory hogging codes
+* Omg
