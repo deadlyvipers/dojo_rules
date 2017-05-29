@@ -8,4 +8,4 @@ Skills:
 * JavaScript
 * C#
 * VueJS
-
+* Killing history using git rebase
