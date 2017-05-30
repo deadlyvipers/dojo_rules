@@ -6,4 +6,6 @@ Bué developer.
 
 Swimming Enthusiast.
 
+I like Ruby. And Snails.
+
 Bye.
