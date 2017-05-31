@@ -15,3 +15,5 @@ Bye.
 * Laravel
 * PHP
 * MySQL
+
+Killing history using git rebase
