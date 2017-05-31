@@ -1,2 +1,1 @@
-Some kind of introduction...
-Favoring the git branch!
+JavaScript
