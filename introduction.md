@@ -1,2 +1,5 @@
-CAOrtiz201
-Git, JavaScript, HTML, CSS
+*Git
+*JavaScript
+*HTML
+*CSS
+*Killing hisotory using git rebase
