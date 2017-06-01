@@ -1,2 +1,4 @@
-CAOrtiz201
-Git, JavaScript, HTML, CSS
+*Git
+*JavaScript
+*HTML
+*CSS
