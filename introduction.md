@@ -10,3 +10,4 @@ deadly_skills:
 * Python
 * Java
 * BASH
+* Killing history using git rebase
