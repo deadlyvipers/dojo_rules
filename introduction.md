@@ -1,2 +1,4 @@
-"hello" 
-" JavaScript" 
+hello JavaScript
+* Git
+* JavaScript
+* Python
