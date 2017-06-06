@@ -10,6 +10,8 @@ The weapons I am profissioned with, are
 * Ruby
 * Javascript
 * c#
+* Killing history using git rebase
 * c++
 
 And more. If you are a code-monster, you will soon find yourself slain.
+I mean it.
