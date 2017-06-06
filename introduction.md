@@ -1,3 +1,4 @@
 My name is Daisuke Takeshita. I study the retina.
-My favorate is http://campus.codeschool.com/courses/mastering-github
+My favorate is
+https://www.codeschool.com/learn/html-css
 
