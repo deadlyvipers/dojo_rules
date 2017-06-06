@@ -15,3 +15,4 @@ My favourite CodeSchool path is JavaScript
 * C#
 * Git
 * Python
+* Killing history using git rebase
