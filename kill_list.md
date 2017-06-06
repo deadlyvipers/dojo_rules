@@ -7,4 +7,4 @@ Kill List
 * Bad variable names
 * what the fuck fix it
 * try again...
-* was soll der mist
+* bla bla da
