@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * what the fuck fix it
 * .... im annoyed of this shit
+* email versuch
