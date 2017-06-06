@@ -6,5 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * what the fuck fix it
-* try again...
-* bla bla da
+* .... im annoyed of this shit
