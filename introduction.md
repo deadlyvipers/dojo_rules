@@ -10,8 +10,8 @@ My favourite CodeSchool path is JavaScript
 
 ### Deadly Skills
 
-- JavaScript
-- HTML
-- C#
-- Git
-- Python
+* JavaScript
+* HTML
+* C#
+* Git
+* Python
