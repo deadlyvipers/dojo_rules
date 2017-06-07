@@ -1,5 +1,6 @@
-I introduce myself here then add commit to push the changes
-Yeah! I am intersted into:
+
+
+Intersted into:
 * Git
 * Ruby
 * HTML/CSS 
@@ -7,3 +8,6 @@ Yeah! I am intersted into:
 * Angular.js
 * SQL
 * full stack developer
+
+
+
