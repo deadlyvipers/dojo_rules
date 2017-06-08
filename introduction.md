@@ -1,3 +1,3 @@
 Hello I am Jonel Rempis
 
-mastering-github
+My favorite Code School Path is Git
