@@ -5,3 +5,4 @@ Hello! I'm Conor! My favourite Code School path is Javascript. :)
 * HTML
 * CSS
 * jQuery
+* Killing history using git rebase
