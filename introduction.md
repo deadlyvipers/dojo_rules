@@ -1,1 +1,1 @@
-Hello! I'm Conor! :)
+Hello! I'm Conor! My favourite Code School path is Javascript. :)
