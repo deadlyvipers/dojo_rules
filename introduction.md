@@ -1,3 +1,3 @@
 
 hello
-I'm jpfong
+I'm jpfong, favorite path: JavaScript
