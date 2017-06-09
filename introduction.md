@@ -1,1 +1,1 @@
-My favorite Code School path is .Net
+My favorite Code School path is HTML & CSS
