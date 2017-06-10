@@ -1,4 +1,6 @@
 Kill List
+* Uncommented code
+* Spaghetti code
 * Unused code
 * Functions with side effects
 * Unformatted code
