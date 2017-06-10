@@ -4,3 +4,4 @@ Deadly skills
 * html
 * css
 * killing history 
+* Killing history using get rebase
