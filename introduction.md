@@ -1,1 +1,6 @@
-My name is Vlad
+My name is Vlad 
+Favourite path is Javascript
+:wq
+
+:wq
+
