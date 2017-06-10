@@ -3,3 +3,4 @@ favorite path is HTML
 Deadly skills
 * html
 * css
+* killing history 
