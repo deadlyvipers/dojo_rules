@@ -10,4 +10,5 @@ dly skills:
 * React
 * JQuery
 * Redux
+* Killing history using git rebase
 
