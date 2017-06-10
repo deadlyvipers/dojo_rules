@@ -1,2 +1,5 @@
-My name is Johnny
-JavaScript
+*Git
+*Javascript
+*Ruby
+*Kendo
+*Killing history using git rebase
