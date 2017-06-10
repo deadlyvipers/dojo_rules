@@ -1,2 +1,4 @@
-My name is Johnny
-JavaScript
+*Git
+*Javascript
+*Ruby
+*Kendo
