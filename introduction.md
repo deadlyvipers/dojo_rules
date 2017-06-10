@@ -1,6 +1,14 @@
 My name is Vlad 
 Favourite path is Javascript
-:wq
 
-:wq
+
+
+dly skills:
+* Javascript
+* HTML
+* CSS
+* React
+* JQuery
+* Redux
+* Killing history using git rebase
 
