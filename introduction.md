@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub.
+Hello! I am Ryan and I'm here to learn about GitHub.
