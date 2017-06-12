@@ -1,7 +1,6 @@
 Action Plan
 ===========
-* Unused code
-* Functions with side effects
-* Unformatted code
-* Repeated code blocks
-* Bad variable names
+* Find and get help from Hattori Hanzo
+* Kill Vernita Green
+* Kill her daughter O-Ren Ishii
+* Kill Bill
