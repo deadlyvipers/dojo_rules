@@ -1,2 +1,2 @@
-skill: Git, JavaScript, Ruby
+*skill: Git, JavaScript, Ruby
 wwwtest hihihi
