@@ -1,2 +1,2 @@
 I am a student
-favorite path is Git
+My favorite Code School path is Ruby
