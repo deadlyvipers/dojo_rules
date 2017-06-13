@@ -1,4 +1,8 @@
 Introduction
 ============
 
-Vamos a probar un par de cosas antes del curso de GitHub
+Mis cursos favoritos:
+
+* AngularJS
+* Angular 2
+* GitReal 1 and 2
