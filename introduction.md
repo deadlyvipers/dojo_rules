@@ -6,4 +6,5 @@ deadly skills
 * Python
 * Ruby
 * Java
+* Killing history using git rebase
 wait for comment
