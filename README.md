@@ -11,4 +11,4 @@ All members should read the rules
 
 
 #### Fuente
-https://github.com/Klerith/dojo_rules/wiki
+[![Deadly Vipers](https://github.com/Klerith/dojo_rules/wiki)]
