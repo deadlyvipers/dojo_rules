@@ -3,6 +3,7 @@ Introduction
 
 Mis cursos favoritos:
 
+* Killing history using git rebase
 * JavaScript
 * HTML
 * AngularJS
