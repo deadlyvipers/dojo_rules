@@ -12,4 +12,4 @@ My Deadly Skills:
 * SQL
 * HTML
 * Excel
-
+* Killing history using git rebase
