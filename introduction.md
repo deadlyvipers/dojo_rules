@@ -1,1 +1,7 @@
-This is the introduction.
+* Git
+* ES2015
+* PHP
+* Drupal
+* CSS3
+* Grunt
+
