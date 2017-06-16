@@ -2,4 +2,4 @@ Hi
 
 This is me
 
-Git all the way for me.
+Git courses all the way for me.
