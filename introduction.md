@@ -2,4 +2,4 @@ Hi
 
 This is me
 
-Git courses all the way for me.
+My favorite Code School path is HTML
