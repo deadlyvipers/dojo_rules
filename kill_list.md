@@ -5,5 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* unused imports
-* unit testing
+* test issue nr 12458
