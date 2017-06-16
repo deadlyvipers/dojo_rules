@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * unused imports
 * unit testing
+* new test
