@@ -1,3 +1,3 @@
-I am Thomas.
+HTML
 
-Mostly I enjoy doing electives from Code School.
+Killing history using git rebase.
