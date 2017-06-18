@@ -2,4 +2,5 @@ Hello dojo
 
 * Ruby
 * CSS
-*JQuery
+* JQuery
+* Killing history using git rebase
