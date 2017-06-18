@@ -5,3 +5,4 @@ My skills are JavaScript, IOS.
 
 * Git
 * JavaScript
+* Killing history using git rebase
