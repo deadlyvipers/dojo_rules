@@ -1,3 +1,3 @@
-_Hi Everyone
-*My name is Islam,I am in the beginning of Web Developer track at Bloc and now I am learning how to use GitHub*
+_Hi Everyone_
+**My name is Islam,I am in the beginning of Web Developer track at [Bloc](https://www.bloc.io) and now I am learning how to use GitHub**
 
