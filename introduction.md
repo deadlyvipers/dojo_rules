@@ -3,3 +3,4 @@ Ruby is my favorite path!
 Skills: 
 *JavaScript
 *Rails
+*Killing history using git rebase
