@@ -3,3 +3,4 @@
 * Git
 * Angular
 * Ruby
+* Killing history using git rebase
