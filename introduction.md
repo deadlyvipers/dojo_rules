@@ -3,7 +3,4 @@ _Hi Everyone_
  _Also I like coding in **HTML/CSS and I like GitHub** so far_
  *GitHub
  *JavaScript
- *Python
- 
-
-
+ *Phyton
