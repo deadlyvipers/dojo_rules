@@ -1,2 +1,5 @@
-hi my name is alex
+i my name is alex
 my favorite CodeSchool branch is Ruby
+*Ruby
+*Git
+*JavaScript
