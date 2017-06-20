@@ -1,1 +1,1 @@
-Ejemplo de eduardo peña
+\nEjemplo de eduardo peña\n
