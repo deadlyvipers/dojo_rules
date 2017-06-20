@@ -1,4 +1,5 @@
 
 Hello I am Kimberly Fafard.
-Ruby
+* Ruby
+* Rebase 
 Yo
