@@ -8,4 +8,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * no coffee in the dojo
-[The Deadly Vipers](https://github.com/deadlyvipers)
+* [The Deadly Vipers](https://github.com/deadlyvipers)
