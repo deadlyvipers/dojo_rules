@@ -1,1 +1,1 @@
-\nEjemplo de eduardo peña\n
+printf("Ejemplo de eduardo peña\n");
