@@ -1,5 +1,6 @@
 Kill List
 =========
+* Frickin pears man
 * Memory overflow
 * Unused code
 * Functions with side effects
