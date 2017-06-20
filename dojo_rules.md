@@ -1,5 +1,6 @@
 Dojo Rules
 ==========
+* All members should read the rules
 * Always be on time
 * Always take off your shoes
 * Keep the dojo tidy
@@ -7,3 +8,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * no coffee in the dojo
+[The Deadly Vipers](https://github.com/deadlyvipers)
