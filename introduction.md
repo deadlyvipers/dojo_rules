@@ -5,4 +5,4 @@ _Hi Everyone_
  *JavaScript
  *Phyton
  *zach z
- Already completed.
+ "killing history using git rebase"
