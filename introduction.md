@@ -1,2 +1,5 @@
 Hello!
-Ruby
+*Ruby
+*Git
+*Javascript
+*rebase
