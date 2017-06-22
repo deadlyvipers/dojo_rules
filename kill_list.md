@@ -6,4 +6,5 @@ Kill List
 *Repeated code blocks
 *Bad variable names
 *Spagetti code
-*hello
+*hello...
+
