@@ -1,2 +1,3 @@
-www.codeschool.com/courses/git-real
+www.codeschoolchool.com/courses/git-real
+courses/git-real
 
