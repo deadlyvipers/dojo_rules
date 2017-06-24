@@ -2,3 +2,4 @@ Hello, I am Mike. I am working on the Code School GIT and then next the JAVASCRI
 * SQL
 * Javascript
 * Drupal
+* Killing history using git rebase
