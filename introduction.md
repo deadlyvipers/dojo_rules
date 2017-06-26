@@ -1,1 +1,4 @@
-hello JavaScript
+hello 
+*Git
+*JavaScript
+*Ruby
