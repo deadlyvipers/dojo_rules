@@ -1,3 +1,2 @@
-JavaScript 
-fgdfgdfgfd 
-fgdfgdfgfd 
+* JavaScript 
+* GIT 
