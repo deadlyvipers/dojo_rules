@@ -1,2 +1,4 @@
-Hello, I'm Disco.  My favourite Code School path has been Electives.
-
+* PowerShell
+* Python
+* Javascript
+* Killing history using git rebase
