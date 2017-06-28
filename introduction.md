@@ -1,2 +1,2 @@
 My name is Bharath and I like functional programming.
-My favorite code school path is `git`.
+My favorite code school path is Electives.
