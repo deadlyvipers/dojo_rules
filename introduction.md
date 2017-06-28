@@ -8,3 +8,4 @@ Deadly Skills:
 * Angular.js
 * Express.js
 * MongoDB
+* Killing history using git rebase
