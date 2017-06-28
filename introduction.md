@@ -7,3 +7,4 @@ My deadly skill are:
 * Cucumber
 * Capybara
 * Java
+* Killing history using git rebase
