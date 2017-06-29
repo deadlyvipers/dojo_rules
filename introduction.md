@@ -4,3 +4,4 @@ My favorite code school path is Electives.
 * scala
 * java
 * javascript
+* Killing history using git rebase
