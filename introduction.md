@@ -12,3 +12,4 @@ My Deadly Skills:
 *MYSQL
 *MONGODB
 *GIT 
+*Killing history using git rebase
