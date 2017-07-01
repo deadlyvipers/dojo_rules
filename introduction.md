@@ -6,3 +6,4 @@ I a cool coding man.
 * Rails
 * Swift
 * Objective-C
+* Killing history using git rebase
