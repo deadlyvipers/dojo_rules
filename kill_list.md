@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Bloody annoying tutorials!
 * Cool
+* Programmer grievances
