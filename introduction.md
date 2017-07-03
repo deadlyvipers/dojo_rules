@@ -1,4 +1,4 @@
 Introduction :
 Name : Joris Truong
 Localization : Paris, France
-Favorite Code School path : Git !
+Favorite Code School path : Git !!
