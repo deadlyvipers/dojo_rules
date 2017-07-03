@@ -1,2 +1,3 @@
-hi iam anand mastering githu
- JavaScript
+*Git
+*JavaScript
+*Ruby
