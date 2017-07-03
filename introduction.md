@@ -1,2 +1,4 @@
-Hello this is a test
-JavaScript all the way!
+*Git
+*Javscript
+*Ruby
+*Killing history using git rebase
