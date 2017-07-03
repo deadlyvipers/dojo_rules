@@ -1,0 +1,4 @@
+*Git
+*Javscript
+*Ruby
+
