@@ -3,3 +3,5 @@ Deadly Skills:
 * Git
 * Ruby
 * JS
+* Puppet
+* Killing history using git rebase
