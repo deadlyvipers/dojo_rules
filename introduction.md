@@ -3,3 +3,4 @@ Deadly Skills:
 * Git
 * Ruby
 * JS
+* Puppet
