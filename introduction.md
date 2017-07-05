@@ -1,3 +1,5 @@
 introduction...
 
-JavaScript
+* JavaScript
+* GitHub
+* rebase
