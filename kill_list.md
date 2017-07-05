@@ -7,3 +7,4 @@ Repeated code blocks
 Bad variable names
 bad indentation
 negative if
+unreadable code
