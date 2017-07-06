@@ -1,6 +1,8 @@
 I am LuisMa ,
 hi!
 I like HTML & CSS
-*Git
-*Javasript
-*PHP
+* Git
+* Javasript
+* PHP
+* Killing history using git rebase
+
