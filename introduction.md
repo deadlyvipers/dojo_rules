@@ -8,3 +8,4 @@ JavaScript is _the best_ path on Code School.
 *HTML
 *CSS
 *Git
+*Killing history using git rebase
