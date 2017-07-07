@@ -11,3 +11,4 @@ My favorite Code School path is JavaScript.
 * Ruby
 * Html/CSS
 * DevOps
+* Killing history using git rebase
