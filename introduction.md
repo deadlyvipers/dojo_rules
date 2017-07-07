@@ -1,3 +1,3 @@
 Hi there
 
-fave code school path is python
+fave code school path is Electives
