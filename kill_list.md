@@ -7,3 +7,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Pretty is better than ugly
+* import his
+* Pretty is better than ugly
