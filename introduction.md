@@ -1,1 +1,1 @@
-Hello, my name is Antoine and I love Java
+Hello, my name is Antoine and I love Javascript
