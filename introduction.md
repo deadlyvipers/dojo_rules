@@ -1,2 +1,2 @@
 Hello, my name is Tiffany a.k.a. KarateTD
-My favorite Code School path is Groovy
+My favorite Code School path is Groovy and Ruby
