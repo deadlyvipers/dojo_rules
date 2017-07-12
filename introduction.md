@@ -7,4 +7,4 @@ Deadly skills:
 * MySql
 * Spring
 * ReactJS
-
+* Killing history using git rebase
