@@ -9,3 +9,13 @@ me to 'level up' in Ruby, Rails and JavaScript.
 Favorite so far are the JavaScript courses.
 
 Funny how much these things are starting to converge.
+
+Deadly Skills:
+* OO-CSS/Sass
+* Semantic HTML
+* JavaScript
+* Accessibility
+* Unix
+* Git/SVN
+* Ruby
+* Rails
