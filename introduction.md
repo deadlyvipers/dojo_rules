@@ -5,3 +5,5 @@ Deadly skills:
 * Java
 * c#
 * MySql
+* Spring
+* ReactJS
