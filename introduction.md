@@ -19,3 +19,4 @@ Deadly Skills:
 * Git/SVN
 * Ruby
 * Rails
+* Rebase
