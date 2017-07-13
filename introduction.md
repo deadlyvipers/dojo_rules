@@ -19,4 +19,5 @@ Deadly Skills:
 * Git/SVN
 * Ruby
 * Rails
+* Killing history using git rebase
 * Rebase
