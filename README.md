@@ -1,4 +1,4 @@
-All members should read the rule
+All members should read the rules
 
 Dojo Rules
 ==========
