@@ -3,4 +3,4 @@ I'm most interested in the angularJS path. But apparently I need to choose Ruby 
 
 *java
 *javascript
-
+*Killing history using git rebase
