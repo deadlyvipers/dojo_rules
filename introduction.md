@@ -4,3 +4,4 @@ Hello, I'm doing this again
 *Git
 *JavaScript
 *Ruby
+*Rebase
