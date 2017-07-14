@@ -1,1 +1,1 @@
-Hey! This is me.
+Hey! This is me. I looove JavaScript.
