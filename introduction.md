@@ -4,4 +4,5 @@ My deadly skills
 *C++
 *JavaScript
 *CSS
-*HTML 
+*HTML
+*Erase history using git rebase
