@@ -1,2 +1,4 @@
-This is an introduction
-Ruby
+Deadly Skills
+*Git
+*Javascript
+*Ruby
