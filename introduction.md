@@ -1,2 +1,3 @@
-hi i am dodo
-git is fav course on code school
+hi i am nishutosh
+
+git is fav course is ruby
