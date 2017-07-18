@@ -5,4 +5,4 @@ My deadly skills
 *JavaScript
 *CSS
 *HTML
-*Erase history using git rebase
+*Killing history using git rebase
