@@ -1,4 +1,4 @@
-Kill List
+Killed List
 =========
 * Unused code
 * Functions with side effects
