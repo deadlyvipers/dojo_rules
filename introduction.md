@@ -1,2 +1,2 @@
 Hello, dojo world.
-Favorite path: Git
+Favorite path: Electives
