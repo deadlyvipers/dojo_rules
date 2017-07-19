@@ -7,3 +7,4 @@ deadly skills
 * JavaScript
 * PHP
 * other stiff
+* Killing history using git rebase
