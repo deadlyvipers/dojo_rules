@@ -5,3 +5,4 @@ Deadly Skills
 * Napping
 * Eating
 * Reading
+* Killing history using git rebase
