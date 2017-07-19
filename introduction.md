@@ -5,3 +5,4 @@ Also mention favorite path.
 *List
 *List 2
 *List 3
+*Killing history using git rebase
