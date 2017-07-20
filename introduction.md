@@ -1,3 +1,3 @@
-Java
-JavaScript
+*Java
+*JavaScript
 Hiiiii
