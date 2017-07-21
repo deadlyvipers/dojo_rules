@@ -5,3 +5,5 @@ Deadly skills list
 ===
 * JavaScript
 * React
+* Killing history using git rebase
+
