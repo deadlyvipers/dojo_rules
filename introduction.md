@@ -6,3 +6,5 @@ Deadly skills list
 * JavaScript
 * JQuery
 * React
+* Killing histroy using git rebase
+
