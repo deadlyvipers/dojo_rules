@@ -4,3 +4,4 @@ Deadly Skills :
 *Git
 *JavaScript
 *C#
+*Killing history using git rebase
