@@ -1,0 +1,1 @@
+Hi, I'm David and I am joining your dojo.
