@@ -5,3 +5,5 @@ My skills are:
 * Paragliding
 * Khmer
 * Climbing
+* and a second attempt
+* Killing history using git rebase
