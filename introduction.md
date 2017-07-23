@@ -4,3 +4,4 @@ My skills are:
 * Cambodia/Thailand/Laos
 * Paragliding
 * Climbing
+* Killing history using git rebase
