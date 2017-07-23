@@ -6,4 +6,5 @@ My skills are:
 * Khmer
 * Climbing
 * and a second attempt
+* Ok, final change, this time with popups
 * Killing history using git rebase
