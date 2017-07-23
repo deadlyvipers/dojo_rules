@@ -1,3 +1,6 @@
-some introduction
-some introduction
-Electives
+* some introduction
+* some introduction
+* Electives
+* Git
+* Git
+
