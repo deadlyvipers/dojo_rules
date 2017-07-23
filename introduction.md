@@ -7,3 +7,4 @@ My skills are:
 * Climbing
 * and a second attempt
 * Killing history using git rebase
+* Ok, final change, this time with popups
