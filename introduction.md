@@ -5,3 +5,4 @@ My skills are:
 * Paragliding
 * Khmer
 * Climbing
+* and a second attempt
