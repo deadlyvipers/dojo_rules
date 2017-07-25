@@ -7,6 +7,7 @@ i like the html/css path and the js path but they're long
 
 deadly skills
 ^^^^^^^^^^^^^
+*Killing history using git rebase
 *html
 *css
 *ecmascript
