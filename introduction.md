@@ -1,1 +1,3 @@
-Testing the introduction
+Bowing down to the sensei
+-JavaScript
+-HTML & CSS
