@@ -1,2 +1,6 @@
 Hi, my name is Murilo
 My favorite path is Ruby.
+*Deadly Skills:
+*Git
+*Javascript
+*Ruby
