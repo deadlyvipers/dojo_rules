@@ -1,6 +1,6 @@
 Deadly Skills
-*JavaScript
-*HTML & CSS
-*PHP
-*Java
-*C++
+* JavaScript
+* HTML & CSS
+* PHP
+* Java
+* C++
