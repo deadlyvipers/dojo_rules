@@ -1,3 +1,6 @@
-Bowing down to the sensei
--JavaScript
--HTML & CSS
+Deadly Skills
+*JavaScript
+*HTML & CSS
+*PHP
+*Java
+*C++
