@@ -3,3 +3,4 @@ So far my favourite path has been HTML & CSS.
 * Git
 * Ruby
 * Javascript
+* Killing history using git rebase"
