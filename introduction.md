@@ -1,2 +1,1 @@
-hello
-all paths are equal
+hello, Javascript
