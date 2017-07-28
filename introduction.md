@@ -1,2 +1,2 @@
 Hi, my name is Tobi!
-My favorite code school path is Python.
+My favorite code school path is Ruby.
