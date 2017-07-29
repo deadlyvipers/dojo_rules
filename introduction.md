@@ -1,4 +1,5 @@
 Introduction
 ==========
-Hello there!
-Electives
+* Git
+* Groovy
+* Grails
