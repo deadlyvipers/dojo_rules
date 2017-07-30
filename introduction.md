@@ -8,3 +8,4 @@ Hello, my name is Jason Godson. I am located in Calgary, AB. My favourite path i
 * HTML
 * CSS
 * Liquid
+* Killing history using git rebase
