@@ -3,6 +3,7 @@ Hello, my name is Jason Godson. I am located in Calgary, AB. My favourite path i
 ## Deadly Skills
 * JavaScript
 * Ruby
+* Rails
 * Chrome Extensions
 * HTML
 * CSS
