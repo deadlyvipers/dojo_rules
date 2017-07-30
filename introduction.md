@@ -6,3 +6,4 @@ JavaScript
 * A
 * B
 * C
+* Killing history using git rebase
