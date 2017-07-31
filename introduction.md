@@ -1,4 +1,6 @@
 Introduction
 ==========
-Hello there!
-Electives
+* Git
+* Groovy
+* Grails
+* "Killing history using git rebase"
