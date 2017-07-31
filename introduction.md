@@ -4,3 +4,4 @@ List of my skills:
 * Ruby
 * Javascript
 * HTML and CSS
+* Killing history using git rebase
