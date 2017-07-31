@@ -1,4 +1,8 @@
 Introduction
 jodelm
 my favorite path is ruby
-Killing history using git rebase
+my deadly skills are
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
