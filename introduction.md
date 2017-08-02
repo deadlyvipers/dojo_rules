@@ -1,2 +1,11 @@
-Welcome to dojo!
-My favorite path is "Electives"
+* Git
+* Javascript
+* CSS3
+* HTML5
+* jQuerry
+* R
+* Golang
+* C
+* C++
+* Perl
+* Python
