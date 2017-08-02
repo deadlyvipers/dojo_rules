@@ -1,3 +1,4 @@
+* Rebase
 * Git
 * Javascript
 * CSS3
@@ -9,5 +10,3 @@
 * C++
 * Perl
 * Python
-* lolz
-* lol lol
