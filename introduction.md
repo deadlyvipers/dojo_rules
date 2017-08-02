@@ -1,0 +1,11 @@
+* Git
+* Javascript
+* CSS3
+* HTML5
+* jQuerry
+* R
+* Golang
+* C
+* C++
+* Perl
+* Python
