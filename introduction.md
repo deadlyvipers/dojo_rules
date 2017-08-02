@@ -9,5 +9,4 @@
 * C++
 * Perl
 * Python
-* lolz
-* lol lol
+* Rebase
