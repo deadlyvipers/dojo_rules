@@ -6,3 +6,4 @@ Deadly skills:
 * C#
 * Git
 * Plasma Fade
+* Killing history using git rebase
