@@ -2,4 +2,7 @@ Hi Im Rodolfo Leal
 
 Nice to meet U
 
-Ruby
+*Ruby
+*Git
+*JavaScript
+* rebase 
