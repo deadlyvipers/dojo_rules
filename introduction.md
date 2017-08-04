@@ -12,3 +12,4 @@ My Deadly Skills
 *JavaScript
 *HTML
 *Killing history using git rebase
+*On More thing
