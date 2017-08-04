@@ -5,3 +5,4 @@ Nice to meet U
 *Ruby
 *Git
 *JavaScript
+* Killing history
