@@ -10,4 +10,5 @@ My Deadly Skills
 ==========================
 *C#
 *JavaScript
-*html
+*HTML
+*Killing history using git rebase
