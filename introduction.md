@@ -1,2 +1,4 @@
 This is an introduction
-JavaScript
+* JavaScript
+* some skills
+* Killing history using git rebase
