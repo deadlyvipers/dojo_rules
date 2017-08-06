@@ -8,3 +8,4 @@ My favorite path on Github is Javascript!
 *CSS
 *Javascript
 *React
+*Killing history using git rebase
