@@ -1,5 +1,6 @@
 * Hi there
 * JavaScript
 * Git,
-* LESS,
-* Gulp
+* LESS
+
+* Killing history using git rebase
