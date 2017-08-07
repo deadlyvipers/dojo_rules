@@ -1,7 +1,7 @@
 Introduction
 ==========
 
-This is an introduction.
+This is an introduction. This is a longer introduction.
 
 My favorite codeschool path is the JavaScript path.
 
