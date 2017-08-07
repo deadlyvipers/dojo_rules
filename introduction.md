@@ -3,3 +3,4 @@
 * JavaScript
 * git
 * sql
+* Killing history using git rebase
