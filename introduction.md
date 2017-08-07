@@ -1,3 +1,3 @@
 Introduction
 ==========
-* Hello Dojo - Electives
+* Hello Dojo
