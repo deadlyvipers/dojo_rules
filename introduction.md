@@ -1,5 +1,5 @@
-introduction
-prase
-JavaScript
-git
-sql
+* introduction
+* prase
+* JavaScript
+* git
+* sql
