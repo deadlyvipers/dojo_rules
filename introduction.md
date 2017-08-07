@@ -12,4 +12,5 @@ Skills:
 * jQuery
 * GIT
 * TFS
-* etc.
+* SVGs
+* AMP
