@@ -5,5 +5,3 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Code style ignore
-* Bad function names
