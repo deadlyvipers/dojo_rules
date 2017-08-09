@@ -1,0 +1,8 @@
+title: Dojo rules
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
