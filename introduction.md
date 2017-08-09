@@ -1,4 +1,4 @@
 am Squomp
 * Ruby
 * Git
-* killing history
+* killing history using git rebase
