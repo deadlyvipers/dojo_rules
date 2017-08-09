@@ -1,2 +1,3 @@
 am Squomp
-Ruby, Git
+Ruby
+Git
