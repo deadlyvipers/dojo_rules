@@ -1,3 +1,5 @@
 # Introduction
 
-Ruby
+* Git
+* Ruby
+* FreeBSD
