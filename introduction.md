@@ -4,3 +4,4 @@ JavaScript
 *Git
 *Ruby
 *Some other skills
+*Killing history using git rebase
