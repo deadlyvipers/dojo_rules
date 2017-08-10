@@ -5,3 +5,4 @@
 * HTML & CSS
 * iOS
 * Git
+* Killing history using git rebase
