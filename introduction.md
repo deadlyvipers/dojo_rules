@@ -1,3 +1,7 @@
 this is an introduction
 
-JavaScript
+* JavaScript
+* Ruby
+* Git
+* HTML
+* CSS
