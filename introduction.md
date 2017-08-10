@@ -4,3 +4,4 @@
 * JavaScript
 * HTML & CSS
 * iOS
+* Git
