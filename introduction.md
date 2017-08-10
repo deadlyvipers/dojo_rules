@@ -7,3 +7,4 @@ The HTML Code school is okay
 *C#
 *Ruby
 *Javascript
+*Killing history using git rebase
