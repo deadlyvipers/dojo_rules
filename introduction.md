@@ -8,3 +8,4 @@ Ruby
 * Ruby
 
 Killing history using git rebase
+v1.2.0
