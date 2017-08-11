@@ -1,2 +1,1 @@
-HI IM JORGE
-Ruby
+*Git
