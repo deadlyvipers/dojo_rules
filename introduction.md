@@ -1,1 +1,1 @@
-My Name is Johnathan
+My Name is John
