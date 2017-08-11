@@ -1,2 +1,4 @@
 Tyeboe
 Ruby
+* C#
+* GIT
