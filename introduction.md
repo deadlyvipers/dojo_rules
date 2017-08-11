@@ -1,1 +1,1 @@
-Hello world, this is Okzea ! :)
+Hello, world ! This is Okzea :)
