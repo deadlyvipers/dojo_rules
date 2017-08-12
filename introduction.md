@@ -8,3 +8,4 @@ Ruby
 *C#
 *C++
 *Java
+*Killing history using git rebase
