@@ -1,3 +1,3 @@
 My name is Diyan Bogdanov
 
-Fav. path - GIT
+Fav. path - JavaScript
