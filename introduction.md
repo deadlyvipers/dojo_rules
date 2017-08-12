@@ -4,3 +4,4 @@ I like Ruby.
 *C#
 *Java
 *C++
+*Killing history with git rebase
