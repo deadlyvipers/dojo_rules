@@ -1,2 +1,6 @@
-hello
-javascript
+
+*java
+*eclipse
+*css
+*killing history using git rebase
+
