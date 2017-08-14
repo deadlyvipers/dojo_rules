@@ -1,5 +1,6 @@
 
 *java
 *eclipse
-*csss
+*css
+*killing history using git rebase
 
