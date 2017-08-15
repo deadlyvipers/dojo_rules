@@ -3,3 +3,4 @@ My favorite paths are CodeSchool:
 * Git
 * JavaScript
 * Ruby 
+* Killing history using git rebase
