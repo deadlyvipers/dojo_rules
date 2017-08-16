@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* ALL CAPS
+* ALL CAPS ALL THE TIME
