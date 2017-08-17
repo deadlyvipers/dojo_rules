@@ -1,5 +1,6 @@
 Kill List
 =========
+<<<<<<< HEAD
 * Unused code
 * Functions with side effects
 * Unformatted code
