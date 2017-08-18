@@ -5,3 +5,5 @@ Meu nome é joão rubens
 * JavaScript
 
 * Ruby
+
+* Killing history using git rebase
