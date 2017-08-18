@@ -5,4 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* semi-colons!!!
+
+* semi-colons are shiteeeeeee
