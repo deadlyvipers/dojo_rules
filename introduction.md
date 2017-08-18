@@ -1,0 +1,1 @@
+Hey, I'm James Kamana. Aspiring full-stack developer.
