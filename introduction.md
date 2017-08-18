@@ -1,2 +1,7 @@
 Meu nome é joão rubens
-Javascript
+
+* Git
+
+* JavaScript
+
+* Ruby
