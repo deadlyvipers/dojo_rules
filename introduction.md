@@ -7,3 +7,4 @@ Deadly Skills
 * CSS
 * Ruby
 * React
+* Killing history using git rebase
