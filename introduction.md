@@ -9,3 +9,5 @@ Code School paths: Python, Ruby, C#, JS, HTML, CSS
 * HTML
 
 * JS
+
+* Killing history using git rebase
