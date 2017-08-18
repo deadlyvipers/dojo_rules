@@ -6,3 +6,4 @@ Deadly Skills:
 *HTML
 *CSS
 *React
+*Killing history using git rebase
