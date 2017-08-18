@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
-* semi-colons are shite
+* semi-colons are shiteeeeeee
