@@ -1,0 +1,9 @@
+Introduction:
+
+My name is Scott and I am a QA Developer at NextGear Capital.
+My favorite path so far is JavaScript.
+Deadly Skills
+*Git
+*JavaScript
+*Ruby
+*Killing history using git rebase
