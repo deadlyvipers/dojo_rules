@@ -15,3 +15,4 @@ Favorite Code School path: Javascript
 * Illustrator
 * SketchUP (3D)
 * Blender
+* Killing history using git rebase
