@@ -12,3 +12,4 @@ My favorite Code School path is JavaScript
 * PHP
 * GIT
 * JS Frameworks
+* Docker
