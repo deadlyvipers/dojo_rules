@@ -5,5 +5,5 @@ Bad coding practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Long methods
+* Long method
 * Monster class
