@@ -5,3 +5,8 @@ Favorite Code Path
 - Javascript
 - Python
 - Android.
+
+## Deadly Skills
+- Javascript
+- Java
+- PHP
