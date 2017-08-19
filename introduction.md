@@ -14,3 +14,4 @@ Favourite Code School Path would be Git and Javascript. Haven't tried the JS cou
 * Swift
 * Javascript 
 * Git
+* Killing history using git rebase
