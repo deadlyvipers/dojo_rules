@@ -9,3 +9,4 @@ Deadly Skills:
  [ ] MySQL
  [*] Photoshop
  [ ] Illustrator
+ [ ] Killing history using git rebase
