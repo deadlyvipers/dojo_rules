@@ -7,6 +7,5 @@ Kill List
 * Bad variable names
 * all is bad
 * going all mad
-* codeschool
 * Fancy names
 * Oh no
