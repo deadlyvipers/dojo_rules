@@ -8,3 +8,5 @@ Kill List
 * all is bad
 * going all mad
 * codeschool
+* Fancy names
+* Oh no
