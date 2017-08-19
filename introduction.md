@@ -8,3 +8,5 @@ coding skills
 * javascript
 * C#
 * VB
+* Killing history using git rebase
+
