@@ -3,3 +3,4 @@ My favourite path is JavaScript.
 
 Deadly Skills:
 * Git
+* FRP
