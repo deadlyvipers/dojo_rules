@@ -9,3 +9,6 @@ deadly skills
 * Elixir
 
 
+Killing history using git rebase
+
+
