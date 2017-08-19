@@ -10,3 +10,4 @@ My deadly skills include
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
