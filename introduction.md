@@ -11,3 +11,4 @@ My favorite Code School path in the moment is the Javascript path.
 * Javascript
 * AngularJS
 * Backbone.js
+* Killing history using git rebase
