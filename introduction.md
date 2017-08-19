@@ -1,1 +1,3 @@
-Hi, I'm hdelazeri
+Hi, I'm hdelazeri.
+
+I like the Ruby path.
