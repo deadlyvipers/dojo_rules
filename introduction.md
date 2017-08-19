@@ -13,3 +13,4 @@ My favorite Code School path is JavaScript
 * GIT
 * JS Frameworks
 * Docker
+* Rebase
