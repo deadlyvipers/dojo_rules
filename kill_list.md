@@ -7,3 +7,4 @@ Bad coding practices
 * Bad variable names
 * Long method
 * Monster class
+* Ciclomatic complexity
