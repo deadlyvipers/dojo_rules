@@ -10,3 +10,8 @@ Last year I started learning about Swift and Git. I'm currently working on an iO
 I am learning more about Github because it's a powerful tool for collaboration in Code School's Free Weekend!
 
 Favourite Code School Path would be Git and Javascript. Haven't tried the JS course yet but it sure looks promising!
+
+* Swift
+* Javascript 
+* Git
+* Killing history using git rebase
