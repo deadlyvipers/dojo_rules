@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * all is bad
 * going all mad
+* codeschool
