@@ -1,1 +1,1 @@
-pane
+tu pane tego
