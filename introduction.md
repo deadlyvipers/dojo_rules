@@ -5,3 +5,4 @@ My deadly skills are:
 * Laravel
 * VueJS
 * Bootstrap
+* Killing history using git rebase
