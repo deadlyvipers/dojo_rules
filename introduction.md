@@ -5,4 +5,5 @@ Some of my skills:
 * Crane style
 * Craning my neck
 * Other things
+* Killing history using git rebase
 
