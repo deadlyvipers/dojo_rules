@@ -6,3 +6,4 @@ list of deadly skills:
 *css
 *python
 *sql
+*killing history using git rebase
