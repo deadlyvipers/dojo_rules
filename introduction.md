@@ -1,3 +1,6 @@
 Notice me senpai!
 
-HTML & CSS
+*HTML & CSS
+*Chrome DevTools
+*Javascript
+
