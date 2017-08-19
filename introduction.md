@@ -3,3 +3,4 @@ My favorite learning path is Electives.
 * R
 * git
 * logomachy
+* Killing history using git rebase
