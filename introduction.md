@@ -1,1 +1,3 @@
 I am introducing myself here...
+
+Favorite Code School path: Javascript
