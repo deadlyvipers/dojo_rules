@@ -1,1 +1,3 @@
-Bigger intro then before
+Introduction
+
+Favorite Code School path - Electives
