@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Bad test scenarios
-* Low code coverage
+* Low code coverage tests
