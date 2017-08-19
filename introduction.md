@@ -1,1 +1,2 @@
 Hello, my name is Jerry.
+My favorite Code School path is HTML and CSS.
