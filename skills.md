@@ -1,3 +1,0 @@
-* Swift
-* Javascript
-* Git
