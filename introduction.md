@@ -9,3 +9,4 @@ Deadly Skills
 * Ruby
 * React
 * Webpack
+* Killing history using git rebase
