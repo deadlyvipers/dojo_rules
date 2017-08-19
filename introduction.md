@@ -3,3 +3,4 @@ My favourite path is JavaScript.
 * DIY
 * Wood
 * Vim
+* Killing history using git rebase
