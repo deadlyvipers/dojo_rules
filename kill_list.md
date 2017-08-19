@@ -5,3 +5,6 @@ Bad coding practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Long method
+* Monster class
+* Ciclomatic complexity
