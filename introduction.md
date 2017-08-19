@@ -10,3 +10,4 @@ Favorite Code Path
 * Javascript
 * Java
 * PHP
+* Killing history using git rebase
