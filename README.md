@@ -3,4 +3,6 @@ Dojo Rules
 
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
-All members should read the [rules](https://github.com/deadlyvipers/dojo_rules/wiki/Rules).
+All members should read the rules.
+
+Back to the [deadlyvipers organization](https://github.com/deadlyvipers).
