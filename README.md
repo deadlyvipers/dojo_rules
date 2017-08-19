@@ -92,7 +92,7 @@ Es como git fetch y git rebase
 Se puede clonar en local, luego hacer commit y push de los cambios. Y si el repo lo crea otro y eres colaborador, también.
 Si no eres colaborador puedes hacer un fork: haces una copia de tu repositorio y puedes hacer commit y push a tu fork.
 
-Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono
+* Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono
 
     ```
     git config --local user.name cristinafsanz
@@ -102,7 +102,7 @@ Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono
     git clone https://github.com/cristinafsanz/dojo_rules.git
     ```
 
-Se puede añadir y hacer commit con un único comando
+* Se puede añadir y hacer commit con un único comando
 
     ```
     git commit -am "Lo que sea"
@@ -178,19 +178,19 @@ Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse ac
 
 ## REVIEW UNA PULL REQUEST
 
-    ```
-    git fetch //te bajas todas las ramas de GitHub
+```
+git fetch //te bajas todas las ramas de GitHub
 
-    git branch -a //ver todas las ramas, también las remotas
+git branch -a //ver todas las ramas, también las remotas
 
-    git checkout //bajar una copia local de una rama remota
-    ```
+git checkout //bajar una copia local de una rama remota
+```
 
 ## INTERACTIVE REBASES PARA SIMPLIFICAR LA HISTORIA
 
-    ```
-    git checkout -b feature_branch
-    ```
+```
+git checkout -b feature_branch
+```
 
 * Antes de hacer el pull request
 
@@ -205,7 +205,7 @@ Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse ac
 
 ## REBASE PARA CREAR HISTORIA LINEAL
 
-Si el equipo está a gusto con eso
+* Si el equipo está a gusto con eso
 
     ```
     git checkout feature_branch
@@ -538,23 +538,23 @@ Ejemplo:
 
 * Instalar Hub
 
-      * Mac:
+    * Mac:
 
-            ```
-          brew update
+    ```
+    brew update
 
-          brew install hub
-          ```
+    brew install hub
+    ```
 
-     * Linux/Windows
+    * Linux/Windows
 
-            ```
-          git clone https://github.com/github/hub.git
+    ```
+    git clone https://github.com/github/hub.git
 
-          cd hub
+    cd hub
 
-          rake install prefix=/usr/local
-          ```
+    rake install prefix=/usr/local
+    ```
 
 * Se pueden usar los comandos
 
