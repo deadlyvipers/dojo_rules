@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Comments that are too verbose or too terse. They should be just right.
+* Comments that are too verbose or too terse.
