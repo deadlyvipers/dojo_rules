@@ -1,2 +1,5 @@
 Hello !
-Would like to follow Electives 
+Would like to follow Electives
+*Git
+*Python
+*Javascript
