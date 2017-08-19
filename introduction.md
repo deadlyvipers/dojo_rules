@@ -7,4 +7,5 @@ GIT-REAL was my favorite codeschool elective class
 *C#
 *Java
 *SQL
+*Killing history using git rebase
 
