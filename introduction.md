@@ -9,3 +9,4 @@ Deadly Skills
 * Node.js
 * Css
 * Html
+* Killing history using git rebase
