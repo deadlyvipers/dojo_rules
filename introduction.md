@@ -1,3 +1,1 @@
-Introduction file
-
-Github path
+https://www.codeschool.com/learn/ruby
