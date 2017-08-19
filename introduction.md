@@ -8,3 +8,4 @@ Deadly Skills
 * Javascript
 * Ruby
 * React
+* Webpack
