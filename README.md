@@ -1,7 +1,7 @@
 Notas personales Curso Mastering GitHub de Codeschool.
 ==========
 
-[Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
+Link del Curso: [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
 Nombre inicial del repositorio: https://github.com/cristinafsanz/dojo_rules
 
@@ -19,48 +19,72 @@ Ej. trabajas con la cuenta para tu empresa pero contribuyes a un proyecto Open S
 
 * Comprobar el local
 
+     ```
      git config --local user.name
+
      git config --local user.email
+     ```
 
 * Ver configuraciones globales
 
+    ```
      git config --global —list
+     ```
+
      o
+
      cat .gitconfig
 
 * Ver configuraciones locales dentro del repositorio
 
+    ```
      git config --local —list
+     ```
+
      o
+
      cat .gitconfig (dentro del repositorio)
 
 * Configurar push default (simple por defecto en Git 2.0)
 
+     ```
      git config —global push.default simple
+     ```
 
 * Configurar pull default
 
+    ```
      git pull —rebase
-          Es como git fetch y git rebase
+     ```
 
-Para hacerlo siempre: git config —global pull.rebase true
+Es como git fetch y git rebase
+
+Para hacerlo siempre:
+
+    ```
+    git config —global pull.rebase true
+    ```
 
 * Configurar alias
 
+    ```
      git status -s //lo mínimo, menos verboso
 
      git s:
+
      git config —global alias.s “status -s"
 
      git lg:
+
      git log //muchas líneas
 
      git config —global alias.lg "log --oneline --decorate --all --graph"
+     ```
 
 * Compartir las configuraciones
 
-     - Tener una página wiki
-     - Poner dot files en un repositorio
+     * Tener una página wiki
+     * Poner dot files en un repositorio
 
 
 ## CREAR UN REPO
@@ -70,15 +94,19 @@ Si no eres colaborador puedes hacer un fork: haces una copia de tu repositorio y
 
 Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono.
 
-git config --local user.name cristinafsanz
-git config --local user.email <mi-email>
+    ```
+    git config --local user.name cristinafsanz
 
-git clone https://github.com/cristinafsanz/dojo_rules.git
+    git config --local user.email <mi-email>
+
+    git clone https://github.com/cristinafsanz/dojo_rules.git
+    ```
 
 Se puede añadir y hacer commit con un único comando:
 
-git commit -am "Lo que sea"
-
+    ```
+    git commit -am "Lo que sea"
+    ```
 
 ## PULL REQUEST
 
@@ -91,22 +119,31 @@ Pull para actualizar el update en el laptop y push para actualizar el fork remot
 
 * Añadir remoto para upstream
 
-git remote add upstream <path-to-repo>
+    ```
+    git remote add upstream <path-to-repo>
+    ```
+
 Ej. git remote add upstream https://github.com/deadlyvipers/dojo_rules.git
 
 * Fetch cambios
 
-git fetch upstream
+    ```
+    git fetch upstream
+    ```
 
 * Merge a master
 
-git merge upstream/master master
+    ```
+    git merge upstream/master master
+    ```
 
 Fetch y merge es igual a: git pull upstream master
 
 * Push al remoto
 
-git push origin master
+    ```
+    git push origin master
+    ```
 
 
 ## WORKFLOW DE REPOSITORIO ÚNICO
@@ -115,6 +152,7 @@ Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse ac
 
 * Utilizar estrategia de ramas por funcionalidad y es fácil colaborar
 
+    ```
      git fetch //para tener todas las ramas
 
      git branch -a //para listar las ramas
@@ -122,79 +160,109 @@ Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse ac
      git checkout f2 // para tener la rama de otro
 
      git checkout -b feature_branch //crear nueva rama
+     ```
 
 * Después se puede hacer merge a master
 
 * Añadir nueva funcionalidad
 
+    ```
      git checkout -b kill_list
+     ```
 
      Añadir un fichero, add, commit
 
+     ```
      git push -u origin kill_list //añade rama remota con ese nombre y dice la rama por defecto para subir para esa rama
-
+     ```
 
 ## REVIEW UNA PULL REQUEST
 
-git fetch //te bajas todas las ramas de GitHub
+    ```
+    git fetch //te bajas todas las ramas de GitHub
 
-git branch -a //ver todas las ramas, también las remotas
+    git branch -a //ver todas las ramas, también las remotas
 
-git checkout //bajar una copia local de una rama remota
-
+    git checkout //bajar una copia local de una rama remota
+    ```
 
 ## INTERACTIVE REBASES PARA SIMPLIFICAR LA HISTORIA
-git checkout -b feature_branch
+
+    ```
+    git checkout -b feature_branch
+    ```
 
 * Antes de hacer el pull request
 
-git rebase -i
+    ```
+    git rebase -i
+    ```
 
 * Buenas prácticas:
-     - Pero nunca coger todos los commit y hacer squash para dejarlo en 1, no hacer squash de la rama entera.
-     - Sólo hacer squash de commits que no sean necesarios.
+
+     * Pero nunca coger todos los commit y hacer squash para dejarlo en 1, no hacer squash de la rama entera.
+     * Sólo hacer squash de commits que no sean necesarios.
 
 ## REBASE PARA CREAR HISTORIA LINEAL
 
 Si el equipo está a gusto con eso.
 
-git checkout feature_branch
-git rebase master
-
+    ```
+    git checkout feature_branch
+    git rebase master
+    ```
 
 ## FAST FORWARD O MERGE RECURSIVOS
 
 ** fast forward: menos commits porque no tienes el commit del merge
+    ```
      git checkout feature_branch
+
      git merge master
+     ```
 
 ** Más recomendable el merge recursivo: más claro
-     git checkout feature_branch
-     git merge —no-ff feature_branch //no se haga el fast forward
 
-     - Así tienes un commit si quieres eliminar este feature_branch de la historia (1 solo commit que revertir).
-     - Queda más claro qué se hizo en una rama.
+    ```
+     git checkout feature_branch
+
+     git merge —no-ff feature_branch //no se haga el fast forward
+     ```
+
+     * Así tienes un commit si quieres eliminar este feature_branch de la historia (1 solo commit que revertir).
+
+     * Queda más claro qué se hizo en una rama.
 
 Ejemplo:
-git rebase -i HEAD~5 //los últimos 5 commits
-     Cambiar el primero con r y los demás con f para quitarlos
-     Puedes cambiar el mensaje del que te quedas
-     Al mirar git log ves que solo queda 1
 
-     git push -f
+    ```
+    git rebase -i HEAD~5 //los últimos 5 commits
+    ```
 
-     En el pull request solo hay 1 commit.
+* Cambiar el primero con r y los demás con f para quitarlos
+
+* Puedes cambiar el mensaje del que te quedas
+
+* Al mirar git log ves que solo queda 1
+
+    ```
+    git push -f
+    ```
+
+En el pull request solo hay 1 commit.
 
 ## MERGEAR UNA RAMA
 
 * Rama deadly_skills a master
 * Hay que estar en la rama master para hacer el merge
 
-git checkout master
+    ```
+    git checkout master
 
-git merge deadly_skills
+    git merge deadly_skills
 
-git push origin master
+    git push origin master
+    ```
 
 Ya se cerró el pull request que estaba abierto.
 
@@ -208,25 +276,31 @@ Ya se cerró el pull request que estaba abierto.
 Tipos:
 
 * git tag: solo un tag (lightweight)
+
 * git tag -s: usa public key (signed)
+
 * git tag -a: (annotated) añade info, cuando y por qué.
 
-git tag -a v1.3.2 -m "Tag message"
+    ```
+    git tag -a v1.3.2 -m "Tag message"
 
-git push —tags
+    git push —tags
+    ```
 
 Ejemplo:
 
 * Te posicionas en un commit en particular
 
-git log
+    ```
+    git log
 
-git checkout cabc2ec
+    git checkout cabc2ec
 
-git tag -a v.1.1.0 //sin poner el -m te sale el vi para poner mejor el mensaje
-     v.1.1.0 - with action plan
+    git tag -a v.1.1.0 //sin poner el -m te sale el vi para poner mejor el mensaje
+         v.1.1.0 - with action plan
 
-git push —tags
+    git push —tags
+    ```
 
 
 ## RELEASE TAGS VS RELEASE BRANCHES
@@ -235,7 +309,7 @@ git push —tags
 
 * Ramas release pueden actualizarse con nuevos commits (ej. hotfix)
 
-Razones:
+* Razones:
 
      * Manual QA
 
@@ -243,6 +317,7 @@ Razones:
 
      * Hot fixes on demand
 
+          ```
           git checkout v.1.1
 
           git checkout -b rb1.1
@@ -260,18 +335,21 @@ Razones:
           git push -d origin rb1.1
 
           git branch -d rb1.1
-
+          ```
 
 ## RELEASES
 
-     * Para compartir binarios descargable con notas adicionales con cada uno de los tags
-          * Así no hace falta que te clones el repositorio
+     * Para compartir binarios descargable con notas adicionales con cada uno de los tags.
 
-     * 1 forma:
-          * A partir de un tag, añadir binaries sin añadirlos al repo
-          * Notas de release más entendibles
+          * Así no hace falta que te clones el repositorio.
 
-     * También si se añade una release se crea automáticamente un tag
+     * Una forma:
+
+          * A partir de un tag, añadir binaries sin añadirlos al repo.
+
+          * Notas de release más entendibles.
+
+     * También si se añade una release se crea automáticamente un tag.
 
      * Cuando estás en la pestaña releases, puedes editarlo y añadir notas y luego publicar la release.
 
@@ -294,8 +372,9 @@ Razones:
 
 * Se puede cerrar si pones “fixes", “closes" o “resolves"
 
-git commit -m "Fixes #1"
-
+    ```
+    git commit -m "Fixes #1"
+    ```
 
 ## WIKI
 
@@ -385,7 +464,7 @@ git commit -m "Fixes #1"
 
     * Para accesos script/API
 
-     Edit profile - Applications - Generate New Token
+        * Edit profile - Applications - Generate New Token
 
 * Acceso automatizado a GitHub
 
@@ -404,81 +483,96 @@ git commit -m "Fixes #1"
 
 ## AUTOMATING GITHUB
 
-* Integrating Existing services
-https://github.com/github/github-services/tree/master/docs
+* Integrating Existing services: https://github.com/github/github-services/tree/master/docs
 
-Settings - Webhooks & Services
+* Settings - Webhooks & Services
 
-Ejemplos:
+* Ejemplos:
 
-* Jira: resuelves issues con mensajes de commit.
+    * Jira: resuelves issues con mensajes de commit.
 
-* CircleCI: ejecuta tests de forma automática cuando haces push.
+    * CircleCI: ejecuta tests de forma automática cuando haces push.
 
 * Crear Webhooks personalizados
 
     * Para integrar nuestras propias aplicaciones
 
-Ejemplo: Actividad de pull request
+* Ejemplo: Actividad de pull request
 
     * Ellos proveen de una url para mi usuario: http://codeschool-mastering-github.herokuapp.com/
 
 
 ## GITHUB API
 
-Ver posibilidades con comandos curl:
+* Ver posibilidades con comandos curl:
 
-curl https://api.github.com: lista de comandos
+    ```
+    curl https://api.github.com: lista de comandos
 
-curl https://api.github.com/emojis: lista de emojis
+    curl https://api.github.com/emojis: lista de emojis
 
-curl https://api.github.com/users/cristinafsanz: información pública de usuario
+    curl https://api.github.com/users/cristinafsanz: información pública de usuario
 
-curl https://api.github.com/users/cristinafsanz/repos: repositorios de usuario
+    curl https://api.github.com/users/cristinafsanz/repos: repositorios de usuario
 
-curl -i https://api.github.com/users/cristinafsanz //con la respuesta
+    curl -i https://api.github.com/users/cristinafsanz //con la respuesta
+    ```
 
 * Para hacer más cosas:
 
      * Crear un personal access token (desde la página web lo más fácil) y utilizarlo
 
-curl -i H’Authorization: token __
+     ```
+     curl -i H’Authorization: token __
+     ```
 
-Se puede crear un nuevo repositorio, crear una nueva issue...
+* Se puede crear un nuevo repositorio, crear una nueva issue...
 
 
 ## COMMAND LINE GITHUB
 
-Sin usar el navegador
+* Sin usar el navegador
 
-* Hub es un wrapper de línea de comandos
+* Hub es un wrapper de línea de comandos.
 
 * Instalar Hub
 
-       Mac:
+      * Mac:
+            ```
           brew update
-          brew install hub
 
-     Linux/Windows
+          brew install hub
+          ```
+
+     * Linux/Windows
+            ```
           git clone https://github.com/github/hub.git
+
           cd hub
+
           rake install prefix=/usr/local
+          ```
 
 * Se pueden usar los comandos
-
+    ```
      hub clone
+
      hub fork
+     ```
 
 * Alias de hub como git
 
+    ```
     alias git=hub
 
     git clone
 
     git fork
+    ```
 
 * Crear un repo usando hub
 
+    ```
     git init new_repo
 
     cd new_repo
@@ -494,9 +588,11 @@ Sin usar el navegador
     git push -u origin master
 
     git browse
+    ```
 
 * Pull request usando hub
 
+    ```
     git checkout -b new_branch
 
     vi new_code.rb
@@ -508,23 +604,28 @@ Sin usar el navegador
     git push - u origin new_branch
 
     git pull-request
+    ```
 
 * Clone usando hub
 
+    ```
     git clone repo_name //nuestro repo
 
     git clone username/repo_name //repo de otros
+    ```
 
 * Fork
-
+    ```
     git clone deadlyvipers/dojo_rules
 
     cd dojo_rules
 
     git fork
+    ```
 
 * Para pull-request hay que especificar repo/rama para que no vaya a la original
 
+    ```
     git checkout -b new_branch
 
     vi new_code.rb
@@ -534,6 +635,7 @@ Sin usar el navegador
     git commit
 
     git pull-request -b cristinafsanz:master -h cristinafsanz:new_branch
-    
+
     git browse dojo_rules
+    ```
 
