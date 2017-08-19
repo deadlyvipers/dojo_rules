@@ -4,3 +4,4 @@ Electives
 * Javascript
 * Python
 * C#
+* Killing history using git rebase
