@@ -4,3 +4,4 @@ My favourite path is the Ruby one.
 Awesomnish deadly skills
 * ruby
 * docker :'-)
+* Killing history using git rebase
