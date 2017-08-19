@@ -48,21 +48,21 @@ Ej. trabajas con la cuenta para tu empresa pero contribuyes a un proyecto Open S
 * Configurar push default (simple por defecto en Git 2.0)
 
      ```
-     git config —global push.default simple
+     git config --global push.default simple
      ```
 
 * Configurar pull default
 
     ```
-     git pull —rebase
+     git pull --rebase
      ```
 
 Es como git fetch y git rebase
 
-Para hacerlo siempre:
+* Para hacerlo siempre
 
     ```
-    git config —global pull.rebase true
+    git config --global pull.rebase true
     ```
 
 * Configurar alias
@@ -92,7 +92,7 @@ Para hacerlo siempre:
 Se puede clonar en local, luego hacer commit y push de los cambios. Y si el repo lo crea otro y eres colaborador, también.
 Si no eres colaborador puedes hacer un fork: haces una copia de tu repositorio y puedes hacer commit y push a tu fork.
 
-Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono.
+Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono
 
     ```
     git config --local user.name cristinafsanz
@@ -102,7 +102,7 @@ Hago un fork de https://github.com/deadlyvipers/dojo_rules y lo clono.
     git clone https://github.com/cristinafsanz/dojo_rules.git
     ```
 
-Se puede añadir y hacer commit con un único comando:
+Se puede añadir y hacer commit con un único comando
 
     ```
     git commit -am "Lo que sea"
@@ -205,7 +205,7 @@ Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse ac
 
 ## REBASE PARA CREAR HISTORIA LINEAL
 
-Si el equipo está a gusto con eso.
+Si el equipo está a gusto con eso
 
     ```
     git checkout feature_branch
@@ -214,14 +214,15 @@ Si el equipo está a gusto con eso.
 
 ## FAST FORWARD O MERGE RECURSIVOS
 
-** fast forward: menos commits porque no tienes el commit del merge
+* fast forward: menos commits porque no tienes el commit del merge
+
     ```
      git checkout feature_branch
 
      git merge master
      ```
 
-** Más recomendable el merge recursivo: más claro
+* Más recomendable el merge recursivo: más claro
 
     ```
      git checkout feature_branch
@@ -233,7 +234,7 @@ Si el equipo está a gusto con eso.
 
      * Queda más claro qué se hizo en una rama.
 
-Ejemplo:
+* Ejemplo
 
     ```
     git rebase -i HEAD~5 //los últimos 5 commits
@@ -279,7 +280,7 @@ Tipos:
 
 * git tag -s: usa public key (signed)
 
-* git tag -a: (annotated) añade info, cuando y por qué.
+* git tag -a: (annotated) añade info, cuando y por qué
 
     ```
     git tag -a v1.3.2 -m "Tag message"
@@ -339,25 +340,25 @@ Ejemplo:
 
 ## RELEASES
 
-     * Para compartir binarios descargable con notas adicionales con cada uno de los tags.
+ * Para compartir binarios descargable con notas adicionales con cada uno de los tags.
 
-          * Así no hace falta que te clones el repositorio.
+      * Así no hace falta que te clones el repositorio.
 
-     * Una forma:
+ * Una forma:
 
-          * A partir de un tag, añadir binaries sin añadirlos al repo.
+      * A partir de un tag, añadir binaries sin añadirlos al repo.
 
-          * Notas de release más entendibles.
+      * Notas de release más entendibles.
 
-     * También si se añade una release se crea automáticamente un tag.
+ * También si se añade una release se crea automáticamente un tag.
 
-     * Cuando estás en la pestaña releases, puedes editarlo y añadir notas y luego publicar la release.
+ * Cuando estás en la pestaña releases, puedes editarlo y añadir notas y luego publicar la release.
 
-          * Draft a new release.
+      * Draft a new release.
 
-          * Target: puedes buscar en el select el commit que quieres seleccionar.
+      * Target: puedes buscar en el select el commit que quieres seleccionar.
 
-          * Título: v1.0.0 y la descripción.
+      * Título: v1.0.0 y la descripción.
 
 
 ## ISSUES
@@ -504,7 +505,7 @@ Ejemplo:
 
 ## GITHUB API
 
-* Ver posibilidades con comandos curl:
+* Ver posibilidades con comandos curl
 
     ```
     curl https://api.github.com: lista de comandos
@@ -538,6 +539,7 @@ Ejemplo:
 * Instalar Hub
 
       * Mac:
+
             ```
           brew update
 
@@ -545,6 +547,7 @@ Ejemplo:
           ```
 
      * Linux/Windows
+
             ```
           git clone https://github.com/github/hub.git
 
@@ -554,6 +557,7 @@ Ejemplo:
           ```
 
 * Se pueden usar los comandos
+
     ```
      hub clone
 
