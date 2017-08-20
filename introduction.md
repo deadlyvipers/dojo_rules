@@ -1,1 +1,2 @@
-Hi my name is Kim
+Hi my name is Kim.
+Favorite Code School path React.
