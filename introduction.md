@@ -1,1 +1,2 @@
-Hi, my name is Will. My favourite code school is php
+Hi, my name is Will.
+My favourite Code School path is PHP
