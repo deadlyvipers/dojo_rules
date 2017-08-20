@@ -1,4 +1,6 @@
 # Introduction
 
-Javascript
-Android
+* Javascript
+* Android
+* Git
+* rebase
