@@ -3,3 +3,5 @@
     Unformatted code
     Repeated code blocks
     Bad variable names
+    Lack of indentation
+    Too large classes
