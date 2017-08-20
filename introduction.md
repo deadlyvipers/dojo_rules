@@ -10,3 +10,4 @@ My favorite path is Ruby
 *C++ 
 *android
 *dagger
+*rebase
