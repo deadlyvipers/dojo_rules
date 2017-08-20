@@ -1,4 +1,5 @@
 An introduction.
 
-My favorite Code School path is Git
+My favorite Code School path is Electives.
+
 
