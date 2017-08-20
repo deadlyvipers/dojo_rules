@@ -1,2 +1,5 @@
 Hello World!
-JavaScript
+*JavaScript
+*HTML
+*CSS
+*Killing history using git rebase
