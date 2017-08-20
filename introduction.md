@@ -7,3 +7,4 @@ I really think JavaScript is my favourite path!
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
