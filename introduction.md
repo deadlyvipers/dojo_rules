@@ -1,2 +1,2 @@
-introduction
+introduction to JavaScript
 CSS
