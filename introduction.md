@@ -5,3 +5,4 @@ DeadlySkills:
 * Git
 * C++
 * Python
+* Killing history using git rebase
