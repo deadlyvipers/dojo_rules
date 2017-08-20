@@ -1,1 +1,5 @@
 'Electives.' 
+
+* Git
+* Ruby
+* rebase
