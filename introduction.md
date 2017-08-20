@@ -1,1 +1,3 @@
-Hi, looking forward to the course.
+Hii, looking forward to the course.
+
+the GIT path if of course my fav on codeschool.
