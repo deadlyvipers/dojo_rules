@@ -1,2 +1,3 @@
 
 Nguyen Anh Thi
+Programming languages: Ruby, JavaScript, HTML & CSS, iOS or Electives
