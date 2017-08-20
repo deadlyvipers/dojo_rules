@@ -9,3 +9,4 @@ Deadly Skills
 *Adroid
 *PHP
 *Python
+*Killing history using git rebase
