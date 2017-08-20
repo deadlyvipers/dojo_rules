@@ -1,2 +1,2 @@
 hello I'm Jennie
-Javascript is great.
+Javascript is great.Mongodb, Node.js, Express.js
