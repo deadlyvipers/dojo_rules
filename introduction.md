@@ -1,2 +1,7 @@
 introduction to JavaScript
-CSS
+* CSS
+* Git
+* Ruby
+* Java
+* Killing history using git rebase
+
