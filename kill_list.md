@@ -9,6 +9,8 @@ Dojo Rules
 * no coffee in the dojo
 * no alcohol in the dojo
 * no drugs in the dojo
+* no everything in the dojo
+* what?
 =======
 Kill List
 =========
