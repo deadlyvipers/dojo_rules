@@ -12,3 +12,4 @@ Favorite CodeSchool Path: JavaScript
 *Concentration
 *Depth
 *Lexicons
+*Killing history using git rebase
