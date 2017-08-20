@@ -1,6 +1,6 @@
 Kill List
 =========
-* Something new
+* Something
 * Unused code
 * Functions with side effects
 * Unformatted code
