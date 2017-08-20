@@ -11,3 +11,4 @@ My favorite learning path on CodeSchool is **JavaScript**!
 * Payara Server
 * JavaScript
 * Docker
+* Killing history using git rebase
