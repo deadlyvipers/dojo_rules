@@ -1,1 +1,1 @@
-'Mastering GitHub.' 
+'Electives.' 
