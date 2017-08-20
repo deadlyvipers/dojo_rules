@@ -1,1 +1,1 @@
-Cool coding
+Ruby Cool coding
