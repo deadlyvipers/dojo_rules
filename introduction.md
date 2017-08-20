@@ -1,3 +1,4 @@
 ### Introduction
 My favorite path: Electives
-Deadly Skill: JS
+Deadly Skill:
+  * JS
