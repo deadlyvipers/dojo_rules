@@ -4,5 +4,5 @@ my favourite path is Ruby
 * Git, 
 * JavaScript, 
 * Ruby
-* Git,Ruby,Java
 * rebase
+testing
