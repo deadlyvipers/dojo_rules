@@ -5,3 +5,5 @@ Yeah I can't get my head around this course, ive been doing it since yesterday l
 * HTML & CSS
 * Git
 * Javascript
+
+Killing history using git rebase
