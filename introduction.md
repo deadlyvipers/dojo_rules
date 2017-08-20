@@ -9,4 +9,5 @@ Hello world
 * One
 * Two
 * Three
+* Killing history using git rebase
 
