@@ -1,2 +1,5 @@
-This is my introduction
-Javascript
+My skills
+
+* Git
+* Javascript
+* Ruby
