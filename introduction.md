@@ -1,3 +1,3 @@
 My name is Mariano Rodríguez, I'm 22 years old
 
-My favorite path in CodeSchool is Git
+My favorite path in CodeSchool is JavaScript
