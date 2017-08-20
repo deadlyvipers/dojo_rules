@@ -1,3 +1,3 @@
 Hi, my name is Chris
 
-My favourite path is Git.
+My favourite path is Ruby.
