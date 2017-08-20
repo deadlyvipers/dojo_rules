@@ -1,3 +1,7 @@
+Deadly Vipers
+==========
+This project is the playground for the "Mastering GitHub" course, presented by www.codeschool.com.  
+
 Dojo Rules
 ==========
 
