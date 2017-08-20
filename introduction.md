@@ -1,2 +1,2 @@
 I am Joshua
-Pefered path is Git currently.
+Favorite Code School Path is Git.
