@@ -5,3 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+
+Programmer Grievence
+===================
+
+This is a personal touch.
