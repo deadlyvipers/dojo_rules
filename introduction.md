@@ -7,3 +7,4 @@ code school path: git and javascript
 
 deadly skills: 
 * javascript
+* Killing history using git rebase
