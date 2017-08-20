@@ -12,5 +12,6 @@ Deadly Skills:
 * HTML
 * CSS
 * R
+* Killing history using git rebase (apparently)
 
 and counting...
