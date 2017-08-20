@@ -5,4 +5,4 @@ Favorite path on Code Schoole Electives
 * Git
 * JavaScript
 * Ruby
-
+* Killing history using git rebase
