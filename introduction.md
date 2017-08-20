@@ -7,3 +7,4 @@ Deadly_skills
   *Awk
   *Sed
   *Shell script
+  *Killing history using git rebase
