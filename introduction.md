@@ -1,3 +1,3 @@
 Electives
-Git
+* Git
 Hello, im mafaine22
