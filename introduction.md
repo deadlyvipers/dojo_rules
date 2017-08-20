@@ -1,1 +1,5 @@
 Electives
+
+*git
+*paint
+*minesweeper
