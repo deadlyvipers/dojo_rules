@@ -9,8 +9,9 @@ My deadly skills include:
 * Phoenix
 * Java
 * Python
+* Killing history using git rebase
 
 My deadly environment includes:
-* Git 
+* Git
 * Vim
 * Atom Editor (configured in Vim mode :)
