@@ -7,4 +7,5 @@ How's this?
 
 * Javascript
 * HTML/CSS
+* Killing history using git rebase
 
