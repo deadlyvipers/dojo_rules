@@ -6,5 +6,6 @@ My deadly skills
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
 
 Happy to be with you! G.
