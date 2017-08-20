@@ -8,3 +8,4 @@ My deadly skills are:
 * PowerShell
 * Regex
 * JavaScript
+* Killing history using git rebase
