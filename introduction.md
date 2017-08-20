@@ -1,2 +1,2 @@
 Introduction
-Favorite Code School Path : Git
+Favorite Code School Path : HTML & CSS
