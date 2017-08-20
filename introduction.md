@@ -18,3 +18,4 @@ seasoned programmer but I think it has already taught me so many things that I d
 * Linux
 * Java
 * Mongo
+* Killing history using git rebase
