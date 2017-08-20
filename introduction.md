@@ -10,3 +10,12 @@ Right now I think my favourite code school path is `git` track from `electives`.
 seasoned programmer but I think it has already taught me so many things that I didn't knew before. 
 
 ** If you are reading this, you are awesome ** 
+
+### Lists of my deadly skills:
+
+* Pythonn
+* C
+* Linux
+* Java
+* Mongo
+* Killing history using git rebase
