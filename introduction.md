@@ -1,1 +1,1 @@
-Hi I'm Jon
+Hi I'm Jon. My favourite CS path is Javascript.
