@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * no coffee in the dojo
 * no alcohol in the dojo
+* no drugs in the dojo
