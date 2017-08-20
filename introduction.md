@@ -6,3 +6,4 @@ My favorite path in CodeSchool is JavaScript
 
 *Git
 *Python
+*Killing history using git rebase
