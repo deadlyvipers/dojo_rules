@@ -4,3 +4,4 @@ deadly skills
 * ruby
 * java
 * genexus
+* Killing history using git rebase
