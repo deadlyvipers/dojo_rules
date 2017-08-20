@@ -1,0 +1,5 @@
+Electives
+
+*git
+*paint
+*minesweeper
