@@ -6,4 +6,4 @@ my deadly skills are:
 *React
 *Angular
 *Git
-*Design
+* Design
