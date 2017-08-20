@@ -2,7 +2,9 @@ Hi. I am José Cage. A web developer and product designer from Angola (African C
 
 My favorite path  at codeschool is Javascript.
 
-* Git
+* Git Real
+* Git Real
 * Mastering Github
+* Try Laravel
 * SQL
 * Shaping up with Angular
