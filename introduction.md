@@ -5,3 +5,9 @@ golang and git are awesome so far, thanks for your effort.
 
 erm, ok u need keyword, i see.
 My favorite Code School path is Ruby.
+
+this whole ninja thing is really funny but anyway, deadly_skills:
+* Ruby
+* JavaScript
+* Git
+* Killing history using git rebase
