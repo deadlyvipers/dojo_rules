@@ -7,7 +7,7 @@ Nombre inicial del repositorio: https://github.com/cristinafsanz/dojo_rules
 
 GitHub es más que un almacén de ficheros, sirve para compartir, discutir o hacer revisiones de código.
 
-## CONFIGURACIÓN
+## Configuración
 
 Tiene distintos niveles de configuración:
 
@@ -87,7 +87,7 @@ Es como git fetch y git rebase
      * Poner dot files en un repositorio
 
 
-## CREAR UN REPO
+## Crear un repo
 
 Se puede clonar en local, luego hacer commit y push de los cambios. Y si el repo lo crea otro y eres colaborador, también.
 Si no eres colaborador puedes hacer un fork: haces una copia de tu repositorio y puedes hacer commit y push a tu fork.
@@ -108,12 +108,12 @@ Si no eres colaborador puedes hacer un fork: haces una copia de tu repositorio y
     git commit -am "Lo que sea"
     ```
 
-## PULL REQUEST
+## Pull request
 
 Una vez que lo haces si subes otro commit se refleja en la pull request (es igual que si hicieras una rama a la rama master de deadlyvipers).
 
 
-## ACTUALIZAR TU FORK
+## Actualizar tu fork
 
 Pull para actualizar el update en el laptop y push para actualizar el fork remoto.  
 
@@ -146,7 +146,7 @@ Fetch y merge es igual a: git pull upstream master
     ```
 
 
-## WORKFLOW DE REPOSITORIO ÚNICO
+## Workflow de repositorio único
 
 Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse actualizado.
 
@@ -176,7 +176,7 @@ Todos trabajan con el mismo repositorio haciendo clone y es fácil mantenerse ac
      git push -u origin kill_list //añade rama remota con ese nombre y dice la rama por defecto para subir para esa rama
      ```
 
-## REVIEW UNA PULL REQUEST
+## Review de una pull request
 
 ```
 git fetch //te bajas todas las ramas de GitHub
@@ -186,7 +186,7 @@ git branch -a //ver todas las ramas, también las remotas
 git checkout //bajar una copia local de una rama remota
 ```
 
-## INTERACTIVE REBASES PARA SIMPLIFICAR LA HISTORIA
+## Interactive rebases para simplificar la historia
 
 ```
 git checkout -b feature_branch
@@ -203,7 +203,8 @@ git checkout -b feature_branch
      * Pero nunca coger todos los commit y hacer squash para dejarlo en 1, no hacer squash de la rama entera.
      * Sólo hacer squash de commits que no sean necesarios.
 
-## REBASE PARA CREAR HISTORIA LINEAL
+
+## Rebase para crear una historia lineal
 
 * Si el equipo está a gusto con eso
 
@@ -212,7 +213,7 @@ git checkout -b feature_branch
     git rebase master
     ```
 
-## FAST FORWARD O MERGE RECURSIVOS
+## Fast forward o merge recursivos
 
 * fast forward: menos commits porque no tienes el commit del merge
 
@@ -252,7 +253,7 @@ git checkout -b feature_branch
 
 En el pull request solo hay 1 commit.
 
-## MERGEAR UNA RAMA
+## Mergear un rama
 
 * Rama deadly_skills a master
 * Hay que estar en la rama master para hacer el merge
@@ -268,7 +269,7 @@ En el pull request solo hay 1 commit.
 Ya se cerró el pull request que estaba abierto.
 
 
-## TAGS
+## Tags
 
 * Hacerlo siempre que se vaya a hacer push a producción.
 
@@ -304,7 +305,7 @@ Ejemplo:
     ```
 
 
-## RELEASE TAGS VS RELEASE BRANCHES
+## Release tags vs Release branches
 
 * Release tags apunta a un commit
 
@@ -338,7 +339,7 @@ Ejemplo:
           git branch -d rb1.1
           ```
 
-## RELEASES
+## Releases
 
  * Para compartir binarios descargable con notas adicionales con cada uno de los tags.
 
@@ -361,7 +362,7 @@ Ejemplo:
       * Título: v1.0.0 y la descripción.
 
 
-## ISSUES
+## Issues
 
 * Tener track de los bugs
 
@@ -377,7 +378,8 @@ Ejemplo:
     git commit -m "Fixes #1"
     ```
 
-## WIKI
+
+## Wiki
 
 * Empezar con un README.md para explicarlo.
 
@@ -386,7 +388,7 @@ Ejemplo:
 * En settings/options. Si sólo quieres que lo hagan colaboradores habilitar el checkbox de sólo colaboradores.
 
 
-## GITHUB PAGES
+## GitHub Pages
 
 * Alojar una página web estática simple relacionada con el proyecto o la organización.
 
@@ -439,7 +441,7 @@ Ejemplo:
               * Con esto se va a redirigir a pages.deadlyvipers.com porque tenía deadlyvipers.com como dominio (en unos 15 minutos se puede acceder)
 
 
-## CONFIGURAR NUEVO REPOSITORIO
+## Configurar nuevo repositorio
 
 * Se puede cambiar nombre
 
@@ -452,7 +454,7 @@ Ejemplo:
 * Se puede ver actividad con Insight - Pulse.
 
 
-## AUTHENTICATION/ AUTHORIZATION
+## Autenticación / autorización
 
 * Conectar con GitHub
 
@@ -482,7 +484,7 @@ Ejemplo:
      * Las últimas conexiones
 
 
-## AUTOMATING GITHUB
+## Automatizar GitHub
 
 * Integrating Existing services: https://github.com/github/github-services/tree/master/docs
 
@@ -503,7 +505,7 @@ Ejemplo:
     * Ellos proveen de una url para mi usuario: http://codeschool-mastering-github.herokuapp.com/
 
 
-## GITHUB API
+## API GitHub
 
 * Ver posibilidades con comandos curl
 
@@ -530,7 +532,7 @@ Ejemplo:
 * Se puede crear un nuevo repositorio, crear una nueva issue...
 
 
-## COMMAND LINE GITHUB
+## GitHub por línea de comandos
 
 * Sin usar el navegador
 
@@ -642,4 +644,67 @@ Ejemplo:
 
     git browse dojo_rules
     ```
+
+## Git Hooks
+
+* [Screencrast Codeschool](https://www.codeschool.com/screencasts/git-hooks)
+
+* Scripts customizados que se ejecutan con comandos git.
+
+* Hay Git Hooks de cliente y de servidor, aquí se hablará de los de cliente.
+
+* Están en .git/hooks y no se comitean o clonan pero si es importante para otros se puede poner en otro lugar para subirlo a GitHub.
+
+* Git Hooks disponibles
+
+    * Flujo commit
+
+        * pre-commit
+
+        * commit-msg
+
+        * post-commit
+
+    * Flujo email
+
+        * applypath-msg
+
+        * pre-applypatch
+
+        * post-applypatch
+
+    * Otros
+
+        * pre-rebase
+
+        * post-checkout
+
+        * post-merge
+
+* Activar Git Hooks disponibles
+
+    ```
+    cd .git/hooks
+    cp pre-commit.sample pre-commit
+    vim pre-commit
+    ```
+
+    * Para probarlo poner un fichero con carácter no ASCII (cømmit.txt): Al ejecutar el git commit te avisa que vas a añadir un nombre de fichero non-ascii.
+
+* Crear un nuevo hooks
+
+    ```
+    cd .git/hooks
+    cp post-commit.sample post-commit
+    vim post-commit
+    ```
+
+    * Ej. hacer push una vez que hagas commit
+
+    ```
+    git push origin master
+    ```
+
+
+
 
