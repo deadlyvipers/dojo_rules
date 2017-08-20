@@ -1,2 +1,5 @@
 dasdasdasa
 JavaScript
+
+* Git
+* Ruby
