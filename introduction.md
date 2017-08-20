@@ -6,3 +6,9 @@ Another handle I use for personal branding is AdevNt. It is a play on the word "
 Notice the swapping of 'e' and 'v'
 
 Favorite CodeSchool Path: JavaScript
+
+
+*Karate
+*Concentration
+*Depth
+*Lexicons
