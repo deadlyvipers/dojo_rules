@@ -10,3 +10,11 @@ Dojo Rules
 * no alcohol in the dojo
 * no drugs in the dojo
 * no everything in the dojo
+=======
+Kill List
+=========
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
