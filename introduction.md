@@ -1,2 +1,5 @@
 I am SwiftOne
-Practitioner of JavaScript
+* JavaScript
+* Git
+* RPGs
+* Killing history using git rebase
