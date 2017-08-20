@@ -5,4 +5,5 @@ Programming languages:
   *JavaScript
   *HTML 
   *CSS
+  *Vuejs
   *Python
