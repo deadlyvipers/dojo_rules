@@ -10,3 +10,4 @@ this whole ninja thing is really funny but anyway, deadly_skills:
 * Ruby
 * JavaScript
 * Git
+* Killing history using git rebase
