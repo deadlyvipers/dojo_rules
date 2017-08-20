@@ -1,1 +1,2 @@
-I am student
+I am student.
+My favorite codeschool path is JavaScript!
