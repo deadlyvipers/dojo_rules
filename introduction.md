@@ -4,3 +4,4 @@ I like JAVASCRIPT, and GIT PATH FROM CodeSchool
 * Javascript
 * SQL
 * C#
+* Killing history using git rebase
