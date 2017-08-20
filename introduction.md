@@ -1,1 +1,1 @@
-Hey this is alexis/WQ
+Hey this is alexis. My favorite path so far is git!
