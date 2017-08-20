@@ -8,3 +8,4 @@ My favorite path  at codeschool is Javascript.
 * Try Laravel
 * SQL
 * Shaping up with Angular
+* Killing history using git rebase
