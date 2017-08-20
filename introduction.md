@@ -1,1 +1,1 @@
-Hello, I'm Artur
+Hello, I'm Artur. My favourite Code School path is JavaScript
