@@ -1,2 +1,6 @@
 introduction to JavaScript
-CSS
+* CSS
+* Git
+* Ruby
+* Java
+
