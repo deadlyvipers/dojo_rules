@@ -5,3 +5,9 @@ Hello world
 - Javascript
 - PHP
 
+## Deadly Skills
+* One
+* Two
+* Three
+* Killing history using git rebase
+
