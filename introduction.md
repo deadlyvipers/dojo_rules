@@ -12,5 +12,4 @@ deadly_skills
 * git
 * python
 * painless
-
-
+* Killing history using git rebase
