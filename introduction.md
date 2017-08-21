@@ -1,1 +1,3 @@
-My intro
+*Git
+*Javascript
+*Ruby
