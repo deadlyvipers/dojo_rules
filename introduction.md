@@ -1,3 +1,3 @@
 # Introduction
 
-lorem ipsum
+Favorite CS Branch: Javascript
