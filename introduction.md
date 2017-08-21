@@ -1,2 +1,2 @@
 Kuznetsov Vadim
-PHP
+JavaScript
