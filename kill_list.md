@@ -16,3 +16,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Do not respect programming syntax
+* No standard is set to name variables
