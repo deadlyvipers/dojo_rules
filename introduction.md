@@ -1,2 +1,8 @@
 "Hello my name is Martijn van den Bergh" 
-"\nHTML course rules also" 
+"HTML course rules also" 
+* Git
+* Java
+* Javascript
+* HTML
+* CSS
+* Killing history using git rebase"
