@@ -5,4 +5,4 @@ i like the electives path it gives lots of different bits
 * C
 * go
 * C#
-
+* Killing history using git rebase
