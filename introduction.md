@@ -17,3 +17,6 @@ deadly_skills
 
 favorite Code School path: git
 
+done done
+
+Electives
