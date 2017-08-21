@@ -1,1 +1,1 @@
-Hi I'm hansv
+Hi I'm hansv, I love the Ruby path on Codeschool.
