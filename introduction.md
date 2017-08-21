@@ -4,3 +4,8 @@ Lorem ipsum...
 
 JavaScript
 
+* GIT
+* bash
+* java
+* JavaScript
+
