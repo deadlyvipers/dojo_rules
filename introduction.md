@@ -1,3 +1,3 @@
 Introduction
 ============
-* Black belt in sarcasm
+* Favorite Code School path is JavaScript
