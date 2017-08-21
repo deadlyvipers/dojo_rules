@@ -6,4 +6,6 @@
 echo "super test
 ```
 
+:information_source: as requested, my favorite Code School path is "Git" :p
+
 
