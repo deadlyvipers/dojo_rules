@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* New records
+* New records 2
+* New records 2
+* New records 3
