@@ -6,3 +6,4 @@ My deadly skills:
 * Java
 * Python
 * GIT
+* Killing history using git rebase
