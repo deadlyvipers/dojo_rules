@@ -1,1 +1,1 @@
-My name is Sam and I go by irritablekitten on Github. I am honored to join this dojo and Git is my favorite Code School path. My deadly skills are: *Legs, *Taco-making, *Killing history using git rebase
+My name is Sam and I go by irritablekitten on Github. I am honored to join this dojo and Git is my favorite Code School path. My deadly skills are: *Legs, *Taco-making
