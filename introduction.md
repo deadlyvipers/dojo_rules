@@ -1,0 +1,3 @@
+Kuznetsov Vadim
+* JavaScript
+* Ruby
