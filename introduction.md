@@ -13,4 +13,8 @@ deadly_skills
 * python
 * painless
 * Killing history using git rebase
-# super test 2 le retour
+* super test 2 le retour
+
+favorite Code School path: git
+
+
