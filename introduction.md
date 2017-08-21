@@ -1,2 +1,3 @@
-Dima Trof
-HTML & CSS, PHP, GIT, DataBase
+* Dima Trof
+* HTML & CSS, PHP, GIT, DataBase, Rebase
+
