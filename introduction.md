@@ -1,2 +1,2 @@
-Kuznetsov Vadim
-JavaScript
+* Kuznetsov Vadim
+* JavaScript
