@@ -5,3 +5,5 @@ Favorite CodeSchool track: Electives
 *Python
 *Java
 *AppD
+*Killing History:
+*using git rebase
