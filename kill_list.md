@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Kill
-====
-*Helo World
-*Another World
-=======
 Kill List
 =========
 * Unused code
@@ -11,4 +5,3 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
->>>>>>> v1.0.1
