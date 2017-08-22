@@ -5,3 +5,6 @@ Favorite Code School Path:
 Html & CSS
 IOS
 GIT
+*GIT
+*CSS
+*JS
