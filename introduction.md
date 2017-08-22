@@ -8,3 +8,4 @@ GIT
 *GIT
 *CSS
 *JS
+*Killing history using git rebase
