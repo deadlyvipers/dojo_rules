@@ -6,3 +6,4 @@ skills
 *Ruby
 *Github
 *Python
+*Killing history using git rebase
