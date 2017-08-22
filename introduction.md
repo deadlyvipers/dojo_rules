@@ -7,3 +7,4 @@
 * C++
 * Visual Basic
 * Objective C
+* Killing history using git rebase
