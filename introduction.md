@@ -1,3 +1,3 @@
 Hi, I'm Tulio!!!
 
-My favorite Code School path is Python.
+My favorite Code School path is Ruby.
