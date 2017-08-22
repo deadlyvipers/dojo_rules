@@ -5,3 +5,4 @@ My path is a JavaScript path
 * JavaScript
 * Node.js
 * PHP
+* Killing history using git rebase
