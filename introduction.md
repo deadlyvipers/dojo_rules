@@ -5,3 +5,4 @@ skills
 *Javascript
 *Ruby
 *Github
+*Python
