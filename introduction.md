@@ -6,3 +6,4 @@ Skill list:
 * HTML
 * CSS
 * JS
+* more
