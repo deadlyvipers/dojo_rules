@@ -4,3 +4,4 @@ Hello! I am here to teach people about Github.
 *Javascript
 *Ruby
 *Eclipse
+*Killing history using git rebase
