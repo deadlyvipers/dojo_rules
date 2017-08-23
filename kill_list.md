@@ -1,6 +1,7 @@
 Kill List
 =========
-* Typos in your code
-* Failing to indent
-* Failing to modularize
-* Hard-coding passwords
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
