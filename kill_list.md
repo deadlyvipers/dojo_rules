@@ -1,6 +1,6 @@
 Kill List
 =========
-* O-Ren Ishii
-* Vernita Green
-* Elle Driver
-* BILL
+* Typos in your code
+* Failing to indent
+* Failing to modularize
+* Hard-coding passwords
