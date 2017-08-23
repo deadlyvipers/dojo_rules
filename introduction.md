@@ -6,3 +6,4 @@ Deadly skills:
 * SQL
 * HTML/CSS/JavaScript
 * Python
+* Cocktails
