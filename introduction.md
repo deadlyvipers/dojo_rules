@@ -7,3 +7,4 @@ Deadly skills:
 * HTML/CSS/JavaScript
 * Python
 * Cocktails
+* Killing history using git rebase
