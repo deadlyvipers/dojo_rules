@@ -1,3 +1,7 @@
+* ruby
+* sql
+* java
+
 Favorite path is Ruby
 
 asdfadfadf
