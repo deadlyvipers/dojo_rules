@@ -1,2 +1,2 @@
 Gz-Kk Introduction
-Favorite path: Python
+Favorite path: Ruby
