@@ -5,6 +5,8 @@ Link del Curso: [Mastering GitHub](https://www.codeschool.com/courses/mastering-
 
 Workflow GitHub interesante: [Project Guidelines](https://github.com/wearehive/project-guidelines#git-workflow)
 
+Tutorial útil: [Merging vs rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
 Nombre inicial del repositorio: https://github.com/cristinafsanz/dojo_rules
 
 GitHub es más que un almacén de ficheros, sirve para compartir, discutir o hacer revisiones de código.
