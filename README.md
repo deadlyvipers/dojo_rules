@@ -3,7 +3,7 @@ Notas personales Curso Mastering GitHub de Codeschool.
 
 Link del Curso: [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
-Workflow GitHub interesante: [Project Guidelines](https://github.com/wearehive/project-guidelines#12-git-workflow)
+Workflow GitHub interesante: [Project Guidelines](https://github.com/wearehive/project-guidelines#git-workflow)
 
 Nombre inicial del repositorio: https://github.com/cristinafsanz/dojo_rules
 
