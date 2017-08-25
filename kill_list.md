@@ -8,3 +8,4 @@ Bad Coding Practices
 * Writing huge classes and methods (go KISS)
 * Not commenting murky code
 * Go strict with the specifications
+* Always ask for help, if you get stuck
