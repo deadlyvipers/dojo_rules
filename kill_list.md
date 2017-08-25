@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Using Node.js instead of something that's pleasant to work with.
+* Lack of useful comments
