@@ -1,2 +1,2 @@
 Hallo menschen, die ist ein Test
-My favorite Path is Git
+My favorite Path is JavaScript
