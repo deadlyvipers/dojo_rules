@@ -6,5 +6,5 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 
-I killed Zed the Master of Shadows using my Unique Techinique called 'Last Breath' HAHAHAH
+I killed Zed the Master of Shadows using my Unique Techinique called 'Last Breath' HA
 
