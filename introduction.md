@@ -1,4 +1,4 @@
 Introduction
 
 Hi, dojo.
-I'm Augusto, studing git mastering.
+I'm Augusto, studying git mastering.
