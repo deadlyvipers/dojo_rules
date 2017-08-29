@@ -5,3 +5,4 @@ Deadly Skills:
 
 * Git
 * PowerShell
+* Killing history using git rebase
