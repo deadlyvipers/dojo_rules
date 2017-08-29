@@ -9,3 +9,4 @@ Bad Coding Practices
 * Not commenting murky code
 * Go strict with the specifications
 * Always ask for help, if you get stuck
+* Dead code
