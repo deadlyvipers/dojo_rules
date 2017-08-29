@@ -13,4 +13,4 @@ Deadly Skill:
 * css
 * objective-c
 * python
-
+* Killing history using git rebase
