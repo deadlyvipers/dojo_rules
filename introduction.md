@@ -2,4 +2,5 @@ Hi There !!
 JavaScript!!
 *C#
 *ES6
-*Angular
+*Angular  "
+*"Killing history using git rebase"
