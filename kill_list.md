@@ -5,4 +5,4 @@ Bad Coding Practices
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Writing huge classes and methods (go KISS)
+* Writing huge classes and methods
