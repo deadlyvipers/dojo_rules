@@ -1,2 +1,2 @@
 My name is Shola
-My favourite is html
+My favourite code is html
