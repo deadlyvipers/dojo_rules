@@ -709,6 +709,10 @@ Ejemplo:
     git push origin master
     ```
 
+## Comandos útiles (usados fuera del curso)
 
+- Si haces commits pero no has hecho push y quieres limpiar lo que hay en local para dejarlo como en remoto
+
+git reset --hard HEAD^^
 
 
