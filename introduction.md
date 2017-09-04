@@ -9,3 +9,4 @@ My favorite codeschool paths are JavaScript and Git
 * Git
 * C++
 * Node.js
+* Killing history using git rebase
