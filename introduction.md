@@ -1,3 +1,3 @@
 * Blake Geist
 * Ruby
-* Fun
+* Killing history using git rebase
