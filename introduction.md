@@ -1,1 +1,1 @@
-introduction
+Favorite codeschool path is JavaScript
