@@ -1,3 +1,3 @@
 Introduction
-JavaScript
-Elixir
+*JavaScript
+*Elixir
