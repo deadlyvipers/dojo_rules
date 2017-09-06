@@ -5,3 +5,4 @@ My favorite code school path is git
 * ruby
 * javascript
 * css
+* html
