@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * other things
+* other things 2
