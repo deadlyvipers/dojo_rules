@@ -1,5 +1,2 @@
 *Git
-*JavaScript
-*Ruby
-*Python
-*.Net
+*Killing history using git rebase
