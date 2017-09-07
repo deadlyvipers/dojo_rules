@@ -8,3 +8,4 @@ deadly skills:
 * rails
 * coffee
 * kung fu
+* Killing history using git rebase
