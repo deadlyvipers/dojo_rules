@@ -5,3 +5,4 @@ My deadly skills are
 *Git
 *the MEAN Stack
 *.Net scrolls
+*Javascript
