@@ -1,1 +1,1 @@
-Welcome! :3 
+Welcome! :3 My favorite language is JavaScript
