@@ -1,0 +1,1 @@
+often uses two short blades; one or both held backwards.
