@@ -5,3 +5,4 @@ Skills:
 * Git
 * JavaScript
 * Ruby
+* Killing
