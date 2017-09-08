@@ -6,3 +6,4 @@ My deadly skills are
 *the MEAN Stack
 *.Net scrolls
 *Javascript
+*Killing history using git rebase
