@@ -3,3 +3,4 @@ your favorite Code School path in your introduction? This could be Ruby, JavaScr
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
