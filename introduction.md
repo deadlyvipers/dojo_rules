@@ -1,6 +1,8 @@
 Hello guys, new file!
 Favorite code school path: HTML 
-Deadly skills: C++, Git, Python  
+Deadly skills: 
+* Git
+* Javascript  
 
 
 
