@@ -4,3 +4,4 @@ My name is Mister Quark
 * HTML
 * CSS
 * Python
+* Killing history using git rebase
