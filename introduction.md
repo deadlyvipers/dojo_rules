@@ -1,2 +1,2 @@
 Hi, my name is Damjan.
-My favorite Code Shcool path is Git.
+My favorite Code Shcool path is Swift.
