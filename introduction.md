@@ -1,1 +1,1 @@
-Hello, my name is Dana.
+Hello, my name is Dana. My favorite Code School Path is Git.
