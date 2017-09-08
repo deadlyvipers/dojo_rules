@@ -1,1 +1,2 @@
-My name is Mister Quark
+My name is MisterQuark
+My favorite Code School path so far is HTML/CSS
