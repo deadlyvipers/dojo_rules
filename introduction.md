@@ -4,4 +4,5 @@ My deadly skills:
 *Git
 *Swift
 *Xcode
+*Killing history using git rebase
 
