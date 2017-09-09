@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 
 programmer grievance of mine 
+Some changes done here since its not working
