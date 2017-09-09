@@ -9,3 +9,4 @@ Skills:
 * Ruby
 * Chef
 * Ansible
+* rebase
