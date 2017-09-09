@@ -4,4 +4,5 @@ Hello I am Bailey.
 * git
 * javaScript
 * rails
+* angular
 * Killing history using git rebase
