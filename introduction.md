@@ -6,3 +6,4 @@ Hello I am Bailey.
 * JavaScript
 * Html
 * css
+* Killing history using git rebase
