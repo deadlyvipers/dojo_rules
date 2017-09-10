@@ -4,3 +4,6 @@ My favorite other learnins has been on R, but my favorite path at Code School is
 Since everyone wants to know about my deadly skills, here they are:
 * R
 * Github
+* Killing history using git rebase
+
+
