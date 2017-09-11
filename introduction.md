@@ -5,4 +5,5 @@ https://www.codeschool.com/learn/javascript
 *java
 *c++
 *Killing history using git rebase
-*no more killing
+*no more killings
+
