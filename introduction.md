@@ -22,3 +22,8 @@ integration with github is amazing!
 * more typing
 * sleeping
 * and eating
+* Javascript
+* C# 
+* ASP.Net + ASP.Net MVC
+* T-SQL
+* MySQL
