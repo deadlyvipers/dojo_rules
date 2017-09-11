@@ -14,3 +14,12 @@ first half of it, because I knew all I needed to know and I've stumbled
 my way through. The second half is an eye opener now. With a lot of 
 stuff that I asked myself for some time now. Thanks ! And btw. the 
 integration with github is amazing!
+
+# my deadly skills
+
+* Javascript
+* C# 
+* ASP.Net + ASP.Net MVC
+* T-SQL
+* MySQL
+
