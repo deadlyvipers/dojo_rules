@@ -15,15 +15,11 @@ my way through. The second half is an eye opener now. With a lot of
 stuff that I asked myself for some time now. Thanks ! And btw. the 
 integration with github is amazing!
 
-# and now my deadliest skills
+# my deadly skills
 
-* typing
-* breathing
-* more typing
-* sleeping
-* and eating
 * Javascript
 * C# 
 * ASP.Net + ASP.Net MVC
 * T-SQL
 * MySQL
+
