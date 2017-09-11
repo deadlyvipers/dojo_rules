@@ -12,3 +12,4 @@ I also like .Net too. :-)
 * JavaScript
 * GitHub
 * Sql
+* Killing history using git rebase
