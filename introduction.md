@@ -5,5 +5,7 @@ test
 test
 test
 test
-test
-JavaScript
+
+* test
+* JavaScript
+* Killing history using git rebase
