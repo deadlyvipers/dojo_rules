@@ -1,1 +1,2 @@
-this is kamal singh
+this is kamal sinigh
+https://www.codeschool.com/learn/javascript
