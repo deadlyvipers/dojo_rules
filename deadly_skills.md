@@ -1,0 +1,3 @@
+Karate
+Shooting
+Slicing
