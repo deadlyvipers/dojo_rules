@@ -6,3 +6,4 @@ My favourite codeschool path is the Javascript path!
 * Git
 * Node
 * ReactJS
+* Killing history using git rebase
