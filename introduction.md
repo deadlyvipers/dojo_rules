@@ -7,4 +7,4 @@ My Deadly Skills
 * C/C++
 * Guitar
 * Linux
-
+* Killing history using git rebase
