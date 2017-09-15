@@ -7,9 +7,11 @@ Hello, sexy sensei, Simon-san desu ka!
       \ i _..._ /,
       {_;/   {_//       miaows his deadly skills:
 
-*Git
-*Javacsript
-*SQL
+
+* Git
+* Javacsript
+* SQL
 ** NoSQL
 ** T-SQL
 * Purrs
+* Killing history using git rebase
