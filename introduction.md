@@ -5,3 +5,4 @@ https://www.codeschool.com/learn/javascript
 * C
 * JavaScript
 
+* Killing history using git rebase
