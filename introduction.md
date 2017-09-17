@@ -1,2 +1,12 @@
 This is my introduction to dojo_rules.
- Ruby, JavaScript, HTML & CSS, iOS or Electives
+"Killing history using git rebase" as one of your deadly skills?
+
+*Git
+*JavaScript
+*Ruby
+*Spring Framework
+*Lambda 
+*Hacking
+
+*cpp
+
