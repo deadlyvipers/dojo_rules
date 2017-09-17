@@ -3,4 +3,5 @@ This is my introduction to dojo_rules.
 *JavaScript
 *Ruby
 *Spring Framework
-
+*Lambda 
+*Hacking
