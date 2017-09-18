@@ -1,2 +1,2 @@
 Pradeep Sanjaya
-JavaScript
+* JavaScript
