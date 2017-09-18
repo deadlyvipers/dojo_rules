@@ -1,2 +1,7 @@
 Pradeep Sanjaya
-JavaScript
+* JavaScript
+* Git
+* PHP
+* Java
+* Perl
+* .NET
