@@ -5,3 +5,4 @@ Pradeep Sanjaya
 * Java
 * Perl
 * .NET
+* Killing history using git rebase
