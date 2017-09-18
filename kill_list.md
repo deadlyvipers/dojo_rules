@@ -5,3 +5,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* No more commenting
+* Do more and more
+* Everything happens for a reason
