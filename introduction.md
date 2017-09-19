@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub2.
+Hello! I am here to teach people about GitReal.
