@@ -8,3 +8,4 @@ Favorite School Path - JavaScript
 *Ruby
 *MongoDB
 *C 
+*jQuery
