@@ -9,3 +9,4 @@ Favorite School Path - JavaScript
 *MongoDB
 *C 
 *jQuery
+*Killing history using git rebase
