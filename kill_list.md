@@ -5,3 +5,4 @@ Repeated code blocks
 Bad variable names
 Bad Indentation
 Syntax Issues
+Semantics
