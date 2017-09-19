@@ -6,4 +6,5 @@ Favorite School Path - JavaScript
 Deadly Skills:
 *JavaScript
 *Ruby
-*MongoDB 
+*MongoDB
+*C 
