@@ -7,3 +7,4 @@ These are my skills:
 * HTML
 * JavaScript
 * Jar Opening
+* Killing history using git rebase
