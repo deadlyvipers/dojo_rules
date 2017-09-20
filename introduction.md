@@ -1,1 +1,1 @@
-I'm a software developer. Git is my favorite Code School path 
+I'm a software developer
