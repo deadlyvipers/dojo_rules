@@ -9,3 +9,4 @@ Dojo Rules
 * No coffee in the dojo
 * Repect elderly
 * Add new rules
+* Test
