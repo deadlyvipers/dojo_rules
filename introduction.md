@@ -7,3 +7,4 @@ My favorite overall path on CodeSchool is for SQL, but I have learned some inter
 *Java
 *C#
 *HTML/CSS
+*Killing history using git rebase
