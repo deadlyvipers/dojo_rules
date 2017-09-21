@@ -3,3 +3,4 @@ Deadly-skills
 *Java
 *Javascript
 *Groovy
+*Killing history using git rebase
