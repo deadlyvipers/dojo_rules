@@ -8,3 +8,5 @@ Dojo Rules
 * Most Sensei's should be respected
 * No coffee in the dojo
 * Repect elderly
+* Add new rules
+* Test
