@@ -4,6 +4,8 @@ My favorite Code School path is HTML.
 *Git
 *JavaScript
 *Ruby
+*hel
+
 Killing history using git rebase
 =======
 Hello I am Akanchha
