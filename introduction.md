@@ -6,4 +6,4 @@ And here is my favorite Code School path : JavaScript.
 *JavaScript
 *HTML/CSS
 *Killing history using git rebase
-
+*Testing connexion with GitHub project
