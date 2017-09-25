@@ -1,0 +1,1 @@
+My name is thaya. My favorite code school path is JavaScript.
