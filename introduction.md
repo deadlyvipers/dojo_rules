@@ -7,3 +7,4 @@ My favorite codeschool path is Ruby
 * Android
 * Linux
 * Git
+* Killing history using git rebase
