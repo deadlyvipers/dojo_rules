@@ -12,3 +12,6 @@ I have coded using these frameworks:
 * Rails/Rack
 * AngularJS
 * Meteor
+
+I also have some mad skillz on GitHub:
+* Killing history using git rebase
