@@ -6,4 +6,4 @@ My favorite school at CodeSchool is iOS and git.
 * Swift
 * iOS
 * Java
-
+* Killing history using git rebase
