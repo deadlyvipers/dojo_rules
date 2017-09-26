@@ -4,3 +4,4 @@ Hello my favorite language is Elixir or Ruby
 * Ruby
 * Elixir
 * RSpec
+* Killing history using git rebase
