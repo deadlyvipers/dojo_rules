@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Bill. Definitely Bill.
-=======
+
 Kill List
 =========
 * Unused Code
@@ -8,4 +6,3 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
->>>>>>> v1.0.1
