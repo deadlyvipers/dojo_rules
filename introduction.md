@@ -1,2 +1,2 @@
 introduction
-JavaScript
+*JavaScript
