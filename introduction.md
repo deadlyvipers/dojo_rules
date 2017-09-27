@@ -1,1 +1,1 @@
-https://github.com/inkOne/dojo_rules.git
+Hello! I am here to teach people about GitHub.
