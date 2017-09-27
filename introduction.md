@@ -1,1 +1,1 @@
-Hey, it's me, that guy dude Shaffer
+Hey, it's me, that guy dude Shaffer. I have all the bases.
