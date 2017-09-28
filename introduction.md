@@ -7,3 +7,5 @@ My favorite Code school path is JavaScript
 * MATLAB
 * SQL
 * JavaScript
+* Hockey
+* Killing history using git rebase
