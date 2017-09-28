@@ -5,3 +5,4 @@ Hey, it's me, that guy Shaffer. iOS maybe one day
 *Anime for days
 *iOS for weeks
 *Ruby for never
+*Killing history using git rebase
