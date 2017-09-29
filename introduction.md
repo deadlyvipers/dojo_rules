@@ -5,3 +5,4 @@ My favorite track is HTML and CSS.
 I don't have a deadly skill yet... :-(
 *Nothing
 *Nada
+*Killing history using git rebase
