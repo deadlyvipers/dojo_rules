@@ -1,4 +1,4 @@
-# My name is Turd Ferguson
+# My name is Turd Ferguson the 3rd
 ## My favorite Code School path is the Electives
 
 * Ruby
