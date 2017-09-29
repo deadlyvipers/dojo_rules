@@ -7,3 +7,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Code that does not follow convention
+* Code that is not good in general
