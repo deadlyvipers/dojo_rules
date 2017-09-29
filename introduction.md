@@ -4,4 +4,4 @@ Hey, it's me, that guy dude Shaffer. I have all the bases. iOS for dayyyyyys
 *game recking
 *deadly Gundam model building
 *totaly skilled
->>>>>>> local
+
