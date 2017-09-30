@@ -1,1 +1,1 @@
-Git commit –am “git hub practice”
+Git commit –am “https://www.codeschool.com/courses/git-real”
