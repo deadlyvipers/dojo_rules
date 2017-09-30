@@ -1,5 +1,7 @@
 Introduction
 ==========
 
-Hi my name is Phoenix and my favorite code school path is git hub
+Hi my name is Phoenix 
+
+My favorite code school path is Ruby
 
