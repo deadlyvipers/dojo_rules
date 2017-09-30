@@ -1,5 +1,5 @@
-Dojo Rules
+Introduction
 ==========
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
+Hi my name is Phoenix and my favorite code school path is git hub
 
