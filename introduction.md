@@ -4,3 +4,4 @@ https://www.codeschool.com/courses/Rubyl
 * Tableau
 * Looker
 * Splunk
+* XML
