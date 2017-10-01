@@ -4,7 +4,4 @@
 * Tableau
 * Looker
 * Splunk
-* Ruby
-* Java
 * XML
-* SQL
