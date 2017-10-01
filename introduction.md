@@ -1,1 +1,1 @@
-my name is Sai Teja
+My name is Sai Teja. My fav code school path is javascript.
