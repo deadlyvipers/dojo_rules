@@ -1,6 +1,4 @@
-
-* Teradata 
-* Tableau
-* Looker
-* Splunk
-* XML
+*Ruby 
+*Java
+*Splunk
+*XM
