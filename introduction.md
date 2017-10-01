@@ -1,6 +1,6 @@
-
-* Teradata 
-* Tableau
-* Looker
-* Splunk
-* XML
+*Teradata 
+*Tableau
+*Looker
+*Splunk
+*XML
+*SQL
