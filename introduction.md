@@ -1,5 +1,6 @@
+*Git
 *Ruby 
-*Java
+*JavaScript
 *Splunk
 *XML
 *SQL
