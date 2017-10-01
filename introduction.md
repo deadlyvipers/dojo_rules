@@ -3,4 +3,4 @@ https://www.codeschool.com/courses/Rubyl
 * Teradata 
 * Tableau
 * Looker
-* Splu nk     
+* Splunk
