@@ -2,4 +2,3 @@
 *Java
 *Splunk
 *XML
-*SQL
