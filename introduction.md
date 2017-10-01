@@ -1,6 +1,4 @@
-*Teradata 
-*Tableau
-*Looker
+*Ruby 
+*Java
 *Splunk
 *XML
-*SQL
