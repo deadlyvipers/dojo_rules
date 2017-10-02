@@ -10,4 +10,5 @@ http://campus.codeschool.com/courses/mastering-github/level/2/section/1/single-r
 * Overwhelming excitement about minutiae!
 * Fast typing on exotic keyboard switches
 * Lethal with a fountain pen
+* Killing history using git rebase
 
