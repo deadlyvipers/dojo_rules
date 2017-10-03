@@ -8,3 +8,4 @@ Favorite path: Javascript
 * AngularJS
 * Ruby on Rails
 * SQL
+* Killing history using git rebase
