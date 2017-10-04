@@ -10,4 +10,5 @@ Deadly skills include
 *GIT
 *SQL
 *Excel
+*Killing history using git rebase
 
