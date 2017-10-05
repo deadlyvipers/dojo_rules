@@ -1,2 +1,2 @@
 introduction
-Favourite School Path: Python
+JavaScript
