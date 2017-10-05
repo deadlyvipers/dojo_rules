@@ -1,2 +1,2 @@
-Hi, this is new file
-JavaScript
+*JavaScript
+*Git
