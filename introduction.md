@@ -9,3 +9,4 @@ Deadly Skills Include:
 * JavaScript
 * Ruby
 * GIT
+* Killing history using git rebase
