@@ -1,0 +1,1 @@
+Hi! I'm Christine. I like programming because of the many opportunities it offers to learn something new.
