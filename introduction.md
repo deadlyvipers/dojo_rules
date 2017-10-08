@@ -9,3 +9,4 @@ Skills:
 * Java
 * Angular
 * Git
+* Killing history using git rebase
