@@ -6,6 +6,7 @@ My deadly skills include:
 * Nunchucks
 * Ninja star throwing
 * Python (not the language, but a real python).
+* Other stuff
 * Killing history using git rebase
 
 -toddtee
