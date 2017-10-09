@@ -6,4 +6,3 @@ Kill List
 * Repeated code blocks
 * Loose and infecting CSS
 * Bad variable names
-* Broken function
