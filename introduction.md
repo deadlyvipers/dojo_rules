@@ -1,2 +1,1 @@
-juliya 
-sebastian
+JavaScript, HTML & CSS, iOS
