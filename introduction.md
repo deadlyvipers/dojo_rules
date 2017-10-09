@@ -1,3 +1,5 @@
 Hello!
 
-Electives
+*Python
+*Java
+*Web Development
