@@ -6,3 +6,4 @@ My favourite Code School path is Javascript.
 * Git
 * Javascript
 * Java
+* C++
