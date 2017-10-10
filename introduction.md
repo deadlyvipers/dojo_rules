@@ -1,2 +1,2 @@
-#Hello my name is tony
-+ My favorite code school path is Git and JS
+# Hello my name is tony
++ My favorite path from Code School is Git
