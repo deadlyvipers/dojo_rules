@@ -8,3 +8,4 @@ Favorite Code School is Javascript.
 * Python
 * Linux
 * ...
+* Killing history using git rebase
