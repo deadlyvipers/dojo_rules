@@ -1,1 +1,3 @@
-JavaScript, HTML & CSS, iOS
+*git
+*JavaScript
+*html
