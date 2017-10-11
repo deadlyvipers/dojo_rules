@@ -1,5 +1,5 @@
 Hi all,
 
-this is me.
+this is me. Btw my favorite Code school path is JavaScript
 
 Cheers!
