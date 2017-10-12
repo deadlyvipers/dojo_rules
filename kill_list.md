@@ -6,4 +6,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Pueh blablabla
+* Pueh blablabla pueh bla
