@@ -8,3 +8,4 @@ My deadly skills are:
 
 * Using the mouse
 * Looking at the screen
+* Killing history using git rebase
