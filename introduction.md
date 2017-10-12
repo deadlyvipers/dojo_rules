@@ -1,0 +1,1 @@
+This is a repo for a course I am doing with codeschool.com. I enjoy the paths: git, python and then the electives. Though I've only completed the git ones so far!
