@@ -5,3 +5,4 @@ HTML & CSS
 * PHP
 * JAVASCRIPT
 * ANGULAR 2
+* Killing history using git rebase
