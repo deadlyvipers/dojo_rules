@@ -1,3 +1,7 @@
 Huehuehue
 
 HTML & CSS
+* GIT
+* PHP
+* JAVASCRIPT
+* ANGULAR 2
