@@ -3,3 +3,4 @@ My favorite CodeSchool path is the Javascript path.<br />
 <br />
 Deadly Skills:
 * AngularJS
+* Killing history using git rebase
