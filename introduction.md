@@ -7,3 +7,4 @@ Introduction
 	* CSS / Html
 	* Python
 	* Elixir
+	* Killing history using git rebase
