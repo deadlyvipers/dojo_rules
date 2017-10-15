@@ -1,2 +1,4 @@
 armacius
-JavaScript
+
+Deadly skills:
+*JavaScript
