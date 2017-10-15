@@ -8,3 +8,5 @@ Skills
 * HTML
 * CSS
 * C#
+* Death
+* Killing history using git rebase
