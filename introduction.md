@@ -8,3 +8,4 @@ Skills
 * HTML
 * CSS
 * C#
+* Death
