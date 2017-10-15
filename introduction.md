@@ -1,2 +1,5 @@
 armacius
-JavaScript
+
+Deadly skills:
+*JavaScript
+*Killing history using git rebase
