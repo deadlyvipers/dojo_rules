@@ -1,11 +1,7 @@
 Kill List
 =========
-let u = function() {
-	return "Just a string";
-}
-
-let a = 1;
-
-	function doStuff() {
-		a++;
-	}
+*Unused code
+*Functions with side effects
+*Unformatted code
+*Repeated code blocks
+*Bad variable names
