@@ -1,1 +1,1 @@
-Hello, my name is karenmyob.
+Hello, my favourite code school path is Javascript.
