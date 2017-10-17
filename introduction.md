@@ -1,2 +1,5 @@
-Bow to your sensei.
-Favorite path in code school: javascript (so far..)
+* Git
+* Javascript
+* Eating chips
+* Listening to NPR
+* Killing history using git rebase
