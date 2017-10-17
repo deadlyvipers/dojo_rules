@@ -1,3 +1,3 @@
 introduction javascript
-space jumping with ants
-hand shaking
+* space jumping with ants
+* hand shaking
