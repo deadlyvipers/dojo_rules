@@ -1,4 +1,2 @@
 Hello World!
-I#m Abdullah 
-
-changes changes 
+This could be Ruby, JavaScript, HTML & CSS, iOS or Electives
