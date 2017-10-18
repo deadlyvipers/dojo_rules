@@ -9,3 +9,4 @@ My Favorite path is iOS...
 #Deadly_skills
 * GIT
 * PHP
+* Killing history using git rebase
