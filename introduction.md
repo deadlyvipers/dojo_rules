@@ -1,1 +1,3 @@
-today i am very happy
+*git
+*javascript
+*Ruby
