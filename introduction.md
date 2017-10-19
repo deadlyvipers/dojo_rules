@@ -1,2 +1,3 @@
-php
-css
+*git
+*javascript
+*Ruby
