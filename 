@@ -1,0 +1,147 @@
+[33mcommit 3c3080f4e2c9171dfb65201aeab6945563dc54ce[m[33m ([m[1;36mHEAD -> [m[1;32mdeadly_skills[m[33m)[m
+Author: unknown <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 08:56:47 2017 +0200
+
+    edit txt file
+
+[33mcommit b2cca04b2e8a4aeda66e2e0c09e61cf1bc1c4f23[m[33m ([m[1;31morigin/deadly_skills[m[33m)[m
+Author: unknown <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 08:53:21 2017 +0200
+
+    add txt file
+
+[33mcommit 1e94ed3b90e4598d27a1e3ed96a13adbcba85432[m
+Merge: a210adc 1773667
+Author: unknown <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 08:51:55 2017 +0200
+
+    Merge branch 'deadly_skills' of https://github.com/hanimash/dojo_rules into deadly_skills
+
+[33mcommit 17736672d65f910c048096fcbee870a4edf821a2[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 10:05:14 2017 +0200
+
+    add new text file
+
+[33mcommit 3073312f2fdce7911afb6b9434f5bc90312a456b[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 10:03:37 2017 +0200
+
+    add new_text_file
+
+[33mcommit a210adc129187b50e43f1eec6a4e6f754bebb5bd[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: 7a893de b00b1d9
+Author: unknown <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 08:46:32 2017 +0200
+
+    Merge branch 'master' of https://github.com/hanimash/dojo_rules
+
+[33mcommit b00b1d94abc0b1b41c3eb79b82e3a2fe3bba94f1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 10:28:46 2017 +0200
+
+    Delete hani_txtfile.txt
+
+[33mcommit 7a893de908da431d522099ffef4a55b192be1c68[m
+Author: unknown <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 08:34:15 2017 +0200
+
+    new txt file
+
+[33mcommit 827236d1253537c4f5964b711351c6a99bc05ef8[m
+Author: unknown <hani.mashkawi@gmail.com>
+Date:   Thu Oct 19 08:18:00 2017 +0200
+
+    new file hani_txtfile
+
+[33mcommit e91156041d744eee0d74b6e51a0c59a05126f0df[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Wed Oct 18 16:23:21 2017 +0200
+
+    Update file
+    
+    add *
+
+[33mcommit 1d214015c60972682faa6ae1415d5a47f93fe3ab[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Wed Oct 18 16:17:30 2017 +0200
+
+    add skills
+
+[33mcommit 159cded84e52935349e096b8f49fcce88956d10a[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Wed Oct 18 14:35:42 2017 +0200
+
+    some chang
+
+[33mcommit 95f77d6cf9f962760314d30bf4d10969f3052222[m
+Author: Hani <hani.mashkawi@gmail.com>
+Date:   Wed Oct 18 14:13:26 2017 +0200
+
+    add introduction.md
+
+[33mcommit 4a2cee3f506998d0b48d62221c9ef66177a6dec4[m
+Merge: c21c6b6 8a8ca9d
+Author: The Bride <beatrix@revenge.org>
+Date:   Fri Jun 6 10:36:39 2014 -0400
+
+    Merge pull request #11 from githubteacher/master
+    
+    Githubteacher's contributions
+
+[33mcommit c21c6b682627357b653a076b34f721f17f1d4d60[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit 8a8ca9d6e9972f30a2745eee3b22e0df422fb928[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:33:54 2014 -0400
+
+    Create another_feature.rb
+
+[33mcommit ec145f42fefd6133b592ee54261665d179a8e2cd[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit e42abab7fb035c9b6e24c862eebcede158081660[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Mon Jun 2 15:08:46 2014 -0400
+
+    Most Senseis should be respected
+
+[33mcommit df1d76604f23b2fd60b0c4cc0e44f3f12454aedf[m
+Merge: 648a2df 133e901
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:12 2014 -0400
+
+    Merge pull request #1 from PeterBell/master
+    
+    Not every Sensei deserves to be respected
+
+[33mcommit 133e901455498c55d61551a3732590f234d661ed[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:47 2014 -0400
+
+    You should respect some Senseis
+
+[33mcommit a4b95d10b08820004335d1496de99ef037ad0663[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:01:11 2014 -0400
+
+    Not every Sensei deserves to be respected
+
+[33mcommit 648a2dfab4524d9202b283d17265e7bd1a243fa4[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:05:18 2014 -0400
+
+    Added README to the project
+
+[33mcommit 6913445a526fcbcaf6208e9f0179e6c4078d6396[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:03:57 2014 -0400
+
+    Initial dojo rules
