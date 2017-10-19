@@ -5,4 +5,4 @@ list of my deadly skills
 *JavaScript
 *Ruby
 *php
-
+*Killing history using git rebase
