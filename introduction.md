@@ -1,0 +1,1 @@
+* New member of the dojo family
