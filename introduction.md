@@ -1,2 +1,2 @@
 Intro by me 
-JavaScript, HTML & CSS
+JavaScript, ES6, HTML5 & CSS3
