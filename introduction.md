@@ -1,3 +1,4 @@
 # Introduction
 blah blah blah...
-Favorite Code School Path is Node
+
+Favorite Code School Path is JavaScript.
