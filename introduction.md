@@ -4,3 +4,4 @@ My skills are:
 *Git
 *JavaScript
 *Elixir.
+*Killing history using git rebase
