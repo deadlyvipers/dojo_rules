@@ -1,2 +1,2 @@
 My name is djellape
-Favorite codeSchool path: Git
+Favorite codeSchool path: CSS
