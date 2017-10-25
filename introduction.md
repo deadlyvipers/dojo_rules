@@ -8,3 +8,4 @@ My favorite Code School path is HTML & CSS
 * Java
 * HTML
 * CSS
+* Killing history using git rebase
