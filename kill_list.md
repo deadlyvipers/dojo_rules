@@ -5,4 +5,4 @@ Kill List
 *Unformatted code
 *Repeated code blocks
 *Bad variable names
-*No planning
+*No planning how ironic
