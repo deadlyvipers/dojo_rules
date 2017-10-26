@@ -1,3 +1,3 @@
 
-this is pokey, damn it!
+this is pokey, damn it! And I love Code School Electives
 
