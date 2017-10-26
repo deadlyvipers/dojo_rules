@@ -1,6 +1,7 @@
 Name: Garrett Siener
 Favorite Path: JavaScript
-*Git
-*Java
-*HTML/CSS
-*SQL
+Deadly Skills:
+* Git
+* Java
+* HTML/CSS
+* SQL
