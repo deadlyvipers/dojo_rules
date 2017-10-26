@@ -5,3 +5,4 @@ Deadly Skills:
 * Java
 * HTML/CSS
 * SQL
+* Killing history using git rebase
