@@ -1,1 +1,2 @@
- ïntroduction to git 
+introduction to git 
+My favorite Code School path is JavaScript.
