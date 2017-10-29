@@ -19,4 +19,7 @@ Here is a list of my deadly skills:
 *Wimpy programming skills :(
 *All skills above are pretty much low level 
  and hardly deadly...:(((((
+*Killing history using git rebase
+
+
 
