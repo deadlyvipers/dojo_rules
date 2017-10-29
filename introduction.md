@@ -9,3 +9,14 @@ I am Jimmy Stevens. I am a 6 foot white male
 My favorite Code School path is JavaScript. I
 think that since this is my first, I cannot
 reasonably comment on 'my favorite'.
+
+Here is a list of my deadly skills: 
+
+*Git
+*HTML
+*CSS
+*JavaScript
+*Wimpy programming skills :(
+*All skills above are pretty much low level 
+ and hardly deadly...:(((((
+
