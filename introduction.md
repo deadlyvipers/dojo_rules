@@ -6,3 +6,5 @@
 * Cloudant
 * Bluemix
 * SQL
+* Killing history using git rebase
+
