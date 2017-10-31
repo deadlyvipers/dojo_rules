@@ -6,4 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Missing documentation
-* non-english language 
+* non-english language
+* and something else 
