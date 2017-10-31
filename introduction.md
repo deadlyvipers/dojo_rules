@@ -6,3 +6,4 @@ Skills:
 * Git
 * JavaScript
 * Ruby
+* JQuery
