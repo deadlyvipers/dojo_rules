@@ -3,3 +3,7 @@ I'm .Net Developer at DVG
 My favourite Code School Path:
 *JavaScript
 *Git
+Skills: 
+* Git
+* Javascript
+*Ruby
