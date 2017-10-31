@@ -1,3 +1,3 @@
 Dojo Introduction
 ==========
-* Hi My name is Phil
+* Hi My name is Phil and my favourite path is JavaScript
