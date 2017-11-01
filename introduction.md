@@ -8,4 +8,5 @@ I have the following fantastic skills:
 * Git
 * Ruby
 * Python
+* Killing history using git rebase
 
