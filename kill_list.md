@@ -5,4 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* My programmer grievance will be on ** people
+
+Programmer grievance
+--------------------
+* My programmer grievance will be on people
