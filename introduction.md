@@ -1,2 +1,2 @@
 ﻿Hi, it's me, mcoonrod.
-My favorite learning path on Code School is Git for the moment as it is my first path.
+My favorite learning path on Code School is JavaScript for the moment as it is my first path.
