@@ -1,1 +1,1 @@
-I am Venkatesan Mahendran.
+Hello! I am here to teach people about GitHub.
