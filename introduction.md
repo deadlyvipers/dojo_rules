@@ -6,3 +6,4 @@ Favourite path is
 * java
 * git
 * react
+* Killing history using git rebase
