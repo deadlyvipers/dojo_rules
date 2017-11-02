@@ -3,4 +3,5 @@ My favorite learning path on Code School is JavaScript for the moment as it is m
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
 
