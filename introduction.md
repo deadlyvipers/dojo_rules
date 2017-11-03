@@ -1,6 +1,6 @@
 
-oonbhytf
+fgonbhytf 
 *fggf
 
 of course Ruby 
-git rebase
+*JS *Killing history using git rebase
