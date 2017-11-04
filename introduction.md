@@ -1,0 +1,3 @@
+My favorite CodeSchool path is Javascript.
+
+Something about me in this file...
