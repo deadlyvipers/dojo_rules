@@ -1,2 +1,2 @@
 hello, im nikParasyr
-favourite codeschool course: Git
+favourite codeschool course:  Git
