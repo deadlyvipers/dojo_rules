@@ -1,2 +1,1 @@
-Hello, I am Staibshine!
-I have really enjoyed the Git path at CodeSchool!
+"I am Staibshine and love the Git Path" 
