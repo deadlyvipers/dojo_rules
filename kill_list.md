@@ -6,3 +6,4 @@ Kill List
 * BILL
 * Python Rookie
 * HTML Beginner
+* Ruby First
