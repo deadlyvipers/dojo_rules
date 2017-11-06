@@ -1,6 +1,6 @@
-* Hi I'm Classic. I like poetry.
+* Hi I'm Classic. I like poetry. I also like JavaScript, and JQuery. 
 
-* Here's my favorite this week: 
+* Here's my favorite poem this week: 
 =================
 * They came to tell your faults to me,
 * They named them over one by one;
