@@ -4,3 +4,5 @@ Kill List
 * Vernita Green
 * Elle Driver
 * BILL
+* Python Rookie
+* HTML Beginner
