@@ -1,2 +1,4 @@
 Hello! I am Lana.
-Ruby
+*Ruby
+*JavaScript
+*Git
