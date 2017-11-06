@@ -1,2 +1,5 @@
 Hello! I am Lana.
-Ruby
+*Ruby
+*JavaScript
+*Git
+*Killing my history using git rebase
