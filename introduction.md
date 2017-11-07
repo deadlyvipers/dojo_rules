@@ -4,7 +4,4 @@ Deadly Skills:
 * Git
 * Javascript
 * Python
-<<<<<<< HEAD
 * C#
-=======
->>>>>>> updates introduction.md
