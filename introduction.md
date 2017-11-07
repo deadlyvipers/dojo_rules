@@ -1,5 +1,5 @@
 My name is Chen Sharon.
-I really love the Javascript Path in code school
+Javascript Path in code school is my favorite!
 Deadly Skills:
 * Git
 * Javascript
