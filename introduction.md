@@ -5,3 +5,4 @@ Deadly Skills:
 * Javascript
 * Python
 * C#
+* Ruby
