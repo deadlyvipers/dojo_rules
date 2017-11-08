@@ -6,3 +6,5 @@ I like JavaScript Path most!
 Deadly Skill:
 *PHP
 *SQL
+*Killing history using git rebase
+
