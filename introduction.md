@@ -1,1 +1,3 @@
-Electives
+* Git
+* JavaScript
+* Java
