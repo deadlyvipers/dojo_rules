@@ -1,3 +1,6 @@
 an introduction
 
-JavaScript
+*Git
+*JavaScript
+*Ruby
+
