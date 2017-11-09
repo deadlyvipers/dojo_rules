@@ -1,1 +1,2 @@
-Hello, I am Dojo I like the github path
+Hello, I am Dojo
+favorite Code School path is the JavaScript Path
