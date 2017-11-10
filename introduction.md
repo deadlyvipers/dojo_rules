@@ -1,1 +1,1 @@
-"deadly skills *html *sass *bootstrap" 
+"Killing history using git rebase" 
