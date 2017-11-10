@@ -1,2 +1,1 @@
-== Introduction ==
-More text.
+Ruby
