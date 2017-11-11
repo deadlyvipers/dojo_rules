@@ -1,3 +1,3 @@
 Hello, my name is Tom.
 
-My favourite path is Git.
+My favourite Code School path is Ruby.
