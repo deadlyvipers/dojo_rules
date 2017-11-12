@@ -8,3 +8,4 @@ Dojo Rules
 * Respect your Sensei
 * Edited directly in GitHub
 * THIS WAS CREATED IN A BRANCH
+* ez egy újabb sor
