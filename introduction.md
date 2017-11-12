@@ -1,2 +1,1 @@
-hello, my name is Valery
-Ruby
+*Killing history using git rebase
