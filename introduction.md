@@ -1,2 +1,5 @@
 hello, my name is Valery
-Ruby
+*Ruby
+*Java
+*SQL
+*C#
