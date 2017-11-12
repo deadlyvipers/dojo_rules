@@ -1,2 +1,2 @@
 Hello! I am here to teach people about GitHub.
-Ruby
+ Git, JavaScript, Ruby
