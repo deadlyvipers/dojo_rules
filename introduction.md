@@ -1,3 +1,7 @@
 This is Jae Shin
-Electives
-Test
+* Python
+* C#
+* Java
+* C
+* C++
+
