@@ -1,1 +1,1 @@
-"*Single quotations"
+"single quotations" 
