@@ -1,0 +1,8 @@
+#Add remote for upstream
+git remote add upstream <path_to_repo>
+#Fetch changes
+git fetch upstream
+#Merge them into master
+git merge upstream/master master
+#Push them to your master
+git push origin master
