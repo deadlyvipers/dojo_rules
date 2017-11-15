@@ -5,3 +5,4 @@ Deadly skills:
 * Ruby
 * Rails
 * Git
+* Killing history using git rebase
