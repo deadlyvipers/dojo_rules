@@ -1,2 +1,4 @@
 intro
 JavaScript
+* Git
+* La
