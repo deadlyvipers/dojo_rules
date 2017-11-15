@@ -1,1 +1,1 @@
-Hello, I am new here.
+Hello, I am new here, and I like the Electives path.
