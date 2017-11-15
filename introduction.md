@@ -1,1 +1,2 @@
-Hello, my name is phillip
+Hello, my name is phillip.
+My favorite course is GIT
