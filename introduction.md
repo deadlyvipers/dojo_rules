@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * kulikovpavel lala
 Ruby path
+my favorite path was "Ruby"
