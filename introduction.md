@@ -1,5 +1,1 @@
-Dojo Rules
-==========
-dfgdfgfdgfdgfdgfdg
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+https://www.codeschool.com/courses/rails-4-patterns
