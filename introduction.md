@@ -1,3 +1,6 @@
 hello my name is daniel son.
 my favorite code school path is Ruby.
-Deadly skills include C++, Python and Git
+Deadly skills
+*C++
+*Python
+*Git
