@@ -4,3 +4,4 @@ My favorite course is JavaScript
 *Git
 *Ruby
 *PHP
+*Killing history using git rebase
