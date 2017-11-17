@@ -3,3 +3,4 @@ Kuznetsov Vadim
 * Git
 * Python
 * Ruby
+* rebase
