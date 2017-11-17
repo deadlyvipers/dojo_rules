@@ -1,2 +1,4 @@
 "MY INTRODUCTION TO THE DOJO"
-JavaScript
+* JavaScript
+* Git
+* Ruby
