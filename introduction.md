@@ -1,2 +1,6 @@
 "MY INTRODUCTION TO THE DOJO"
-JavaScript
+* JavaScript
+* Git
+* Ruby
+* Killing history using git rebase
+
