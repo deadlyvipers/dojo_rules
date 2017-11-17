@@ -1,1 +1,2 @@
-This is an introduction for the Dojo
+Hi!
+This is an introduction 
