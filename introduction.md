@@ -1,4 +1,5 @@
-* Kuznetsov Vadim
+Kuznetsov Vadim
 * JavaScript
 * Git
 * Python
+* Ruby
