@@ -1,2 +1,3 @@
 * Kuznetsov Vadim
 * JavaScript
+* Git
