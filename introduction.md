@@ -1,7 +1,8 @@
 I am Yusuf Ansar
 My favourite Codeschool path is iOS
-* Git
+* Git 
 * Javascript
 * HTML
 * CSS
 * Python
+* Killing history using git rebase
