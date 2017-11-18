@@ -4,4 +4,6 @@ Deadly skills:
 * Git. 
 * JavaScript.
 * Killing history using git rebase.
+* Android
+* Killing history using git rebase (again). 
 * Android 
