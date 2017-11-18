@@ -1,3 +1,4 @@
-#Introduction
-THis is an intro
-JavaScript
+# Introduction
+* JavaScript
+* Ruby
+* Killing history using git rebase
