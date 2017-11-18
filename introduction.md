@@ -5,4 +5,5 @@ My favourite Codeschool path is iOS
 * HTML
 * CSS
 * Python
+* Ruby
 * Killing history using git rebase
