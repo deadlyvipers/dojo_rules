@@ -4,6 +4,5 @@ my favourite code school path is JavaScript.
 *HTML
 *CSS
 *React
-*Angular
 *Git
 *Design
