@@ -1,1 +1,1 @@
-Added in favorite CodeSchool path
+I like Ruby
