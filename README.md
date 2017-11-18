@@ -1,1 +1,1 @@
-All members should read the [rules](https://github.com/deadlyvipers). 
+All members should read the [deadlyvipers](https://github.com/deadlyvipers)
