@@ -1,1 +1,1 @@
-DwdWDAFOINAWIEFIOAWEGONANaornfoawefioawnef
+Ruby, javascript, Git, SQL, java
