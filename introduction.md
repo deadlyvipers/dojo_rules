@@ -3,3 +3,4 @@
 *Firstly I am new to codeschool would definitely like
 to take a Ruby path in future.
 *My deadly skills are Git,Java and etc
+*"Killing history using git rebase" 
