@@ -1,1 +1,1 @@
-* Git, JavaScript, Ruby, C++
+* Git, JavaScript, Ruby, C++, Algol
