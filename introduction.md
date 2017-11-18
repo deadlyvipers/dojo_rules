@@ -1,2 +1,4 @@
 introduction
 Ruby
+* Git
+* Ruby
