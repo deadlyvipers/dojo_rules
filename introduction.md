@@ -1,6 +1,5 @@
-this is a introduction+
-quit
-wq
 
 
+favorite Code School path
+Javascript 
 
