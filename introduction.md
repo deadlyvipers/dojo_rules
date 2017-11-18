@@ -1,7 +1,7 @@
 Natali :)
 
-
-Javascript
-Java
-Git
+*Javascript
+*Java
+*Git
 etc.
+
