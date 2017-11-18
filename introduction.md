@@ -1,3 +1,3 @@
-#Introduction
-THis is an intro
-JavaScript
+# Introduction
+* JavaScript
+* Ruby
