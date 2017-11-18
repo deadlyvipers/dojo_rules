@@ -1,4 +1,2 @@
-introduction
-Ruby
 * Git
 * Ruby
