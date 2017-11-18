@@ -6,4 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Bad function names
-* Large functions
+* Big functions
