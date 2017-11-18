@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHub Gabriele.
+https://www.codeschool.com/learn/git

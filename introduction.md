@@ -1,1 +1,1 @@
-Hello! I am here to teach people about GitHudsdfsb.
+https://www.codeschool.com/learn/git
