@@ -1,1 +1,1 @@
-Following codeschool
+JavaScript
