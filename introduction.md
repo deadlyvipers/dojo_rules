@@ -3,3 +3,4 @@ My deadly skills:
 * Javascript
 * iOS
 * Swift
+* Killing history using git rebase
