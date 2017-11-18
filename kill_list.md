@@ -1,7 +1,7 @@
 Kill List
 =========
-nused code
-Functions with side effects
-Unformatted code
-Repeated code blocks
-Bad variable names
+* nused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
