@@ -1,1 +1,2 @@
-test marka
+nazwyam sie marek
+moj ulubiony kurs to javascript
