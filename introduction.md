@@ -5,3 +5,4 @@ Ruby
 *String
 *Hibernate
 *IntelliJ
+*Killing history using git rebase
