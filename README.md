@@ -1,3 +1,7 @@
+** Was the training exercise project for the CODESCHOOL.COM "Mastering Github" course for the GIT PATH **
+Finished and archived on 19. November 2017
+
+
 Dojo Rules
 ==========
 
