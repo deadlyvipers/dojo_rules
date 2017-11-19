@@ -7,3 +7,5 @@ Kill List
 * Bad variable names
 * All devs are not supposed to be killed
 
+* All devs are not supposed to be killed
+
