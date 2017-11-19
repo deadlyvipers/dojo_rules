@@ -1,9 +1,7 @@
-* This Is Shubham
-* https://www.codeschool.com/courses/try-ruby
+* Git
 * Ruby
 * java
 * Javascript 
 * Php
 * Html
-* this pusll request changes
 * rebase
