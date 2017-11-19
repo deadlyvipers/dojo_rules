@@ -5,3 +5,5 @@ My favourite path is Electives!!
 * git
 * javascript
 * ruby
+
+Killing history using git rebase
