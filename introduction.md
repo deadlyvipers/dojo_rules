@@ -3,3 +3,4 @@ skills:
 * python
 * bash
 * Linux
+* Killing history using git rebase
