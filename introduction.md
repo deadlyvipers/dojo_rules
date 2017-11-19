@@ -8,4 +8,4 @@ Deadly skills:
 * CSS,
 * JavaScript,
 * HTML,
-* JQuery
+* rebase
