@@ -4,4 +4,4 @@
 * Javascript 
 * Php
 * Html
-* rebase
+* Killing history using git rebase
