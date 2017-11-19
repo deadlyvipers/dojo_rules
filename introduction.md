@@ -7,5 +7,5 @@ Deadly skills:
 * Git, 
 * JavaScript, 
 * Hacking, 
-* Japanese ninjitsu.
-
+* Japanese ninjitsu,
+* Killing history using git rebase
