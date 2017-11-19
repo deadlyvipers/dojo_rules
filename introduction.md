@@ -7,3 +7,4 @@
 * Node.js
 * C#
 * Git
+* Killing history using git rebase
