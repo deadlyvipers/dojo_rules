@@ -7,4 +7,5 @@ JavaScript
 * JavaScript
 * Haskell
 * Go
+* Killing history using git rebase
 
