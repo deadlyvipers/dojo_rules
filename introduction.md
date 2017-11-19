@@ -1,4 +1,10 @@
 # Introduction
 
 JavaScript
-Haskell
+
+# Deadly Skills
+
+* JavaScript
+* Haskell
+* Go
+
