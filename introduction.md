@@ -1,1 +1,2 @@
-J-a-n-R is introdrucing s.o. or s.th.
+out of Ruby, JavaScript, HTML & CSS, iOS or Electives I would take HTML
+& CSS.
