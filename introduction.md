@@ -4,3 +4,4 @@ My favorite Code School path is HTML & CSS.
 * Assembler (DOS 3.1)
 * Linux
 * Windows
+* Killing history using git rebase
