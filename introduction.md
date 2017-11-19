@@ -3,3 +3,4 @@ i am bruce lee and like iOS
 * more git stuff
 * realy git stuff
 * courses
+* Killing history using git rebase
