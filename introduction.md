@@ -1,2 +1,5 @@
-This is introduction.md file.
-My favorite path Code Schoo is JavaScript
+# his is introduction.md file.
+My favorite paths Code Schoo are:
+* Javascript
+* Python
+* Git
