@@ -1,2 +1,4 @@
-introduction
-My favorite code school path is HTML & CSS path.
+Git,
+.Net
+Asp.Net MVC
+Unit Tests
