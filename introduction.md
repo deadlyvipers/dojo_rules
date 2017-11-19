@@ -5,3 +5,4 @@ My favorite path is iOS
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
