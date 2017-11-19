@@ -1,2 +1,9 @@
 # My name is Santiago Aguilar and I'm doing the course of "Mastering GitHub" on CodeSchool :)
 ## My favorite CodeSchool path is Javascript
+
+## My deadly skilss are:
+
+* Javascript
+* Node.js
+* C#
+* Git
