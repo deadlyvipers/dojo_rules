@@ -4,3 +4,4 @@ Ruby
 *GIT
 *String
 *Hibernate
+*IntelliJ
