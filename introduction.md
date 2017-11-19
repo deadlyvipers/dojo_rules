@@ -5,3 +5,10 @@ Nice code school initiative
 
 I dont have a favorite Code School path. 
 The closest would be Ruby or HTML
+
+
+My deadly skills: 
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
