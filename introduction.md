@@ -3,4 +3,4 @@ Hello.
 JavaScript is always fun.
 
 Deadly skills
-* none
+* Killing history using git rebase
