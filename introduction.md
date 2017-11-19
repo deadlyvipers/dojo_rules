@@ -1,2 +1,3 @@
-introduction
-Ruby
+*Ruby
+*Java
+*Git
