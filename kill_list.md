@@ -6,5 +6,6 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
+* programmer grievance of your own to the "kill_list.md" 
 * All devs are not supposed to be killed
 
