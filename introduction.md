@@ -8,3 +8,4 @@ Deadly Skills:
 * Java
 * Spring
 * JavaEE
+* Killing history using git rebase
