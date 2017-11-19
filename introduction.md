@@ -6,4 +6,6 @@ Now focusing on Android application development.
 
 I am new student in this dojo.
 
+My favorite Code School path is actually this one, Mastering Github. 
+
 Douzo yoroshiku.
