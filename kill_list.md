@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 
+* All devs are not supposed to be killed
+
