@@ -1,2 +1,2 @@
 Hi, my name is Tristan aka TriVe
-My favorite path is C#
+My favorite path is JavaScript
