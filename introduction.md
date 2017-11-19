@@ -7,5 +7,5 @@ Deadly skills:
 * PHP,
 * CSS,
 * JavaScript,
-* JQuery,
-* HTML
+* HTML,
+* JQuery
