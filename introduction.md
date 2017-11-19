@@ -1,4 +1,4 @@
-Git,
-.Net
-Asp.Net MVC
-Unit Tests
+*Git,
+*.Net
+*Asp.Net MVC
+*Unit Tests
