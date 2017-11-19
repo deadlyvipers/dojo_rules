@@ -1,2 +1,2 @@
 introduction
-My favorite code school path is SQL path.
+My favorite code school path is HTML & CSS path.
