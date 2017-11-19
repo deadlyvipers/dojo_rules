@@ -8,3 +8,4 @@ Kill List
 * Max
 * Andrew
 * Artem
+* Yan
