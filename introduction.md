@@ -1,2 +1,3 @@
-U STAU GA VISTA
-JavaScript
+*U STAU GA VISTA
+*JavaScript
+*VAJDUGA
