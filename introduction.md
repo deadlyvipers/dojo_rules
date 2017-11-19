@@ -1,3 +1,5 @@
 Introduction!
-HTML
+* HTML
+* Git
+* Javascript
 
