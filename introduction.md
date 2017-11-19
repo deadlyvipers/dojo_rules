@@ -9,3 +9,4 @@ Deadly Skills:
 * Ruby
 * Java
 * Adobe Photoshop - Creative Cloud
+* Killing history using git rebase.
