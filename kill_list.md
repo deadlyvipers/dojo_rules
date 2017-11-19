@@ -7,4 +7,6 @@ Kill List
 * Bad variable names
 * Unused imports
 * Try again
+* Add some javadoc
+* Use representative variable names
 
