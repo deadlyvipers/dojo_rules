@@ -1,6 +1,7 @@
 Kill List
 =========
-* formatowanie
-* powtarzanie sie
-* yagni
-
+* Unused code
+* Functions with side effects
+* Unformatted code
+* Repeated code blocks
+* Bad variable names
