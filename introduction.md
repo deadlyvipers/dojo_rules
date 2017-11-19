@@ -1,2 +1,2 @@
-hello github!
-JavaScript
+* JavaScript
+* Git
