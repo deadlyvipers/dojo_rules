@@ -6,3 +6,4 @@ My favorite path is the JavaScript path
 *Git
 *MongoDb
 *Azure
+*Killing history using git rebase
