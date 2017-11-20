@@ -1,1 +1,2 @@
-Hello I am Clare.
+Hello I am Clare. My favorite Code School path is HTML & CSS.
+
