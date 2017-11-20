@@ -1,5 +1,2 @@
-* Git
-* JavaScript
-* Ruby
-* HTML
-* CSS
+Hello world
+JavaScript
