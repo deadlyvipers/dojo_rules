@@ -1,1 +1,1 @@
-This is an introduction placeholder.
+My favorite CodeSchool path is JavaScript.
