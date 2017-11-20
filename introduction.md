@@ -1,1 +1,1 @@
-Git
+Favorite is Electives
