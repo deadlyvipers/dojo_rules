@@ -1,5 +1,5 @@
-*Git
-*JavaScript
-*Ruby
-*HTML
-*CSS
+* Git
+* JavaScript
+* Ruby
+* HTML
+* CSS
