@@ -3,3 +3,4 @@ My deadly skills are:
 * PHP
 * Node.js
 * JavaScript
+* Killing history using git rebase
