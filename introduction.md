@@ -3,4 +3,4 @@
 * My favorites is Electives!
 * Bo skills
 * Ruby
-
+* Killing history using git rebase
