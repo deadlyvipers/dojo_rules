@@ -1,1 +1,2 @@
-# some intro
+# my intro
+# git/github!
