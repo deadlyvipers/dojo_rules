@@ -7,4 +7,4 @@ Deadly Skills:
 * Ruby
 * Git
 * Whistling
-
+* Killing history using git rebase
