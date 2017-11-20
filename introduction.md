@@ -1,1 +1,2 @@
-This is an introduction
+My name is Lav Jain
+My favorite codeschool path is git
