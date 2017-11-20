@@ -5,3 +5,4 @@ My deadly skills are:
 * SVN
 * C
 * Perl
+* Killing history using git rebase
