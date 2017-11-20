@@ -3,3 +3,4 @@ My favorite code school path is Ruby
 * Git
 * JavaScript
 * Ruby
+* Python
