@@ -1,3 +1,3 @@
 HRLLLO
 
-Original Rails (Zombies)
+Original Ruby on Rails (Zombies)
