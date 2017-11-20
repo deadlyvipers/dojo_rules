@@ -1,1 +1,1 @@
-My name is Crimson12ed.
+My name is Crimson12ed. My favorite path is Javascript.
