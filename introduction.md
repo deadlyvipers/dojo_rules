@@ -8,4 +8,5 @@ I'm not good with words... so, it's just a file to atend the lesson.
 * JavaScript, 
 * ShellScript, 
 * Markdown,
-* Git
+* Git,
+* Killing history using git rebase
