@@ -1,2 +1,5 @@
-Hello world
-JavaScript
+*Git
+*JavaScript
+*Ruby
+*HTML
+*CSS
