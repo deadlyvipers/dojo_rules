@@ -5,3 +5,5 @@ Favourite Code School path so far - JavaScript
 Skills
 *JavaScript
 *Git
+
+Killing history using git rebase
