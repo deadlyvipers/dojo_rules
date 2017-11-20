@@ -4,5 +4,6 @@ Electives
 * JavaScript 
 * Golang 
 * Django
+* Killing history using git rebase
 
 
