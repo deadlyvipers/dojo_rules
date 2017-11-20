@@ -7,3 +7,4 @@ My deadly skills:
 * jQuery
 * C#
 * HTML & CSS
+* Killing history using git rebase
