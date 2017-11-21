@@ -1,3 +1,2 @@
-Hi
-My favourite code path is git.
+Ruby
 I am Sanjay.
