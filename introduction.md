@@ -1,1 +1,7 @@
-My favorite CodeSchool path is JavaScript.
+Deadly Skills:
+*Java
+*Python
+*PHP
+*C#
+*VB
+*Killing history using git rebase
