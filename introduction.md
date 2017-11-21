@@ -4,3 +4,4 @@ Deadly Skills:
 *PHP
 *C#
 *VB
+*Killing history using git rebase
