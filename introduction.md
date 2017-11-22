@@ -3,3 +3,4 @@ Hello Naren
  *Ruby
  *HTML
  *CSS
+ *Killing history using git rebase
