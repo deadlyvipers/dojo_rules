@@ -1,3 +1,10 @@
 Hello my name is Kok-Meng Lam.
 
-My favorite path from Code school is javascript.
+I'm new to Code School and so, I do not have
+any favorite just yet.
+
+My deadly skills are:
+*java
+*perl
+*tcl
+*Killing history using git rebase

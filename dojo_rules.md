@@ -7,4 +7,3 @@ Dojo Rules
 * Respect your opponents
 * My Sensei's is respectable
 * No coffee in the dojo
-
