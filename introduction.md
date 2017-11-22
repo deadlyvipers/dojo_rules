@@ -7,4 +7,4 @@ My deadly skills are:
 *java
 *perl
 *tcl
-*killing history using git rebase
+*Killing history using git rebase
