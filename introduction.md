@@ -7,3 +7,4 @@ I love the CodeSchool's JavaScript and HTML & CSS Paths
 * JavaScript
 * PHP
 * Git
+* Killing history using git rebase
