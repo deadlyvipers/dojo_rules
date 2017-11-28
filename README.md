@@ -1,4 +1,4 @@
 All members should read the rules
 
-http://github.com/deadlyvipers
+[vipers](http://github.com/deadlyvipers)
 
