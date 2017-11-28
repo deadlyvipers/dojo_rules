@@ -1,4 +1,5 @@
-**Hello, I'm Arturo Santiago-Rivera**
+# **Hello, I am Arturo Santiago-Rivera**
+---
 
 I’m an architect and web developer, passionate about technology and innovation, with a proven track record as a Project Manager of large, complex projects,
 who has 27 plus years of professional practice, which include 15 plus years of IT infrastructure experience in a broad range of IT areas such as IT infrastructure,
@@ -10,10 +11,11 @@ at the University of Puerto Rico. I have strong organizational and time manageme
 * Proven ability to support the company’s business objectives and to successfully manage all phases of a project.
 * Strong work responsibility and excellent organizational skills.
 * Fluent in English and Spanish.
-* My favorite Code School path is Javascript and Python.
-* Deadly skills included:
-    * HTML
-    * CSS
-    * Javascript
-    * Python
-    * Git
+* My favorite Code School path is `Javascript` and `Python`.
+* Deadly skills include:
+    * `HTML`
+    * `CSS`
+    * `Javascript`
+    * `Python`
+    * `Git`
+    * `Killing history using git rebase`
