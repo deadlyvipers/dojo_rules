@@ -8,3 +8,4 @@ Deadly Skills:
 * Darengo
 * La Countesa
 * Houvres
+* Killing history using git rebase 
