@@ -4,7 +4,7 @@ My favorite CodeSchool path is: Javascript
 
 Deadly Skills:
 
-el wookie
-Darengo
-La Countesa
-Houvres
+* el wookie
+* Darengo
+* La Countesa
+* Houvres
