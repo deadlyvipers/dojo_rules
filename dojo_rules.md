@@ -1,5 +1,6 @@
 Dojo Rules
 ==========
+* Too many people are spilling coffee
 * Always be on time
 * Always take off your shoes
 * Keep the dojo tidy
