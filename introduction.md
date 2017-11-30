@@ -1,1 +1,1 @@
-Hi I've forked dojo_rules
+Hi Rich forked dojo_rules
