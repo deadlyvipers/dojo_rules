@@ -5,4 +5,4 @@ Kill List
 - Unformatted code
 - Repeated code blocks
 - Bad variable names
-- Use of old scripts standrads
+- Use of old scripts standards
