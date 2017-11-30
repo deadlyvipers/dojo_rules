@@ -8,6 +8,6 @@ Just break the wrist, and then walk away. Break the wrist; walk away.
 
 JavaScript
 
-*HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
