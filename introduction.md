@@ -4,3 +4,6 @@ Bow to your sensei.
 BOW TO YOUR SENSEI!
 
 My favorite path is Javascript.
+
+* HTML
+* CSS
