@@ -9,3 +9,4 @@ My favorite path is Javascript.
 * CSS
 * Javascript
 * rebase
+* Killing history using git rebase
