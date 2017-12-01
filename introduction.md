@@ -7,4 +7,5 @@ My favorite path is Javascript.
 
 * HTML
 * CSS
+* Javascript
 * rebase
