@@ -1,2 +1,2 @@
 Introducing rkswe1
-Favorite Code School path is Java.
+Favorite Code School path is JavaScript.
