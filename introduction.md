@@ -7,3 +7,4 @@ This is my list of deadly skills:
 *Python
 *Git
 *Juggling
+*Killing history using git rebase
