@@ -7,3 +7,4 @@ My favorite Code School path is Ruby
 * Ruby
 * Ruby On Rails
 * C#
+* Killing history using git rebase
