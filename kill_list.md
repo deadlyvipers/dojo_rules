@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Spaghetti code
+* Bad semicolons
+* Too many parenthesis
