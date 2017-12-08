@@ -1,2 +1,7 @@
 Vlada, Ruby
-Git, Javascript, Ruby
+
+DSs:
+
+ * Git
+ * Javascript
+ * Ruby
