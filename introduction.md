@@ -1,2 +1,4 @@
 introduction
-iOS
+*Git
+*Javascript
+*deadly_skills
