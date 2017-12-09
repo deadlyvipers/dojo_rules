@@ -1,2 +1,3 @@
 Introduction
 * some information
+* JavaScript
