@@ -1,3 +1,5 @@
 a random intro
 
-Javascript
+*Javascript
+
+*Git 
