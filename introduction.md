@@ -1,2 +1,1 @@
-Hello! I am here to teach people about GitHub.
-My favourite languages are HTML, CSS & JS!
+Hello! My name is Dav and my favourite languages are HTML, CSS & JS!
