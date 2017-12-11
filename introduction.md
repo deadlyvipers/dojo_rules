@@ -6,3 +6,4 @@ My favorite path is JavaScript.
 My deadly skills:
 * Python
 * JavaScript
+* Killing history using git rebase
