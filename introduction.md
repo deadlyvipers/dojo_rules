@@ -1,1 +1,1 @@
-Hi, this is my git tutorial from Code School
+Hi, this is my git tutorial from Code School. Python has been my favorite path so far but I look forward to exploring other Code School paths
