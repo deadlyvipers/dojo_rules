@@ -1,2 +1,9 @@
 This is Jae Shin
-Electives
+* Python
+* C#
+* Java
+* C
+* C++
+
+* rebase
+
