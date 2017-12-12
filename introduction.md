@@ -9,3 +9,4 @@ eit
 :
 
 
+Killing history using git rebase
