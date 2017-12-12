@@ -1,1 +1,1 @@
-Hi, this is my git tutorial from Code School. My favortie Code School path is Python. 
+Hi, this is my git tutorial from Code School. My favortie Code School path is iOS. 
