@@ -4,4 +4,4 @@
 *Repeated code blocks
 *Bad variable names
 *wireless connection going bad
-*biktim
+*biktim dsafsdf
