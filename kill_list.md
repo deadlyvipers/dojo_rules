@@ -5,3 +5,4 @@
 *Bad variable names
 *wireless connection going bad
 *biktim dsafsdf
+*this really fixes 4
