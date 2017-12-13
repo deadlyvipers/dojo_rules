@@ -6,3 +6,4 @@ My favorite path in CodeSchool is HTML & CSS
 *Git
 *ReactJS
 *MySQL
+*Killing history using git rebase
