@@ -4,5 +4,3 @@
 *Repeated code blocks
 *Bad variable names
 *wireless connection going bad
-*kikicem
-*abartma
