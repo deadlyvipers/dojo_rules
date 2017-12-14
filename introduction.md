@@ -3,3 +3,5 @@ Currently striking at course "Electives"
 
 * Git
 * Javascript
+* Killing history using git rebase
+
