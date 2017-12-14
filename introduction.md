@@ -1,2 +1,2 @@
-Introduction
-Java
+Introduction JavaScript
+JavaScript
