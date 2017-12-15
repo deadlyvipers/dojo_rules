@@ -1,1 +1,1 @@
-It's a me, in a file. Hello.
+It's a me, in a file. Hello. My favorite code school path is JavaScript.
