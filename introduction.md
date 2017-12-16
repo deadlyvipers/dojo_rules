@@ -1,1 +1,1 @@
-Hello! I am here to teach people about Github.
+My favorite, and by far most challenging, Code School path is JS.
