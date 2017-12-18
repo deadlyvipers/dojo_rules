@@ -1,2 +1,6 @@
 Hello! I'm Mike! 
-I'm a big Ruby fan, myself.
+Im a big Ruby fan, myself.
+*Python
+*C
+*Bo Staff
+*Bad words
