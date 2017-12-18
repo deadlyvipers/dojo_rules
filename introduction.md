@@ -9,3 +9,4 @@ List of my deadly skills:
 *JavaScript
 *Git
 *Ruby
+*Python
