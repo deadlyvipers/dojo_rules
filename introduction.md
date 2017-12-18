@@ -7,3 +7,4 @@ JavaScript.
 deadly_skills
 * Git
 * PHP
+* Killing history using git rebase
