@@ -7,3 +7,6 @@ My favorite path is Electives
 My deadly skills are:
 * Git
 * Java
+*Java
+*Git
+* Git
