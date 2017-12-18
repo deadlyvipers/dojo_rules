@@ -10,3 +10,4 @@ List of my deadly skills:
 *Git
 *Ruby
 *Python
+*C
