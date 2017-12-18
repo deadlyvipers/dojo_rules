@@ -7,7 +7,4 @@ I like to play guitar.
 List of my deadly skills:
 *Java
 *JavaScript
-*Git
 *Ruby
-*Python
-*C
