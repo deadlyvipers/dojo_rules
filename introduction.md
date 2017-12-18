@@ -1,2 +1,3 @@
 I am seth.
-No favorite path.
+I am Seth.
+Ruby.
