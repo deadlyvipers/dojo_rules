@@ -3,4 +3,5 @@ Im a big Ruby fan, myself.
 *Python
 *C
 *Bo Staff
-*Bad words
+*Bad word
+*Killing history uising git rebase
