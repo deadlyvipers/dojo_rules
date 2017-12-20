@@ -1,1 +1,1 @@
-Hello I'm Editing this again to see if it will work.
+Hello I'm ClearScreen. JavaScript was my favorite.
