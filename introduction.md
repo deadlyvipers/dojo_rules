@@ -1,3 +1,4 @@
 lafar
-JavaScript
-rebase
+*JavaScript
+*rebase
+*Killing history using git rebase
