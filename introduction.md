@@ -1,3 +1,3 @@
 lafar
-JavaScript
-rebase
+*JavaScript
+*rebase
