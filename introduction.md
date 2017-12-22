@@ -3,3 +3,4 @@ Hi, I'm Katherine
 * HTML
 * CSS
 * Favorite Code School Path: Electives (CSS Animations FTW)
+* Killing history using git rebase
