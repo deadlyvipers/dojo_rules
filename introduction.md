@@ -7,4 +7,4 @@ I like to play guitar.
 
 Deadly skills list
 *Rebase
-
+*Merging
