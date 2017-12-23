@@ -11,3 +11,4 @@ Deadly skills list
 *Sqashing
 *Recursive merging
 *forking
+*Killing history using git rebase
