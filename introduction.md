@@ -10,3 +10,4 @@ Deadly skills list
 *Merging
 *Sqashing
 *Recursive merging
+*forking
