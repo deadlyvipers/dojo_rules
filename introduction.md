@@ -8,3 +8,4 @@ Deadly skills list
 *Rebase
 *Merging
 *Sqashing
+*Recursive merging
