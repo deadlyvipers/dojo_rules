@@ -1,1 +1,2 @@
-I am harryhare
+I am harryhare.
+favorite code school path : Electives
