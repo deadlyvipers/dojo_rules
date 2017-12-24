@@ -1,3 +1,6 @@
 Hi, I'm Katherine
-I like sql, html & js!
-Right now I'm learning full stack and algorithms have been my favorite part
+* SQL
+* HTML
+* CSS
+* Favorite Code School Path: Electives (CSS Animations FTW)
+* Killing history using git rebase
