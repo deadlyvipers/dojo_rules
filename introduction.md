@@ -18,3 +18,4 @@ simpleauthority's deadly skills include, but are not limited to:
 * Insane Customer Service
 * OnBase
 * TDD
+* Killing history using git rebase
