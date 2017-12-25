@@ -10,3 +10,12 @@ The house lights turn on.
 INTRODUCING simpleauthority.
 
 The crowd laughs, because it's pathetic.
+
+simpleauthority's deadly skills include, but are not limited to:
+* Java
+* JavaScript
+* C#
+* Insane Customer Service
+* OnBase
+* TDD
+* Killing history using git rebase
