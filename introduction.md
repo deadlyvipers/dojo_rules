@@ -6,10 +6,10 @@ I like to play guitar.
 
 
 Deadly skills list
-*Rebase
-*Merging
-*Sqashing
-*Recursive merging
-*forking
-*Killing history using git rebase
-*Rebase
+* Rebase
+* Merging
+* Sqashing
+* Recursive merging
+* forking
+* Killing history using git rebase
+* Rebase
