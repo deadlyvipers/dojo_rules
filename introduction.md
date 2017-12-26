@@ -12,3 +12,4 @@ Deadly skills list
 * Recursive merging
 * forking
 * Killing history using git rebase
+* Rebase
