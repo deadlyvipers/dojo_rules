@@ -13,4 +13,5 @@ My favorite path to become a great software craftman is to learn the following t
 * JAVA
 * Pascal
 * Python
+* Killing history using git rebase
  thank you!.
