@@ -15,3 +15,4 @@ My favorite path to become a great software craftman is to learn the following t
 * Python
 * Python
 * JSON/XML
+Killing history using git rebase
