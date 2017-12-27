@@ -13,3 +13,5 @@ My favorite path to become a great software craftman is to learn the following t
 * JAVA
 * Pascal
 * Python
+* Python
+* JSON/XML
