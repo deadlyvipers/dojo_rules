@@ -1,2 +1,2 @@
 My name is Doug.
-My favoirt Code School path is Angular.
+My favorite Code School path is JavaScript.
