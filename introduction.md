@@ -4,3 +4,4 @@ My deadly skills are
 * Java
 * Git
 * Oracle
+* Killing history using git rebase
