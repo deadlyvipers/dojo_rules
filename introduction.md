@@ -4,3 +4,4 @@ My deadly skills are
 . javascript
 . java
 . git
+. oracle
