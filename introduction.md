@@ -1,1 +1,2 @@
-This repo is a workspace for the Mastering GitHub course in Code School
+This repo is a workspace for the Mastering GitHub course in Code School.
+My favourite Code School path is the JavaScript path.
