@@ -13,3 +13,4 @@ deadly skills:
 * Angular
 * PHP
 * Java
+* Killing history using git rebase
