@@ -1,4 +1,4 @@
-Introducing myself to the Dojo
+Introducing myself to the Dojo, where my favourite Code School path is Ruby
 ==========
 * I will be always on time for the dojo
 * I will be always taking off my shoes
