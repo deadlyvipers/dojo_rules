@@ -4,4 +4,13 @@ i am miles07
 
 i just created this file
 
-my favorite path would be JavaScript. Electives is cool too.
+my favorite paths are Git & JavaScript.
+
+deadly skills: 
+
+* Git 
+* JS
+* Angular
+* PHP
+* Java
+* Killing history using git rebase
