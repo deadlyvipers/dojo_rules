@@ -1,2 +1,2 @@
 Dominik.<br />
-My favorite path at CodeSchool is Git so far.
+My favorite path at Code School is Git so far.
