@@ -8,3 +8,4 @@ Deadly skills:
 * Ruby
 * Git
 * AWS
+* Killing history using git rebase
