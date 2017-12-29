@@ -1,6 +1,5 @@
-Kill List
-=========
-int i = 77;
-while(i) {
-i=i-10;
-}
+Unused code
+Functions with side effects
+Unformatted code
+Repeated code blocks
+Bad variable names
