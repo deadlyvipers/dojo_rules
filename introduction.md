@@ -4,7 +4,7 @@ i am miles07
 
 i just created this file
 
-my favorite skills would be JavaScript.
+my favorite paths are Git & JavaScript.
 
 deadly skills: 
 
