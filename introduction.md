@@ -4,4 +4,12 @@ i am miles07
 
 i just created this file
 
-my favorite path would be JavaScript. Electives is cool too.
+my favorite skills would be JavaScript.
+
+deadly skills: 
+
+* Git 
+* JS
+* Angular
+* PHP
+* Java
