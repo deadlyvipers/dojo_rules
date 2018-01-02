@@ -4,3 +4,4 @@ JavaScript
 
 * foo
 * bar
+* Killing history using git rebase
