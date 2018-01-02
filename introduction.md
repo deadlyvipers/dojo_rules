@@ -1,1 +1,3 @@
 yo
+
+favorite path: git
