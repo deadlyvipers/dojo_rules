@@ -8,3 +8,4 @@ Dead skill:
 * JavaScript
 * Ruby
 * PHP
+* Killing history using git rebase
