@@ -1,1 +1,1 @@
-I like JavaScript.
+*I like JavaScript.
