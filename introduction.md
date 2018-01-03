@@ -1,1 +1,4 @@
-* introduction.md
+* Git
+* Javascript
+* Ruby 
+introduction.md
