@@ -2,4 +2,6 @@ yo
 
 favorite path: git
 
-skillz: git, js
+skillz: 
+* git
+* js
