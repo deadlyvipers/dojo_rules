@@ -1,2 +1,2 @@
 Hello, welcome to the Dojo!
-My favorite path is GIT.
+My favorite path is GIT and JavaScript.
