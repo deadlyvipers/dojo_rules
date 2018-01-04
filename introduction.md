@@ -5,3 +5,4 @@ My deadly skill is:
 * Git
 * Javascript 
 * Mendix
+* Killing history using git rebase
