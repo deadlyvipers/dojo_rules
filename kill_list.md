@@ -5,3 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* Tabs instead of spaces
+* omg...
+* third time's a charm
+* works??
