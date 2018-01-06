@@ -5,4 +5,4 @@ deadly skils:
 * JavaScript
 * MEAN
 * Perl
-
+* Killing history using git rebase
