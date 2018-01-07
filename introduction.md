@@ -1,0 +1,3 @@
+daniel
+
+Code school: javascript
