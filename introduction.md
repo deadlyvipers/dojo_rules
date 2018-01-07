@@ -7,4 +7,4 @@ favorite course would be JavaScript
 deadly skills include:
 * Git
 * JavaScript
-* Killing history using git 
+* Killing history using git rebase
