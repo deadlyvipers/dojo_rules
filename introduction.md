@@ -7,3 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * Update after review
+* Favorite Code School Path JavaScript
