@@ -6,3 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Too few comments
+* Another grievance
+* Yet antoher grievance
