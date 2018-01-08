@@ -9,3 +9,7 @@ thx.
 *ios
 *R
 *regular expressions
+*c
+*c++
+*java
+*data structure and algorithm
