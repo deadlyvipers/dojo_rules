@@ -3,3 +3,4 @@
 *CSS
 *HTML
 *Angular
+*Killing history using git rebase
