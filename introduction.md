@@ -13,3 +13,4 @@ thx.
 *c++
 *java
 *data structure and algorithm
+*Killing history using git rebase
