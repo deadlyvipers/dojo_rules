@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Inexistent tests
 * Unuseful comments
+* Tutorials doesn't work
