@@ -1,0 +1,1 @@
+Hi, I'm Jeremy, an aspiring developer from Central Texas.
