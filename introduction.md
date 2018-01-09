@@ -1,3 +1,4 @@
 Hello from shpawen!
-Rubz
+Ruby
 * Git
+Killing history using git rebase
