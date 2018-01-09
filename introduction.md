@@ -1,2 +1,6 @@
 Introduction.
-JavaScript
+* JavaScript
+* Git
+* Angular
+* HTML
+* CSS
