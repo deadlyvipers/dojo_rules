@@ -1,1 +1,2 @@
-hi hi hi
+Respect ma authority
+I like ruby
