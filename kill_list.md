@@ -6,3 +6,5 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 Java
+programmer grievance 
+
