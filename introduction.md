@@ -1,3 +1,3 @@
 #Introduction
 Hello World 
-Favourite course [try git](https://www.codeschool.com/courses/try-git)
+Favourite course [try ios](https://www.codeschool.com/courses/try-ios)
