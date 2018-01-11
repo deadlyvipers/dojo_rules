@@ -3,3 +3,4 @@ My favorite Code School path is Ruby!
 Deadly skills:
 *git
 *java
+*Killing history using git rebase
