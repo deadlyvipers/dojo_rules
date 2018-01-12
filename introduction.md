@@ -12,4 +12,4 @@
 * Git
 * Angular
 * RoR
-
+* Killing history using git rebase
