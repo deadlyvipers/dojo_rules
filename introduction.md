@@ -1,1 +1,1 @@
-Hey, I'm bcmoney
+Hey, I'm bcmoney and my favorite Code School path are the Electives.
