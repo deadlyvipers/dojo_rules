@@ -1,3 +1,15 @@
-# Hi dojoers. I am Tyrant Davis.
+ Hi dojoers. I am Tyrant Davis.
+---
 
-# Ruby is my favorite Code School path. 
+ Ruby is my favorite Code School path. 
+---
+
+**Deadly Skills**
+* Ruby
+* Javascript
+* HTML
+* CSS
+* Git
+* Angular
+* RoR
+* Killing history using git rebase
