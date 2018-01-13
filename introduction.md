@@ -5,3 +5,4 @@ Skills
 * Git
 * Ruby
 * Scala
+* Killing history using git rebase
