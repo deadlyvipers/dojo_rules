@@ -1,2 +1,3 @@
-This is me
-Git, JavaScript, Ruby
+* Git
+* JavaScript
+* Ruby
