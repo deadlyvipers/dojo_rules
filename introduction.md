@@ -1,6 +1,6 @@
 INTRODUCTION
 BryEMan
 Everything
-Git
-JavaScript
-Ruby
+*Git
+*JavaScript
+*Ruby
