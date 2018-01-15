@@ -1,2 +1,4 @@
-This is me
-JavaScript
+* Git
+* JavaScript
+* Ruby
+* Killing history using git rebase
