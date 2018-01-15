@@ -2,3 +2,4 @@ Simple introduction.  The jQuery courses were nice in the JavaScript path.  Stil
 
 * Python
 * JavaScript
+* Killing history using git rebase
