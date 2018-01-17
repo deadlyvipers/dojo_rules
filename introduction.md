@@ -10,5 +10,6 @@ My favorite Code School path is Electives.
 * C#
 * Perl
 * Shell
+* Killing history using git rebase
 
 Thank you.
