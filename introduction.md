@@ -6,3 +6,4 @@ Electives
 * VB.Net
 * VB 6
 * Assembly language
+* Killing history using git rebase
