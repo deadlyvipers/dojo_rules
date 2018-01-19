@@ -6,3 +6,4 @@ My Skills are:
 * JAVASCRIPT
 * GIT
 * GITHUB
+* rebase
