@@ -1,2 +1,2 @@
 I am Lakshmi
-Favorite code school path-Java
+Favorite code school path-Javascript
