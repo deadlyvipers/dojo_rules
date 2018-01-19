@@ -4,4 +4,9 @@ This is Mehar, a Software Craftsman
 
 My favourite CodeSchool path is JavaScript
 
+My deadly skills
+* Git
+* Java
+* JavaScript
+
 -Mehar
