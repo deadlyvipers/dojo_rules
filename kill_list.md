@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Commits that are not granuler
+* Another rule to follow!
