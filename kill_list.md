@@ -8,3 +8,4 @@ Kill List
 * Lack of comments
 * Other stuff
 * And more stuff
+* And git shit right now!!
