@@ -1,2 +1,4 @@
-Hi My name is Kyle.
-My favourite code is JavaScript.
+*skills
+*No skills
+*JavaScripts
+*Java
