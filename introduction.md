@@ -9,3 +9,4 @@ My favorite codeschool path is JavaScript.
 * Cucumber
 * ReactJS
 * Elixir
+* Killing history using git rebase
