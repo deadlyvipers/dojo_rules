@@ -1,1 +1,14 @@
-deadly skills 2
+deadly skills
+* Angular
+* Backbone
+* CSS
+* Ember
+* Express
+* GitHub
+* IoT
+* JavaScript
+* NodeJS
+* PHP
+* React
+* SaaS
+* SASS
