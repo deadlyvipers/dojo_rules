@@ -1,2 +1,2 @@
 Hi, my name is Yevhen.
-I'll be learning JS frameworks.
+I'll be learning JavaScript frameworks.
