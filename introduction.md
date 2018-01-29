@@ -4,3 +4,4 @@ Skills -
 * Git
 * React
 * Spring 
+* Killing history using git rebase
