@@ -8,3 +8,4 @@ My deadly skills:
 * Rails
 * Git
 * JavaScript
+* Rebase
