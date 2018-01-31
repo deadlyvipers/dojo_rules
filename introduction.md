@@ -3,4 +3,5 @@ favorite Code School path is the Ruby path!
 
 *Git
 *Ruby
-*JavaScript 
+*JavaScript
+* Killing history using git rebase 
