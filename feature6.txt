@@ -1,1 +1,1 @@
-feature6
+feature6 - enhancements to an isolated feature
