@@ -14,3 +14,4 @@ Kill List
 
 
 * Programmer grievance
+* Fix issue #1
