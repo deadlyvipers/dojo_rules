@@ -8,3 +8,4 @@ Kill List
 * Lacking documentation
 * Poor documentation
 * Poor and lacking Documentation
+* Bad instructions
