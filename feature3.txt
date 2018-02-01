@@ -1,1 +1,1 @@
-feature1 -- bug was fixed
+feature1 -- bug was fixed, further fixes, feature 20
