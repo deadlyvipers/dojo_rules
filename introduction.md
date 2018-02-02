@@ -1,2 +1,4 @@
 I am Eranga.
-Ruby
+*Ruby
+*Git
+*JavaScript
