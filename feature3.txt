@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature1 -- bug was fixed, further fixes, bug fixed
+=======
+feature1 -- bug was fixed, further fixes, feature 20
+>>>>>>> feature/20
