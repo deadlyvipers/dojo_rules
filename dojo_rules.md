@@ -5,4 +5,7 @@ Dojo Rules
 * Keep the dojo tidy
 * Never bring live blades on the tatami
 * Respect your opponents
-* Most Sensei's should be respected
+* Respect your Sensei
+* Edited directly in GitHub
+* THIS WAS CREATED IN A BRANCH
+* ez egy újabb sor
