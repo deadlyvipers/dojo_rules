@@ -6,5 +6,4 @@ Dojo Rules
 * Never bring live blades on the tatami
 * Respect your opponents
 * Most Sensei's should be respected
-* Kill all the butterfies.
-* Drink some coffee
+* Favorite path : JavaScript!
