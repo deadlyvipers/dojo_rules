@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body
+{
+background:linear-gradient(to left,#7cfc00,#00bfff);
+text-align:center;
+}
+.s1
+{
+width:25%;
+padding:10px;
+height:1000px;
+border:2px;
+font-style:bold;
+}
+nav ul
+{
+list-style-type:none;
+padding:20px;
+}
+nav ul li
+{
+border-bottom:3px solid black;
+text-align:center;
+padding:20px;
+margin:40px 0 40px 0;
+}
+nav ul li a
+{
+text-decoration:none;
+color:white;
+}
+
+nav ul li:nth-of-type(2n)
+{
+background:linear-gradient(to left,red,yellow);
+}
+nav ul li:nth-of-type(2n+1)
+{
+background:linear-gradient(to left,#00bfff,#7cfc00);
+}
+nav ul li:hover  
+{
+background:white;
+}
+nav ul li a:hover
+{
+color:black;
+}
+footer
+{
+position:relative;
+bottom:0;
+}
+.main
+{
+
+}
+.main .s2{
+width:920px;
+height:auto;
+position:absolute;
+left:400px;
+top:50px;
+overflow:visible;
+}
+.main .s2 .his img
+{
+float:left;
+}
+.main .s2 .his 
+{
+display:inline;
+}
+.s2 img
+{
+opacity:0.55;
+}
+</style>
+</head>
+<body>
+<div class="main">
+<section class="s1">
+<header>
+<h1>Rose Systems</h1>
+</header>
+<nav>
+<ul>
+<li><a href="">Home</a></li>
+<li><a href="">Gallery</a></li>
+<li><a href="">About</a></li>
+<li><a href="">Contact</a></li>
+</ul>
+</nav>
+<footer>
+<p>copy write</p>
+</footer>
+</section>
+<section class="s2">
+<img src="fr.jpg" width="900px" height="550px"></img>
+</section>
+</div>
+</body>
+</html>
