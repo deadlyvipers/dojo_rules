@@ -3,3 +3,4 @@ Skills:
  * Git
  * JavaScript
  * Ruby
+Fix issue #2
