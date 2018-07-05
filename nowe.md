@@ -1,3 +1,3 @@
 
 nowy plik
-
+edycja
