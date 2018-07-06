@@ -1,3 +1,1 @@
-Dojo Rules
-==========
-przeczytaj to !!!
+it must to be read
