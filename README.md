@@ -1,3 +1,3 @@
 Dojo Rules
 ==========
-przeczytaj to !!!
+read it
