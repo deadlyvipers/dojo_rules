@@ -7,6 +7,7 @@ The code, itself, is unchanged, but its vector has done so, completely.
 The original videos are now hosted on Pluralsight (https://app.pluralsight.com/library/search?q=code%20school), so one <i>can</i> finish projects they had started over at Code School.
 
 ###########################
+
 Original README markdown:
 
 Dojo Rules
