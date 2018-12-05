@@ -1,3 +1,7 @@
+This repository was created for exercises in git and github from course at codeschool.com.
+
+Note: That webpage doesn't exist anymore. What a pity!
+
 Dojo Rules
 ==========
 
