@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 Dojo Rules
 ==========
-
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+read it
+=======
+it must to be read
+>>>>>>> inny
