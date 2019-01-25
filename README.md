@@ -1,3 +1,5 @@
+Note: This originated from a code school (now Pluralsight) course on Git. 
+
 Dojo Rules
 ==========
 
