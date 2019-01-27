@@ -1,10 +1,4 @@
-Note: This originated from a code school (now Pluralsight) course on Git. 
+# learning_git
+Lessons used while learning Git. 
 
-Dojo Rules
-==========
-
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
-All members should read the rules
-
-[Deadly Vipers Organization](https://github.com/deadlyvipers)
+dojo_rules: From codeschool.com (now Pluralsight), Taken in 2017. 
