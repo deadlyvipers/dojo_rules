@@ -1,0 +1,27 @@
+
+
+<button id="post-btn">I'm a button</button>
+
+<form action="" method="post">
+    <input type="submit" name="upvote" value="Upvote" />
+</form>
+
+<script type="text/javascript">
+document.write("JavaScript is a simple language for javatpoint learners");
+
+  const button = document.getElementById('post-btn');
+
+button.addEventListener('click', async _ => {
+  try {
+    const response = await fetch('', {
+      method: 'post',
+      body: {
+        // Your body
+      }
+    });
+    console.log('Completed!', response);
+  } catch(err) {
+    console.error(`Error: ${err}`);
+  }
+});
+</script>
