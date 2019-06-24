@@ -1,29 +1,17 @@
-
-
-<button id="post-btn">I'm a button</button>
-
-<form action="https://hooks.slack.com/services/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" method="post">
-    <input type="submit" name="upvote" value="Upvote" />
-</form>
-
-<script type="text/javascript">
-document.write("JavaScript is a simple language for javatpoint learners");
-
-  const button = document.getElementById('post-btn');
-
-button.addEventListener('click', async _ => {
-  try {
-    const response = await fetch('', {
-      method: 'post',
-      body: {
-        Content-type: application/json
-        {
-            "text": "Hello, world."
-        }      }
-            });
-    console.log('Completed!', response);
-  } catch(err) {
-    console.error(`Error: ${err}`);
-  }
-});
-</script>
+conn = net.createConnection(net.TCP, 0)
+json='{"request":"give me some response"}'
+req = "POST /post"                      
+        .." HTTP/1.1\r\n" 
+        .."Host: httpbin.org\r\n" 
+        .."Connection: close\r\n"
+        .."Accept: */*\r\n" 
+        .."User-Agent: Mozilla/4.0 (compatible; esp8266 Lua; Windows NT 5.1)\r\n" 
+        .."Content-Type: application/json\r\n"
+        .."Content-Length: "..string.len(json).."\r\n"
+        .."\r\n"
+        ..json.."\r\n"
+conn:on("receive", function(sck, payload) print(payload) end)
+conn:on("connection", function(sck)
+  sck:send(req)end)
+conn:connect(80, "httpbin.org")
+print(req);
