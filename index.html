@@ -2,7 +2,7 @@
 
 <button id="post-btn">I'm a button</button>
 
-<form action="" method="post">
+<form action="https://hooks.slack.com/services/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" method="post">
     <input type="submit" name="upvote" value="Upvote" />
 </form>
 
@@ -16,9 +16,11 @@ button.addEventListener('click', async _ => {
     const response = await fetch('', {
       method: 'post',
       body: {
-        // Your body
-      }
-    });
+        Content-type: application/json
+        {
+            "text": "Hello, world."
+        }      }
+            });
     console.log('Completed!', response);
   } catch(err) {
     console.error(`Error: ${err}`);
