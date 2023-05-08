@@ -12,7 +12,7 @@ on:
         # Default value if no value is explicitly provided
         default: 'World'
         # Input has to be provided for the workflow to run
-        required: true
+        required: false
         # The data type of the input
         type: string
 
@@ -29,4 +29,9 @@ jobs:
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }} - ${{ secrets.GITHUB_TOKEN }}"
     - name: Get the code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3 
+    - name: PrintEnv
+      run: env
+    - name: print git details
+      run: echo "${{github.ref}}, ${{github.event_name}}"
+    
