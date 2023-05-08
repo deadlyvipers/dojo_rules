@@ -28,3 +28,5 @@ jobs:
     # Runs a single command using the runners shell
     - name: Send greeting
       run: echo "Hello ${{ inputs.name }} - ${{ secrets.GITHUB_TOKEN }}"
+    - name: Get the code
+      uses: actions/checkout@v3
