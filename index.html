@@ -1,0 +1,7 @@
+function postToWebhook(data, coinName) {
+    rest.post('https://hooks.slack.com/services/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', {
+        data: JSON.stringify(hello)
+    }).on('complete', function(data, response) {
+        // console.log(response);
+    });
+}
