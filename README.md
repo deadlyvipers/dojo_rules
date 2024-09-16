@@ -1,5 +1,4 @@
-Dojo Rules
-==========
+# learning_git
+Lessons used while learning Git. 
 
-This repository contains a list of dojo rules for the Deadly Vipers dojo
-
+dojo_rules: Project from codeschool.com Git class (now Pluralsight), Taken in 2017. 
